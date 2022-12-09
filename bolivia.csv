@@ -1,0 +1,694 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Bolivia,eCommerce,Revenue,Total,million USD (US$),Statista,735.9,864,"1,011","1,397","1,750","1,794","2,291","2,714","3,221","3,508","3,843"
+Bolivia,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,99,115.7,133.5,162.9,195.4,208,258.8,302.8,351.4,381.3,415.3
+Bolivia,eCommerce,Revenue,Beverages,million USD (US$),Statista,20.79,26.31,32.76,51.22,73.37,82.43,102.1,121.7,146.8,161.2,177.7
+Bolivia,eCommerce,Revenue,Electronics,million USD (US$),Statista,367.4,424.2,486.1,659,773.4,750.8,975.5,"1,145","1,338","1,452","1,583"
+Bolivia,eCommerce,Revenue,Fashion,million USD (US$),Statista,119.1,140.2,165,229.1,302.3,309.3,372.3,430.2,501,544,592.4
+Bolivia,eCommerce,Revenue,Food,million USD (US$),Statista,43.7,54.7,68.28,122,181.7,214.1,288.5,373.3,487.5,537,600.4
+Bolivia,eCommerce,Revenue,Furniture,million USD (US$),Statista,47.27,55.26,66.4,84.3,107.1,103.4,140.6,166.8,197.3,215,235.6
+Bolivia,eCommerce,Revenue,Media,million USD (US$),Statista,4.476,7.012,9.739,15.62,20.13,22.06,26.37,28.93,31.28,34.3,37.04
+Bolivia,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,34.14,40.6,49.49,72.46,96.16,103.9,127,145.7,167.8,183.9,201.2
+Bolivia,eCommerce,Revenue Change,Total,percent,Statista,,17.407,17.014,38.18,25.268,2.514,27.703,18.464,18.681,8.91,9.55
+Bolivia,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,16.869,15.385,22.022,19.951,6.448,24.423,17.002,16.05,8.509,8.917
+Bolivia,eCommerce,Revenue Change,Beverages,percent,Statista,,26.551,24.515,56.349,43.245,12.348,23.863,19.197,20.624,9.809,10.236
+Bolivia,eCommerce,Revenue Change,Electronics,percent,Statista,,15.46,14.592,35.569,17.36,-2.922,29.928,17.376,16.856,8.52,9.022
+Bolivia,eCommerce,Revenue Change,Fashion,percent,Statista,,17.716,17.689,38.848,31.951,2.316,20.369,15.552,16.457,8.583,8.897
+Bolivia,eCommerce,Revenue Change,Food,percent,Statista,,25.172,24.826,78.676,48.934,17.832,34.75,29.393,30.592,10.154,11.806
+Bolivia,eCommerce,Revenue Change,Furniture,percent,Statista,,16.903,20.159,26.958,27.046,-3.455,35.977,18.634,18.285,8.971,9.581
+Bolivia,eCommerce,Revenue Change,Media,percent,Statista,,56.658,38.89,60.386,28.873,9.588,19.538,9.708,8.123,9.655,7.988
+Bolivia,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,18.922,21.897,46.413,32.708,8.049,22.233,14.724,15.168,9.595,9.407
+Bolivia,eCommerce,Average Revenue per User,Total,USD (US$),Statista,423.2,409.6,383,459.5,504,460.6,538.4,599.2,669.5,687.3,715.2
+Bolivia,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,133.1,131.6,131.3,137.7,145.3,137.7,155.1,166.9,179.3,180.6,183.7
+Bolivia,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,58.84,59.73,60.18,77.53,92.12,87.28,93.96,100.2,109,109.5,111.2
+Bolivia,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,356.9,336.8,319.8,361.3,359,301.6,346.9,369.1,394,393.2,397.2
+Bolivia,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,106.3,106.6,108.6,129.8,148.6,133.3,143.5,151.1,161.4,162.3,164.5
+Bolivia,eCommerce,Average Revenue per User,Food,USD (US$),Statista,131.5,132.1,133.4,196.4,242.6,241,282.4,326.7,384.9,388,399.7
+Bolivia,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,124.8,111.3,102.2,101.8,102,79.58,90.56,93.87,98.36,97.24,97.3
+Bolivia,eCommerce,Average Revenue per User,Media,USD (US$),Statista,7.232,8.646,9.531,12.28,12.77,11.6,11.79,11.4,10.99,10.97,10.86
+Bolivia,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,48.87,45.22,43.24,50.68,54.03,48.01,50.08,50.85,52.38,52.24,52.38
+Bolivia,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,eCommerce,Online & Offline Split,Offline,percent,Statista,95.923,95.464,94.903,93.356,91.997,91.397,90.523,89.398,88.09,,
+Bolivia,eCommerce,Online & Offline Split,Online,percent,Statista,4.077,4.536,5.097,6.644,8.003,8.603,9.477,10.602,11.91,,
+Bolivia,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,63.237,61.586,60.767,60.013,59.509,59.072,58.696,58.337,58.029,,
+Bolivia,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,36.763,38.414,39.233,39.987,40.491,40.928,41.304,41.663,41.971,,
+Bolivia,eCommerce,Users,Total,million users,Statista,1.739,2.109,2.64,3.04,3.471,3.895,4.255,4.53,4.81,5.105,5.373
+Bolivia,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,0.744,0.879,1.016,1.183,1.344,1.511,1.668,1.814,1.96,2.111,2.261
+Bolivia,eCommerce,Users,Beverages,million users,Statista,0.353,0.44,0.544,0.661,0.797,0.944,1.086,1.215,1.347,1.472,1.598
+Bolivia,eCommerce,Users,Electronics,million users,Statista,1.03,1.259,1.52,1.824,2.154,2.489,2.812,3.102,3.395,3.692,3.986
+Bolivia,eCommerce,Users,Fashion,million users,Statista,1.121,1.315,1.52,1.765,2.035,2.321,2.594,2.847,3.104,3.352,3.6
+Bolivia,eCommerce,Users,Food,million users,Statista,0.332,0.414,0.512,0.621,0.749,0.888,1.022,1.143,1.267,1.384,1.502
+Bolivia,eCommerce,Users,Furniture,million users,Statista,0.379,0.497,0.65,0.828,1.05,1.299,1.553,1.777,2.005,2.211,2.422
+Bolivia,eCommerce,Users,Media,million users,Statista,0.619,0.811,1.022,1.272,1.576,1.901,2.237,2.538,2.846,3.126,3.411
+Bolivia,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.699,0.898,1.144,1.43,1.78,2.165,2.535,2.866,3.204,3.521,3.841
+Bolivia,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,6.643,7.742,8.828,10.136,11.361,12.595,13.729,14.733,15.721,16.724,17.688
+Bolivia,eCommerce,Penetration Rate,Beverages,percent,Statista,3.157,3.88,4.729,5.659,6.731,7.875,8.94,9.871,10.803,11.658,12.5
+Bolivia,eCommerce,Penetration Rate,eCommerce,percent,Statista,15.536,18.579,22.935,26.04,29.337,32.479,35.019,36.798,38.581,40.432,42.039
+Bolivia,eCommerce,Penetration Rate,Electronics,percent,Statista,9.198,11.091,13.205,15.626,18.205,20.755,23.144,25.197,27.23,29.24,31.185
+Bolivia,eCommerce,Penetration Rate,Fashion,percent,Statista,10.014,11.582,13.2,15.119,17.197,19.351,21.348,23.123,24.896,26.549,28.17
+Bolivia,eCommerce,Penetration Rate,Food,percent,Statista,2.968,3.648,4.446,5.321,6.329,7.405,8.406,9.282,10.158,10.962,11.753
+Bolivia,eCommerce,Penetration Rate,Furniture,percent,Statista,3.384,4.374,5.644,7.095,8.871,10.83,12.779,14.431,16.084,17.515,18.948
+Bolivia,eCommerce,Penetration Rate,Media,percent,Statista,5.53,7.143,8.875,10.896,13.32,15.855,18.412,20.619,22.827,24.758,26.686
+Bolivia,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,6.242,7.908,9.94,12.248,15.04,18.052,20.864,23.283,25.7,27.888,30.053
+Bolivia,Electronics,Revenue,Total,billion USD (US$),Statista,0.367,0.424,0.486,0.659,0.773,0.751,0.976,1.145,1.338,1.452,1.583
+Bolivia,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.302,0.351,0.4,0.541,0.622,0.588,0.769,0.895,1.033,1.119,1.217
+Bolivia,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.065,0.073,0.087,0.118,0.152,0.163,0.207,0.25,0.305,0.332,0.366
+Bolivia,Electronics,Revenue Change,Total,percent,Statista,,15.46,14.592,35.569,17.36,-2.922,29.928,17.376,16.856,8.52,9.022
+Bolivia,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,15.967,13.883,35.344,14.944,-5.438,30.781,16.458,15.406,8.325,8.758
+Bolivia,Electronics,Revenue Change,Household Appliances,percent,Statista,,13.02,18.16,36.495,28.402,7.373,26.855,20.686,22.147,8.984,10.018
+Bolivia,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,356.9,336.8,319.8,361.3,359,301.6,346.9,369.1,394,393.2,397.2
+Bolivia,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,279.4,278,276.7,325.7,332.7,284.7,342.6,370.6,398.5,404,413.4
+Bolivia,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,113.2,96.99,87.12,92.68,93.27,80.81,85.38,89.9,97.09,95.89,96.28
+Bolivia,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,Electronics,Online & Offline Split,Offline,percent,Statista,83.078,81.385,79.697,75.566,73.121,69.509,66.855,63.524,60.113,,
+Bolivia,Electronics,Online & Offline Split,Online,percent,Statista,16.922,18.615,20.303,24.434,26.879,30.491,33.145,36.476,39.887,,
+Bolivia,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,57.397,55.792,54.671,53.811,53.196,52.771,52.475,52.271,52.131,,
+Bolivia,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,42.603,44.208,45.329,46.189,46.804,47.229,47.525,47.729,47.869,,
+Bolivia,Electronics,Users by Segment,Total,million users,Statista,1.03,1.259,1.52,1.824,2.154,2.489,2.812,3.102,3.395,3.692,3.986
+Bolivia,Electronics,Users by Segment,Consumer Electronics,million users,Statista,1.083,1.262,1.443,1.66,1.868,2.064,2.244,2.416,2.591,2.77,2.945
+Bolivia,Electronics,Users by Segment,Household Appliances,million users,Statista,0.573,0.756,0.995,1.277,1.629,2.018,2.423,2.778,3.141,3.466,3.799
+Bolivia,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,9.672,11.116,12.537,14.22,15.787,17.21,18.463,19.622,20.782,21.939,23.039
+Bolivia,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,9.198,11.091,13.205,15.626,18.205,20.755,23.144,25.197,27.23,29.24,31.185
+Bolivia,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,5.121,6.661,8.641,10.938,13.764,16.831,19.941,22.565,25.191,27.453,29.721
+Bolivia,Consumer Electronics,Revenue,Total,million USD (US$),Statista,302.5,350.8,399.5,540.7,621.5,587.7,768.6,895.1,"1,033","1,119","1,217"
+Bolivia,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,53.35,61.95,71.62,93.04,109.7,100.4,130.6,149.4,171.3,185.2,200.8
+Bolivia,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,110.4,128,145.7,196.6,225.3,213.1,278.7,324.6,374.4,405.7,441.3
+Bolivia,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,86.84,100.7,112.7,156.8,171.8,170.3,225.2,268.8,313.1,340,371.1
+Bolivia,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,50.28,58.17,67.22,91.42,112.1,101.9,132.1,150.6,172.5,186.9,203
+Bolivia,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,1.689,1.929,2.178,2.863,2.641,2.027,2.041,1.708,1.331,1.308,1.229
+Bolivia,Consumer Electronics,Revenue Change,Total,percent,Statista,,15.967,13.883,35.344,14.944,-5.438,30.781,16.458,15.406,8.325,8.758
+Bolivia,Consumer Electronics,Revenue Change,Computing,percent,Statista,,16.12,15.609,29.908,17.906,-8.478,30.08,14.395,14.659,8.114,8.423
+Bolivia,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,15.942,13.828,34.935,14.598,-5.415,30.784,16.469,15.342,8.36,8.775
+Bolivia,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,15.96,11.917,39.13,9.566,-0.873,32.237,19.361,16.481,8.592,9.147
+Bolivia,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,15.692,15.558,36.001,22.621,-9.099,29.637,14.005,14.542,8.348,8.614
+Bolivia,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,14.21,12.908,31.451,-7.754,-23.249,0.691,-16.316,-22.073,-1.728,-6.04
+Bolivia,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,279.4,278,276.7,325.7,332.7,284.7,342.6,370.6,398.5,404,413.4
+Bolivia,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,70.4,70.12,70.88,80.08,83.88,69.51,83.14,88.35,94.46,95.5,97.43
+Bolivia,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,127.4,126.8,126.2,148,150.8,129,155.3,168,180.6,183.1,187.3
+Bolivia,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,100.3,99.78,97.61,118.1,115,103.1,125.5,139.1,151,153.4,157.5
+Bolivia,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,116.1,115.2,116.4,137.7,150,123.4,147.2,155.9,166.4,168.7,172.3
+Bolivia,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,5.199,5.095,5.029,5.749,4.712,3.273,3.032,2.356,1.712,1.574,1.392
+Bolivia,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Bolivia,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Bolivia,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,78.368,76.266,74.419,68.128,66.04,62.862,60.58,57.492,54.348,,
+Bolivia,Consumer Electronics,Online & Offline Split,Online,percent,Statista,21.632,23.734,25.581,31.872,33.96,37.138,39.42,42.508,45.652,,
+Bolivia,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,57.581,55.976,54.854,53.987,53.383,52.946,52.65,52.444,52.304,,
+Bolivia,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,42.419,44.024,45.146,46.013,46.617,47.054,47.35,47.556,47.696,,
+Bolivia,Consumer Electronics,Users,Total,million users,Statista,1.083,1.262,1.443,1.66,1.868,2.064,2.244,2.416,2.591,2.77,2.945
+Bolivia,Consumer Electronics,Users,Computing,million users,Statista,0.758,0.883,1.01,1.162,1.308,1.445,1.571,1.691,1.814,1.939,2.061
+Bolivia,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,0.866,1.01,1.155,1.328,1.494,1.651,1.795,1.932,2.073,2.216,2.356
+Bolivia,Consumer Electronics,Users,Telephony,million users,Statista,0.866,1.01,1.155,1.328,1.494,1.651,1.795,1.932,2.073,2.216,2.356
+Bolivia,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.433,0.505,0.577,0.664,0.747,0.826,0.897,0.966,1.036,1.108,1.178
+Bolivia,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.325,0.379,0.433,0.498,0.56,0.619,0.673,0.725,0.777,0.831,0.883
+Bolivia,Consumer Electronics,Penetration Rate,Computing,percent,Statista,6.77,7.781,8.776,9.954,11.051,12.047,12.924,13.735,14.547,15.358,16.127
+Bolivia,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,9.672,11.116,12.537,14.22,15.787,17.21,18.463,19.622,20.782,21.939,23.039
+Bolivia,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,7.738,8.893,10.03,11.376,12.63,13.768,14.771,15.697,16.625,17.552,18.431
+Bolivia,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,7.738,8.893,10.03,11.376,12.63,13.768,14.771,15.697,16.625,17.552,18.431
+Bolivia,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,3.869,4.446,5.015,5.688,6.315,6.884,7.385,7.849,8.313,8.776,9.216
+Bolivia,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,2.902,3.335,3.761,4.266,4.736,5.163,5.539,5.887,6.234,6.582,6.912
+Bolivia,Household Appliances,Revenue,Total,million USD (US$),Statista,64.9,73.35,86.67,118.3,151.9,163.1,206.9,249.7,305,332.4,365.7
+Bolivia,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,31.87,36.01,42.55,58.13,73.74,79.82,100.9,121.4,148.3,161.6,177.7
+Bolivia,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,14.73,16.65,19.67,26.86,34.48,37.03,46.97,56.69,69.22,75.45,83.02
+Bolivia,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,18.3,20.68,24.44,33.34,43.68,46.26,59.06,71.69,87.43,95.36,105
+Bolivia,Household Appliances,Revenue Change,Total,percent,Statista,,13.02,18.16,36.495,28.402,7.373,26.855,20.686,22.147,8.984,10.018
+Bolivia,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,12.99,18.162,36.616,26.854,8.245,26.409,20.317,22.158,8.968,9.963
+Bolivia,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,13.035,18.138,36.553,28.369,7.396,26.843,20.694,22.103,9,10.033
+Bolivia,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,13.005,18.182,36.416,31.014,5.907,27.67,21.385,21.956,9.07,10.109
+Bolivia,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,113.2,96.99,87.12,92.68,93.27,80.81,85.38,89.9,97.09,95.89,96.28
+Bolivia,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,139,119.1,106.9,113.8,113.2,98.86,104.1,109.2,118,116.5,117
+Bolivia,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,128.5,110.1,98.88,105.2,105.9,91.72,96.91,102,110.2,108.8,109.3
+Bolivia,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,39.9,34.19,30.71,32.64,33.53,28.65,30.47,32.26,34.8,34.39,34.55
+Bolivia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Bolivia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Bolivia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Bolivia,Household Appliances,Online & Offline Split,Offline,percent,Statista,91.601,90.837,89.593,88.175,85.496,82.493,79.617,76.263,72.501,,
+Bolivia,Household Appliances,Online & Offline Split,Online,percent,Statista,8.399,9.163,10.407,11.825,14.504,17.507,20.383,23.737,27.499,,
+Bolivia,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Household Appliances,Users,Total,million users,Statista,0.573,0.756,0.995,1.277,1.629,2.018,2.423,2.778,3.141,3.466,3.799
+Bolivia,Household Appliances,Users,Major Appliances,million users,Statista,0.229,0.302,0.398,0.511,0.651,0.807,0.969,1.111,1.256,1.386,1.519
+Bolivia,Household Appliances,Users,Other Household Appliances,million users,Statista,0.115,0.151,0.199,0.255,0.326,0.404,0.485,0.556,0.628,0.693,0.76
+Bolivia,Household Appliances,Users,Small Appliances,million users,Statista,0.459,0.605,0.796,1.021,1.303,1.615,1.939,2.222,2.513,2.773,3.039
+Bolivia,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,5.121,6.661,8.641,10.938,13.764,16.831,19.941,22.565,25.191,27.453,29.721
+Bolivia,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,2.049,2.664,3.456,4.375,5.505,6.732,7.976,9.026,10.076,10.981,11.889
+Bolivia,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,1.024,1.332,1.728,2.188,2.753,3.366,3.988,4.513,5.038,5.491,5.945
+Bolivia,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,4.097,5.329,6.913,8.751,11.011,13.464,15.953,18.052,20.153,21.962,23.777
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,99,115.7,133.5,162.9,195.4,208,258.8,302.8,351.4,381.3,415.3
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,23.29,27.33,31.59,39.18,48.46,50.47,60.08,67.01,76.08,82.36,89.18
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.302,0.293,0.304,0.31,0.338,0.366,0.563,1.371,2.373,2.536,2.886
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,10.04,10.5,10.99,12.34,14.71,19.75,34.63,52.01,66.03,73.02,81.87
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,65.37,77.6,90.57,111.1,131.9,137.4,163.5,182.4,206.9,223.4,241.4
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,16.869,15.385,22.022,19.951,6.448,24.423,17.002,16.05,8.509,8.917
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,17.347,15.587,24.027,23.686,4.148,19.041,11.535,13.535,8.254,8.281
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,-3.109,3.824,1.907,9.164,8.247,53.659,143.647,73.085,6.869,13.801
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,4.582,4.667,12.284,19.206,34.262,75.342,50.188,26.956,10.586,12.12
+Bolivia,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,18.709,16.714,22.668,18.722,4.17,18.996,11.56,13.432,7.975,8.057
+Bolivia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,133.1,131.6,131.3,137.7,145.3,137.7,155.1,166.9,179.3,180.6,183.7
+Bolivia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,44.75,44.41,44.4,47.3,51.5,47.73,51.44,52.78,55.45,55.72,56.36
+Bolivia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,0.635,0.521,0.468,0.409,0.393,0.379,0.527,1.181,1.892,1.876,1.995
+Bolivia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,35.52,31.43,28.46,27.45,28.79,34.42,54.62,75.46,88.65,91.01,95.3
+Bolivia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,141.8,142.4,143.7,151.4,158.2,146.7,158.1,162.2,170.3,170.6,172.2
+Bolivia,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,91.423,90.342,89.267,86.517,84.867,83.966,82.299,80.262,78.132,,
+Bolivia,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,8.577,9.658,10.733,13.483,15.133,16.034,17.701,19.738,21.868,,
+Bolivia,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,58.571,56.911,55.694,54.804,54.137,53.725,53.517,53.39,53.19,,
+Bolivia,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,41.429,43.089,44.306,45.196,45.863,46.275,46.483,46.61,46.81,,
+Bolivia,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,0.744,0.879,1.016,1.183,1.344,1.511,1.668,1.814,1.96,2.111,2.261
+Bolivia,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.52,0.615,0.711,0.828,0.941,1.057,1.168,1.27,1.372,1.478,1.582
+Bolivia,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.476,0.563,0.65,0.757,0.86,0.967,1.068,1.161,1.255,1.351,1.447
+Bolivia,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.283,0.334,0.386,0.45,0.511,0.574,0.634,0.689,0.745,0.802,0.859
+Bolivia,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.461,0.545,0.63,0.734,0.833,0.937,1.034,1.125,1.215,1.309,1.402
+Bolivia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,6.643,7.742,8.828,10.136,11.361,12.595,13.729,14.733,15.721,16.724,17.688
+Bolivia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,4.65,5.42,6.18,7.095,7.953,8.817,9.61,10.313,11.005,11.707,12.381
+Bolivia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,4.252,4.955,5.65,6.487,7.271,8.061,8.786,9.429,10.061,10.703,11.32
+Bolivia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,2.524,2.942,3.355,3.852,4.317,4.786,5.217,5.598,5.974,6.355,6.721
+Bolivia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,4.119,4.8,5.473,6.284,7.044,7.809,8.512,9.134,9.747,10.369,10.966
+Bolivia,Personal Care,Revenue,Total,million USD (US$),Statista,65.37,77.6,90.57,111.1,131.9,137.4,163.5,182.4,206.9,223.4,241.4
+Bolivia,Personal Care,Revenue,Body Care,million USD (US$),Statista,11.19,13.33,15.55,19.03,21.44,22.53,27.03,30.3,34.56,37.28,40.32
+Bolivia,Personal Care,Revenue,Eye Care,million USD (US$),Statista,5.253,6.012,6.993,7.961,9.858,9.567,10.55,11.09,11.76,12.3,12.82
+Bolivia,Personal Care,Revenue,Hair Care,million USD (US$),Statista,10.03,12.08,14.25,17.67,20.61,21.74,26.18,29.49,33.8,36.58,39.67
+Bolivia,Personal Care,Revenue,Oral Care,million USD (US$),Statista,4.316,5.225,6.188,7.701,9.071,9.582,11.56,13.04,14.97,16.22,17.6
+Bolivia,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,18.74,22.49,26.42,32.59,37.54,39.53,47.55,53.47,61.17,66.13,71.65
+Bolivia,Personal Care,Revenue,Skin Care,million USD (US$),Statista,15.85,18.46,21.17,26.15,33.34,34.44,40.68,45,50.66,54.85,59.31
+Bolivia,Personal Care,Revenue Change,Total,percent,Statista,,18.709,16.714,22.668,18.722,4.17,18.996,11.56,13.432,7.975,8.057
+Bolivia,Personal Care,Revenue Change,Body Care,percent,Statista,,19.124,16.654,22.379,12.664,5.084,19.973,12.098,14.059,7.87,8.155
+Bolivia,Personal Care,Revenue Change,Eye Care,percent,Statista,,14.449,16.317,13.842,23.829,-2.952,10.275,5.118,6.041,4.592,4.228
+Bolivia,Personal Care,Revenue Change,Hair Care,percent,Statista,,20.439,17.964,24,16.638,5.483,20.423,12.643,14.615,8.225,8.447
+Bolivia,Personal Care,Revenue Change,Oral Care,percent,Statista,,21.061,18.431,24.451,17.79,5.633,20.643,12.803,14.801,8.35,8.508
+Bolivia,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,20.011,17.474,23.354,15.189,5.301,20.288,12.45,14.401,8.109,8.347
+Bolivia,Personal Care,Revenue Change,Skin Care,percent,Statista,,16.467,14.68,23.524,27.495,3.299,18.118,10.619,12.578,8.271,8.131
+Bolivia,Personal Care,Average Revenue per User,Total,USD (US$),Statista,141.8,142.4,143.7,151.4,158.2,146.7,158.1,162.2,170.3,170.6,172.2
+Bolivia,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,35.68,35.97,36.29,38.14,37.83,35.38,38.42,39.63,41.82,41.88,42.3
+Bolivia,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,22.79,22.06,22.19,21.71,23.66,20.43,20.4,19.72,19.35,18.8,18.29
+Bolivia,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,41.83,42.63,43.48,46.32,47.56,44.64,48.67,50.43,53.48,53.74,54.43
+Bolivia,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,19.11,19.56,20.04,21.42,22.21,20.88,22.8,23.66,25.14,25.28,25.63
+Bolivia,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,90.34,91.71,93.17,98.74,100.1,93.81,102.1,105.7,111.9,112.3,113.6
+Bolivia,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,78.14,77,76.33,81,90.9,83.59,89.38,90.95,94.74,95.22,96.17
+Bolivia,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,Personal Care,Online & Offline Split,Offline,percent,Statista,87.218,85.427,83.659,78.487,76.363,75.517,74.261,72.502,70.184,,
+Bolivia,Personal Care,Online & Offline Split,Online,percent,Statista,12.782,14.573,16.341,21.513,23.637,24.483,25.739,27.498,29.816,,
+Bolivia,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,56.485,54.862,53.775,52.957,52.383,51.992,51.734,51.568,51.465,,
+Bolivia,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,43.515,45.138,46.225,47.043,47.617,48.008,48.266,48.432,48.535,,
+Bolivia,Personal Care,Users,Total,million users,Statista,0.461,0.545,0.63,0.734,0.833,0.937,1.034,1.125,1.215,1.309,1.402
+Bolivia,Personal Care,Users,Body Care,million users,Statista,0.313,0.371,0.429,0.499,0.567,0.637,0.703,0.765,0.826,0.89,0.953
+Bolivia,Personal Care,Users,Eye Care,million users,Statista,0.23,0.272,0.315,0.367,0.417,0.468,0.517,0.562,0.608,0.655,0.701
+Bolivia,Personal Care,Users,Hair Care,million users,Statista,0.24,0.283,0.328,0.381,0.433,0.487,0.538,0.585,0.632,0.681,0.729
+Bolivia,Personal Care,Users,Oral Care,million users,Statista,0.226,0.267,0.309,0.359,0.408,0.459,0.507,0.551,0.595,0.641,0.687
+Bolivia,Personal Care,Users,Other Personal Care,million users,Statista,0.207,0.245,0.284,0.33,0.375,0.421,0.465,0.506,0.547,0.589,0.631
+Bolivia,Personal Care,Users,Skin Care,million users,Statista,0.203,0.24,0.277,0.323,0.367,0.412,0.455,0.495,0.535,0.576,0.617
+Bolivia,Personal Care,Penetration Rate,Body Care,percent,Statista,2.801,3.264,3.722,4.273,4.79,5.31,5.788,6.211,6.628,7.051,7.457
+Bolivia,Personal Care,Penetration Rate,Eye Care,percent,Statista,2.059,2.4,2.737,3.142,3.522,3.905,4.256,4.567,4.873,5.184,5.483
+Bolivia,Personal Care,Penetration Rate,Hair Care,percent,Statista,2.142,2.496,2.846,3.268,3.663,4.061,4.426,4.75,5.068,5.392,5.703
+Bolivia,Personal Care,Penetration Rate,Oral Care,percent,Statista,2.018,2.352,2.682,3.079,3.451,3.826,4.171,4.476,4.776,5.081,5.374
+Bolivia,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,1.853,2.16,2.463,2.828,3.17,3.514,3.83,4.11,4.386,4.666,4.935
+Bolivia,Personal Care,Penetration Rate,Personal Care,percent,Statista,4.119,4.8,5.473,6.284,7.044,7.809,8.512,9.134,9.747,10.369,10.966
+Bolivia,Personal Care,Penetration Rate,Skin Care,percent,Statista,1.812,2.112,2.408,2.765,3.099,3.436,3.745,4.019,4.289,4.562,4.825
+Bolivia,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,44.75,44.41,44.4,47.3,51.5,47.73,51.44,52.78,55.45,55.72,56.36
+Bolivia,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,25,24.38,24.05,25.55,27.22,25.23,27.21,27.97,29.45,29.53,29.84
+Bolivia,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,3.738,3.196,2.807,3.093,3.18,2.866,3.008,3.063,3.158,3.129,3.128
+Bolivia,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,100,101.7,103.5,110.3,122.2,113.4,122.4,125.4,131.7,132.7,134.4
+Bolivia,Beauty Care,Revenue,Total,million USD (US$),Statista,23.29,27.33,31.59,39.18,48.46,50.47,60.08,67.01,76.08,82.36,89.18
+Bolivia,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,9.108,10.5,11.98,14.81,17.93,18.67,22.24,24.86,28.29,30.56,33.06
+Bolivia,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,1.167,1.18,1.198,1.537,1.795,1.819,2.108,2.333,2.6,2.775,2.97
+Bolivia,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,13.01,15.64,18.42,22.83,28.74,29.98,35.73,39.81,45.19,49.03,53.15
+Bolivia,Beauty Care,Revenue Change,Total,percent,Statista,,17.347,15.587,24.027,23.686,4.148,19.041,11.535,13.535,8.254,8.281
+Bolivia,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,15.283,14.095,23.623,21.067,4.127,19.122,11.781,13.797,8.024,8.181
+Bolivia,Beauty Care,Revenue Change,Fragrances,percent,Statista,,1.114,1.525,28.297,16.786,1.337,15.888,10.674,11.444,6.731,7.027
+Bolivia,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,20.215,17.775,23.941,25.887,4.315,19.179,11.419,13.514,8.497,8.403
+Bolivia,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,Beauty Care,Online & Offline Split,Offline,percent,Statista,83.203,81.348,79.614,73.445,71.137,70.422,69.277,67.752,65.778,,
+Bolivia,Beauty Care,Online & Offline Split,Online,percent,Statista,16.797,18.652,20.386,26.555,28.863,29.578,30.723,32.248,34.222,,
+Bolivia,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.48,62.247,60.136,58.811,57.641,56.784,56.101,55.619,55.326,,
+Bolivia,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.52,37.753,39.864,41.189,42.359,43.216,43.899,44.381,44.674,,
+Bolivia,Beauty Care,Users by Segment,Total,million users,Statista,0.52,0.615,0.711,0.828,0.941,1.057,1.168,1.27,1.372,1.478,1.582
+Bolivia,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.364,0.431,0.498,0.58,0.659,0.74,0.817,0.889,0.96,1.035,1.108
+Bolivia,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.312,0.369,0.427,0.497,0.565,0.634,0.701,0.762,0.823,0.887,0.949
+Bolivia,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.13,0.154,0.178,0.207,0.235,0.264,0.292,0.317,0.343,0.37,0.396
+Bolivia,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,4.65,5.42,6.18,7.095,7.953,8.817,9.61,10.313,11.005,11.707,12.381
+Bolivia,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,3.255,3.794,4.326,4.967,5.567,6.172,6.727,7.219,7.703,8.195,8.667
+Bolivia,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,2.79,3.252,3.708,4.257,4.772,5.29,5.766,6.188,6.603,7.024,7.429
+Bolivia,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.163,1.355,1.545,1.774,1.988,2.204,2.402,2.578,2.751,2.927,3.095
+Bolivia,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,0.635,0.521,0.468,0.409,0.393,0.379,0.527,1.181,1.892,1.876,1.995
+Bolivia,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0.752,0.661,0.601,0.533,0.531,0.497,0.515,0.497,0.474,0.466,0.456
+Bolivia,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.362,0.319,0.284,0.24,0.222,0.193,0.247,0.698,1.098,1.09,1.16
+Bolivia,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.021,0.009,0.008,0.007,0.006,0.005,0.005,0.013,0.047,0.043,0.046
+Bolivia,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.021,0.029,0.029,0.037,0.043,0.085,0.25,0.533,0.796,0.811,0.871
+Bolivia,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.091,0.081,0.073,0.062,0.056,0.05,0.065,0.183,0.291,0.289,0.308
+Bolivia,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,0.82,0.671,0.602,0.528,0.508,0.49,0.683,1.522,2.438,2.42,2.575
+Bolivia,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,0.202,0.102,0.089,0.073,0.066,0.056,0.055,0.115,0.353,0.329,0.351
+Bolivia,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.075,0.07,0.062,0.053,0.049,0.043,0.063,0.306,0.531,0.528,0.568
+Bolivia,Health Care,Revenue,Total,thousand USD (US$),Statista,302.3,292.9,304.1,309.9,338.3,366.2,562.7,"1,371","2,373","2,536","2,886"
+Bolivia,Health Care,Revenue,Analgesics,thousand USD (US$),Statista,71.54,74.39,78.22,80.74,91.3,96.09,110,115.4,119,125.7,131.8
+Bolivia,Health Care,Revenue,Cold & Cough Remedies,thousand USD (US$),Statista,69,71.82,73.88,72.78,76.37,74.5,105.6,324,550.7,589.4,671.6
+Bolivia,Health Care,Revenue,Digestives & Intestinal Remedies,thousand USD (US$),Statista,2.929,1.513,1.547,1.514,1.578,1.528,1.653,4.509,17.55,17.58,20.18
+Bolivia,Health Care,Revenue,Hand Sanitizer,thousand USD (US$),Statista,4.004,6.568,7.516,11.28,14.96,32.95,106.8,247.6,399.3,438.5,503.9
+Bolivia,Health Care,Revenue,Incontinence,thousand USD (US$),Statista,8.692,9.109,9.437,9.409,9.694,9.715,13.78,42.48,73.02,78.12,89.08
+Bolivia,Health Care,Revenue,Other Health Care,thousand USD (US$),Statista,89.78,86.79,90.12,91.89,100.5,109,167.9,406.2,703.5,751.5,855.4
+Bolivia,Health Care,Revenue,Skin Treatment,thousand USD (US$),Statista,38.46,23.05,23.12,22.25,22.85,21.83,23.32,53.17,177.2,177.9,203.2
+Bolivia,Health Care,Revenue,Vitamins & Minerals,thousand USD (US$),Statista,17.88,19.69,20.3,20.04,21.08,20.59,33.71,177.5,333.2,357,411.1
+Bolivia,Health Care,Revenue Change,Total,percent,Statista,,-3.109,3.824,1.907,9.164,8.247,53.659,143.647,73.085,6.869,13.801
+Bolivia,Health Care,Revenue Change,Analgesics,percent,Statista,,3.984,5.149,3.222,13.079,5.246,14.476,4.909,3.12,5.63,4.853
+Bolivia,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,4.087,2.868,-1.489,4.933,-2.449,41.745,206.818,69.969,7.027,13.946
+Bolivia,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,-48.344,2.247,-2.133,4.227,-3.169,8.181,172.777,289.222,0.171,14.79
+Bolivia,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,64.036,14.434,50.08,32.624,120.254,224.127,131.835,61.268,9.817,14.914
+Bolivia,Health Care,Revenue Change,Incontinence,percent,Statista,,4.798,3.601,-0.297,3.029,0.217,41.843,208.273,71.893,6.984,14.03
+Bolivia,Health Care,Revenue Change,Other Health Care,percent,Statista,,-3.33,3.837,1.964,9.37,8.458,54.037,141.93,73.191,6.823,13.826
+Bolivia,Health Care,Revenue Change,Skin Treatment,percent,Statista,,-40.068,0.304,-3.763,2.697,-4.464,6.825,128.002,233.271,0.395,14.221
+Bolivia,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,10.123,3.098,-1.281,5.19,-2.324,63.72,426.55,87.718,7.143,15.154
+Bolivia,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,Health Care,Online & Offline Split,Offline,percent,Statista,99.661,99.681,99.679,99.673,99.658,99.62,99.466,98.74,97.888,,
+Bolivia,Health Care,Online & Offline Split,Online,percent,Statista,0.339,0.319,0.321,0.327,0.342,0.38,0.534,1.26,2.112,,
+Bolivia,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.009,65.222,62.322,59.501,57.035,54.78,51.95,49.359,47.383,,
+Bolivia,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.991,34.778,37.678,40.499,42.965,45.22,48.05,50.641,52.617,,
+Bolivia,Health Care,Users by Segment,Total,million users,Statista,0.476,0.563,0.65,0.757,0.86,0.967,1.068,1.161,1.255,1.351,1.447
+Bolivia,Health Care,Users by Segment,Analgesics,million users,Statista,0.095,0.113,0.13,0.151,0.172,0.193,0.214,0.232,0.251,0.27,0.289
+Bolivia,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.19,0.225,0.26,0.303,0.344,0.387,0.427,0.464,0.502,0.541,0.579
+Bolivia,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.143,0.169,0.195,0.227,0.258,0.29,0.32,0.348,0.376,0.405,0.434
+Bolivia,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.19,0.225,0.26,0.303,0.344,0.387,0.427,0.464,0.502,0.541,0.579
+Bolivia,Health Care,Users by Segment,Incontinence,million users,Statista,0.095,0.113,0.13,0.151,0.172,0.193,0.214,0.232,0.251,0.27,0.289
+Bolivia,Health Care,Users by Segment,Other Health Care,million users,Statista,0.109,0.129,0.15,0.174,0.198,0.222,0.246,0.267,0.289,0.311,0.332
+Bolivia,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.19,0.225,0.26,0.303,0.344,0.387,0.427,0.464,0.502,0.541,0.579
+Bolivia,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.238,0.281,0.325,0.379,0.43,0.483,0.534,0.58,0.627,0.676,0.723
+Bolivia,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,0.85,0.991,1.13,1.297,1.454,1.612,1.757,1.886,2.012,2.138,2.259
+Bolivia,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,1.701,1.982,2.26,2.595,2.908,3.224,3.515,3.772,4.025,4.281,4.528
+Bolivia,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,1.275,1.487,1.695,1.946,2.181,2.418,2.636,2.829,3.018,3.211,3.396
+Bolivia,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,1.701,1.982,2.26,2.595,2.908,3.224,3.515,3.772,4.025,4.281,4.528
+Bolivia,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,4.252,4.955,5.65,6.487,7.271,8.061,8.786,9.429,10.061,10.703,11.32
+Bolivia,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,0.85,0.991,1.13,1.297,1.454,1.612,1.757,1.886,2.012,2.138,2.259
+Bolivia,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,0.978,1.14,1.299,1.492,1.672,1.854,2.021,2.169,2.314,2.459,2.599
+Bolivia,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,1.701,1.982,2.26,2.595,2.908,3.224,3.515,3.772,4.025,4.281,4.528
+Bolivia,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,2.126,2.478,2.825,3.244,3.635,4.031,4.393,4.715,5.031,5.352,5.66
+Bolivia,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,35.52,31.43,28.46,27.45,28.79,34.42,54.62,75.46,88.65,91.01,95.3
+Bolivia,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,7.267,6.319,5.6,5.363,5.605,6.844,11.01,15.12,17.39,17.91,18.76
+Bolivia,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,7.599,6.699,6.018,5.944,6.385,7.912,12.68,17.35,20.04,20.65,21.62
+Bolivia,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,1.872,1.334,1.19,0.938,0.841,0.798,0.812,1.277,2.803,2.653,2.802
+Bolivia,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,21.94,19.24,17.18,15.95,16.06,19.23,31.58,44.5,51.91,53.37,55.93
+Bolivia,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,69.87,61.22,54.64,51.59,52.98,64.14,104.4,145.6,169.1,174.1,182.5
+Bolivia,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.332,0.295,0.267,0.22,0.2,0.188,0.234,0.454,0.641,0.639,0.673
+Bolivia,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,7.331,6.412,5.708,5.249,5.265,6.308,10.4,14.69,17.12,17.61,18.46
+Bolivia,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,6.178,6.492,6.961,8.366,10.42,11.55,15.15,18.95,23.95,24.41,25.61
+Bolivia,Household Care,Revenue,Total,million USD (US$),Statista,10.04,10.5,10.99,12.34,14.71,19.75,34.63,52.01,66.03,73.02,81.87
+Bolivia,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.862,0.886,0.908,1.013,1.203,1.65,2.931,4.375,5.44,6.032,6.757
+Bolivia,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.966,1.007,1.046,1.203,1.468,2.044,3.616,5.381,6.716,7.455,8.36
+Bolivia,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.122,0.102,0.106,0.097,0.099,0.105,0.118,0.202,0.48,0.489,0.552
+Bolivia,Household Care,Revenue,Laundry Care,million USD (US$),Statista,2.48,2.571,2.654,2.869,3.282,4.414,8.007,12.27,15.47,17.11,19.19
+Bolivia,Household Care,Revenue,Other Household Care,million USD (US$),Statista,4.343,4.499,4.642,5.103,5.955,8.1,14.57,22.08,27.71,30.69,34.4
+Bolivia,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.03,0.032,0.033,0.032,0.033,0.035,0.047,0.1,0.153,0.164,0.184
+Bolivia,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.621,0.642,0.661,0.708,0.807,1.086,1.978,3.036,3.827,4.234,4.746
+Bolivia,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.611,0.759,0.941,1.316,1.863,2.321,3.362,4.57,6.245,6.849,7.685
+Bolivia,Household Care,Revenue Change,Total,percent,Statista,,4.582,4.667,12.284,19.206,34.262,75.342,50.188,26.956,10.586,12.12
+Bolivia,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,2.783,2.482,11.515,18.756,37.157,77.636,49.266,24.343,10.882,12.019
+Bolivia,Household Care,Revenue Change,Household Cleaners,percent,Statista,,4.234,3.873,15.01,22.028,39.237,76.908,48.811,24.81,11.004,12.14
+Bolivia,Household Care,Revenue Change,Household Paper,percent,Statista,,-15.776,3.122,-8.25,1.856,6.702,12.334,70.946,137.253,1.833,12.904
+Bolivia,Household Care,Revenue Change,Laundry Care,percent,Statista,,3.669,3.228,8.101,14.395,34.491,81.4,53.241,26.08,10.601,12.157
+Bolivia,Household Care,Revenue Change,Other Household Care,percent,Statista,,3.592,3.178,9.931,16.696,36.02,79.877,51.544,25.498,10.754,12.089
+Bolivia,Household Care,Revenue Change,Paper Tissues,percent,Statista,,5.067,4.632,-4.154,3.448,5.505,37.536,110.959,52.747,7.129,12.637
+Bolivia,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,3.396,2.942,7.046,13.969,34.589,82.136,53.488,26.054,10.635,12.093
+Bolivia,Household Care,Revenue Change,Toilet Paper,percent,Statista,,24.206,23.995,39.851,41.565,24.584,44.851,35.931,36.652,9.672,12.206
+Bolivia,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Bolivia,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Bolivia,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Bolivia,Household Care,Online & Offline Split,Offline,percent,Statista,97.582,97.542,97.499,97.256,96.847,95.788,93.415,90.614,88.58,,
+Bolivia,Household Care,Online & Offline Split,Online,percent,Statista,2.418,2.458,2.501,2.744,3.153,4.212,6.585,9.386,11.42,,
+Bolivia,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,58.132,57.937,58.553,58.602,58.25,57.947,57.482,57.013,56.342,,
+Bolivia,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,41.868,42.063,41.447,41.398,41.75,42.053,42.518,42.987,43.658,,
+Bolivia,Household Care,Users by Segment,Total,million users,Statista,0.283,0.334,0.386,0.45,0.511,0.574,0.634,0.689,0.745,0.802,0.859
+Bolivia,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.119,0.14,0.162,0.189,0.215,0.241,0.266,0.289,0.313,0.337,0.36
+Bolivia,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.127,0.15,0.174,0.202,0.23,0.258,0.285,0.31,0.335,0.361,0.387
+Bolivia,Household Care,Users by Segment,Household Paper,million users,Statista,0.065,0.077,0.089,0.103,0.117,0.132,0.146,0.159,0.171,0.184,0.197
+Bolivia,Household Care,Users by Segment,Laundry Care,million users,Statista,0.113,0.134,0.154,0.18,0.204,0.23,0.254,0.276,0.298,0.321,0.343
+Bolivia,Household Care,Users by Segment,Other Household Care,million users,Statista,0.062,0.073,0.085,0.099,0.112,0.126,0.139,0.152,0.164,0.176,0.188
+Bolivia,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.09,0.107,0.124,0.144,0.163,0.184,0.203,0.221,0.238,0.256,0.274
+Bolivia,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.085,0.1,0.116,0.135,0.153,0.172,0.19,0.207,0.223,0.24,0.257
+Bolivia,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.099,0.117,0.135,0.157,0.179,0.201,0.222,0.241,0.261,0.281,0.3
+Bolivia,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.06,1.236,1.409,1.618,1.813,2.01,2.191,2.351,2.509,2.667,2.818
+Bolivia,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,2.524,2.942,3.355,3.852,4.317,4.786,5.217,5.598,5.974,6.355,6.721
+Bolivia,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,1.136,1.324,1.51,1.733,1.943,2.154,2.348,2.519,2.688,2.86,3.025
+Bolivia,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.581,0.677,0.772,0.886,0.993,1.101,1.2,1.288,1.374,1.46,1.542
+Bolivia,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.01,1.177,1.342,1.541,1.727,1.914,2.087,2.239,2.39,2.54,2.684
+Bolivia,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.555,0.647,0.738,0.847,0.95,1.053,1.148,1.232,1.314,1.396,1.475
+Bolivia,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,0.808,0.941,1.073,1.233,1.381,1.532,1.669,1.792,1.912,2.031,2.146
+Bolivia,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,0.757,0.883,1.006,1.155,1.295,1.436,1.565,1.68,1.792,1.904,2.012
+Bolivia,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,0.884,1.03,1.174,1.348,1.511,1.675,1.826,1.959,2.091,2.222,2.348
+Bolivia,Food,Revenue,Total,million USD (US$),Statista,43.7,54.7,68.28,122,181.7,214.1,288.5,373.3,487.5,537,600.4
+Bolivia,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,4.374,5.485,6.855,16.03,25.12,28.78,37.72,47.45,60.13,66.57,74.32
+Bolivia,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,6.513,8.022,9.842,18.88,27.97,32.25,42.5,53.45,67.65,74.68,83.24
+Bolivia,Food,Revenue,Convenience Food,million USD (US$),Statista,3.564,4.443,5.525,9.801,14.69,17.49,23.72,30.82,40.22,44.33,49.58
+Bolivia,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,3.982,4.981,6.212,9.896,14.41,17.18,23.41,30.61,40.28,44.29,49.52
+Bolivia,Food,Revenue,Fish & Seafood,million USD (US$),Statista,3.469,4.391,5.542,9.576,14.28,17.07,23.34,30.61,40.41,44.5,49.81
+Bolivia,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,3.683,4.573,5.656,9.599,14,16.39,21.92,28.14,36.35,40.02,44.67
+Bolivia,Food,Revenue,Meat,million USD (US$),Statista,9.186,11.47,14.3,24.45,35.95,42.42,57.24,74.08,96.49,106.2,118.7
+Bolivia,Food,Revenue,Oils & Fats,million USD (US$),Statista,2.253,2.849,3.591,5.764,8.483,10.21,14.04,18.52,24.59,27.04,30.28
+Bolivia,Food,Revenue,Sauces & Spices,million USD (US$),Statista,1.126,1.529,2.07,3.23,5.146,6.689,10.08,14.88,22.99,25.04,28.37
+Bolivia,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.353,0.458,0.589,0.905,1.32,1.559,2.131,2.816,3.746,4.115,4.605
+Bolivia,Food,Revenue,Vegetables,million USD (US$),Statista,5.194,6.495,8.095,13.85,20.36,24.03,32.42,41.96,54.66,60.18,67.25
+Bolivia,Food,Revenue Change,Total,percent,Statista,,25.172,24.826,78.676,48.934,17.832,34.75,29.393,30.592,10.154,11.806
+Bolivia,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,25.4,24.977,133.844,56.706,14.57,31.063,25.795,26.723,10.71,11.642
+Bolivia,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,23.169,22.688,91.831,48.146,15.302,31.783,25.765,26.567,10.392,11.462
+Bolivia,Food,Revenue Change,Convenience Food,percent,Statista,,24.663,24.353,77.394,49.883,19.061,35.62,29.933,30.5,10.219,11.843
+Bolivia,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,25.088,24.714,59.305,45.614,19.223,36.263,30.756,31.591,9.955,11.809
+Bolivia,Food,Revenue Change,Fish & Seafood,percent,Statista,,26.578,26.213,72.79,49.123,19.538,36.731,31.148,32.016,10.121,11.933
+Bolivia,Food,Revenue Change,Fruits & Nuts,percent,Statista,,24.165,23.682,69.714,45.849,17.071,33.74,28.376,29.176,10.096,11.619
+Bolivia,Food,Revenue Change,Meat,percent,Statista,,24.864,24.673,70.979,47.035,17.997,34.936,29.42,30.251,10.063,11.77
+Bolivia,Food,Revenue Change,Oils & Fats,percent,Statista,,26.454,26.044,60.512,47.172,20.358,37.512,31.909,32.775,9.963,11.982
+Bolivia,Food,Revenue Change,Sauces & Spices,percent,Statista,,35.79,35.383,56.039,59.319,29.984,50.695,47.619,54.503,8.917,13.299
+Bolivia,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,29.448,28.737,53.641,45.84,18.106,36.69,32.145,33.026,9.851,11.908
+Bolivia,Food,Revenue Change,Vegetables,percent,Statista,,25.048,24.634,71.093,47.004,18.026,34.915,29.426,30.267,10.099,11.748
+Bolivia,Food,Average Revenue per User,Total,USD (US$),Statista,131.5,132.1,133.4,196.4,242.6,241,282.4,326.7,384.9,388,399.7
+Bolivia,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,28.01,28.18,28.49,54.9,71.35,68.95,78.56,88.36,101,102.3,105.3
+Bolivia,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,40.01,39.53,39.24,62.02,76.21,74.12,84.9,95.46,109,110.1,113.1
+Bolivia,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,19.16,19.16,19.27,28.17,35.04,35.16,41.47,48.16,56.7,57.2,58.93
+Bolivia,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,52.12,52.29,52.76,69.27,83.66,84.1,99.63,116.5,138.3,139.2,143.3
+Bolivia,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,54.96,55.8,56.99,81.14,100.3,101.2,120.3,141,167.9,169.2,174.5
+Bolivia,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,21.32,21.23,21.25,29.72,35.94,35.48,41.27,47.36,55.19,55.61,57.18
+Bolivia,Food,Average Revenue per User,Meat,USD (US$),Statista,92.17,92.32,93.13,131.2,160,159.2,186.8,216.1,253.9,255.9,263.4
+Bolivia,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,27.13,27.51,28.06,37.12,45.31,45.97,54.96,64.82,77.66,78.17,80.62
+Bolivia,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,7.702,8.388,9.189,11.82,15.62,17.12,22.42,29.59,41.25,41.12,42.92
+Bolivia,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,3.225,3.348,3.487,4.415,5.342,5.318,6.322,7.468,8.963,9.011,9.289
+Bolivia,Food,Average Revenue per User,Vegetables,USD (US$),Statista,31.91,32,32.27,45.5,55.49,55.23,64.77,74.94,88.07,88.75,91.36
+Bolivia,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Food,Online & Offline Split,Offline,percent,Statista,99.435,99.318,99.162,98.767,98.16,97.739,97.202,96.521,95.628,,
+Bolivia,Food,Online & Offline Split,Online,percent,Statista,0.565,0.682,0.838,1.233,1.84,2.261,2.798,3.479,4.372,,
+Bolivia,Food,Mobile/Desktop Split,Desktop,percent,Statista,58.049,56.303,54.951,54.013,53.342,52.878,52.503,52.302,52.249,,
+Bolivia,Food,Mobile/Desktop Split,Mobile,percent,Statista,41.951,43.697,45.049,45.987,46.658,47.122,47.497,47.698,47.751,,
+Bolivia,Food,Users,Total,million users,Statista,0.332,0.414,0.512,0.621,0.749,0.888,1.022,1.143,1.267,1.384,1.502
+Bolivia,Food,Users,Bread & Cereal Products,million users,Statista,0.156,0.195,0.241,0.292,0.352,0.417,0.48,0.537,0.595,0.65,0.706
+Bolivia,Food,Users,Confectionery & Snacks,million users,Statista,0.163,0.203,0.251,0.304,0.367,0.435,0.501,0.56,0.621,0.678,0.736
+Bolivia,Food,Users,Convenience Food,million users,Statista,0.186,0.232,0.287,0.348,0.419,0.497,0.572,0.64,0.709,0.775,0.841
+Bolivia,Food,Users,Dairy Products & Eggs,million users,Statista,0.076,0.095,0.118,0.143,0.172,0.204,0.235,0.263,0.291,0.318,0.346
+Bolivia,Food,Users,Fish & Seafood,million users,Statista,0.063,0.079,0.097,0.118,0.142,0.169,0.194,0.217,0.241,0.263,0.285
+Bolivia,Food,Users,Fruits & Nuts,million users,Statista,0.173,0.215,0.266,0.323,0.389,0.462,0.531,0.594,0.659,0.72,0.781
+Bolivia,Food,Users,Meat,million users,Statista,0.1,0.124,0.154,0.186,0.225,0.266,0.306,0.343,0.38,0.415,0.451
+Bolivia,Food,Users,Oils & Fats,million users,Statista,0.083,0.104,0.128,0.155,0.187,0.222,0.255,0.286,0.317,0.346,0.376
+Bolivia,Food,Users,Sauces & Spices,million users,Statista,0.146,0.182,0.225,0.273,0.33,0.391,0.449,0.503,0.557,0.609,0.661
+Bolivia,Food,Users,Spreads & Sweeteners,million users,Statista,0.11,0.137,0.169,0.205,0.247,0.293,0.337,0.377,0.418,0.457,0.496
+Bolivia,Food,Users,Vegetables,million users,Statista,0.163,0.203,0.251,0.304,0.367,0.435,0.501,0.56,0.621,0.678,0.736
+Bolivia,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.395,1.715,2.09,2.501,2.975,3.48,3.951,4.363,4.774,5.152,5.524
+Bolivia,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.454,1.788,2.179,2.607,3.101,3.628,4.119,4.548,4.978,5.371,5.759
+Bolivia,Food,Penetration Rate,Convenience Food,percent,Statista,1.662,2.043,2.49,2.98,3.544,4.147,4.708,5.198,5.689,6.139,6.582
+Bolivia,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.683,0.839,1.023,1.224,1.456,1.703,1.933,2.135,2.336,2.521,2.703
+Bolivia,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.564,0.693,0.845,1.011,1.203,1.407,1.597,1.764,1.93,2.083,2.233
+Bolivia,Food,Penetration Rate,Food,percent,Statista,2.968,3.648,4.446,5.321,6.329,7.405,8.406,9.282,10.158,10.962,11.753
+Bolivia,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.543,1.897,2.312,2.767,3.291,3.851,4.371,4.827,5.282,5.7,6.112
+Bolivia,Food,Penetration Rate,Meat,percent,Statista,0.89,1.094,1.334,1.596,1.899,2.221,2.522,2.785,3.047,3.289,3.526
+Bolivia,Food,Penetration Rate,Oils & Fats,percent,Statista,0.742,0.912,1.112,1.33,1.582,1.851,2.102,2.32,2.54,2.74,2.938
+Bolivia,Food,Penetration Rate,Sauces & Spices,percent,Statista,1.306,1.605,1.956,2.341,2.785,3.258,3.699,4.084,4.47,4.823,5.172
+Bolivia,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,0.979,1.204,1.467,1.756,2.089,2.444,2.774,3.063,3.352,3.617,3.879
+Bolivia,Food,Penetration Rate,Vegetables,percent,Statista,1.454,1.788,2.179,2.607,3.101,3.628,4.119,4.548,4.978,5.371,5.759
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,28.01,28.18,28.49,54.9,71.35,68.95,78.56,88.36,101,102.3,105.3
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,20.46,20.63,20.9,42.05,55.09,53.15,60.44,67.83,77.36,78.43,80.67
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,3.76,3.749,3.758,5.277,6.397,6.353,7.433,8.582,10.06,10.14,10.43
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,15.69,15.82,16.03,31.17,40.58,39.14,44.52,50,57.1,57.86,59.51
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,4.038,4.048,4.087,8.198,10.72,10.33,11.74,13.17,15.03,15.23,15.67
+Bolivia,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,1.465,1.467,1.477,2.952,3.849,3.691,4.174,4.659,5.285,5.358,5.507
+Bolivia,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,4.374,5.485,6.855,16.03,25.12,28.78,37.72,47.45,60.13,66.57,74.32
+Bolivia,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,2.013,2.531,3.168,7.734,12.22,13.98,18.28,22.95,29.01,32.14,35.88
+Bolivia,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.487,0.606,0.75,1.279,1.869,2.201,2.962,3.826,4.972,5.474,6.114
+Bolivia,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,1.102,1.386,1.735,4.094,6.428,7.351,9.618,12.08,15.3,16.94,18.91
+Bolivia,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.568,0.709,0.885,2.154,3.397,3.881,5.073,6.367,8.051,8.916,9.954
+Bolivia,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.204,0.254,0.316,0.767,1.206,1.371,1.784,2.227,2.8,3.102,3.46
+Bolivia,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,25.4,24.977,133.844,56.706,14.57,31.063,25.795,26.723,10.71,11.642
+Bolivia,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,25.733,25.168,144.129,58.004,14.403,30.758,25.547,26.405,10.789,11.637
+Bolivia,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,24.297,23.906,70.42,46.13,17.764,34.575,29.169,29.953,10.097,11.692
+Bolivia,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,25.771,25.18,135.965,57.01,14.359,30.839,25.598,26.656,10.719,11.629
+Bolivia,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,24.969,24.774,143.417,57.707,14.248,30.714,25.508,26.449,10.744,11.642
+Bolivia,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,24.804,24.479,142.46,57.256,13.682,30.124,24.832,25.73,10.786,11.541
+Bolivia,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Bolivia,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Bolivia,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.268,99.119,98.922,98.209,97.115,96.498,95.747,94.828,93.679,,
+Bolivia,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.732,0.881,1.078,1.791,2.885,3.502,4.253,5.172,6.321,,
+Bolivia,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.156,0.195,0.241,0.292,0.352,0.417,0.48,0.537,0.595,0.65,0.706
+Bolivia,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.098,0.123,0.152,0.184,0.222,0.263,0.302,0.338,0.375,0.41,0.445
+Bolivia,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.13,0.162,0.2,0.242,0.292,0.346,0.399,0.446,0.494,0.54,0.586
+Bolivia,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.07,0.088,0.108,0.131,0.158,0.188,0.216,0.242,0.268,0.293,0.318
+Bolivia,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.141,0.175,0.217,0.263,0.317,0.376,0.432,0.483,0.536,0.585,0.635
+Bolivia,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.139,0.173,0.214,0.26,0.313,0.371,0.427,0.478,0.53,0.579,0.628
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,0.879,1.08,1.317,1.576,1.874,2.193,2.489,2.748,3.008,3.246,3.48
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.395,1.715,2.09,2.501,2.975,3.48,3.951,4.363,4.774,5.152,5.524
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,1.158,1.423,1.734,2.076,2.469,2.889,3.279,3.621,3.963,4.276,4.585
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.628,0.772,0.94,1.125,1.339,1.566,1.778,1.963,2.148,2.318,2.486
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,1.256,1.543,1.881,2.251,2.677,3.132,3.556,3.926,4.297,4.637,4.972
+Bolivia,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,1.242,1.526,1.86,2.226,2.648,3.098,3.516,3.883,4.249,4.585,4.916
+Bolivia,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,40.01,39.53,39.24,62.02,76.21,74.12,84.9,95.46,109,110.1,113.1
+Bolivia,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,35.86,35.51,35.34,56.25,69.4,67.47,77.29,87.1,99.68,100.7,103.4
+Bolivia,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.053,1.04,1.032,1.632,2.005,1.95,2.234,2.512,2.868,2.897,2.975
+Bolivia,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,10.78,10.57,10.42,16.13,19.57,19.05,21.82,24.36,27.63,27.91,28.64
+Bolivia,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,6.513,8.022,9.842,18.88,27.97,32.25,42.5,53.45,67.65,74.68,83.24
+Bolivia,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,4.787,5.91,7.268,14.04,20.88,24.08,31.73,39.99,50.73,56,62.43
+Bolivia,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.094,0.116,0.142,0.273,0.405,0.467,0.615,0.773,0.979,1.081,1.205
+Bolivia,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,1.632,1.996,2.432,4.565,6.68,7.709,10.16,12.69,15.95,17.6,19.6
+Bolivia,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,23.169,22.688,91.831,48.146,15.302,31.783,25.765,26.567,10.392,11.462
+Bolivia,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,23.459,22.978,93.176,48.718,15.326,31.769,26.032,26.857,10.388,11.482
+Bolivia,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,23.183,22.653,91.854,48.133,15.32,31.776,25.756,26.584,10.419,11.471
+Bolivia,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,22.304,21.844,87.706,46.331,15.404,31.794,24.902,25.69,10.345,11.364
+Bolivia,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Bolivia,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Bolivia,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.442,99.333,99.189,98.771,98.139,97.728,97.214,96.592,95.802,,
+Bolivia,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.558,0.667,0.811,1.229,1.861,2.272,2.786,3.408,4.198,,
+Bolivia,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.163,0.203,0.251,0.304,0.367,0.435,0.501,0.56,0.621,0.678,0.736
+Bolivia,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.133,0.166,0.206,0.25,0.301,0.357,0.41,0.459,0.509,0.556,0.604
+Bolivia,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.09,0.112,0.138,0.167,0.202,0.239,0.275,0.308,0.341,0.373,0.405
+Bolivia,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.151,0.189,0.233,0.283,0.341,0.405,0.466,0.521,0.577,0.631,0.685
+Bolivia,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,1.193,1.466,1.786,2.138,2.543,2.975,3.378,3.729,4.082,4.404,4.723
+Bolivia,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.454,1.788,2.179,2.607,3.101,3.628,4.119,4.548,4.978,5.371,5.759
+Bolivia,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,0.8,0.983,1.198,1.434,1.706,1.996,2.266,2.501,2.738,2.954,3.168
+Bolivia,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.353,1.662,2.026,2.425,2.884,3.374,3.831,4.23,4.629,4.995,5.356
+Bolivia,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,19.16,19.16,19.27,28.17,35.04,35.16,41.47,48.16,56.7,57.2,58.93
+Bolivia,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,24.48,24.46,24.6,35.96,44.78,45.01,53.17,61.84,72.92,73.55,75.79
+Bolivia,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,3.777,3.801,3.836,5.602,6.896,6.838,7.969,9.149,10.65,10.75,11.06
+Bolivia,Convenience Food,Revenue,Total,million USD (US$),Statista,3.564,4.443,5.525,9.801,14.69,17.49,23.72,30.82,40.22,44.33,49.58
+Bolivia,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,3.142,3.914,4.865,8.631,12.96,15.45,20.99,27.31,35.69,39.33,43.99
+Bolivia,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.422,0.529,0.66,1.169,1.735,2.04,2.735,3.513,4.534,4.999,5.583
+Bolivia,Convenience Food,Revenue Change,Total,percent,Statista,,24.663,24.353,77.394,49.883,19.061,35.62,29.933,30.5,10.219,11.843
+Bolivia,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,24.57,24.297,77.41,50.156,19.213,35.858,30.11,30.685,10.199,11.848
+Bolivia,Convenience Food,Revenue Change,Soups,percent,Statista,,25.445,24.726,77.175,48.417,17.579,34.069,28.446,29.063,10.256,11.682
+Bolivia,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.45,99.342,99.199,98.814,98.234,97.823,97.306,96.654,95.82,,
+Bolivia,Convenience Food,Online & Offline Split,Online,percent,Statista,0.55,0.658,0.801,1.186,1.766,2.177,2.694,3.346,4.18,,
+Bolivia,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Convenience Food,Users by Segment,Total,million users,Statista,0.186,0.232,0.287,0.348,0.419,0.497,0.572,0.64,0.709,0.775,0.841
+Bolivia,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.128,0.16,0.198,0.24,0.289,0.343,0.395,0.442,0.489,0.535,0.58
+Bolivia,Convenience Food,Users by Segment,Soups,million users,Statista,0.112,0.139,0.172,0.209,0.252,0.298,0.343,0.384,0.426,0.465,0.505
+Bolivia,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,1.662,2.043,2.49,2.98,3.544,4.147,4.708,5.198,5.689,6.139,6.582
+Bolivia,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,1.147,1.41,1.718,2.056,2.446,2.861,3.248,3.587,3.925,4.236,4.542
+Bolivia,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,0.997,1.226,1.494,1.788,2.127,2.488,2.825,3.119,3.413,3.683,3.949
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,52.12,52.29,52.76,69.27,83.66,84.1,99.63,116.5,138.3,139.2,143.3
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,7.071,6.868,6.712,8.539,9.999,9.722,11.13,12.55,14.35,14.44,14.79
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,27.01,26.99,27.1,35.4,42.5,42.46,49.96,57.99,68.34,68.89,70.99
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,13.67,13.72,13.81,18.08,21.69,21.72,25.62,29.82,35.26,35.48,36.52
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,36.95,38.13,39.51,53.1,65.85,67.68,81.96,97.91,118.7,119.8,123.9
+Bolivia,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,21.1,20.9,20.87,27.19,32.59,32.6,38.43,44.72,52.84,53.16,54.71
+Bolivia,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,3.982,4.981,6.212,9.896,14.41,17.18,23.41,30.61,40.28,44.29,49.52
+Bolivia,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.405,0.491,0.593,0.915,1.292,1.489,1.961,2.474,3.136,3.447,3.833
+Bolivia,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.887,1.105,1.372,2.175,3.148,3.729,5.048,6.554,8.561,9.414,10.52
+Bolivia,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.815,1.019,1.268,2.015,2.914,3.46,4.695,6.113,8.011,8.809,9.843
+Bolivia,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.988,1.271,1.628,2.655,3.97,4.838,6.74,9.006,12.11,13.32,14.94
+Bolivia,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.887,1.095,1.351,2.137,3.088,3.662,4.966,6.464,8.466,9.307,10.4
+Bolivia,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,25.088,24.714,59.305,45.614,19.223,36.263,30.756,31.591,9.955,11.809
+Bolivia,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,21.101,20.787,54.378,41.202,15.248,31.699,26.16,26.758,9.917,11.198
+Bolivia,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,24.521,24.163,58.528,44.736,18.456,35.371,29.834,30.623,9.964,11.748
+Bolivia,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,25.107,24.436,58.912,44.615,18.737,35.694,30.202,31.049,9.961,11.738
+Bolivia,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,28.618,28.088,63.084,49.529,21.864,39.314,33.62,34.466,9.992,12.162
+Bolivia,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,23.478,23.379,58.179,44.502,18.588,35.609,30.165,30.972,9.934,11.744
+Bolivia,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Bolivia,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Bolivia,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.45,99.336,99.185,98.875,98.378,97.998,97.507,96.878,96.057,,
+Bolivia,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.55,0.664,0.815,1.125,1.622,2.002,2.493,3.122,3.943,,
+Bolivia,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.076,0.095,0.118,0.143,0.172,0.204,0.235,0.263,0.291,0.318,0.346
+Bolivia,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.057,0.071,0.088,0.107,0.129,0.153,0.176,0.197,0.218,0.239,0.259
+Bolivia,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.033,0.041,0.051,0.061,0.074,0.088,0.101,0.113,0.125,0.137,0.148
+Bolivia,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.06,0.074,0.092,0.111,0.134,0.159,0.183,0.205,0.227,0.248,0.27
+Bolivia,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.027,0.033,0.041,0.05,0.06,0.071,0.082,0.092,0.102,0.111,0.121
+Bolivia,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.042,0.052,0.065,0.079,0.095,0.112,0.129,0.145,0.16,0.175,0.19
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.512,0.629,0.767,0.918,1.092,1.277,1.45,1.601,1.752,1.891,2.028
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.683,0.839,1.023,1.224,1.456,1.703,1.933,2.135,2.336,2.521,2.703
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.294,0.361,0.44,0.526,0.626,0.732,0.831,0.918,1.005,1.082,1.159
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.532,0.654,0.798,0.955,1.135,1.328,1.508,1.665,1.822,1.967,2.109
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.239,0.294,0.358,0.428,0.51,0.596,0.677,0.747,0.818,0.881,0.943
+Bolivia,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.375,0.461,0.562,0.673,0.801,0.937,1.063,1.174,1.285,1.387,1.487
+Bolivia,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,54.96,55.8,56.99,81.14,100.3,101.2,120.3,141,167.9,169.2,174.5
+Bolivia,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,87,89.45,92.3,132.5,164.6,165.8,196.7,230.2,273.6,276.3,285.4
+Bolivia,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,38.62,38.33,38.52,54.12,66.69,67.92,81.59,96.77,116.6,117.6,121.6
+Bolivia,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,13.08,13.01,13.05,18.33,22.38,22.47,26.61,31.11,36.94,37.21,38.35
+Bolivia,Fish & Seafood,Revenue,Total,million USD (US$),Statista,3.469,4.391,5.542,9.576,14.28,17.07,23.34,30.61,40.41,44.5,49.81
+Bolivia,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,2.142,2.745,3.501,6.097,9.133,10.91,14.89,19.49,25.68,28.29,31.67
+Bolivia,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.585,0.724,0.899,1.533,2.278,2.75,3.8,5.042,6.732,7.406,8.298
+Bolivia,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.743,0.922,1.142,1.947,2.866,3.412,4.649,6.079,8.001,8.806,9.85
+Bolivia,Fish & Seafood,Revenue Change,Total,percent,Statista,,26.578,26.213,72.79,49.123,19.538,36.731,31.148,32.016,10.121,11.933
+Bolivia,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,28.151,27.541,74.15,49.795,19.457,36.48,30.893,31.76,10.164,11.948
+Bolivia,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,23.761,24.185,70.504,48.598,20.72,38.182,32.684,33.518,10.012,12.044
+Bolivia,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,24.085,23.901,70.49,47.201,19.051,36.254,30.759,31.617,10.061,11.856
+Bolivia,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.45,99.336,99.183,98.83,98.276,97.875,97.363,96.71,95.862,,
+Bolivia,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.55,0.664,0.817,1.17,1.724,2.125,2.637,3.29,4.138,,
+Bolivia,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,56.535,54.914,53.827,53.009,52.434,52.043,51.784,51.618,51.515,,
+Bolivia,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,43.465,45.086,46.173,46.991,47.566,47.957,48.216,48.382,48.485,,
+Bolivia,Fish & Seafood,Users by Segment,Total,million users,Statista,0.063,0.079,0.097,0.118,0.142,0.169,0.194,0.217,0.241,0.263,0.285
+Bolivia,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.025,0.031,0.038,0.046,0.055,0.066,0.076,0.085,0.094,0.102,0.111
+Bolivia,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.015,0.019,0.023,0.028,0.034,0.04,0.047,0.052,0.058,0.063,0.068
+Bolivia,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.057,0.071,0.088,0.106,0.128,0.152,0.175,0.195,0.217,0.237,0.257
+Bolivia,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.564,0.693,0.845,1.011,1.203,1.407,1.597,1.764,1.93,2.083,2.233
+Bolivia,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.22,0.27,0.329,0.394,0.469,0.549,0.623,0.688,0.753,0.811,0.868
+Bolivia,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.135,0.166,0.203,0.243,0.289,0.338,0.383,0.423,0.463,0.499,0.534
+Bolivia,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.508,0.624,0.76,0.91,1.082,1.266,1.438,1.587,1.737,1.874,2.01
+Bolivia,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,21.32,21.23,21.25,29.72,35.94,35.48,41.27,47.36,55.19,55.61,57.18
+Bolivia,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,25.95,25.88,25.94,36.32,43.99,43.46,50.58,58.08,67.72,68.24,70.17
+Bolivia,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,3.045,3.005,2.98,4.134,4.936,4.838,5.588,6.369,7.376,7.429,7.63
+Bolivia,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,3.267,3.224,3.201,4.457,5.365,5.289,6.145,7.044,8.2,8.26,8.49
+Bolivia,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,3.683,4.573,5.656,9.599,14,16.39,21.92,28.14,36.35,40.02,44.67
+Bolivia,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,3.138,3.902,4.833,8.212,11.99,14.05,18.81,24.16,31.22,34.38,38.37
+Bolivia,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.263,0.324,0.397,0.668,0.961,1.117,1.484,1.892,2.429,2.673,2.98
+Bolivia,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.282,0.347,0.426,0.72,1.045,1.221,1.632,2.093,2.7,2.972,3.316
+Bolivia,Fruits & Nuts,Revenue Change,Total,percent,Statista,,24.165,23.682,69.714,45.849,17.071,33.74,28.376,29.176,10.096,11.619
+Bolivia,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,24.347,23.86,69.915,46.006,17.181,33.879,28.442,29.222,10.122,11.606
+Bolivia,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,23.042,22.559,68.356,43.942,16.221,32.856,27.493,28.383,10.045,11.485
+Bolivia,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,22.998,22.731,68.967,45.179,16.842,33.661,28.248,29.001,10.074,11.575
+Bolivia,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.45,99.336,99.184,98.831,98.283,97.888,97.386,96.748,95.922,,
+Bolivia,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.55,0.664,0.816,1.169,1.717,2.112,2.614,3.252,4.078,,
+Bolivia,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Bolivia,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Bolivia,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.173,0.215,0.266,0.323,0.389,0.462,0.531,0.594,0.659,0.72,0.781
+Bolivia,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.121,0.151,0.186,0.226,0.273,0.323,0.372,0.416,0.461,0.504,0.547
+Bolivia,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.086,0.108,0.133,0.162,0.195,0.231,0.266,0.297,0.329,0.36,0.391
+Bolivia,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.086,0.108,0.133,0.162,0.195,0.231,0.266,0.297,0.329,0.36,0.391
+Bolivia,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,1.08,1.328,1.618,1.937,2.304,2.695,3.06,3.379,3.698,3.99,4.278
+Bolivia,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.543,1.897,2.312,2.767,3.291,3.851,4.371,4.827,5.282,5.7,6.112
+Bolivia,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.772,0.949,1.156,1.384,1.646,1.925,2.186,2.413,2.641,2.85,3.056
+Bolivia,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.772,0.949,1.156,1.384,1.646,1.925,2.186,2.413,2.641,2.85,3.056
+Bolivia,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,92.17,92.32,93.13,131.2,160,159.2,186.8,216.1,253.9,255.9,263.4
+Bolivia,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,97.38,97.49,98.17,138.5,168.9,168.5,198.1,229.8,270.6,272.7,280.8
+Bolivia,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,28.71,28.8,29.19,40.96,49.94,49.38,57.58,66.16,77.24,77.85,80.08
+Bolivia,Meat,Revenue,Total,million USD (US$),Statista,9.186,11.47,14.3,24.45,35.95,42.42,57.24,74.08,96.49,106.2,118.7
+Bolivia,Meat,Revenue,Fresh Meat,million USD (US$),Statista,6.697,8.358,10.4,17.81,26.19,30.98,41.89,54.35,70.96,78.13,87.32
+Bolivia,Meat,Revenue,Processed Meat,million USD (US$),Statista,2.489,3.113,3.9,6.641,9.762,11.45,15.35,19.73,25.53,28.12,31.4
+Bolivia,Meat,Revenue Change,Total,percent,Statista,,24.864,24.673,70.979,47.035,17.997,34.936,29.42,30.251,10.063,11.77
+Bolivia,Meat,Revenue Change,Fresh Meat,percent,Statista,,24.802,24.432,71.25,47.052,18.289,35.216,29.745,30.561,10.104,11.762
+Bolivia,Meat,Revenue Change,Processed Meat,percent,Statista,,25.07,25.281,70.282,46.996,17.292,34.061,28.534,29.397,10.145,11.664
+Bolivia,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Bolivia,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Bolivia,Meat,Online & Offline Split,Offline,percent,Statista,99.45,99.336,99.183,98.829,98.276,97.877,97.368,96.72,95.88,,
+Bolivia,Meat,Online & Offline Split,Online,percent,Statista,0.55,0.664,0.817,1.171,1.724,2.123,2.632,3.28,4.12,,
+Bolivia,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Bolivia,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Bolivia,Meat,Users by Segment,Total,million users,Statista,0.1,0.124,0.154,0.186,0.225,0.266,0.306,0.343,0.38,0.415,0.451
+Bolivia,Meat,Users by Segment,Fresh Meat,million users,Statista,0.069,0.086,0.106,0.129,0.155,0.184,0.211,0.237,0.262,0.286,0.311
+Bolivia,Meat,Users by Segment,Processed Meat,million users,Statista,0.087,0.108,0.134,0.162,0.195,0.232,0.267,0.298,0.331,0.361,0.392
+Bolivia,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.614,0.755,0.92,1.102,1.31,1.533,1.74,1.921,2.103,2.269,2.433
+Bolivia,Meat,Penetration Rate by Segment,Meat,percent,Statista,0.89,1.094,1.334,1.596,1.899,2.221,2.522,2.785,3.047,3.289,3.526
+Bolivia,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.775,0.952,1.16,1.389,1.652,1.933,2.194,2.423,2.651,2.861,3.068
+Bolivia,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,27.13,27.51,28.06,37.12,45.31,45.97,54.96,64.82,77.66,78.17,80.62
+Bolivia,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,3.044,3.103,3.172,4.197,5.12,5.179,6.171,7.251,8.652,8.71,8.979
+Bolivia,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,11.72,12.07,12.47,16.67,20.51,20.91,25.12,29.76,35.8,36.05,37.21
+Bolivia,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,6.322,6.549,6.811,9.163,11.35,11.65,14.08,16.8,20.35,20.49,21.16
+Bolivia,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,17.1,16.89,16.83,21.83,26.21,26.29,31.09,36.3,43.03,43.28,44.56
+Bolivia,Oils & Fats,Revenue,Total,million USD (US$),Statista,2.253,2.849,3.591,5.764,8.483,10.21,14.04,18.52,24.59,27.04,30.28
+Bolivia,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.202,0.257,0.325,0.521,0.767,0.92,1.261,1.657,2.192,2.411,2.698
+Bolivia,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.779,1,1.277,2.071,3.072,3.715,5.133,6.802,9.07,9.978,11.18
+Bolivia,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.42,0.542,0.697,1.138,1.7,2.069,2.877,3.838,5.155,5.671,6.359
+Bolivia,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.852,1.049,1.292,2.034,2.944,3.502,4.764,6.221,8.175,8.985,10.04
+Bolivia,Oils & Fats,Revenue Change,Total,percent,Statista,,26.454,26.044,60.512,47.172,20.358,37.512,31.909,32.775,9.963,11.982
+Bolivia,Oils & Fats,Revenue Change,Butter,percent,Statista,,27.088,26.332,60.53,47.085,19.937,37.095,31.404,32.287,9.991,11.904
+Bolivia,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,28.386,27.7,62.177,48.334,20.931,38.17,32.515,33.343,10.011,12.047
+Bolivia,Oils & Fats,Revenue Change,Margarine,percent,Statista,,29.167,28.535,63.201,49.385,21.706,39.053,33.403,34.315,10.01,12.132
+Bolivia,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,23.122,23.165,57.43,44.739,18.954,36.037,30.584,31.41,9.908,11.742
+Bolivia,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.45,99.334,99.178,98.866,98.359,97.969,97.466,96.819,95.972,,
+Bolivia,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.55,0.666,0.822,1.134,1.641,2.031,2.534,3.181,4.028,,
+Bolivia,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Bolivia,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Bolivia,Oils & Fats,Users by Segment,Total,million users,Statista,0.083,0.104,0.128,0.155,0.187,0.222,0.255,0.286,0.317,0.346,0.376
+Bolivia,Oils & Fats,Users by Segment,Butter,million users,Statista,0.066,0.083,0.102,0.124,0.15,0.178,0.204,0.229,0.253,0.277,0.3
+Bolivia,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.066,0.083,0.102,0.124,0.15,0.178,0.204,0.229,0.253,0.277,0.3
+Bolivia,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.066,0.083,0.102,0.124,0.15,0.178,0.204,0.229,0.253,0.277,0.3
+Bolivia,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.05,0.062,0.077,0.093,0.112,0.133,0.153,0.171,0.19,0.208,0.225
+Bolivia,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.594,0.73,0.889,1.064,1.266,1.481,1.681,1.856,2.032,2.192,2.351
+Bolivia,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.594,0.73,0.889,1.064,1.266,1.481,1.681,1.856,2.032,2.192,2.351
+Bolivia,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.594,0.73,0.889,1.064,1.266,1.481,1.681,1.856,2.032,2.192,2.351
+Bolivia,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.742,0.912,1.112,1.33,1.582,1.851,2.102,2.32,2.54,2.74,2.938
+Bolivia,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.445,0.547,0.667,0.798,0.949,1.111,1.261,1.392,1.524,1.644,1.763
+Bolivia,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,7.702,8.388,9.189,11.82,15.62,17.12,22.42,29.59,41.25,41.12,42.92
+Bolivia,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,7.617,8.48,9.486,12.39,16.7,18.63,24.83,33.38,47.46,47.28,49.43
+Bolivia,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,2.68,2.673,2.667,3.181,3.765,3.696,4.254,4.803,5.469,5.505,5.64
+Bolivia,Sauces & Spices,Revenue,Total,million USD (US$),Statista,1.126,1.529,2.07,3.23,5.146,6.689,10.08,14.88,22.99,25.04,28.37
+Bolivia,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.891,1.236,1.709,2.709,4.402,5.822,8.928,13.43,21.16,23.03,26.14
+Bolivia,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.235,0.292,0.36,0.522,0.745,0.867,1.147,1.449,1.829,2.011,2.237
+Bolivia,Sauces & Spices,Revenue Change,Total,percent,Statista,,35.79,35.383,56.039,59.319,29.984,50.695,47.619,54.503,8.917,13.299
+Bolivia,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,38.752,38.269,58.514,62.495,32.258,53.349,50.426,57.558,8.837,13.504
+Bolivia,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,24.383,23.332,44.688,42.734,16.387,32.372,26.33,26.225,9.951,11.238
+Bolivia,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.55,0.698,0.902,1.226,1.858,2.415,3.214,4.403,6.333,,
+Bolivia,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Bolivia,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Bolivia,Sauces & Spices,Users by Segment,Total,million users,Statista,0.146,0.182,0.225,0.273,0.33,0.391,0.449,0.503,0.557,0.609,0.661
+Bolivia,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.117,0.146,0.18,0.219,0.264,0.313,0.36,0.402,0.446,0.487,0.529
+Bolivia,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.088,0.109,0.135,0.164,0.198,0.234,0.27,0.302,0.334,0.365,0.397
+Bolivia,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,1.306,1.605,1.956,2.341,2.785,3.258,3.699,4.084,4.47,4.823,5.172
+Bolivia,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.045,1.284,1.565,1.873,2.228,2.607,2.959,3.267,3.576,3.859,4.137
+Bolivia,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.784,0.963,1.174,1.405,1.671,1.955,2.219,2.45,2.682,2.894,3.103
+Bolivia,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,3.225,3.348,3.487,4.415,5.342,5.318,6.322,7.468,8.963,9.011,9.289
+Bolivia,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,2.601,2.669,2.748,3.44,4.125,4.104,4.88,5.765,6.92,6.953,7.166
+Bolivia,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,2.384,2.527,2.686,3.465,4.255,4.239,5.038,5.95,7.139,7.184,7.409
+Bolivia,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.353,0.458,0.589,0.905,1.32,1.559,2.131,2.816,3.746,4.115,4.605
+Bolivia,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.228,0.292,0.371,0.564,0.816,0.962,1.316,1.739,2.314,2.541,2.842
+Bolivia,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.126,0.166,0.218,0.341,0.505,0.596,0.815,1.077,1.432,1.575,1.763
+Bolivia,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,29.448,28.737,53.641,45.84,18.106,36.69,32.145,33.026,9.851,11.908
+Bolivia,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,27.926,27.245,51.926,44.567,18.001,36.756,32.143,33.065,9.81,11.846
+Bolivia,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,32.112,31.363,56.52,48.079,18.126,36.71,32.115,32.962,9.986,11.937
+Bolivia,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Bolivia,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Bolivia,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.442,99.296,99.099,98.752,98.202,97.78,97.237,96.495,95.511,,
+Bolivia,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.558,0.704,0.901,1.248,1.798,2.22,2.763,3.505,4.489,,
+Bolivia,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Bolivia,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Bolivia,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.11,0.137,0.169,0.205,0.247,0.293,0.337,0.377,0.418,0.457,0.496
+Bolivia,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.088,0.109,0.135,0.164,0.198,0.234,0.27,0.302,0.334,0.365,0.397
+Bolivia,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.053,0.066,0.081,0.098,0.119,0.141,0.162,0.181,0.201,0.219,0.238
+Bolivia,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.784,0.963,1.174,1.405,1.671,1.955,2.219,2.45,2.682,2.894,3.103
+Bolivia,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,0.979,1.204,1.467,1.756,2.089,2.444,2.774,3.063,3.352,3.617,3.879
+Bolivia,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.47,0.578,0.704,0.843,1.003,1.173,1.332,1.47,1.609,1.736,1.862
+Bolivia,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,31.91,32,32.27,45.5,55.49,55.23,64.77,74.94,88.07,88.75,91.36
+Bolivia,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,35.07,35.14,35.41,49.88,60.78,60.44,70.83,81.89,96.15,96.9,99.73
+Bolivia,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,14.72,14.81,14.97,21.18,25.89,25.84,30.38,35.24,41.52,41.84,43.09
+Bolivia,Vegetables,Revenue,Total,million USD (US$),Statista,5.194,6.495,8.095,13.85,20.36,24.03,32.42,41.96,54.66,60.18,67.25
+Bolivia,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,3.996,4.993,6.217,10.63,15.61,18.41,24.82,32.1,41.77,46,51.39
+Bolivia,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,1.198,1.503,1.878,3.223,4.751,5.622,7.604,9.867,12.88,14.19,15.86
+Bolivia,Vegetables,Revenue Change,Total,percent,Statista,,25.048,24.634,71.093,47.004,18.026,34.915,29.426,30.267,10.099,11.748
+Bolivia,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,24.95,24.514,70.983,46.849,17.937,34.818,29.331,30.125,10.127,11.717
+Bolivia,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,25.459,24.95,71.619,47.409,18.333,35.254,29.761,30.536,10.171,11.769
+Bolivia,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Bolivia,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Bolivia,Vegetables,Online & Offline Split,Offline,percent,Statista,99.45,99.336,99.184,98.831,98.282,97.886,97.382,96.742,95.914,,
+Bolivia,Vegetables,Online & Offline Split,Online,percent,Statista,0.55,0.664,0.816,1.169,1.718,2.114,2.618,3.258,4.086,,
+Bolivia,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Bolivia,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Bolivia,Vegetables,Users by Segment,Total,million users,Statista,0.163,0.203,0.251,0.304,0.367,0.435,0.501,0.56,0.621,0.678,0.736
+Bolivia,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.114,0.142,0.176,0.213,0.257,0.305,0.35,0.392,0.434,0.475,0.515
+Bolivia,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.081,0.101,0.125,0.152,0.183,0.218,0.25,0.28,0.31,0.339,0.368
+Bolivia,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.018,1.251,1.525,1.825,2.171,2.54,2.883,3.184,3.484,3.76,4.031
+Bolivia,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.727,0.894,1.089,1.304,1.551,1.814,2.06,2.274,2.489,2.686,2.88
+Bolivia,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.454,1.788,2.179,2.607,3.101,3.628,4.119,4.548,4.978,5.371,5.759

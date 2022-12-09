@@ -1,0 +1,751 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+South Africa,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,24.323,,,,,,
+South Africa,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,36.022,,,,,,
+South Africa,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.123,,,,,,
+South Africa,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,11.515,,,,,,
+South Africa,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,3.02,,,,,,
+South Africa,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,52.032,,,,,,
+South Africa,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,47.968,,,,,,
+South Africa,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.283,,,,,,
+South Africa,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.895,,,,,,
+South Africa,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.822,,,,,,
+South Africa,eCommerce,Revenue,Total,billion USD (US$),Statista,4.406,4.672,5.011,6.445,7.162,7.068,9.193,10.9,12.99,13.92,15.1
+South Africa,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.481,0.515,0.558,0.686,0.76,0.82,1.066,1.321,1.649,1.777,1.949
+South Africa,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.088,0.095,0.105,0.146,0.185,0.175,0.199,0.215,0.236,0.249,0.263
+South Africa,eCommerce,Revenue,Electronics,billion USD (US$),Statista,1.339,1.387,1.44,1.719,1.821,1.809,2.565,3.173,3.928,4.202,4.581
+South Africa,eCommerce,Revenue,Fashion,billion USD (US$),Statista,0.448,0.519,0.602,0.806,0.947,1.002,1.274,1.538,1.864,2.02,2.213
+South Africa,eCommerce,Revenue,Food,billion USD (US$),Statista,0.243,0.264,0.291,0.481,0.565,0.534,0.606,0.652,0.704,0.748,0.791
+South Africa,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.827,0.86,0.911,1.13,1.233,1.124,1.608,1.92,2.291,2.461,2.678
+South Africa,eCommerce,Revenue,Media,billion USD (US$),Statista,0.164,0.176,0.192,0.241,0.277,0.266,0.302,0.319,0.332,0.35,0.365
+South Africa,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.816,0.856,0.913,1.236,1.374,1.339,1.573,1.762,1.99,2.115,2.259
+South Africa,eCommerce,Revenue Change,Total,percent,Statista,,6.037,7.256,28.617,11.125,-1.312,30.065,18.568,19.174,7.159,8.477
+South Africa,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,7.152,8.304,22.913,10.8,7.853,30.016,23.921,24.83,7.762,9.679
+South Africa,eCommerce,Revenue Change,Beverages,percent,Statista,,8.211,10.398,39.276,26.968,-5.768,13.558,8.413,9.572,5.471,5.549
+South Africa,eCommerce,Revenue Change,Electronics,percent,Statista,,3.585,3.821,19.375,5.934,-0.659,41.791,23.704,23.795,6.976,9.02
+South Africa,eCommerce,Revenue Change,Fashion,percent,Statista,,15.8,16.092,33.848,17.413,5.841,27.146,20.722,21.196,8.369,9.554
+South Africa,eCommerce,Revenue Change,Food,percent,Statista,,8.344,10.319,65.303,17.475,-5.419,13.443,7.542,8.011,6.294,5.775
+South Africa,eCommerce,Revenue Change,Furniture,percent,Statista,,4.015,5.871,24.094,9.115,-8.84,43.06,19.403,19.323,7.42,8.818
+South Africa,eCommerce,Revenue Change,Media,percent,Statista,,7.317,9.148,25.403,14.778,-3.761,13.416,5.533,4.176,5.365,4.548
+South Africa,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,4.89,6.66,35.408,11.165,-2.547,17.476,12.015,12.94,6.281,6.809
+South Africa,eCommerce,Average Revenue per User,Total,USD (US$),Statista,265.8,253.4,247.4,293.9,290,257.7,308.3,345.4,389.6,392.1,402
+South Africa,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,131.3,115.1,103.2,107.7,101.4,92.77,104.8,115.8,129.7,128.4,129.9
+South Africa,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,41.11,37.13,34.43,41.07,45.22,37.43,37.81,37.58,37.9,36.93,36.27
+South Africa,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,239.8,204.2,174.6,174.9,156.9,134.5,168.9,190.2,215.1,211.7,213.8
+South Africa,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,81.09,77.91,75.21,84.81,84.75,77.22,86.19,92.65,100.7,100.5,101.7
+South Africa,eCommerce,Average Revenue per User,Food,USD (US$),Statista,121.2,109.5,101.5,143.7,146.4,121.6,122.7,121,120.3,118.1,116.3
+South Africa,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,321.6,276,242.6,253.2,235.6,183.6,231.5,251,273.4,270.1,272.2
+South Africa,eCommerce,Average Revenue per User,Media,USD (US$),Statista,33.66,31.18,32.16,35.16,35.01,29.6,29.85,29.16,28.2,27.63,27.03
+South Africa,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,180.3,157.7,140,160.5,152.5,128,131.8,134,138.1,135.1,133.7
+South Africa,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,11.573,11.466,11.933,12.102,12.201,12.31,12.435,12.563,12.691,,
+South Africa,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,37.308,37.887,37.788,38.062,38.337,38.591,38.845,39.053,39.262,,
+South Africa,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,18.643,18.47,17.104,15.975,14.937,14.041,13.272,12.597,11.922,,
+South Africa,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,3.472,3.44,3.58,3.63,3.686,3.718,3.72,3.722,3.724,,
+South Africa,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,0.94,0.931,0.955,0.978,1,1.02,1.038,1.053,1.069,,
+South Africa,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,19.191,19.014,19.491,19.975,20.42,20.818,21.185,21.501,21.817,,
+South Africa,eCommerce,Revenue Share Payment Types,Other,percent,Statista,8.873,8.791,9.149,9.278,9.419,9.503,9.506,9.511,9.516,,
+South Africa,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,eCommerce,Online & Offline Split,Offline,percent,Statista,95.973,95.947,95.791,94.275,94.312,93.692,93.074,92.254,91.218,,
+South Africa,eCommerce,Online & Offline Split,Online,percent,Statista,4.027,4.053,4.209,5.725,5.688,6.308,6.926,7.746,8.782,,
+South Africa,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,58.849,56.693,56.11,55.064,53.884,52.798,51.585,50.625,49.605,,
+South Africa,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,41.151,43.307,43.89,44.936,46.116,47.202,48.415,49.375,50.395,,
+South Africa,eCommerce,Users,Total,million users,Statista,16.575,18.436,20.258,21.926,24.696,27.431,29.821,31.555,33.351,35.503,37.558
+South Africa,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,3.663,4.478,5.408,6.373,7.493,8.837,10.178,11.409,12.713,13.836,14.995
+South Africa,eCommerce,Users,Beverages,million users,Statista,2.136,2.559,3.047,3.558,4.102,4.669,5.251,5.726,6.223,6.734,7.239
+South Africa,eCommerce,Users,Electronics,million users,Statista,5.583,6.795,8.245,9.825,11.606,13.452,15.185,16.688,18.259,19.849,21.422
+South Africa,eCommerce,Users,Fashion,million users,Statista,5.527,6.66,8.01,9.506,11.171,12.973,14.787,16.604,18.505,20.103,21.761
+South Africa,eCommerce,Users,Food,million users,Statista,2.008,2.406,2.865,3.346,3.857,4.39,4.937,5.385,5.851,6.332,6.807
+South Africa,eCommerce,Users,Furniture,million users,Statista,2.571,3.116,3.753,4.461,5.235,6.122,6.947,7.649,8.381,9.112,9.838
+South Africa,eCommerce,Users,Media,million users,Statista,4.871,5.644,5.973,6.851,7.898,8.99,10.109,10.922,11.767,12.653,13.525
+South Africa,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,4.526,5.426,6.52,7.701,9.01,10.459,11.938,13.148,14.411,15.656,16.898
+South Africa,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,6.425,7.748,9.235,10.745,12.48,14.546,16.563,18.362,20.243,21.804,23.392
+South Africa,eCommerce,Penetration Rate,Beverages,percent,Statista,3.746,4.428,5.203,6,6.832,7.685,8.544,9.216,9.909,10.612,11.293
+South Africa,eCommerce,Penetration Rate,eCommerce,percent,Statista,29.074,31.901,34.594,36.969,41.131,45.149,48.527,50.786,53.104,55.946,58.592
+South Africa,eCommerce,Penetration Rate,Electronics,percent,Statista,9.793,11.758,14.08,16.566,19.33,22.14,24.71,26.858,29.074,31.278,33.42
+South Africa,eCommerce,Penetration Rate,Fashion,percent,Statista,9.694,11.524,13.678,16.029,18.605,21.353,24.062,26.722,29.465,31.679,33.949
+South Africa,eCommerce,Penetration Rate,Food,percent,Statista,3.523,4.164,4.892,5.641,6.424,7.226,8.034,8.666,9.317,9.979,10.619
+South Africa,eCommerce,Penetration Rate,Furniture,percent,Statista,4.51,5.392,6.408,7.522,8.719,10.076,11.305,12.31,13.345,14.359,15.348
+South Africa,eCommerce,Penetration Rate,Media,percent,Statista,8.544,9.766,10.199,11.551,13.153,14.797,16.451,17.577,18.737,19.939,21.099
+South Africa,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,7.938,9.389,11.134,12.984,15.006,17.215,19.426,21.16,22.946,24.671,26.361
+South Africa,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,24.31,,,,,,
+South Africa,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,35.348,,,,,,
+South Africa,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.23,,,,,,
+South Africa,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,12.484,,,,,,
+South Africa,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,2.628,,,,,,
+South Africa,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.21,,,,,,
+South Africa,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.79,,,,,,
+South Africa,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,44.562,,,,,,
+South Africa,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,24.471,,,,,,
+South Africa,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.967,,,,,,
+South Africa,Electronics,Revenue,Total,billion USD (US$),Statista,1.339,1.387,1.44,1.719,1.821,1.809,2.565,3.173,3.928,4.202,4.581
+South Africa,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.891,0.917,0.94,1.141,1.196,1.135,1.692,2.103,2.613,2.792,3.043
+South Africa,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.448,0.471,0.5,0.578,0.625,0.674,0.873,1.07,1.315,1.41,1.538
+South Africa,Electronics,Revenue Change,Total,percent,Statista,,3.585,3.821,19.375,5.934,-0.659,41.791,23.704,23.795,6.976,9.02
+South Africa,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,2.918,2.498,21.409,4.82,-5.1,49.075,24.291,24.251,6.85,8.99
+South Africa,Electronics,Revenue Change,Household Appliances,percent,Statista,,5.021,6.226,15.623,8.149,7.871,29.423,22.608,22.897,7.224,9.078
+South Africa,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,239.8,204.2,174.6,174.9,156.9,134.5,168.9,190.2,215.1,211.7,213.8
+South Africa,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,188.7,154.7,127.1,127.6,112,90.88,119.4,134.8,152.9,149.7,150.8
+South Africa,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,102.6,93.03,84.9,84.05,78.15,74.05,86.02,96.69,109.4,108.6,110.3
+South Africa,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,Electronics,Online & Offline Split,Offline,percent,Statista,86.903,87.037,86.852,85.518,85.351,81.766,78.399,74.189,69.503,,
+South Africa,Electronics,Online & Offline Split,Online,percent,Statista,13.097,12.963,13.148,14.482,14.649,18.234,21.601,25.811,30.497,,
+South Africa,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Electronics,Users by Segment,Total,million users,Statista,5.583,6.795,8.245,9.825,11.606,13.452,15.185,16.688,18.259,19.849,21.422
+South Africa,Electronics,Users by Segment,Consumer Electronics,million users,Statista,4.721,5.926,7.391,8.941,10.678,12.487,14.17,15.6,17.094,18.647,20.176
+South Africa,Electronics,Users by Segment,Household Appliances,million users,Statista,4.366,5.059,5.889,6.877,8,9.106,10.146,11.066,12.025,12.987,13.941
+South Africa,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,8.282,10.254,12.622,15.075,17.784,20.552,23.059,25.107,27.218,29.385,31.475
+South Africa,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,9.793,11.758,14.08,16.566,19.33,22.14,24.71,26.858,29.074,31.278,33.42
+South Africa,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,7.658,8.753,10.056,11.596,13.323,14.988,16.51,17.809,19.147,20.465,21.748
+South Africa,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,23.708,,,,,,
+South Africa,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,36.185,,,,,,
+South Africa,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.025,,,,,,
+South Africa,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,11.765,,,,,,
+South Africa,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,2.32,,,,,,
+South Africa,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,36.185,,,,,,
+South Africa,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,63.815,,,,,,
+South Africa,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,46.045,,,,,,
+South Africa,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,23.732,,,,,,
+South Africa,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.223,,,,,,
+South Africa,Consumer Electronics,Revenue,Total,million USD (US$),Statista,890.9,916.9,939.8,"1,141","1,196","1,135","1,692","2,103","2,613","2,792","3,043"
+South Africa,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,176.6,189,192.6,234.8,240.1,231.8,351.3,443.6,559.2,601.4,660.2
+South Africa,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,162.5,167.2,171.4,208.1,218.1,207,308.6,383.7,476.7,512,560.6
+South Africa,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,324.8,329.4,337.3,397.4,416.7,397.3,594.8,741.8,923.7,979.6,"1,062"
+South Africa,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,219,223.3,230.3,290.5,310.6,289.2,423.8,518.4,634.6,678.8,738.3
+South Africa,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,7.882,7.992,8.186,9.939,10.46,9.426,13.4,15.97,19.15,20.43,22.15
+South Africa,Consumer Electronics,Revenue Change,Total,percent,Statista,,2.918,2.498,21.409,4.82,-5.1,49.075,24.291,24.251,6.85,8.99
+South Africa,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.022,1.905,21.911,2.257,-3.457,51.553,26.274,26.06,7.546,9.777
+South Africa,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,2.892,2.512,21.412,4.805,-5.089,49.082,24.336,24.238,7.405,9.492
+South Africa,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,1.416,2.398,17.818,4.857,-4.656,49.711,24.714,24.521,6.052,8.412
+South Africa,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,1.963,3.135,26.14,6.919,-6.89,46.542,22.322,22.415,6.965,8.765
+South Africa,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,1.396,2.427,21.415,5.242,-9.885,42.16,19.179,19.912,6.684,8.419
+South Africa,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,188.7,154.7,127.1,127.6,112,90.88,119.4,134.8,152.9,149.7,150.8
+South Africa,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,53.45,45.56,37.22,37.51,32.12,26.52,35.42,40.62,46.73,46.07,46.75
+South Africa,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,44.7,36.65,30.12,30.22,26.53,21.53,28.28,31.94,36.21,35.66,36.08
+South Africa,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,86,69.47,57.05,55.56,48.77,39.77,52.47,59.43,67.54,65.67,65.8
+South Africa,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,116,94.19,77.88,81.24,72.71,57.91,74.77,83.08,92.81,91,91.49
+South Africa,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,5.565,4.495,3.692,3.706,3.265,2.516,3.153,3.413,3.735,3.652,3.659
+South Africa,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+South Africa,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+South Africa,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,86.852,87.159,87.076,85.346,85.444,81.802,78.463,74.17,69.427,,
+South Africa,Consumer Electronics,Online & Offline Split,Online,percent,Statista,13.148,12.841,12.924,14.654,14.556,18.198,21.537,25.83,30.573,,
+South Africa,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Consumer Electronics,Users,Total,million users,Statista,4.721,5.926,7.391,8.941,10.678,12.487,14.17,15.6,17.094,18.647,20.176
+South Africa,Consumer Electronics,Users,Computing,million users,Statista,3.305,4.148,5.174,6.258,7.475,8.741,9.919,10.92,11.966,13.053,14.123
+South Africa,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,3.635,4.563,5.691,6.884,8.222,9.615,10.911,12.012,13.162,14.359,15.535
+South Africa,Consumer Electronics,Users,Telephony,million users,Statista,3.777,4.741,5.913,7.153,8.542,9.989,11.336,12.48,13.675,14.918,16.141
+South Africa,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,1.889,2.37,2.957,3.576,4.271,4.995,5.668,6.24,6.838,7.459,8.07
+South Africa,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.416,1.778,2.217,2.682,3.203,3.746,4.251,4.68,5.128,5.594,6.053
+South Africa,Consumer Electronics,Penetration Rate,Computing,percent,Statista,5.797,7.178,8.836,10.552,12.449,14.386,16.141,17.575,19.053,20.57,22.033
+South Africa,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,8.282,10.254,12.622,15.075,17.784,20.552,23.059,25.107,27.218,29.385,31.475
+South Africa,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,6.377,7.896,9.719,11.608,13.694,15.825,17.755,19.333,20.958,22.627,24.236
+South Africa,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,6.625,8.203,10.098,12.06,14.227,16.442,18.447,20.086,21.775,23.508,25.18
+South Africa,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,3.313,4.102,5.049,6.03,7.114,8.221,9.223,10.043,10.887,11.754,12.59
+South Africa,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,2.484,3.076,3.787,4.522,5.335,6.166,6.918,7.532,8.166,8.816,9.443
+South Africa,Household Appliances,Revenue,Total,billion USD (US$),Statista,0.448,0.471,0.5,0.578,0.625,0.674,0.873,1.07,1.315,1.41,1.538
+South Africa,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.23,0.241,0.257,0.297,0.321,0.346,0.447,0.547,0.672,0.72,0.784
+South Africa,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.098,0.103,0.109,0.126,0.136,0.147,0.19,0.233,0.287,0.308,0.336
+South Africa,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.12,0.127,0.134,0.155,0.168,0.181,0.235,0.289,0.356,0.382,0.417
+South Africa,Household Appliances,Revenue Change,Total,percent,Statista,,5.021,6.226,15.623,8.149,7.871,29.423,22.608,22.897,7.224,9.078
+South Africa,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,5.046,6.211,15.673,8.156,7.728,29.303,22.483,22.776,7.111,8.917
+South Africa,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,4.994,6.238,15.596,8.175,7.85,29.456,22.596,22.932,7.287,9.197
+South Africa,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,4.979,6.245,15.551,8.178,8.036,29.697,22.855,23.098,7.36,9.21
+South Africa,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,102.6,93.03,84.9,84.05,78.15,74.05,86.02,96.69,109.4,108.6,110.3
+South Africa,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,131.7,119.3,108.9,107.8,100.3,94.91,110.1,123.7,139.8,138.6,140.6
+South Africa,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,111.9,101.4,92.56,91.64,85.2,80.73,93.78,105.4,119.2,118.5,120.5
+South Africa,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,34.49,31.26,28.53,28.23,26.25,24.92,29,32.66,37.01,36.79,37.43
+South Africa,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+South Africa,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+South Africa,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+South Africa,Household Appliances,Online & Offline Split,Offline,percent,Statista,87.004,86.792,86.409,85.845,85.17,81.695,78.273,74.227,69.654,,
+South Africa,Household Appliances,Online & Offline Split,Online,percent,Statista,12.996,13.208,13.591,14.155,14.83,18.305,21.727,25.773,30.346,,
+South Africa,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Household Appliances,Users,Total,million users,Statista,4.366,5.059,5.889,6.877,8,9.106,10.146,11.066,12.025,12.987,13.941
+South Africa,Household Appliances,Users,Major Appliances,million users,Statista,1.746,2.023,2.355,2.751,3.2,3.642,4.058,4.426,4.81,5.195,5.576
+South Africa,Household Appliances,Users,Other Household Appliances,million users,Statista,0.873,1.012,1.178,1.375,1.6,1.821,2.029,2.213,2.405,2.597,2.788
+South Africa,Household Appliances,Users,Small Appliances,million users,Statista,3.493,4.047,4.711,5.502,6.4,7.285,8.117,8.852,9.62,10.389,11.153
+South Africa,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,7.658,8.753,10.056,11.596,13.323,14.988,16.51,17.809,19.147,20.465,21.748
+South Africa,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,3.063,3.501,4.022,4.638,5.329,5.995,6.604,7.124,7.659,8.186,8.699
+South Africa,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,1.532,1.751,2.011,2.319,2.665,2.998,3.302,3.562,3.829,4.093,4.35
+South Africa,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,6.127,7.003,8.045,9.277,10.659,11.991,13.208,14.247,15.318,16.372,17.399
+South Africa,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,21.538,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,37.582,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.264,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,11.648,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,2.97,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,54.176,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,45.824,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,42.308,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.308,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.385,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,481,515.4,558.2,686.1,760.2,819.9,"1,066","1,321","1,649","1,777","1,949"
+South Africa,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,43.52,47.46,52.19,63.86,71.52,74.97,94.42,112.8,135.4,145.8,158.9
+South Africa,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,110.7,115.7,122.2,159.7,174.7,188.5,243.9,298.9,367.2,396.1,433.7
+South Africa,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,65.16,70.85,77.84,96.16,107.9,131,192.2,268.1,376.4,407.7,455.8
+South Africa,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,261.6,281.3,306,366.4,406,425.4,535.8,640.8,770.2,827.1,900.1
+South Africa,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,7.152,8.304,22.913,10.8,7.853,30.016,23.921,24.83,7.762,9.679
+South Africa,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,9.053,9.966,22.361,11.995,4.824,25.944,19.466,20.035,7.681,8.985
+South Africa,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,4.517,5.618,30.687,9.393,7.899,29.39,22.55,22.85,7.87,9.493
+South Africa,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,8.732,9.866,23.535,12.209,21.409,46.718,39.49,40.395,8.316,11.798
+South Africa,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,7.531,8.781,19.739,10.808,4.778,25.952,19.597,20.194,7.388,8.826
+South Africa,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,131.3,115.1,103.2,107.7,101.4,92.77,104.8,115.8,129.7,128.4,129.9
+South Africa,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,14.85,13.25,12.06,12.53,11.93,10.6,11.6,12.36,13.32,13.17,13.25
+South Africa,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,47.23,40.37,35.31,39.17,36.44,33.32,37.44,40.94,45.13,44.73,45.19
+South Africa,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,46.81,41.64,37.88,39.71,37.89,39.02,49.68,61.85,77.92,77.55,80
+South Africa,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,115.2,101.3,91.26,92.73,87.39,77.64,84.91,90.59,97.71,96.42,96.82
+South Africa,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,93.009,92.797,92.503,90.72,90.354,89.13,87.524,85.425,82.889,,
+South Africa,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,6.991,7.203,7.497,9.28,9.646,10.87,12.476,14.575,17.111,,
+South Africa,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,3.663,4.478,5.408,6.373,7.493,8.837,10.178,11.409,12.713,13.836,14.995
+South Africa,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,2.93,3.582,4.326,5.098,5.995,7.07,8.143,9.127,10.171,11.069,11.996
+South Africa,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,2.344,2.866,3.461,4.079,4.796,5.656,6.514,7.302,8.136,8.855,9.597
+South Africa,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,1.392,1.702,2.055,2.422,2.847,3.358,3.868,4.336,4.831,5.258,5.698
+South Africa,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,2.271,2.776,3.353,3.951,4.646,5.479,6.311,7.074,7.882,8.579,9.297
+South Africa,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,6.425,7.748,9.235,10.745,12.48,14.546,16.563,18.362,20.243,21.804,23.392
+South Africa,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,5.14,6.198,7.388,8.596,9.984,11.637,13.25,14.69,16.194,17.443,18.714
+South Africa,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,4.112,4.959,5.91,6.877,7.987,9.309,10.6,11.752,12.956,13.954,14.971
+South Africa,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,2.442,2.944,3.509,4.083,4.742,5.527,6.294,6.978,7.692,8.285,8.889
+South Africa,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,3.984,4.804,5.726,6.662,7.738,9.018,10.269,11.385,12.551,13.518,14.503
+South Africa,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,20.28,,,,,,
+South Africa,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,37.296,,,,,,
+South Africa,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,28.671,,,,,,
+South Africa,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,10.956,,,,,,
+South Africa,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,2.8,,,,,,
+South Africa,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,63.403,,,,,,
+South Africa,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,36.597,,,,,,
+South Africa,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,42.896,,,,,,
+South Africa,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.049,,,,,,
+South Africa,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.055,,,,,,
+South Africa,Personal Care,Revenue,Total,million USD (US$),Statista,261.6,281.3,306,366.4,406,425.4,535.8,640.8,770.2,827.1,900.1
+South Africa,Personal Care,Revenue,Body Care,million USD (US$),Statista,54.4,58.39,63.39,75.4,83.38,88.29,112.3,135.5,164.2,176.5,192.4
+South Africa,Personal Care,Revenue,Eye Care,million USD (US$),Statista,9.364,10.18,11.18,13.94,15.65,14.57,16.32,17.39,18.65,19.52,20.42
+South Africa,Personal Care,Revenue,Hair Care,million USD (US$),Statista,41.11,44.12,47.91,57.1,63.16,66.33,83.68,100.1,120.3,129.2,140.6
+South Africa,Personal Care,Revenue,Oral Care,million USD (US$),Statista,17.38,18.65,20.25,24.18,26.74,28.14,35.56,42.63,51.31,55.13,60.03
+South Africa,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,107.5,115.6,125.7,150.5,166.8,174.7,220.1,263.2,316.4,339.8,369.9
+South Africa,Personal Care,Revenue,Skin Care,million USD (US$),Statista,31.9,34.43,37.55,45.26,50.29,53.31,67.86,81.94,99.36,106.9,116.7
+South Africa,Personal Care,Revenue Change,Total,percent,Statista,,7.531,8.781,19.739,10.808,4.778,25.952,19.597,20.194,7.388,8.826
+South Africa,Personal Care,Revenue Change,Body Care,percent,Statista,,7.335,8.563,18.946,10.584,5.889,27.194,20.659,21.181,7.491,9.008
+South Africa,Personal Care,Revenue Change,Eye Care,percent,Statista,,8.714,9.823,24.687,12.267,-6.901,12.011,6.556,7.246,4.665,4.611
+South Africa,Personal Care,Revenue Change,Hair Care,percent,Statista,,7.322,8.59,19.182,10.613,5.019,26.157,19.622,20.18,7.398,8.824
+South Africa,Personal Care,Revenue Change,Oral Care,percent,Statista,,7.307,8.579,19.407,10.587,5.236,26.368,19.882,20.361,7.445,8.888
+South Africa,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,7.535,8.737,19.73,10.831,4.736,25.987,19.582,20.213,7.396,8.858
+South Africa,Personal Care,Revenue Change,Skin Care,percent,Statista,,7.931,9.062,20.533,11.114,6.005,27.293,20.749,21.259,7.589,9.167
+South Africa,Personal Care,Average Revenue per User,Total,USD (US$),Statista,115.2,101.3,91.26,92.73,87.39,77.64,84.91,90.59,97.71,96.42,96.82
+South Africa,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,35.22,30.93,27.81,28.06,26.39,23.7,26.17,28.17,30.63,30.25,30.44
+South Africa,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,8.247,7.331,6.667,7.058,6.738,5.316,5.172,4.916,4.731,4.55,4.393
+South Africa,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,34.81,30.57,27.48,27.79,26.14,23.28,25.5,27.22,29.35,28.97,29.09
+South Africa,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,15.62,13.71,12.33,12.49,11.75,10.48,11.5,12.3,13.28,13.11,13.18
+South Africa,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,105.2,92.51,83.3,84.65,79.78,70.87,77.51,82.7,89.19,88.03,88.42
+South Africa,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,31.93,28.19,25.45,26.03,24.6,22.11,24.44,26.33,28.65,28.33,28.52
+South Africa,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,Personal Care,Online & Offline Split,Offline,percent,Statista,90.177,89.844,89.405,86.741,86.357,85.141,83.7,81.645,79.27,,
+South Africa,Personal Care,Online & Offline Split,Online,percent,Statista,9.823,10.156,10.595,13.259,13.643,14.859,16.3,18.355,20.73,,
+South Africa,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Personal Care,Users,Total,million users,Statista,2.271,2.776,3.353,3.951,4.646,5.479,6.311,7.074,7.882,8.579,9.297
+South Africa,Personal Care,Users,Body Care,million users,Statista,1.544,1.888,2.28,2.687,3.159,3.726,4.291,4.81,5.36,5.833,6.322
+South Africa,Personal Care,Users,Eye Care,million users,Statista,1.136,1.388,1.676,1.976,2.323,2.74,3.155,3.537,3.941,4.289,4.648
+South Africa,Personal Care,Users,Hair Care,million users,Statista,1.181,1.444,1.743,2.055,2.416,2.849,3.281,3.678,4.099,4.461,4.834
+South Africa,Personal Care,Users,Oral Care,million users,Statista,1.113,1.36,1.643,1.936,2.276,2.685,3.092,3.466,3.862,4.204,4.555
+South Africa,Personal Care,Users,Other Personal Care,million users,Statista,1.022,1.249,1.509,1.778,2.091,2.466,2.84,3.183,3.547,3.86,4.184
+South Africa,Personal Care,Users,Skin Care,million users,Statista,0.999,1.222,1.475,1.739,2.044,2.411,2.777,3.112,3.468,3.775,4.091
+South Africa,Personal Care,Penetration Rate,Body Care,percent,Statista,2.709,3.267,3.893,4.53,5.262,6.132,6.983,7.742,8.535,9.193,9.862
+South Africa,Personal Care,Penetration Rate,Eye Care,percent,Statista,1.992,2.402,2.863,3.331,3.869,4.509,5.134,5.692,6.275,6.759,7.252
+South Africa,Personal Care,Penetration Rate,Hair Care,percent,Statista,2.072,2.498,2.977,3.464,4.024,4.69,5.34,5.92,6.526,7.03,7.542
+South Africa,Personal Care,Penetration Rate,Oral Care,percent,Statista,1.952,2.354,2.806,3.264,3.791,4.419,5.032,5.578,6.15,6.624,7.107
+South Africa,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,1.793,2.162,2.576,2.998,3.482,4.058,4.621,5.123,5.648,6.083,6.526
+South Africa,Personal Care,Penetration Rate,Personal Care,percent,Statista,3.984,4.804,5.726,6.662,7.738,9.018,10.269,11.385,12.551,13.518,14.503
+South Africa,Personal Care,Penetration Rate,Skin Care,percent,Statista,1.753,2.114,2.519,2.931,3.405,3.968,4.518,5.009,5.522,5.948,6.381
+South Africa,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,14.85,13.25,12.06,12.53,11.93,10.6,11.6,12.36,13.32,13.17,13.25
+South Africa,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,13.7,12.13,10.98,11.25,10.66,9.535,10.5,11.26,12.2,12.07,12.14
+South Africa,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,1.47,1.415,1.363,1.591,1.588,1.336,1.382,1.39,1.411,1.403,1.402
+South Africa,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,17.52,15.63,14.23,14.78,14.07,12.51,13.68,14.58,15.71,15.54,15.63
+South Africa,Beauty Care,Revenue,Total,million USD (US$),Statista,43.52,47.46,52.19,63.86,71.52,74.97,94.42,112.8,135.4,145.8,158.9
+South Africa,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,28.1,30.42,33.26,40.16,44.71,47.19,59.82,71.94,86.88,93.49,101.9
+South Africa,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,2.585,3.041,3.539,4.866,5.712,5.669,6.75,7.613,8.61,9.319,10.09
+South Africa,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,12.84,14,15.39,18.83,21.09,22.11,27.85,33.28,39.94,43.01,46.87
+South Africa,Beauty Care,Revenue Change,Total,percent,Statista,,9.053,9.966,22.361,11.995,4.824,25.944,19.466,20.035,7.681,8.985
+South Africa,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,8.256,9.336,20.746,11.33,5.547,26.764,20.261,20.767,7.608,8.996
+South Africa,Beauty Care,Revenue Change,Fragrances,percent,Statista,,17.64,16.376,37.496,17.386,-0.753,19.069,12.785,13.096,8.235,8.273
+South Africa,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,9.034,9.929,22.352,12.002,4.836,25.961,19.497,20.012,7.687,8.975
+South Africa,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,Beauty Care,Online & Offline Split,Offline,percent,Statista,92.241,92.001,91.675,88.788,88.708,87.866,86.797,85.241,83.406,,
+South Africa,Beauty Care,Online & Offline Split,Online,percent,Statista,7.759,7.999,8.325,11.212,11.292,12.134,13.203,14.759,16.594,,
+South Africa,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Beauty Care,Users by Segment,Total,million users,Statista,2.93,3.582,4.326,5.098,5.995,7.07,8.143,9.127,10.171,11.069,11.996
+South Africa,Beauty Care,Users by Segment,Cosmetics,million users,Statista,2.051,2.508,3.028,3.569,4.196,4.949,5.7,6.389,7.119,7.748,8.397
+South Africa,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.758,2.149,2.596,3.059,3.597,4.242,4.886,5.476,6.102,6.641,7.197
+South Africa,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.733,0.896,1.082,1.275,1.499,1.767,2.036,2.282,2.543,2.767,2.999
+South Africa,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,5.14,6.198,7.388,8.596,9.984,11.637,13.25,14.69,16.194,17.443,18.714
+South Africa,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,3.598,4.339,5.171,6.017,6.989,8.146,9.275,10.283,11.336,12.21,13.1
+South Africa,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,3.084,3.719,4.433,5.158,5.99,6.982,7.95,8.814,9.717,10.466,11.228
+South Africa,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.285,1.55,1.847,2.149,2.496,2.909,3.313,3.672,4.049,4.361,4.678
+South Africa,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,47.23,40.37,35.31,39.17,36.44,33.32,37.44,40.94,45.13,44.73,45.19
+South Africa,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,49.99,42.72,37.34,40.35,37.3,34.05,38.18,41.65,45.79,45.32,45.73
+South Africa,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,20.98,17.93,15.67,17.01,15.73,14.59,16.61,18.4,20.53,20.35,20.6
+South Africa,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,19.85,16.96,14.83,16.06,14.84,13.5,15.09,16.4,17.97,17.78,17.93
+South Africa,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,1.801,1.539,1.346,3.088,3.233,2.861,3.11,3.287,3.501,3.545,3.608
+South Africa,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,1.151,1.047,0.971,1.064,1.036,1.083,1.402,1.777,2.279,2.272,2.351
+South Africa,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,60.56,51.77,45.28,50.22,46.73,42.73,48.01,52.49,57.88,57.35,57.95
+South Africa,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,12.77,10.91,9.54,10.33,9.547,8.622,9.564,10.32,11.23,11.1,11.18
+South Africa,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,5.459,4.665,4.078,4.423,4.09,3.74,4.201,4.59,5.054,5.003,5.051
+South Africa,Health Care,Revenue,Total,million USD (US$),Statista,110.7,115.7,122.2,159.7,174.7,188.5,243.9,298.9,367.2,396.1,433.7
+South Africa,Health Care,Revenue,Analgesics,million USD (US$),Statista,23.44,24.48,25.85,32.92,35.77,38.52,49.75,60.83,74.52,80.26,87.77
+South Africa,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,20.66,21.58,22.78,29.14,31.68,34.65,45.44,56.42,70.17,75.68,83.03
+South Africa,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,13.96,14.58,15.4,19.65,21.36,22.91,29.48,35.92,43.85,47.22,51.61
+South Africa,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,1.689,1.765,1.863,5.038,6.202,6.473,8.103,9.6,11.39,12.56,13.85
+South Africa,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.54,0.6,0.672,0.868,0.994,1.225,1.827,2.595,3.709,4.025,4.513
+South Africa,Health Care,Revenue,Other Health Care,million USD (US$),Statista,32.66,34.12,36.04,47.11,51.54,55.59,71.93,88.16,108.3,116.8,127.9
+South Africa,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,11.38,11.88,12.55,16.01,17.4,18.53,23.67,28.64,34.72,37.36,40.77
+South Africa,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,6.399,6.684,7.056,9.019,9.806,10.58,13.68,16.76,20.56,22.15,24.24
+South Africa,Health Care,Revenue Change,Total,percent,Statista,,4.517,5.618,30.687,9.393,7.899,29.39,22.55,22.85,7.87,9.493
+South Africa,Health Care,Revenue Change,Analgesics,percent,Statista,,4.437,5.596,27.35,8.657,7.688,29.154,22.271,22.505,7.703,9.357
+South Africa,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,4.453,5.561,27.919,8.717,9.375,31.14,24.164,24.371,7.852,9.712
+South Africa,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,4.441,5.624,27.597,8.702,7.257,28.677,21.845,22.077,7.685,9.297
+South Africa,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,4.5,5.552,170.424,23.104,4.37,25.182,18.475,18.646,10.272,10.271
+South Africa,Health Care,Revenue Change,Incontinence,percent,Statista,,11.113,12.052,29.173,14.454,23.264,49.143,42.036,42.929,8.52,12.124
+South Africa,Health Care,Revenue Change,Other Health Care,percent,Statista,,4.47,5.627,30.716,9.404,7.858,29.394,22.564,22.845,7.849,9.503
+South Africa,Health Care,Revenue Change,Skin Treatment,percent,Statista,,4.394,5.64,27.57,8.682,6.494,27.739,20.997,21.229,7.604,9.127
+South Africa,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,4.454,5.566,27.82,8.726,7.893,29.301,22.515,22.673,7.733,9.436
+South Africa,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,Health Care,Online & Offline Split,Offline,percent,Statista,89.383,89.425,89.372,86.332,86.233,84.669,82.639,80.226,77.486,,
+South Africa,Health Care,Online & Offline Split,Online,percent,Statista,10.617,10.575,10.628,13.668,13.767,15.331,17.361,19.774,22.514,,
+South Africa,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Health Care,Users by Segment,Total,million users,Statista,2.344,2.866,3.461,4.079,4.796,5.656,6.514,7.302,8.136,8.855,9.597
+South Africa,Health Care,Users by Segment,Analgesics,million users,Statista,0.469,0.573,0.692,0.816,0.959,1.131,1.303,1.46,1.627,1.771,1.919
+South Africa,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.985,1.204,1.454,1.713,2.014,2.376,2.736,3.067,3.417,3.719,4.031
+South Africa,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.703,0.86,1.038,1.224,1.439,1.697,1.954,2.191,2.441,2.657,2.879
+South Africa,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.938,1.146,1.384,1.631,1.918,2.262,2.606,2.921,3.255,3.542,3.839
+South Africa,Health Care,Users by Segment,Incontinence,million users,Statista,0.469,0.573,0.692,0.816,0.959,1.131,1.303,1.46,1.627,1.771,1.919
+South Africa,Health Care,Users by Segment,Other Health Care,million users,Statista,0.539,0.659,0.796,0.938,1.103,1.301,1.498,1.679,1.871,2.037,2.207
+South Africa,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.891,1.089,1.315,1.55,1.822,2.149,2.475,2.775,3.092,3.365,3.647
+South Africa,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,1.172,1.433,1.73,2.039,2.398,2.828,3.257,3.651,4.068,4.428,4.798
+South Africa,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,0.822,0.992,1.182,1.375,1.597,1.862,2.12,2.35,2.591,2.791,2.994
+South Africa,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,1.727,2.083,2.482,2.888,3.355,3.91,4.452,4.936,5.441,5.861,6.288
+South Africa,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,1.234,1.488,1.773,2.063,2.396,2.793,3.18,3.526,3.887,4.186,4.491
+South Africa,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,1.645,1.983,2.364,2.751,3.195,3.724,4.24,4.701,5.182,5.582,5.988
+South Africa,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,4.112,4.959,5.91,6.877,7.987,9.309,10.6,11.752,12.956,13.954,14.971
+South Africa,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,0.822,0.992,1.182,1.375,1.597,1.862,2.12,2.35,2.591,2.791,2.994
+South Africa,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,0.946,1.14,1.359,1.582,1.837,2.141,2.438,2.703,2.98,3.21,3.443
+South Africa,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,1.563,1.884,2.246,2.613,3.035,3.538,4.028,4.466,4.923,5.303,5.689
+South Africa,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,2.056,2.479,2.955,3.439,3.994,4.655,5.3,5.876,6.478,6.977,7.486
+South Africa,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,46.81,41.64,37.88,39.71,37.89,39.02,49.68,61.85,77.92,77.55,80
+South Africa,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,3.289,2.883,2.587,2.813,2.664,2.717,3.42,4.206,5.231,5.208,5.365
+South Africa,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,4.888,4.283,3.843,4.329,4.116,4.186,5.253,6.44,7.985,7.957,8.197
+South Africa,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,19.38,17.62,16.35,16.97,16.42,17.19,22.28,28.27,36.3,36.15,37.39
+South Africa,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,22.4,19.63,17.61,17.78,16.7,17.08,21.56,26.58,33.15,32.94,33.9
+South Africa,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,96.93,86.21,78.44,82.21,78.45,80.79,102.9,128.1,161.3,160.6,165.6
+South Africa,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,2.256,2.051,1.903,2.22,2.176,2.246,2.872,3.595,4.552,4.545,4.7
+South Africa,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,9.177,8.042,7.216,7.166,6.718,6.857,8.638,10.63,13.23,13.14,13.52
+South Africa,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,14.33,13.03,12.09,13.19,12.83,13.32,17.12,21.54,27.43,27.35,28.27
+South Africa,Household Care,Revenue,Total,million USD (US$),Statista,65.16,70.85,77.84,96.16,107.9,131,192.2,268.1,376.4,407.7,455.8
+South Africa,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,1.923,2.06,2.232,2.862,3.186,3.832,5.556,7.658,10.61,11.5,12.84
+South Africa,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,3.062,3.28,3.554,4.718,5.274,6.325,9.143,12.56,17.36,18.83,21.02
+South Africa,Household Care,Revenue,Household Paper,million USD (US$),Statista,6.205,6.894,7.726,9.45,10.75,13.27,19.82,28.19,40.33,43.72,49
+South Africa,Household Care,Revenue,Laundry Care,million USD (US$),Statista,12.47,13.36,14.48,17.22,19.02,22.94,33.35,46.09,64.05,69.27,77.28
+South Africa,Household Care,Revenue,Other Household Care,million USD (US$),Statista,29.68,32.27,35.46,43.8,49.14,59.69,87.53,122.1,171.5,185.7,207.6
+South Africa,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,1.005,1.117,1.251,1.72,1.982,2.414,3.555,4.987,7.038,7.647,8.57
+South Africa,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,3.832,4.105,4.449,5.206,5.739,6.908,10.02,13.82,19.17,20.72,23.11
+South Africa,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,6.983,7.759,8.695,11.18,12.79,15.65,23.18,32.69,46.38,50.32,56.39
+South Africa,Household Care,Revenue Change,Total,percent,Statista,,8.732,9.866,23.535,12.209,21.409,46.718,39.49,40.395,8.316,11.798
+South Africa,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,7.124,8.35,28.226,11.321,20.276,44.99,37.833,38.548,8.388,11.652
+South Africa,Household Care,Revenue Change,Household Cleaners,percent,Statista,,7.12,8.354,32.752,11.785,19.928,44.553,37.373,38.217,8.468,11.63
+South Africa,Household Care,Revenue Change,Household Paper,percent,Statista,,11.104,12.068,22.314,13.757,23.442,49.359,42.23,43.065,8.406,12.077
+South Africa,Household Care,Revenue Change,Laundry Care,percent,Statista,,7.137,8.383,18.923,10.453,20.61,45.379,38.201,38.967,8.15,11.563
+South Africa,Household Care,Revenue Change,Other Household Care,percent,Statista,,8.726,9.885,23.519,12.192,21.469,46.641,39.495,40.459,8.28,11.793
+South Africa,Household Care,Revenue Change,Paper Tissues,percent,Statista,,11.144,11.996,37.49,15.233,21.796,47.266,40.281,41.127,8.653,12.07
+South Africa,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,7.124,8.38,17.015,10.238,20.369,45.049,37.924,38.712,8.086,11.535
+South Africa,Household Care,Revenue Change,Toilet Paper,percent,Statista,,11.113,12.063,28.58,14.401,22.361,48.115,41.027,41.878,8.495,12.063
+South Africa,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+South Africa,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+South Africa,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+South Africa,Household Care,Online & Offline Split,Offline,percent,Statista,97.507,97.373,97.201,96.675,96.406,95.374,93.879,91.86,89.17,,
+South Africa,Household Care,Online & Offline Split,Online,percent,Statista,2.493,2.627,2.799,3.325,3.594,4.626,6.121,8.14,10.83,,
+South Africa,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Household Care,Users by Segment,Total,million users,Statista,1.392,1.702,2.055,2.422,2.847,3.358,3.868,4.336,4.831,5.258,5.698
+South Africa,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.585,0.715,0.863,1.017,1.196,1.41,1.624,1.821,2.029,2.208,2.393
+South Africa,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.626,0.766,0.925,1.09,1.281,1.511,1.74,1.951,2.174,2.366,2.564
+South Africa,Household Care,Users by Segment,Household Paper,million users,Statista,0.32,0.391,0.473,0.557,0.655,0.772,0.89,0.997,1.111,1.209,1.311
+South Africa,Household Care,Users by Segment,Laundry Care,million users,Statista,0.557,0.681,0.822,0.969,1.139,1.343,1.547,1.734,1.932,2.103,2.279
+South Africa,Household Care,Users by Segment,Other Household Care,million users,Statista,0.306,0.374,0.452,0.533,0.626,0.739,0.851,0.954,1.063,1.157,1.254
+South Africa,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.445,0.544,0.658,0.775,0.911,1.075,1.238,1.387,1.546,1.683,1.823
+South Africa,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.418,0.51,0.616,0.727,0.854,1.007,1.16,1.301,1.449,1.577,1.709
+South Africa,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.487,0.596,0.719,0.848,0.997,1.175,1.354,1.517,1.691,1.84,1.994
+South Africa,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.025,1.237,1.474,1.715,1.992,2.322,2.643,2.931,3.231,3.48,3.733
+South Africa,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,2.442,2.944,3.509,4.083,4.742,5.527,6.294,6.978,7.692,8.285,8.889
+South Africa,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,1.099,1.325,1.579,1.837,2.134,2.487,2.832,3.14,3.462,3.728,4
+South Africa,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.562,0.677,0.807,0.939,1.091,1.271,1.448,1.605,1.769,1.906,2.045
+South Africa,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,0.977,1.178,1.404,1.633,1.897,2.211,2.518,2.791,3.077,3.314,3.556
+South Africa,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.537,0.648,0.772,0.898,1.043,1.216,1.385,1.535,1.692,1.823,1.956
+South Africa,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,0.781,0.942,1.123,1.307,1.518,1.769,2.014,2.233,2.462,2.651,2.845
+South Africa,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,0.732,0.883,1.053,1.225,1.423,1.658,1.888,2.093,2.308,2.486,2.667
+South Africa,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,0.855,1.03,1.228,1.429,1.66,1.935,2.203,2.442,2.692,2.9,3.111
+South Africa,Food,Revenue,Total,million USD (US$),Statista,243.3,263.6,290.8,480.7,564.7,534.1,605.9,651.6,703.8,748.1,791.3
+South Africa,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,27.97,30.29,33.42,72.41,88.52,82.03,91.21,96.14,101.8,107,111.6
+South Africa,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,56.98,61.72,68.09,121,143.2,134.5,151.5,161.8,173.4,183.3,192.4
+South Africa,Food,Revenue,Convenience Food,million USD (US$),Statista,12.11,13.12,14.48,22.34,25.94,24.67,28.15,30.44,33.06,35.27,37.47
+South Africa,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,27.84,30.16,33.27,47.98,55.26,52.99,60.94,66.42,72.7,78.08,83.61
+South Africa,Food,Revenue,Fish & Seafood,million USD (US$),Statista,16.92,18.33,20.22,31.27,36.32,34.57,39.47,42.72,46.44,49.53,52.61
+South Africa,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,21.4,23.18,25.57,39.77,46.23,44.04,50.33,54.51,59.27,63.29,67.3
+South Africa,Food,Revenue,Meat,million USD (US$),Statista,40.78,44.18,48.74,75.92,88.27,83.98,95.84,103.7,112.6,120.1,127.6
+South Africa,Food,Revenue,Oils & Fats,million USD (US$),Statista,5.375,5.822,6.424,9.255,10.66,10.2,11.72,12.75,13.94,14.95,15.99
+South Africa,Food,Revenue,Sauces & Spices,million USD (US$),Statista,2.405,2.606,2.875,3.804,4.338,4.193,4.861,5.341,5.893,6.307,6.75
+South Africa,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,5.532,5.992,6.611,8.616,9.81,9.375,10.75,11.68,12.74,13.57,14.43
+South Africa,Food,Revenue,Vegetables,million USD (US$),Statista,26,28.17,31.08,48.31,56.16,53.49,61.1,66.15,71.91,76.76,81.59
+South Africa,Food,Revenue Change,Total,percent,Statista,,8.344,10.319,65.303,17.475,-5.419,13.443,7.542,8.011,6.294,5.775
+South Africa,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,8.295,10.333,116.667,22.248,-7.332,11.191,5.405,5.887,5.108,4.299
+South Africa,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,8.319,10.321,77.706,18.347,-6.075,12.639,6.799,7.169,5.709,4.965
+South Africa,Food,Revenue Change,Convenience Food,percent,Statista,,8.34,10.366,54.282,16.115,-4.896,14.106,8.135,8.607,6.685,6.238
+South Africa,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,8.333,10.312,44.214,15.173,-4.108,15.003,8.992,9.455,7.4,7.082
+South Africa,Food,Revenue Change,Fish & Seafood,percent,Statista,,8.333,10.311,54.649,16.15,-4.818,14.174,8.234,8.708,6.654,6.218
+South Africa,Food,Revenue Change,Fruits & Nuts,percent,Statista,,8.318,10.311,55.534,16.243,-4.737,14.282,8.305,8.732,6.783,6.336
+South Africa,Food,Revenue Change,Meat,percent,Statista,,8.337,10.321,55.765,16.267,-4.86,14.122,8.201,8.582,6.661,6.245
+South Africa,Food,Revenue Change,Oils & Fats,percent,Statista,,8.316,10.34,44.069,15.181,-4.315,14.902,8.788,9.333,7.245,6.957
+South Africa,Food,Revenue Change,Sauces & Spices,percent,Statista,,8.358,10.322,32.313,14.038,-3.343,15.931,9.875,10.335,7.025,7.024
+South Africa,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,8.315,10.33,30.328,13.858,-4.434,14.667,8.651,9.075,6.515,6.338
+South Africa,Food,Revenue Change,Vegetables,percent,Statista,,8.346,10.33,55.438,16.249,-4.754,14.227,8.265,8.707,6.745,6.292
+South Africa,Food,Average Revenue per User,Total,USD (US$),Statista,121.2,109.5,101.5,143.7,146.4,121.6,122.7,121,120.3,118.1,116.3
+South Africa,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,29.63,26.79,24.82,46.05,48.83,39.75,39.31,37.99,37,35.95,34.87
+South Africa,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,57.9,52.35,48.51,73.81,75.78,62.52,62.64,61.32,60.49,59.06,57.69
+South Africa,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,10.77,9.738,9.024,11.92,12.01,10.03,10.18,10.09,10.09,9.945,9.829
+South Africa,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,60.27,54.49,50.49,62.35,62.29,52.47,53.67,53.63,54.02,53.61,53.41
+South Africa,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,44.34,40.09,37.15,49.19,49.57,41.44,42.08,41.76,41.78,41.16,40.68
+South Africa,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,20.49,18.53,17.17,22.86,23.05,19.29,19.6,19.47,19.48,19.22,19.01
+South Africa,Food,Average Revenue per User,Meat,USD (US$),Statista,67.69,61.2,56.71,75.63,76.28,63.76,64.71,64.17,64.14,63.23,62.48
+South Africa,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,10.71,9.679,8.969,11.07,11.05,9.297,9.494,9.474,9.527,9.444,9.395
+South Africa,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,2.722,2.461,2.281,2.584,2.556,2.171,2.238,2.254,2.289,2.264,2.254
+South Africa,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,8.347,7.546,6.993,7.804,7.707,6.47,6.596,6.572,6.599,6.491,6.422
+South Africa,Food,Average Revenue per User,Vegetables,USD (US$),Statista,26.42,23.89,22.14,29.47,29.71,24.86,25.26,25.07,25.08,24.74,24.46
+South Africa,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Food,Online & Offline Split,Offline,percent,Statista,99.373,99.351,99.294,99.039,98.847,98.782,98.72,98.657,98.573,,
+South Africa,Food,Online & Offline Split,Online,percent,Statista,0.627,0.649,0.706,0.961,1.153,1.218,1.28,1.343,1.427,,
+South Africa,Food,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Food,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Food,Users,Total,million users,Statista,2.008,2.406,2.865,3.346,3.857,4.39,4.937,5.385,5.851,6.332,6.807
+South Africa,Food,Users,Bread & Cereal Products,million users,Statista,0.944,1.131,1.346,1.573,1.813,2.064,2.32,2.531,2.75,2.976,3.199
+South Africa,Food,Users,Confectionery & Snacks,million users,Statista,0.984,1.179,1.404,1.639,1.89,2.151,2.419,2.638,2.867,3.103,3.335
+South Africa,Food,Users,Convenience Food,million users,Statista,1.125,1.348,1.604,1.874,2.16,2.459,2.765,3.015,3.277,3.546,3.812
+South Africa,Food,Users,Dairy Products & Eggs,million users,Statista,0.462,0.553,0.659,0.77,0.887,1.01,1.136,1.238,1.346,1.456,1.566
+South Africa,Food,Users,Fish & Seafood,million users,Statista,0.382,0.457,0.544,0.636,0.733,0.834,0.938,1.023,1.112,1.203,1.293
+South Africa,Food,Users,Fruits & Nuts,million users,Statista,1.044,1.251,1.49,1.74,2.006,2.283,2.567,2.8,3.043,3.293,3.54
+South Africa,Food,Users,Meat,million users,Statista,0.602,0.722,0.859,1.004,1.157,1.317,1.481,1.615,1.755,1.9,2.042
+South Africa,Food,Users,Oils & Fats,million users,Statista,0.502,0.602,0.716,0.836,0.964,1.098,1.234,1.346,1.463,1.583,1.702
+South Africa,Food,Users,Sauces & Spices,million users,Statista,0.884,1.059,1.261,1.472,1.697,1.932,2.172,2.369,2.575,2.786,2.995
+South Africa,Food,Users,Spreads & Sweeteners,million users,Statista,0.663,0.794,0.945,1.104,1.273,1.449,1.629,1.777,1.931,2.09,2.246
+South Africa,Food,Users,Vegetables,million users,Statista,0.984,1.179,1.404,1.639,1.89,2.151,2.419,2.638,2.867,3.103,3.335
+South Africa,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.656,1.957,2.299,2.651,3.019,3.396,3.776,4.073,4.379,4.69,4.991
+South Africa,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.726,2.04,2.397,2.764,3.148,3.541,3.937,4.246,4.565,4.89,5.203
+South Africa,Food,Penetration Rate,Convenience Food,percent,Statista,1.973,2.332,2.74,3.159,3.597,4.047,4.499,4.853,5.218,5.588,5.946
+South Africa,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.81,0.958,1.125,1.298,1.477,1.662,1.848,1.993,2.143,2.295,2.442
+South Africa,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.669,0.791,0.93,1.072,1.221,1.373,1.526,1.647,1.77,1.896,2.018
+South Africa,Food,Penetration Rate,Food,percent,Statista,3.523,4.164,4.892,5.641,6.424,7.226,8.034,8.666,9.317,9.979,10.619
+South Africa,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.832,2.165,2.544,2.933,3.34,3.758,4.178,4.506,4.845,5.189,5.522
+South Africa,Food,Penetration Rate,Meat,percent,Statista,1.057,1.249,1.468,1.692,1.927,2.168,2.41,2.6,2.795,2.994,3.186
+South Africa,Food,Penetration Rate,Oils & Fats,percent,Statista,0.881,1.041,1.223,1.41,1.606,1.807,2.009,2.167,2.329,2.495,2.655
+South Africa,Food,Penetration Rate,Sauces & Spices,percent,Statista,1.55,1.832,2.153,2.482,2.826,3.18,3.535,3.813,4.099,4.391,4.672
+South Africa,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.163,1.374,1.614,1.862,2.12,2.385,2.651,2.86,3.075,3.293,3.504
+South Africa,Food,Penetration Rate,Vegetables,percent,Statista,1.726,2.04,2.397,2.764,3.148,3.541,3.937,4.246,4.565,4.89,5.203
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,29.63,26.79,24.82,46.05,48.83,39.75,39.31,37.99,37,35.95,34.87
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,27.24,24.63,22.82,43.68,46.5,37.73,37.19,35.82,34.77,33.71,32.62
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,3.086,2.79,2.585,3.449,3.478,2.92,2.977,2.966,2.977,2.946,2.923
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,11.39,10.3,9.542,17.7,18.77,15.28,15.11,14.6,14.22,13.81,13.39
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,2.988,2.702,2.504,4.816,5.13,4.181,4.138,4.002,3.9,3.792,3.679
+South Africa,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,2.35,2.124,1.968,3.782,4.028,3.279,3.242,3.133,3.05,2.963,2.873
+South Africa,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,27.97,30.29,33.42,72.41,88.52,82.03,91.21,96.14,101.8,107,111.6
+South Africa,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,16.2,17.55,19.36,43.28,53.1,49.05,54.36,57.11,60.24,63.21,65.75
+South Africa,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,2.418,2.619,2.889,4.501,5.233,5.002,5.734,6.229,6.795,7.278,7.762
+South Africa,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,4.838,5.24,5.781,12.53,15.31,14.19,15.78,16.63,17.6,18.5,19.28
+South Africa,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,2.539,2.75,3.034,6.815,8.37,7.765,8.641,9.115,9.654,10.16,10.59
+South Africa,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,1.974,2.138,2.359,5.293,6.499,6.023,6.696,7.056,7.466,7.85,8.181
+South Africa,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,8.295,10.333,116.667,22.248,-7.332,11.191,5.405,5.887,5.108,4.299
+South Africa,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,8.333,10.313,123.554,22.689,-7.627,10.826,5.059,5.481,4.93,4.018
+South Africa,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,8.313,10.309,55.798,16.263,-4.414,14.634,8.633,9.087,7.108,6.65
+South Africa,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,8.309,10.324,116.745,22.187,-7.315,11.205,5.387,5.833,5.114,4.216
+South Africa,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,8.31,10.327,124.621,22.817,-7.228,11.281,5.485,5.913,5.241,4.232
+South Africa,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,8.308,10.337,124.375,22.785,-7.324,11.174,5.376,5.811,5.143,4.217
+South Africa,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+South Africa,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+South Africa,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.262,99.243,99.184,98.737,98.373,98.284,98.212,98.145,98.056,,
+South Africa,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.738,0.757,0.816,1.263,1.627,1.716,1.788,1.855,1.944,,
+South Africa,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.944,1.131,1.346,1.573,1.813,2.064,2.32,2.531,2.75,2.976,3.199
+South Africa,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.595,0.712,0.848,0.991,1.142,1.3,1.462,1.594,1.733,1.875,2.016
+South Africa,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.783,0.939,1.118,1.305,1.505,1.713,1.926,2.101,2.283,2.47,2.655
+South Africa,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.425,0.509,0.606,0.708,0.816,0.929,1.044,1.139,1.238,1.339,1.44
+South Africa,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.85,1.018,1.212,1.415,1.631,1.857,2.088,2.278,2.475,2.679,2.879
+South Africa,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.84,1.007,1.198,1.4,1.613,1.837,2.065,2.252,2.448,2.649,2.847
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.043,1.233,1.449,1.67,1.902,2.14,2.379,2.566,2.759,2.955,3.144
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.656,1.957,2.299,2.651,3.019,3.396,3.776,4.073,4.379,4.69,4.991
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,1.374,1.624,1.908,2.201,2.506,2.819,3.134,3.381,3.635,3.893,4.142
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.745,0.881,1.035,1.193,1.359,1.528,1.699,1.833,1.971,2.111,2.246
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,1.49,1.761,2.069,2.386,2.717,3.057,3.398,3.666,3.941,4.221,4.492
+South Africa,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,1.474,1.742,2.046,2.36,2.687,3.023,3.361,3.625,3.897,4.174,4.442
+South Africa,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,57.9,52.35,48.51,73.81,75.78,62.52,62.64,61.32,60.49,59.06,57.69
+South Africa,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,50.29,45.47,42.13,64.16,65.88,54.28,54.31,53.09,52.3,51.01,49.78
+South Africa,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.448,1.309,1.213,1.845,1.895,1.563,1.566,1.533,1.512,1.477,1.443
+South Africa,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,17.06,15.42,14.29,21.7,22.27,18.44,18.54,18.21,18.03,17.65,17.29
+South Africa,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,56.98,61.72,68.09,121,143.2,134.5,151.5,161.8,173.4,183.3,192.4
+South Africa,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,40.58,43.96,48.5,86.26,102.1,95.76,107.7,114.9,123,129.8,136.2
+South Africa,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.783,0.849,0.936,1.664,1.969,1.85,2.084,2.225,2.385,2.52,2.646
+South Africa,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,15.61,16.91,18.66,33.09,39.15,36.9,41.71,44.69,48.08,50.94,53.63
+South Africa,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,8.319,10.321,77.706,18.347,-6.075,12.639,6.799,7.169,5.709,4.965
+South Africa,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,8.329,10.328,77.856,18.363,-6.21,12.469,6.685,7.05,5.528,4.931
+South Africa,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,8.334,10.32,77.702,18.329,-6.044,12.649,6.766,7.191,5.66,5
+South Africa,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,8.328,10.349,77.331,18.314,-5.747,13.035,7.145,7.586,5.948,5.281
+South Africa,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+South Africa,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+South Africa,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.379,99.355,99.297,99.004,98.778,98.704,98.635,98.566,98.477,,
+South Africa,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.621,0.645,0.703,0.996,1.222,1.296,1.365,1.434,1.523,,
+South Africa,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.984,1.179,1.404,1.639,1.89,2.151,2.419,2.638,2.867,3.103,3.335
+South Africa,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.807,0.967,1.151,1.344,1.55,1.764,1.984,2.164,2.351,2.544,2.735
+South Africa,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.541,0.648,0.772,0.902,1.039,1.183,1.331,1.451,1.577,1.707,1.834
+South Africa,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.915,1.097,1.305,1.525,1.758,2.001,2.25,2.454,2.666,2.886,3.102
+South Africa,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,1.415,1.673,1.966,2.267,2.581,2.904,3.228,3.482,3.744,4.009,4.267
+South Africa,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.726,2.04,2.397,2.764,3.148,3.541,3.937,4.246,4.565,4.89,5.203
+South Africa,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,0.949,1.122,1.318,1.52,1.731,1.948,2.165,2.336,2.511,2.689,2.862
+South Africa,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.605,1.897,2.229,2.571,2.927,3.293,3.661,3.949,4.246,4.547,4.839
+South Africa,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,10.77,9.738,9.024,11.92,12.01,10.03,10.18,10.09,10.09,9.945,9.829
+South Africa,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,13.54,12.24,11.34,14.99,15.1,12.67,12.9,12.84,12.88,12.73,12.62
+South Africa,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,2.381,2.152,1.995,2.628,2.647,2.155,2.13,2.058,2.004,1.933,1.867
+South Africa,Convenience Food,Revenue,Total,million USD (US$),Statista,12.11,13.12,14.48,22.34,25.94,24.67,28.15,30.44,33.06,35.27,37.47
+South Africa,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,10.51,11.38,12.56,19.38,22.51,21.49,24.61,26.72,29.12,31.15,33.2
+South Africa,Convenience Food,Revenue,Soups,million USD (US$),Statista,1.606,1.74,1.92,2.955,3.43,3.179,3.534,3.724,3.941,4.112,4.271
+South Africa,Convenience Food,Revenue Change,Total,percent,Statista,,8.34,10.366,54.282,16.115,-4.896,14.106,8.135,8.607,6.685,6.238
+South Africa,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,8.278,10.369,54.299,16.151,-4.531,14.518,8.574,8.982,6.971,6.581
+South Africa,Convenience Food,Revenue Change,Soups,percent,Statista,,8.344,10.345,53.906,16.074,-7.318,11.167,5.376,5.827,4.339,3.867
+South Africa,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.388,99.364,99.307,99.093,98.931,98.867,98.805,98.74,98.654,,
+South Africa,Convenience Food,Online & Offline Split,Online,percent,Statista,0.612,0.636,0.693,0.907,1.069,1.133,1.195,1.26,1.346,,
+South Africa,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Convenience Food,Users by Segment,Total,million users,Statista,1.125,1.348,1.604,1.874,2.16,2.459,2.765,3.015,3.277,3.546,3.812
+South Africa,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.776,0.93,1.107,1.293,1.49,1.696,1.908,2.081,2.261,2.447,2.63
+South Africa,Convenience Food,Users by Segment,Soups,million users,Statista,0.675,0.809,0.963,1.124,1.296,1.475,1.659,1.809,1.966,2.128,2.287
+South Africa,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,1.973,2.332,2.74,3.159,3.597,4.047,4.499,4.853,5.218,5.588,5.946
+South Africa,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,1.361,1.609,1.89,2.18,2.482,2.792,3.104,3.349,3.6,3.856,4.103
+South Africa,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.184,1.399,1.644,1.895,2.158,2.428,2.699,2.912,3.131,3.353,3.568
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,60.27,54.49,50.49,62.35,62.29,52.47,53.67,53.63,54.02,53.61,53.41
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,10.97,9.922,9.195,11.36,11.35,9.574,9.804,9.811,9.894,9.823,9.79
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,12.74,11.52,10.68,13.18,13.17,11.09,11.34,11.33,11.4,11.32,11.27
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,17.86,16.15,14.97,18.48,18.46,15.55,15.9,15.89,16,15.88,15.82
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,77.05,69.66,64.55,79.67,79.59,66.97,68.43,68.32,68.74,68.19,67.89
+South Africa,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,10.29,9.3,8.618,10.66,10.65,9.007,9.249,9.28,9.384,9.321,9.297
+South Africa,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,27.84,30.16,33.27,47.98,55.26,52.99,60.94,66.42,72.7,78.08,83.61
+South Africa,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,3.802,4.119,4.544,6.557,7.552,7.251,8.35,9.113,9.986,10.73,11.5
+South Africa,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,2.531,2.742,3.025,4.362,5.024,4.815,5.536,6.031,6.599,7.088,7.59
+South Africa,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,6.436,6.972,7.691,11.09,12.77,12.25,14.08,15.35,16.79,18.04,19.32
+South Africa,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,12.46,13.49,14.89,21.46,24.71,23.67,27.2,29.61,32.38,34.76,37.2
+South Africa,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,2.613,2.831,3.123,4.511,5.197,5.003,5.776,6.321,6.946,7.467,8.006
+South Africa,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,8.333,10.312,44.214,15.173,-4.108,15.003,8.992,9.455,7.4,7.082
+South Africa,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,8.338,10.318,44.3,15.175,-3.986,15.157,9.138,9.58,7.45,7.176
+South Africa,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,8.337,10.321,44.198,15.177,-4.16,14.974,8.941,9.418,7.41,7.082
+South Africa,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,8.328,10.313,44.195,15.149,-4.072,14.939,9.02,9.381,7.445,7.095
+South Africa,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,8.266,10.378,44.124,15.144,-4.209,14.913,8.86,9.355,7.35,7.02
+South Africa,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,8.343,10.314,44.444,15.207,-3.733,15.451,9.436,9.888,7.501,7.218
+South Africa,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+South Africa,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+South Africa,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.388,99.367,99.313,99.136,99.005,98.948,98.891,98.83,98.75,,
+South Africa,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.612,0.633,0.687,0.864,0.995,1.052,1.109,1.17,1.25,,
+South Africa,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.462,0.553,0.659,0.77,0.887,1.01,1.136,1.238,1.346,1.456,1.566
+South Africa,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.346,0.415,0.494,0.577,0.665,0.757,0.852,0.929,1.009,1.092,1.174
+South Africa,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.199,0.238,0.283,0.331,0.381,0.434,0.488,0.533,0.579,0.626,0.673
+South Africa,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.36,0.432,0.514,0.6,0.692,0.788,0.886,0.966,1.05,1.136,1.221
+South Africa,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.162,0.194,0.231,0.269,0.31,0.353,0.397,0.433,0.471,0.51,0.548
+South Africa,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.254,0.304,0.362,0.423,0.488,0.555,0.625,0.681,0.74,0.801,0.861
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.608,0.718,0.844,0.973,1.108,1.247,1.386,1.495,1.607,1.721,1.832
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.81,0.958,1.125,1.298,1.477,1.662,1.848,1.993,2.143,2.295,2.442
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.348,0.412,0.484,0.558,0.635,0.715,0.795,0.857,0.921,0.987,1.05
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.632,0.747,0.878,1.012,1.152,1.296,1.441,1.555,1.671,1.79,1.905
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.284,0.335,0.394,0.454,0.517,0.582,0.647,0.698,0.75,0.803,0.855
+South Africa,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.446,0.527,0.619,0.714,0.813,0.914,1.016,1.096,1.179,1.262,1.343
+South Africa,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,44.34,40.09,37.15,49.19,49.57,41.44,42.08,41.76,41.78,41.16,40.68
+South Africa,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,65.04,58.8,54.49,72.13,72.68,60.04,60.22,59.02,58.29,56.85,55.57
+South Africa,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,32.19,29.1,26.97,35.65,35.92,30.57,31.6,31.91,32.48,32.4,32.45
+South Africa,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,12.5,11.3,10.47,13.89,14,11.88,12.24,12.32,12.49,12.46,12.47
+South Africa,Fish & Seafood,Revenue,Total,million USD (US$),Statista,16.92,18.33,20.22,31.27,36.32,34.57,39.47,42.72,46.44,49.53,52.61
+South Africa,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,9.679,10.48,11.57,17.88,20.77,19.53,22.03,23.55,25.27,26.68,28.03
+South Africa,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,2.948,3.193,3.523,5.439,6.317,6.121,7.114,7.836,8.668,9.357,10.07
+South Africa,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,4.292,4.649,5.129,7.948,9.235,8.919,10.33,11.34,12.5,13.49,14.51
+South Africa,Fish & Seafood,Revenue Change,Total,percent,Statista,,8.333,10.311,54.649,16.15,-4.818,14.174,8.234,8.708,6.654,6.218
+South Africa,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,8.276,10.401,54.538,16.163,-5.97,12.801,6.9,7.304,5.58,5.06
+South Africa,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,8.311,10.335,54.385,16.143,-3.103,16.223,10.149,10.618,7.949,7.62
+South Africa,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,8.318,10.325,54.962,16.193,-3.422,15.82,9.777,10.229,7.92,7.561
+South Africa,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.388,99.366,99.311,99.1,98.942,98.881,98.822,98.76,98.678,,
+South Africa,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.612,0.634,0.689,0.9,1.058,1.119,1.178,1.24,1.322,,
+South Africa,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Fish & Seafood,Users by Segment,Total,million users,Statista,0.382,0.457,0.544,0.636,0.733,0.834,0.938,1.023,1.112,1.203,1.293
+South Africa,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.149,0.178,0.212,0.248,0.286,0.325,0.366,0.399,0.434,0.469,0.504
+South Africa,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.092,0.11,0.131,0.153,0.176,0.2,0.225,0.246,0.267,0.289,0.31
+South Africa,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.343,0.411,0.49,0.572,0.66,0.751,0.844,0.921,1.001,1.083,1.164
+South Africa,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.669,0.791,0.93,1.072,1.221,1.373,1.526,1.647,1.77,1.896,2.018
+South Africa,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.261,0.309,0.363,0.418,0.476,0.535,0.595,0.642,0.69,0.739,0.787
+South Africa,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.161,0.19,0.223,0.257,0.293,0.33,0.366,0.395,0.425,0.455,0.484
+South Africa,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.602,0.712,0.837,0.965,1.098,1.236,1.374,1.482,1.593,1.706,1.816
+South Africa,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,20.49,18.53,17.17,22.86,23.05,19.29,19.6,19.47,19.48,19.22,19.01
+South Africa,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,25.49,23.05,21.36,28.44,28.68,24.01,24.4,24.23,24.25,23.93,23.68
+South Africa,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,2.329,2.106,1.951,2.599,2.621,2.195,2.232,2.217,2.22,2.191,2.168
+South Africa,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,2.848,2.575,2.386,3.173,3.199,2.672,2.709,2.685,2.681,2.64,2.606
+South Africa,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,21.4,23.18,25.57,39.77,46.23,44.04,50.33,54.51,59.27,63.29,67.3
+South Africa,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,18.64,20.19,22.27,34.64,40.26,38.37,43.85,47.49,51.65,55.17,58.66
+South Africa,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,1.216,1.318,1.454,2.261,2.628,2.505,2.864,3.104,3.377,3.608,3.838
+South Africa,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,1.547,1.676,1.849,2.87,3.336,3.172,3.617,3.909,4.242,4.521,4.797
+South Africa,Fruits & Nuts,Revenue Change,Total,percent,Statista,,8.318,10.311,55.534,16.243,-4.737,14.282,8.305,8.732,6.783,6.336
+South Africa,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,8.315,10.302,55.546,16.224,-4.694,14.282,8.301,8.76,6.815,6.326
+South Africa,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,8.388,10.319,55.502,16.232,-4.68,14.331,8.38,8.795,6.84,6.375
+South Africa,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,8.339,10.322,55.219,16.237,-4.916,14.029,8.073,8.519,6.577,6.105
+South Africa,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.388,99.367,99.314,99.1,98.943,98.884,98.826,98.765,98.685,,
+South Africa,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.612,0.633,0.686,0.9,1.057,1.116,1.174,1.235,1.315,,
+South Africa,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Fruits & Nuts,Users by Segment,Total,million users,Statista,1.044,1.251,1.49,1.74,2.006,2.283,2.567,2.8,3.043,3.293,3.54
+South Africa,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.731,0.876,1.043,1.218,1.404,1.598,1.797,1.96,2.13,2.305,2.478
+South Africa,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.522,0.626,0.745,0.87,1.003,1.142,1.284,1.4,1.521,1.646,1.77
+South Africa,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.543,0.651,0.775,0.905,1.043,1.187,1.335,1.456,1.582,1.712,1.841
+South Africa,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,1.282,1.516,1.781,2.053,2.338,2.63,2.924,3.154,3.391,3.632,3.865
+South Africa,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.832,2.165,2.544,2.933,3.34,3.758,4.178,4.506,4.845,5.189,5.522
+South Africa,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.916,1.083,1.272,1.467,1.67,1.879,2.089,2.253,2.422,2.595,2.761
+South Africa,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.953,1.126,1.323,1.525,1.737,1.954,2.172,2.343,2.519,2.698,2.871
+South Africa,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,67.69,61.2,56.71,75.63,76.28,63.76,64.71,64.17,64.14,63.23,62.48
+South Africa,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,66.01,59.68,55.3,73.76,74.39,62.47,63.69,63.46,63.71,63.06,62.57
+South Africa,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,25.45,23.01,21.32,28.44,28.68,23.74,23.86,23.44,23.2,22.67,22.19
+South Africa,Meat,Revenue,Total,million USD (US$),Statista,40.78,44.18,48.74,75.92,88.27,83.98,95.84,103.7,112.6,120.1,127.6
+South Africa,Meat,Revenue,Fresh Meat,million USD (US$),Statista,27.44,29.73,32.8,51.08,59.4,56.78,65.09,70.73,77.17,82.65,88.16
+South Africa,Meat,Revenue,Processed Meat,million USD (US$),Statista,13.34,14.45,15.94,24.83,28.87,27.21,30.75,32.94,35.43,37.46,39.43
+South Africa,Meat,Revenue Change,Total,percent,Statista,,8.337,10.321,55.765,16.267,-4.86,14.122,8.201,8.582,6.661,6.245
+South Africa,Meat,Revenue Change,Fresh Meat,percent,Statista,,8.345,10.326,55.732,16.288,-4.411,14.635,8.665,9.105,7.101,6.667
+South Africa,Meat,Revenue Change,Processed Meat,percent,Statista,,8.321,10.311,55.772,16.271,-5.75,13.01,7.122,7.559,5.73,5.259
+South Africa,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+South Africa,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+South Africa,Meat,Online & Offline Split,Offline,percent,Statista,99.388,99.365,99.31,99.093,98.932,98.871,98.811,98.749,98.667,,
+South Africa,Meat,Online & Offline Split,Online,percent,Statista,0.612,0.635,0.69,0.907,1.068,1.129,1.189,1.251,1.333,,
+South Africa,Meat,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Meat,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Meat,Users by Segment,Total,million users,Statista,0.602,0.722,0.859,1.004,1.157,1.317,1.481,1.615,1.755,1.9,2.042
+South Africa,Meat,Users by Segment,Fresh Meat,million users,Statista,0.416,0.498,0.593,0.693,0.798,0.909,1.022,1.115,1.211,1.311,1.409
+South Africa,Meat,Users by Segment,Processed Meat,million users,Statista,0.524,0.628,0.748,0.873,1.007,1.146,1.289,1.405,1.527,1.653,1.777
+South Africa,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.729,0.862,1.013,1.168,1.33,1.496,1.663,1.794,1.929,2.066,2.198
+South Africa,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.057,1.249,1.468,1.692,1.927,2.168,2.41,2.6,2.795,2.994,3.186
+South Africa,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.919,1.087,1.277,1.472,1.677,1.886,2.097,2.262,2.432,2.604,2.772
+South Africa,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,10.71,9.679,8.969,11.07,11.05,9.297,9.494,9.474,9.527,9.444,9.395
+South Africa,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,1.068,0.966,0.895,1.103,1.102,0.925,0.943,0.939,0.943,0.933,0.927
+South Africa,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,5.897,5.331,4.94,6.094,6.087,5.117,5.222,5.208,5.234,5.187,5.158
+South Africa,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,1.736,1.57,1.455,1.793,1.791,1.503,1.531,1.525,1.53,1.514,1.503
+South Africa,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,6.274,5.672,5.256,6.491,6.485,5.465,5.592,5.59,5.633,5.591,5.571
+South Africa,Oils & Fats,Revenue,Total,million USD (US$),Statista,5.375,5.822,6.424,9.255,10.66,10.2,11.72,12.75,13.94,14.95,15.99
+South Africa,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.44,0.476,0.525,0.756,0.871,0.833,0.954,1.037,1.131,1.211,1.293
+South Africa,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,2.339,2.534,2.795,4.027,4.637,4.437,5.092,5.539,6.049,6.487,6.934
+South Africa,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.706,0.765,0.844,1.215,1.398,1.336,1.531,1.663,1.813,1.941,2.072
+South Africa,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,1.89,2.047,2.259,3.258,3.752,3.599,4.141,4.515,4.944,5.311,5.688
+South Africa,Oils & Fats,Revenue Change,Total,percent,Statista,,8.316,10.34,44.069,15.181,-4.315,14.902,8.788,9.333,7.245,6.957
+South Africa,Oils & Fats,Revenue Change,Butter,percent,Statista,,8.324,10.33,43.958,15.149,-4.431,14.631,8.666,9.065,7.073,6.771
+South Africa,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,8.337,10.3,44.079,15.148,-4.313,14.762,8.778,9.207,7.241,6.891
+South Africa,Oils & Fats,Revenue Change,Margarine,percent,Statista,,8.327,10.328,43.974,15.062,-4.435,14.596,8.622,9.02,7.06,6.749
+South Africa,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,8.307,10.357,44.223,15.163,-4.078,15.06,9.032,9.502,7.423,7.098
+South Africa,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.388,99.364,99.307,99.127,98.99,98.93,98.87,98.805,98.719,,
+South Africa,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.612,0.636,0.693,0.873,1.01,1.07,1.13,1.195,1.281,,
+South Africa,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Oils & Fats,Users by Segment,Total,million users,Statista,0.502,0.602,0.716,0.836,0.964,1.098,1.234,1.346,1.463,1.583,1.702
+South Africa,Oils & Fats,Users by Segment,Butter,million users,Statista,0.412,0.493,0.587,0.686,0.791,0.9,1.012,1.104,1.2,1.298,1.395
+South Africa,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.397,0.475,0.566,0.661,0.762,0.867,0.975,1.063,1.156,1.251,1.344
+South Africa,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.407,0.487,0.58,0.678,0.781,0.889,1,1.09,1.185,1.282,1.378
+South Africa,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.301,0.361,0.43,0.502,0.579,0.659,0.741,0.808,0.878,0.95,1.021
+South Africa,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.722,0.854,1.003,1.156,1.317,1.481,1.647,1.777,1.91,2.046,2.177
+South Africa,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.696,0.822,0.966,1.114,1.269,1.427,1.587,1.712,1.84,1.971,2.097
+South Africa,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.713,0.843,0.991,1.142,1.301,1.463,1.627,1.755,1.887,2.021,2.15
+South Africa,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.881,1.041,1.223,1.41,1.606,1.807,2.009,2.167,2.329,2.495,2.655
+South Africa,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.528,0.625,0.734,0.846,0.964,1.084,1.205,1.3,1.398,1.497,1.593
+South Africa,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,2.722,2.461,2.281,2.584,2.556,2.171,2.238,2.254,2.289,2.264,2.254
+South Africa,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,2.489,2.25,2.085,2.363,2.338,1.986,2.048,2.065,2.098,2.075,2.066
+South Africa,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,1.301,1.177,1.09,1.235,1.222,1.036,1.066,1.073,1.088,1.076,1.07
+South Africa,Sauces & Spices,Revenue,Total,million USD (US$),Statista,2.405,2.606,2.875,3.804,4.338,4.193,4.861,5.341,5.893,6.307,6.75
+South Africa,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,1.715,1.858,2.05,2.713,3.094,2.993,3.471,3.816,4.212,4.509,4.826
+South Africa,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.69,0.748,0.825,1.091,1.244,1.201,1.39,1.525,1.68,1.798,1.923
+South Africa,Sauces & Spices,Revenue Change,Total,percent,Statista,,8.358,10.322,32.313,14.038,-3.343,15.931,9.875,10.335,7.025,7.024
+South Africa,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,8.338,10.334,32.341,14.043,-3.264,15.971,9.939,10.377,7.051,7.03
+South Africa,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,8.333,10.314,32.307,14.024,-3.457,15.737,9.712,10.164,7.024,6.952
+South Africa,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.612,0.633,0.687,0.821,0.924,0.977,1.032,1.092,1.172,,
+South Africa,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Sauces & Spices,Users by Segment,Total,million users,Statista,0.884,1.059,1.261,1.472,1.697,1.932,2.172,2.369,2.575,2.786,2.995
+South Africa,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.689,0.826,0.983,1.148,1.324,1.507,1.694,1.848,2.008,2.173,2.336
+South Africa,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.53,0.635,0.756,0.883,1.018,1.159,1.303,1.422,1.545,1.672,1.797
+South Africa,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,1.55,1.832,2.153,2.482,2.826,3.18,3.535,3.813,4.099,4.391,4.672
+South Africa,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.209,1.429,1.679,1.936,2.205,2.48,2.757,2.974,3.198,3.425,3.644
+South Africa,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.93,1.099,1.292,1.489,1.696,1.908,2.121,2.288,2.46,2.634,2.803
+South Africa,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,8.347,7.546,6.993,7.804,7.707,6.47,6.596,6.572,6.599,6.491,6.422
+South Africa,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,5.111,4.621,4.282,4.778,4.719,4.008,4.132,4.163,4.227,4.178,4.157
+South Africa,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,8.871,8.02,7.432,8.294,8.191,6.801,6.856,6.753,6.703,6.561,6.451
+South Africa,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,5.532,5.992,6.611,8.616,9.81,9.375,10.75,11.68,12.74,13.57,14.43
+South Africa,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,2.71,2.936,3.239,4.221,4.805,4.645,5.386,5.918,6.53,6.984,7.47
+South Africa,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,2.822,3.057,3.372,4.395,5.004,4.73,5.361,5.76,6.213,6.581,6.956
+South Africa,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,8.315,10.33,30.328,13.858,-4.434,14.667,8.651,9.075,6.515,6.338
+South Africa,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,8.339,10.32,30.318,13.836,-3.33,15.953,9.877,10.341,6.953,6.959
+South Africa,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,8.327,10.304,30.338,13.857,-5.476,13.34,7.443,7.865,5.923,5.698
+South Africa,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+South Africa,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+South Africa,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.379,99.341,99.261,99.105,98.964,98.887,98.806,98.725,98.618,,
+South Africa,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.621,0.659,0.739,0.895,1.036,1.113,1.194,1.275,1.382,,
+South Africa,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.663,0.794,0.945,1.104,1.273,1.449,1.629,1.777,1.931,2.09,2.246
+South Africa,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.53,0.635,0.756,0.883,1.018,1.159,1.303,1.422,1.545,1.672,1.797
+South Africa,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.318,0.381,0.454,0.53,0.611,0.695,0.782,0.853,0.927,1.003,1.078
+South Africa,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.93,1.099,1.292,1.489,1.696,1.908,2.121,2.288,2.46,2.634,2.803
+South Africa,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.163,1.374,1.614,1.862,2.12,2.385,2.651,2.86,3.075,3.293,3.504
+South Africa,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.558,0.66,0.775,0.894,1.018,1.145,1.273,1.373,1.476,1.581,1.682
+South Africa,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,26.42,23.89,22.14,29.47,29.71,24.86,25.26,25.07,25.08,24.74,24.46
+South Africa,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,34.38,31.08,28.8,38.34,38.67,32.35,32.87,32.63,32.65,32.2,31.85
+South Africa,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,4.713,4.261,3.949,5.253,5.297,4.428,4.495,4.459,4.457,4.393,4.341
+South Africa,Vegetables,Revenue,Total,million USD (US$),Statista,26,28.17,31.08,48.31,56.16,53.49,61.1,66.15,71.91,76.76,81.59
+South Africa,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,23.68,25.65,28.3,44,51.15,48.72,55.66,60.27,65.52,69.95,74.36
+South Africa,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,2.319,2.512,2.771,4.306,5.005,4.763,5.437,5.882,6.389,6.815,7.239
+South Africa,Vegetables,Revenue Change,Total,percent,Statista,,8.346,10.33,55.438,16.249,-4.754,14.227,8.265,8.707,6.745,6.292
+South Africa,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,8.319,10.331,55.477,16.25,-4.751,14.245,8.282,8.711,6.761,6.305
+South Africa,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,8.323,10.311,55.395,16.233,-4.835,14.151,8.185,8.62,6.668,6.222
+South Africa,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+South Africa,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+South Africa,Vegetables,Online & Offline Split,Offline,percent,Statista,99.388,99.367,99.313,99.098,98.94,98.88,98.821,98.76,98.679,,
+South Africa,Vegetables,Online & Offline Split,Online,percent,Statista,0.612,0.633,0.687,0.902,1.06,1.12,1.179,1.24,1.321,,
+South Africa,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.879,54.582,53.967,52.926,51.67,50.521,49.261,48.294,47.281,,
+South Africa,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.121,45.418,46.033,47.074,48.33,49.479,50.739,51.706,52.719,,
+South Africa,Vegetables,Users by Segment,Total,million users,Statista,0.984,1.179,1.404,1.639,1.89,2.151,2.419,2.638,2.867,3.103,3.335
+South Africa,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.689,0.825,0.983,1.148,1.323,1.506,1.693,1.847,2.007,2.172,2.335
+South Africa,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.492,0.59,0.702,0.82,0.945,1.076,1.21,1.319,1.434,1.551,1.668
+South Africa,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.208,1.428,1.678,1.935,2.203,2.479,2.756,2.972,3.196,3.423,3.642
+South Africa,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.863,1.02,1.199,1.382,1.574,1.77,1.968,2.123,2.283,2.445,2.602
+South Africa,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.726,2.04,2.397,2.764,3.148,3.541,3.937,4.246,4.565,4.89,5.203

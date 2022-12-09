@@ -1,0 +1,703 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Belgium,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.998,,,,,,
+Belgium,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.269,,,,,,
+Belgium,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.694,,,,,,
+Belgium,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.33,,,,,,
+Belgium,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.709,,,,,,
+Belgium,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,49.417,,,,,,
+Belgium,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,50.583,,,,,,
+Belgium,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.353,,,,,,
+Belgium,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,34.91,,,,,,
+Belgium,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.737,,,,,,
+Belgium,eCommerce,Revenue,Total,billion USD (US$),Statista,6.507,6.886,7.333,9.152,10.06,9.581,12.46,14.38,16.55,17.71,19.1
+Belgium,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.736,0.773,0.818,0.922,0.991,1.026,1.35,1.633,1.977,2.117,2.303
+Belgium,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.061,0.069,0.077,0.103,0.117,0.114,0.142,0.162,0.186,0.199,0.214
+Belgium,eCommerce,Revenue,Electronics,billion USD (US$),Statista,1.957,2.065,2.184,2.738,2.983,2.645,3.554,4.027,4.544,4.852,5.21
+Belgium,eCommerce,Revenue,Fashion,billion USD (US$),Statista,2.278,2.403,2.558,3.249,3.582,3.577,4.524,5.239,6.048,6.488,7.008
+Belgium,eCommerce,Revenue,Food,billion USD (US$),Statista,0.087,0.097,0.108,0.166,0.194,0.186,0.226,0.252,0.28,0.302,0.326
+Belgium,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.554,0.602,0.659,0.756,0.839,0.764,1.155,1.407,1.704,1.837,2.009
+Belgium,eCommerce,Revenue,Media,billion USD (US$),Statista,0.198,0.198,0.198,0.246,0.258,0.22,0.234,0.232,0.232,0.233,0.234
+Belgium,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.637,0.679,0.732,0.972,1.091,1.05,1.277,1.423,1.583,1.683,1.795
+Belgium,eCommerce,Revenue Change,Total,percent,Statista,,5.823,6.497,24.808,9.875,-4.718,30.06,15.355,15.155,6.999,7.82
+Belgium,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,5.084,5.814,12.694,7.561,3.488,31.566,20.964,21.079,7.067,8.791
+Belgium,eCommerce,Revenue Change,Beverages,percent,Statista,,12.58,11.385,33.605,13.896,-2.536,24.094,14.303,14.652,7.093,7.663
+Belgium,eCommerce,Revenue Change,Electronics,percent,Statista,,5.511,5.798,25.367,8.931,-11.34,34.391,13.296,12.844,6.79,7.366
+Belgium,eCommerce,Revenue Change,Fashion,percent,Statista,,5.529,6.428,27.032,10.242,-0.149,26.475,15.821,15.433,7.28,8.013
+Belgium,eCommerce,Revenue Change,Food,percent,Statista,,12.297,11.002,53.816,16.985,-4.067,21.511,11.31,11.017,8.086,7.759
+Belgium,eCommerce,Revenue Change,Furniture,percent,Statista,,8.547,9.459,14.769,10.947,-8.928,51.151,21.852,21.097,7.812,9.324
+Belgium,eCommerce,Revenue Change,Media,percent,Statista,,-0,-0.001,24.466,4.848,-14.739,6.426,-0.76,0.058,0.352,0.193
+Belgium,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,6.593,7.764,32.835,12.297,-3.818,21.655,11.416,11.256,6.337,6.611
+Belgium,eCommerce,Average Revenue per User,Total,USD (US$),Statista,992.2,"1,000","1,015","1,219","1,298","1,209","1,569","1,737","1,921","2,018","2,131"
+Belgium,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,253.6,243.9,234.2,240,239.1,231.8,288,331,381.6,390.3,407.1
+Belgium,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,42.82,42.03,40.86,47.98,48.99,43.27,49.19,52.52,56.44,56.62,57.46
+Belgium,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,460.2,436.1,410.3,462.6,458.4,375,471.6,498.2,526.1,529.2,537
+Belgium,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,555.3,523.9,496.8,567.3,570,524.4,618.5,677.6,741.6,754.7,777.3
+Belgium,eCommerce,Average Revenue per User,Food,USD (US$),Statista,64.19,62.85,60.9,82.33,86.34,75.06,83.54,86.87,90.39,91.53,92.96
+Belgium,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,319.9,295.9,276.4,281.3,279.8,233.1,325.7,370.7,420.8,428.4,444.5
+Belgium,eCommerce,Average Revenue per User,Media,USD (US$),Statista,62.13,56.6,51.07,59.59,59.24,48.44,49.51,47.7,46.36,45.49,44.7
+Belgium,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,211.8,195.2,180,209.5,213,188.4,213.1,223.9,235.7,238.2,242.8
+Belgium,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,17.74,17.95,18.277,18.571,18.373,17.722,16.842,15.778,14.714,,
+Belgium,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,49.16,48.558,46.99,45.455,41.746,38.559,35.195,31.666,28.138,,
+Belgium,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,3.238,3.276,3.421,3.571,3.286,2.965,2.656,2.355,2.053,,
+Belgium,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,2.791,2.824,2.876,2.922,2.891,2.788,2.65,2.483,2.315,,
+Belgium,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,6.742,6.821,7.124,7.403,9.794,12.654,16.155,20.33,24.506,,
+Belgium,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,17.15,17.353,18.122,18.831,20.698,22.214,23.559,24.63,25.7,,
+Belgium,eCommerce,Revenue Share Payment Types,Other,percent,Statista,3.18,3.218,3.19,3.247,3.212,3.098,2.944,2.758,2.572,,
+Belgium,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,29.597,30.034,30.478,30.826,31.146,31.433,31.692,31.925,32.134,,
+Belgium,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,70.403,69.966,69.522,69.174,68.854,68.567,68.308,68.075,67.866,,
+Belgium,eCommerce,Online & Offline Split,Offline,percent,Statista,93.189,92.923,92.608,90.69,89.891,88.935,87.75,86.342,84.758,,
+Belgium,eCommerce,Online & Offline Split,Online,percent,Statista,6.811,7.077,7.392,9.31,10.109,11.065,12.25,13.658,15.242,,
+Belgium,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,70.022,68.546,67.22,65.734,64.919,64.272,63.795,63.808,63.836,,
+Belgium,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,29.978,31.454,32.78,34.266,35.081,35.728,36.205,36.192,36.164,,
+Belgium,eCommerce,Users,Total,million users,Statista,6.558,6.884,7.227,7.507,7.744,7.927,7.942,8.277,8.618,8.779,8.964
+Belgium,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,2.9,3.169,3.493,3.84,4.146,4.425,4.686,4.933,5.18,5.423,5.656
+Belgium,eCommerce,Users,Beverages,million users,Statista,1.434,1.645,1.884,2.144,2.391,2.639,2.881,3.084,3.291,3.512,3.726
+Belgium,eCommerce,Users,Electronics,million users,Statista,4.252,4.734,5.323,5.92,6.508,7.052,7.535,8.082,8.637,9.169,9.702
+Belgium,eCommerce,Users,Fashion,million users,Statista,4.101,4.588,5.149,5.728,6.285,6.821,7.314,7.733,8.156,8.598,9.016
+Belgium,eCommerce,Users,Food,million users,Statista,1.348,1.547,1.772,2.016,2.249,2.481,2.709,2.9,3.094,3.303,3.504
+Belgium,eCommerce,Users,Furniture,million users,Statista,1.733,2.034,2.384,2.688,2.998,3.278,3.546,3.796,4.05,4.289,4.519
+Belgium,eCommerce,Users,Media,million users,Statista,3.181,3.492,3.87,4.128,4.353,4.539,4.727,4.869,5.013,5.126,5.227
+Belgium,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,3.007,3.478,4.063,4.64,5.123,5.571,5.994,6.353,6.717,7.066,7.392
+Belgium,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,25.399,27.598,30.268,33.131,35.642,37.927,40.055,42.057,44.06,46.01,47.863
+Belgium,eCommerce,Penetration Rate,Beverages,percent,Statista,12.557,14.325,16.33,18.498,20.559,22.616,24.626,26.296,27.987,29.797,31.533
+Belgium,eCommerce,Penetration Rate,eCommerce,percent,Statista,57.426,59.951,62.631,64.778,66.577,67.936,67.885,70.574,73.296,74.476,75.854
+Belgium,eCommerce,Penetration Rate,Electronics,percent,Statista,37.23,41.231,46.129,51.077,55.945,60.436,64.409,68.907,73.456,77.786,82.099
+Belgium,eCommerce,Penetration Rate,Fashion,percent,Statista,35.915,39.956,44.619,49.42,54.029,58.454,62.518,65.933,69.369,72.941,76.299
+Belgium,eCommerce,Penetration Rate,Food,percent,Statista,11.808,13.47,15.355,17.394,19.331,21.266,23.156,24.726,26.316,28.018,29.651
+Belgium,eCommerce,Penetration Rate,Furniture,percent,Statista,15.179,17.714,20.657,23.192,25.775,28.094,30.308,32.363,34.444,36.387,38.241
+Belgium,eCommerce,Penetration Rate,Media,percent,Statista,27.857,30.411,33.536,35.616,37.424,38.903,40.4,41.51,42.633,43.49,44.232
+Belgium,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,26.327,30.286,35.214,40.033,44.044,47.744,51.23,54.169,57.127,59.949,62.553
+Belgium,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.528,,,,,,
+Belgium,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.532,,,,,,
+Belgium,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.81,,,,,,
+Belgium,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.224,,,,,,
+Belgium,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.907,,,,,,
+Belgium,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,43.892,,,,,,
+Belgium,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,56.108,,,,,,
+Belgium,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.037,,,,,,
+Belgium,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.005,,,,,,
+Belgium,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.957,,,,,,
+Belgium,Electronics,Revenue,Total,billion USD (US$),Statista,1.957,2.065,2.184,2.738,2.983,2.645,3.554,4.027,4.544,4.852,5.21
+Belgium,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,1.338,1.401,1.463,1.861,2.003,1.706,2.414,2.754,3.126,3.339,3.589
+Belgium,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.618,0.663,0.721,0.877,0.98,0.938,1.14,1.272,1.418,1.513,1.621
+Belgium,Electronics,Revenue Change,Total,percent,Statista,,5.511,5.798,25.367,8.931,-11.34,34.391,13.296,12.844,6.79,7.366
+Belgium,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,4.726,4.42,27.187,7.612,-14.812,41.453,14.118,13.495,6.805,7.496
+Belgium,Electronics,Revenue Change,Household Appliances,percent,Statista,,7.208,8.71,21.67,11.73,-4.243,21.55,11.556,11.435,6.756,7.078
+Belgium,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,460.2,436.1,410.3,462.6,458.4,375,471.6,498.2,526.1,529.2,537
+Belgium,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,324.5,312.9,298.1,345.5,342.7,272,362.5,386.5,411.1,416.1,424.5
+Belgium,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,230.8,213.3,197.9,211.6,210.1,182.3,204.8,211.5,219.1,218.9,220.6
+Belgium,Electronics,Online & Offline Split,Offline,percent,Statista,67.066,66.092,64.809,58.103,57.348,51.006,46.394,40.801,35.271,,
+Belgium,Electronics,Online & Offline Split,Online,percent,Statista,32.934,33.908,35.191,41.897,42.652,48.994,53.606,59.199,64.729,,
+Belgium,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Electronics,Users by Segment,Total,million users,Statista,4.252,4.734,5.323,5.92,6.508,7.052,7.535,8.082,8.637,9.169,9.702
+Belgium,Electronics,Users by Segment,Consumer Electronics,million users,Statista,4.124,4.479,4.91,5.387,5.845,6.272,6.658,7.127,7.604,8.025,8.455
+Belgium,Electronics,Users by Segment,Household Appliances,million users,Statista,2.679,3.108,3.642,4.144,4.664,5.147,5.567,6.016,6.472,6.913,7.347
+Belgium,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,36.113,39.005,42.551,46.48,50.249,53.755,56.908,60.765,64.673,68.079,71.548
+Belgium,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,37.23,41.231,46.129,51.077,55.945,60.436,64.409,68.907,73.456,77.786,82.099
+Belgium,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,23.459,27.065,31.562,35.754,40.098,44.11,47.586,51.292,55.046,58.644,62.173
+Belgium,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,17.042,,,,,,
+Belgium,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.865,,,,,,
+Belgium,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.116,,,,,,
+Belgium,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.794,,,,,,
+Belgium,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.183,,,,,,
+Belgium,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,42.122,,,,,,
+Belgium,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,57.878,,,,,,
+Belgium,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,40.083,,,,,,
+Belgium,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.926,,,,,,
+Belgium,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.992,,,,,,
+Belgium,Consumer Electronics,Revenue,Total,million USD (US$),Statista,"1,338","1,401","1,463","1,861","2,003","1,706","2,414","2,754","3,126","3,339","3,589"
+Belgium,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,293,314,329.3,392.1,409,352.2,503.3,579.8,663.7,707.9,761.8
+Belgium,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,384.9,403.1,420.9,535.4,576.1,490.8,694.2,792.2,899.1,962,"1,036"
+Belgium,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,364.9,377.6,392.9,535.6,586.7,498.9,703.9,800.6,904.9,965.9,"1,036"
+Belgium,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,286,297,310.2,385.7,417.6,355.6,503.4,575.1,654,698.8,752
+Belgium,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,9.437,9.765,10.16,12.58,13.54,8.838,8.854,6.654,4.397,4.159,3.62
+Belgium,Consumer Electronics,Revenue Change,Total,percent,Statista,,4.726,4.42,27.187,7.612,-14.812,41.453,14.118,13.495,6.805,7.496
+Belgium,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.184,4.85,19.077,4.325,-13.89,42.905,15.195,14.471,6.661,7.609
+Belgium,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,4.726,4.42,27.187,7.612,-14.812,41.453,14.118,13.495,6.994,7.661
+Belgium,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,3.479,4.048,36.343,9.538,-14.977,41.1,13.739,13.024,6.745,7.256
+Belgium,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,3.84,4.451,24.309,8.278,-14.836,41.534,14.257,13.713,6.859,7.61
+Belgium,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,3.479,4.048,23.86,7.628,-34.747,0.176,-24.842,-33.915,-5.422,-12.955
+Belgium,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,324.5,312.9,298.1,345.5,342.7,272,362.5,386.5,411.1,416.1,424.5
+Belgium,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,101.5,100.2,95.8,104,99.97,80.22,108,116.2,124.7,126,128.7
+Belgium,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,116.7,112.5,107.2,124.2,123.2,97.81,130.3,139,147.8,149.9,153.1
+Belgium,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,110.6,105.4,100,124.3,125.5,99.42,132.2,140.4,148.7,150.5,153.2
+Belgium,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,173.4,165.8,158,179,178.6,141.7,189,201.7,215,217.7,222.4
+Belgium,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,7.627,7.268,6.898,7.787,7.724,4.697,4.433,3.112,1.928,1.728,1.427
+Belgium,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,67.412,66.772,65.986,57.651,57.88,52.191,47.682,41.958,36.204,,
+Belgium,Consumer Electronics,Online & Offline Split,Online,percent,Statista,32.588,33.228,34.014,42.349,42.12,47.809,52.318,58.042,63.796,,
+Belgium,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Consumer Electronics,Users,Total,million users,Statista,4.124,4.479,4.91,5.387,5.845,6.272,6.658,7.127,7.604,8.025,8.455
+Belgium,Consumer Electronics,Users,Computing,million users,Statista,2.887,3.135,3.437,3.771,4.092,4.391,4.661,4.989,5.323,5.617,5.918
+Belgium,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,3.299,3.583,3.928,4.309,4.676,5.018,5.326,5.701,6.083,6.42,6.764
+Belgium,Consumer Electronics,Users,Telephony,million users,Statista,3.299,3.583,3.928,4.309,4.676,5.018,5.326,5.701,6.083,6.42,6.764
+Belgium,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,1.65,1.791,1.964,2.155,2.338,2.509,2.663,2.851,3.042,3.21,3.382
+Belgium,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.237,1.344,1.473,1.616,1.754,1.882,1.997,2.138,2.281,2.407,2.537
+Belgium,Consumer Electronics,Penetration Rate,Computing,percent,Statista,25.279,27.303,29.785,32.536,35.174,37.629,39.835,42.536,45.271,47.655,50.084
+Belgium,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,36.113,39.005,42.551,46.48,50.249,53.755,56.908,60.765,64.673,68.079,71.548
+Belgium,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,28.89,31.204,34.04,37.184,40.199,43.004,45.526,48.612,51.739,54.463,57.239
+Belgium,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,28.89,31.204,34.04,37.184,40.199,43.004,45.526,48.612,51.739,54.463,57.239
+Belgium,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,14.445,15.602,17.02,18.592,20.1,21.502,22.763,24.306,25.869,27.232,28.62
+Belgium,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,10.834,11.701,12.765,13.944,15.075,16.127,17.072,18.23,19.402,20.424,21.465
+Belgium,Household Appliances,Revenue,Total,billion USD (US$),Statista,0.618,0.663,0.721,0.877,0.98,0.938,1.14,1.272,1.418,1.513,1.621
+Belgium,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.3,0.322,0.35,0.425,0.475,0.455,0.552,0.615,0.685,0.731,0.783
+Belgium,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.104,0.111,0.121,0.147,0.165,0.158,0.192,0.214,0.238,0.254,0.272
+Belgium,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.214,0.23,0.25,0.304,0.34,0.326,0.397,0.443,0.494,0.528,0.566
+Belgium,Household Appliances,Revenue Change,Total,percent,Statista,,7.208,8.71,21.67,11.73,-4.243,21.55,11.556,11.435,6.756,7.078
+Belgium,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,7.208,8.71,21.659,11.729,-4.339,21.426,11.442,11.321,6.737,7.047
+Belgium,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,7.208,8.71,21.67,11.73,-4.243,21.55,11.556,11.435,6.756,7.078
+Belgium,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,7.208,8.71,21.686,11.733,-4.107,21.722,11.714,11.592,6.781,7.122
+Belgium,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,230.8,213.3,197.9,211.6,210.1,182.3,204.8,211.5,219.1,218.9,220.6
+Belgium,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,280,258.8,240.1,256.7,254.8,220.9,248,255.7,264.6,264.5,266.3
+Belgium,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,193.9,179.2,166.2,177.7,176.4,153.1,172,177.6,184,183.9,185.3
+Belgium,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,100.1,92.48,85.79,91.75,91.08,79.15,89.06,92.08,95.51,95.49,96.24
+Belgium,Household Appliances,Online & Offline Split,Offline,percent,Statista,66.291,64.56,62.15,59.03,56.218,48.327,43.42,38.12,33.113,,
+Belgium,Household Appliances,Online & Offline Split,Online,percent,Statista,33.709,35.44,37.85,40.97,43.782,51.673,56.58,61.88,66.887,,
+Belgium,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Household Appliances,Users,Total,million users,Statista,2.679,3.108,3.642,4.144,4.664,5.147,5.567,6.016,6.472,6.913,7.347
+Belgium,Household Appliances,Users,Major Appliances,million users,Statista,1.072,1.243,1.457,1.657,1.866,2.059,2.227,2.406,2.589,2.765,2.939
+Belgium,Household Appliances,Users,Other Household Appliances,million users,Statista,0.536,0.622,0.728,0.829,0.933,1.029,1.113,1.203,1.294,1.383,1.469
+Belgium,Household Appliances,Users,Small Appliances,million users,Statista,2.143,2.486,2.914,3.315,3.731,4.118,4.454,4.813,5.178,5.53,5.877
+Belgium,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,23.459,27.065,31.562,35.754,40.098,44.11,47.586,51.292,55.046,58.644,62.173
+Belgium,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,9.384,10.826,12.625,14.302,16.039,17.644,19.035,20.517,22.018,23.458,24.869
+Belgium,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,4.692,5.413,6.312,7.151,8.02,8.822,9.517,10.258,11.009,11.729,12.435
+Belgium,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,18.767,21.652,25.25,28.603,32.078,35.288,38.069,41.033,44.037,46.914,49.736
+Belgium,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,9.5,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.054,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.246,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,25.27,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.927,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,55.94,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,44.06,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.95,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.177,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.873,,,,,,
+Belgium,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,0.736,0.773,0.818,0.922,0.991,1.026,1.35,1.633,1.977,2.117,2.303
+Belgium,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.09,0.097,0.103,0.119,0.13,0.135,0.178,0.215,0.259,0.278,0.303
+Belgium,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.16,0.165,0.172,0.186,0.197,0.205,0.27,0.327,0.395,0.421,0.457
+Belgium,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.062,0.065,0.07,0.082,0.09,0.102,0.147,0.196,0.262,0.283,0.314
+Belgium,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,0.424,0.446,0.472,0.534,0.575,0.585,0.755,0.896,1.061,1.134,1.229
+Belgium,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,5.084,5.814,12.694,7.561,3.488,31.566,20.964,21.079,7.067,8.791
+Belgium,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,6.883,7.141,15.453,8.736,3.932,31.785,20.815,20.544,7.421,8.944
+Belgium,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,3.563,4.358,8.036,5.897,3.781,31.797,21.023,20.96,6.703,8.557
+Belgium,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,5.843,6.681,17.773,9.032,13.411,44.504,33.184,33.649,8.004,10.924
+Belgium,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,5.163,5.939,13.039,7.652,1.737,29.184,18.599,18.503,6.885,8.309
+Belgium,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,253.6,243.9,234.2,240,239.1,231.8,288,331,381.6,390.3,407.1
+Belgium,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,44.47,43.51,42.29,44.41,44.73,43.55,54.2,62.21,71.4,73.27,76.53
+Belgium,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,85.92,81.45,77.12,75.78,74.33,72.27,89.94,103.4,119.1,121.4,126.4
+Belgium,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,56.14,54.39,52.64,56.4,56.95,60.51,82.57,104.5,133,137.2,145.9
+Belgium,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,235.7,226.9,218.1,224.2,223.5,213.1,259.9,292.9,330.5,337.4,350.4
+Belgium,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,86.362,86,85.553,83.279,83.181,80.913,78.051,74.712,70.926,,
+Belgium,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,13.638,14,14.447,16.721,16.819,19.087,21.949,25.288,29.074,,
+Belgium,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,2.9,3.169,3.493,3.84,4.146,4.425,4.686,4.933,5.18,5.423,5.656
+Belgium,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,2.03,2.218,2.445,2.688,2.902,3.098,3.28,3.453,3.626,3.796,3.959
+Belgium,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,1.856,2.028,2.235,2.457,2.653,2.832,2.999,3.157,3.315,3.471,3.62
+Belgium,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,1.102,1.204,1.327,1.459,1.575,1.682,1.781,1.874,1.969,2.061,2.149
+Belgium,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,1.798,1.965,2.166,2.381,2.57,2.744,2.905,3.058,3.212,3.362,3.507
+Belgium,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,25.399,27.598,30.268,33.131,35.642,37.927,40.055,42.057,44.06,46.01,47.863
+Belgium,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,17.779,19.318,21.188,23.192,24.949,26.549,28.039,29.44,30.842,32.206,33.504
+Belgium,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,16.255,17.662,19.372,21.204,22.811,24.273,25.635,26.917,28.198,29.446,30.632
+Belgium,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,9.652,10.487,11.502,12.59,13.544,14.412,15.221,15.982,16.743,17.484,18.188
+Belgium,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,15.747,17.11,18.766,20.541,22.098,23.515,24.834,26.075,27.317,28.526,29.674
+Belgium,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,8.3,,,,,,
+Belgium,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,27.547,,,,,,
+Belgium,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,19.623,,,,,,
+Belgium,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,27.547,,,,,,
+Belgium,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.981,,,,,,
+Belgium,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,63.396,,,,,,
+Belgium,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,36.604,,,,,,
+Belgium,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,40.094,,,,,,
+Belgium,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,25.472,,,,,,
+Belgium,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.434,,,,,,
+Belgium,Personal Care,Revenue,Total,million USD (US$),Statista,423.9,445.7,472.2,533.8,574.6,584.6,755.2,895.7,"1,061","1,134","1,229"
+Belgium,Personal Care,Revenue,Body Care,million USD (US$),Statista,59.54,62.48,66.08,72.79,77.94,79.43,102.8,122,144.7,154.5,167.2
+Belgium,Personal Care,Revenue,Eye Care,million USD (US$),Statista,59.21,62.15,65.79,78.99,85.86,84.31,105.1,120.2,137.4,146.6,157.7
+Belgium,Personal Care,Revenue,Hair Care,million USD (US$),Statista,41.03,43.06,45.54,50.38,53.98,55.08,71.35,84.81,100.7,107.5,116.4
+Belgium,Personal Care,Revenue,Oral Care,million USD (US$),Statista,30.61,32.12,33.97,37.59,40.27,41.4,54.01,64.67,77.36,82.67,89.67
+Belgium,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,142.2,149.5,158.4,179,192.7,196.1,253.3,300.4,356,380.5,412.1
+Belgium,Personal Care,Revenue,Skin Care,million USD (US$),Statista,91.3,96.42,102.4,115,123.8,128.3,168.7,203.5,245.2,262.7,285.6
+Belgium,Personal Care,Revenue Change,Total,percent,Statista,,5.163,5.939,13.039,7.652,1.737,29.184,18.599,18.503,6.885,8.309
+Belgium,Personal Care,Revenue Change,Body Care,percent,Statista,,4.942,5.764,10.157,7.063,1.922,29.375,18.738,18.61,6.727,8.229
+Belgium,Personal Care,Revenue Change,Eye Care,percent,Statista,,4.975,5.861,20.054,8.699,-1.807,24.645,14.401,14.281,6.72,7.541
+Belgium,Personal Care,Revenue Change,Hair Care,percent,Statista,,4.942,5.764,10.62,7.134,2.047,29.531,18.879,18.748,6.771,8.277
+Belgium,Personal Care,Revenue Change,Oral Care,percent,Statista,,4.942,5.764,10.648,7.138,2.788,30.472,19.743,19.611,6.874,8.469
+Belgium,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,5.163,5.939,13.039,7.652,1.737,29.184,18.599,18.503,6.885,8.309
+Belgium,Personal Care,Revenue Change,Skin Care,percent,Statista,,5.602,6.238,12.261,7.701,3.602,31.483,20.643,20.478,7.12,8.747
+Belgium,Personal Care,Average Revenue per User,Total,USD (US$),Statista,235.7,226.9,218.1,224.2,223.5,213.1,259.9,292.9,330.5,337.4,350.4
+Belgium,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,48.69,46.77,44.88,44.97,44.59,42.58,52.02,58.68,66.27,67.56,70.11
+Belgium,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,65.85,63.27,60.77,66.36,66.8,61.46,72.34,78.62,85.55,87.21,89.93
+Belgium,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,43.88,42.15,40.45,40.7,40.38,38.61,47.22,53.33,60.3,61.5,63.85
+Belgium,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,34.74,33.37,32.02,32.22,31.97,30.79,37.94,43.16,49.15,50.18,52.19
+Belgium,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,175.7,169.1,162.5,167.1,166.6,158.8,193.7,218.3,246.3,251.5,261.1
+Belgium,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,115.4,111.5,107.5,109.8,109.5,106.3,132,151.3,173.5,177.5,185.1
+Belgium,Personal Care,Online & Offline Split,Offline,percent,Statista,83.723,83.271,82.731,79.216,79.534,77.331,74.488,71.202,67.586,,
+Belgium,Personal Care,Online & Offline Split,Online,percent,Statista,16.277,16.729,17.269,20.784,20.466,22.669,25.512,28.798,32.414,,
+Belgium,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Personal Care,Users,Total,million users,Statista,1.798,1.965,2.166,2.381,2.57,2.744,2.905,3.058,3.212,3.362,3.507
+Belgium,Personal Care,Users,Body Care,million users,Statista,1.223,1.336,1.473,1.619,1.748,1.866,1.976,2.08,2.184,2.286,2.385
+Belgium,Personal Care,Users,Eye Care,million users,Statista,0.899,0.982,1.083,1.19,1.285,1.372,1.453,1.529,1.606,1.681,1.753
+Belgium,Personal Care,Users,Hair Care,million users,Statista,0.935,1.022,1.126,1.238,1.337,1.427,1.511,1.59,1.67,1.748,1.823
+Belgium,Personal Care,Users,Oral Care,million users,Statista,0.881,0.963,1.061,1.167,1.26,1.344,1.424,1.499,1.574,1.648,1.718
+Belgium,Personal Care,Users,Other Personal Care,million users,Statista,0.809,0.884,0.974,1.071,1.157,1.235,1.307,1.376,1.445,1.513,1.578
+Belgium,Personal Care,Users,Skin Care,million users,Statista,0.791,0.864,0.953,1.047,1.131,1.207,1.278,1.346,1.413,1.48,1.543
+Belgium,Personal Care,Penetration Rate,Body Care,percent,Statista,10.708,11.635,12.761,13.968,15.026,15.99,16.887,17.731,18.576,19.397,20.178
+Belgium,Personal Care,Penetration Rate,Eye Care,percent,Statista,7.874,8.555,9.383,10.271,11.049,11.757,12.417,13.038,13.659,14.263,14.837
+Belgium,Personal Care,Penetration Rate,Hair Care,percent,Statista,8.189,8.897,9.759,10.681,11.491,12.228,12.914,13.559,14.205,14.833,15.431
+Belgium,Personal Care,Penetration Rate,Oral Care,percent,Statista,7.716,8.384,9.196,10.065,10.828,11.522,12.169,12.777,13.385,13.977,14.54
+Belgium,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,7.086,7.7,8.445,9.244,9.944,10.582,11.175,11.734,12.293,12.837,13.355
+Belgium,Personal Care,Penetration Rate,Personal Care,percent,Statista,15.747,17.11,18.766,20.541,22.098,23.515,24.834,26.075,27.317,28.526,29.674
+Belgium,Personal Care,Penetration Rate,Skin Care,percent,Statista,6.929,7.529,8.257,9.038,9.723,10.346,10.927,11.473,12.02,12.552,13.059
+Belgium,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,44.47,43.51,42.29,44.41,44.73,43.55,54.2,62.21,71.4,73.27,76.53
+Belgium,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,41.34,40.13,38.79,39.93,39.94,38.81,48.23,55.3,63.44,64.97,67.78
+Belgium,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,8.664,8.843,8.844,10.24,10.62,10.43,13.07,15.07,17.33,17.93,18.83
+Belgium,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,41.35,40.45,39.32,41.29,41.58,40.49,50.39,57.84,66.38,68.11,71.13
+Belgium,Beauty Care,Revenue,Total,million USD (US$),Statista,90.29,96.5,103.4,119.4,129.8,134.9,177.8,214.8,258.9,278.1,303
+Belgium,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,58.75,62.3,66.39,75.12,81.15,84.16,110.7,133.7,161,172.6,187.9
+Belgium,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,10.55,11.77,12.97,16.51,18.49,19.39,25.72,31.22,37.71,40.84,44.73
+Belgium,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,20.99,22.43,24.03,27.75,30.17,31.36,41.32,49.93,60.18,64.65,70.43
+Belgium,Beauty Care,Revenue Change,Total,percent,Statista,,6.883,7.141,15.453,8.736,3.932,31.785,20.815,20.544,7.421,8.944
+Belgium,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,6.051,6.557,13.151,8.021,3.718,31.581,20.69,20.481,7.217,8.808
+Belgium,Beauty Care,Revenue Change,Fragrances,percent,Statista,,11.516,10.236,27.23,11.992,4.873,32.673,21.355,20.814,8.291,9.517
+Belgium,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,6.883,7.141,15.453,8.736,3.932,31.785,20.815,20.544,7.421,8.944
+Belgium,Beauty Care,Online & Offline Split,Offline,percent,Statista,85.238,84.977,84.645,80.622,81.49,79.338,76.366,72.885,68.982,,
+Belgium,Beauty Care,Online & Offline Split,Online,percent,Statista,14.762,15.023,15.355,19.378,18.51,20.662,23.634,27.115,31.018,,
+Belgium,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Beauty Care,Users by Segment,Total,million users,Statista,2.03,2.218,2.445,2.688,2.902,3.098,3.28,3.453,3.626,3.796,3.959
+Belgium,Beauty Care,Users by Segment,Cosmetics,million users,Statista,1.421,1.553,1.711,1.881,2.032,2.168,2.296,2.417,2.538,2.657,2.771
+Belgium,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.218,1.331,1.467,1.613,1.741,1.859,1.968,2.072,2.176,2.278,2.376
+Belgium,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.508,0.555,0.611,0.672,0.726,0.774,0.82,0.863,0.907,0.949,0.99
+Belgium,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,17.779,19.318,21.188,23.192,24.949,26.549,28.039,29.44,30.842,32.206,33.504
+Belgium,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,12.445,13.523,14.831,16.234,17.464,18.584,19.627,20.608,21.589,22.544,23.452
+Belgium,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,10.667,11.591,12.713,13.915,14.969,15.929,16.823,17.664,18.505,19.324,20.103
+Belgium,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,4.445,4.83,5.297,5.798,6.237,6.637,7.01,7.36,7.71,8.053,8.379
+Belgium,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,85.92,81.45,77.12,75.78,74.33,72.27,89.94,103.4,119.1,121.4,126.4
+Belgium,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,73.28,69.43,65.69,63.45,61.81,59.94,74.36,85.18,97.69,99.4,103.3
+Belgium,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,48.38,45.84,43.37,41.9,40.83,39.74,49.49,56.9,65.5,66.68,69.35
+Belgium,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,45.2,42.83,40.52,39.25,38.26,36.94,45.64,52.06,59.45,60.46,62.76
+Belgium,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,1.483,1.405,1.33,3.318,4.034,3.668,4.269,4.586,4.933,5.202,5.464
+Belgium,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,5.109,5.016,4.918,5.048,5.116,5.639,7.956,10.37,13.53,13.97,14.92
+Belgium,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,86.83,82.31,77.93,76.59,75.11,73.03,90.89,104.5,120.4,122.7,127.7
+Belgium,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,15.38,14.57,13.79,13.35,13.01,12.52,15.41,17.51,19.92,20.25,21
+Belgium,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,21.23,20.11,19.03,18.53,18.07,17.8,22.44,26.11,30.41,31.02,32.37
+Belgium,Health Care,Revenue,Total,million USD (US$),Statista,159.5,165.2,172.4,186.2,197.2,204.7,269.8,326.5,394.9,421.4,457.4
+Belgium,Health Care,Revenue,Analgesics,million USD (US$),Statista,27.21,28.16,29.37,31.18,32.8,33.95,44.61,53.78,64.77,69,74.78
+Belgium,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,35.93,37.18,38.78,41.19,43.33,45.02,59.37,71.85,86.86,92.59,100.4
+Belgium,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,25.17,26.06,27.18,28.94,30.45,31.39,41.06,49.3,59.13,62.96,68.18
+Belgium,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,1.102,1.14,1.189,3.262,4.281,4.156,5.121,5.791,6.541,7.222,7.913
+Belgium,Health Care,Revenue,Incontinence,million USD (US$),Statista,1.897,2.034,2.199,2.481,2.715,3.194,4.772,6.545,8.971,9.7,10.8
+Belgium,Health Care,Revenue,Other Health Care,million USD (US$),Statista,37.07,38.39,40.07,43.29,45.84,47.57,62.7,75.88,91.79,97.94,106.3
+Belgium,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,11.42,11.82,12.33,13.13,13.81,14.18,18.48,22.11,26.41,28.11,30.41
+Belgium,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,19.71,20.4,21.27,22.77,23.98,25.21,33.64,41.21,50.41,53.84,58.58
+Belgium,Health Care,Revenue Change,Total,percent,Statista,,3.563,4.358,8.036,5.897,3.781,31.797,21.023,20.96,6.703,8.557
+Belgium,Health Care,Revenue Change,Analgesics,percent,Statista,,3.505,4.297,6.179,5.192,3.501,31.376,20.573,20.44,6.529,8.377
+Belgium,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,3.505,4.297,6.207,5.197,3.893,31.874,21.03,20.897,6.585,8.478
+Belgium,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,3.505,4.297,6.483,5.239,3.066,30.825,20.067,19.935,6.485,8.276
+Belgium,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,3.505,4.297,174.301,31.259,-2.928,23.217,13.084,12.961,10.41,9.56
+Belgium,Health Care,Revenue Change,Incontinence,percent,Statista,,7.256,8.088,12.832,9.438,17.651,49.388,37.154,37.062,8.126,11.375
+Belgium,Health Care,Revenue Change,Other Health Care,percent,Statista,,3.563,4.358,8.036,5.897,3.781,31.797,21.023,20.96,6.703,8.557
+Belgium,Health Care,Revenue Change,Skin Treatment,percent,Statista,,3.505,4.297,6.475,5.238,2.671,30.323,19.606,19.475,6.426,8.172
+Belgium,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,3.505,4.297,7.03,5.324,5.134,33.449,22.475,22.34,6.793,8.809
+Belgium,Health Care,Online & Offline Split,Offline,percent,Statista,80.246,80.116,79.855,78.995,78.416,75.251,71.658,67.646,63.161,,
+Belgium,Health Care,Online & Offline Split,Online,percent,Statista,19.754,19.884,20.145,21.005,21.584,24.749,28.342,32.354,36.839,,
+Belgium,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Health Care,Users by Segment,Total,million users,Statista,1.856,2.028,2.235,2.457,2.653,2.832,2.999,3.157,3.315,3.471,3.62
+Belgium,Health Care,Users by Segment,Analgesics,million users,Statista,0.371,0.406,0.447,0.491,0.531,0.566,0.6,0.631,0.663,0.694,0.724
+Belgium,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.743,0.811,0.894,0.983,1.061,1.133,1.2,1.263,1.326,1.388,1.448
+Belgium,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.557,0.608,0.671,0.737,0.796,0.85,0.9,0.947,0.995,1.041,1.086
+Belgium,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.743,0.811,0.894,0.983,1.061,1.133,1.2,1.263,1.326,1.388,1.448
+Belgium,Health Care,Users by Segment,Incontinence,million users,Statista,0.371,0.406,0.447,0.491,0.531,0.566,0.6,0.631,0.663,0.694,0.724
+Belgium,Health Care,Users by Segment,Other Health Care,million users,Statista,0.427,0.466,0.514,0.565,0.61,0.651,0.69,0.726,0.763,0.798,0.833
+Belgium,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.743,0.811,0.894,0.983,1.061,1.133,1.2,1.263,1.326,1.388,1.448
+Belgium,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.928,1.014,1.118,1.229,1.327,1.416,1.5,1.578,1.658,1.735,1.81
+Belgium,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,3.251,3.532,3.874,4.241,4.562,4.855,5.127,5.383,5.64,5.889,6.127
+Belgium,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,6.502,7.065,7.749,8.482,9.124,9.709,10.254,10.767,11.279,11.779,12.255
+Belgium,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,4.877,5.299,5.812,6.361,6.843,7.282,7.691,8.075,8.459,8.835,9.192
+Belgium,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,6.502,7.065,7.749,8.482,9.124,9.709,10.254,10.767,11.279,11.779,12.255
+Belgium,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,16.255,17.662,19.372,21.204,22.811,24.273,25.635,26.917,28.198,29.446,30.632
+Belgium,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,3.251,3.532,3.874,4.241,4.562,4.855,5.127,5.383,5.64,5.889,6.127
+Belgium,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,3.739,4.062,4.456,4.877,5.246,5.583,5.896,6.191,6.486,6.774,7.048
+Belgium,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,6.502,7.065,7.749,8.482,9.124,9.709,10.254,10.767,11.279,11.779,12.255
+Belgium,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,8.128,8.831,9.686,10.602,11.405,12.137,12.818,13.458,14.099,14.723,15.316
+Belgium,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,56.14,54.39,52.64,56.4,56.95,60.51,82.57,104.5,133,137.2,145.9
+Belgium,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,7.184,6.897,6.615,7.535,7.629,7.909,10.54,13.06,16.3,16.82,17.84
+Belgium,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,9.666,9.28,8.9,10.45,10.64,11.02,14.68,18.16,22.65,23.4,24.83
+Belgium,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,25.13,24.67,24.19,24.81,25.15,27.66,38.94,50.63,65.94,68.09,72.69
+Belgium,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,27.63,26.53,25.44,26.8,26.78,27.81,37.14,46.09,57.66,59.32,62.83
+Belgium,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,96.25,93.25,90.26,96.69,97.64,103.7,141.6,179.1,227.9,235.1,250.1
+Belgium,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,4.165,4.089,4.01,4.227,4.303,4.736,6.672,8.682,11.32,11.7,12.49
+Belgium,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,8.144,7.819,7.499,7.788,7.763,8.093,10.85,13.52,16.98,17.46,18.5
+Belgium,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,19.97,19.6,19.22,20.4,20.79,22.79,31.97,41.43,53.77,55.58,59.35
+Belgium,Household Care,Revenue,Total,million USD (US$),Statista,61.88,65.49,69.87,82.29,89.72,101.8,147,195.8,261.7,282.7,313.5
+Belgium,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,3.326,3.488,3.687,4.618,5.048,5.586,7.885,10.28,13.48,14.56,16.11
+Belgium,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,4.794,5.028,5.315,6.862,7.542,8.338,11.76,15.32,20.07,21.7,24.02
+Belgium,Household Care,Revenue,Household Paper,million USD (US$),Statista,6.37,6.832,7.385,8.327,9.112,10.7,15.95,21.83,29.85,32.28,35.94
+Belgium,Household Care,Revenue,Laundry Care,million USD (US$),Statista,12.18,12.78,13.51,15.64,16.87,18.71,26.46,34.55,45.4,48.91,54.04
+Belgium,Household Care,Revenue,Other Household Care,million USD (US$),Statista,23.34,24.7,26.35,31.04,33.84,38.38,55.46,73.86,98.72,106.6,118.3
+Belgium,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,1.469,1.576,1.703,1.974,2.169,2.549,3.802,5.208,7.128,7.713,8.593
+Belgium,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,2.693,2.825,2.986,3.409,3.669,4.083,5.797,7.6,10.03,10.8,11.93
+Belgium,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,7.703,8.262,8.931,10.42,11.46,13.41,19.92,27.18,37.05,40.09,44.64
+Belgium,Household Care,Revenue Change,Total,percent,Statista,,5.843,6.681,17.773,9.032,13.411,44.504,33.184,33.649,8.004,10.924
+Belgium,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,4.888,5.709,25.232,9.322,10.651,41.164,30.353,31.133,8.026,10.643
+Belgium,Household Care,Revenue Change,Household Cleaners,percent,Statista,,4.888,5.709,29.095,9.913,10.557,41.042,30.238,31.015,8.139,10.696
+Belgium,Household Care,Revenue Change,Household Paper,percent,Statista,,7.256,8.088,12.763,9.427,17.404,49.075,36.867,36.775,8.12,11.341
+Belgium,Household Care,Revenue Change,Laundry Care,percent,Statista,,4.888,5.709,15.799,7.879,10.857,41.431,30.605,31.393,7.72,10.492
+Belgium,Household Care,Revenue Change,Other Household Care,percent,Statista,,5.843,6.681,17.773,9.032,13.411,44.504,33.184,33.649,8.004,10.924
+Belgium,Household Care,Revenue Change,Paper Tissues,percent,Statista,,7.256,8.088,15.895,9.896,17.491,49.185,36.968,36.876,8.21,11.405
+Belgium,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,4.888,5.709,14.173,7.631,11.274,41.972,31.115,31.918,7.68,10.529
+Belgium,Household Care,Revenue Change,Toilet Paper,percent,Statista,,7.256,8.088,16.645,10.033,17.003,48.566,36.401,36.31,8.225,11.354
+Belgium,Household Care,Online & Offline Split,Offline,percent,Statista,95.483,95.266,95,94.29,93.903,92.269,90.101,87.328,83.828,,
+Belgium,Household Care,Online & Offline Split,Online,percent,Statista,4.517,4.734,5,5.71,6.097,7.731,9.899,12.672,16.172,,
+Belgium,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Household Care,Users by Segment,Total,million users,Statista,1.102,1.204,1.327,1.459,1.575,1.682,1.781,1.874,1.969,2.061,2.149
+Belgium,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.463,0.506,0.557,0.613,0.662,0.706,0.748,0.787,0.827,0.866,0.903
+Belgium,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.496,0.542,0.597,0.657,0.709,0.757,0.801,0.843,0.886,0.928,0.967
+Belgium,Household Care,Users by Segment,Household Paper,million users,Statista,0.254,0.277,0.305,0.336,0.362,0.387,0.41,0.431,0.453,0.474,0.494
+Belgium,Household Care,Users by Segment,Laundry Care,million users,Statista,0.441,0.482,0.531,0.584,0.63,0.673,0.712,0.75,0.787,0.824,0.86
+Belgium,Household Care,Users by Segment,Other Household Care,million users,Statista,0.242,0.265,0.292,0.321,0.347,0.37,0.392,0.412,0.433,0.453,0.473
+Belgium,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.353,0.385,0.425,0.467,0.504,0.538,0.57,0.6,0.63,0.659,0.688
+Belgium,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.331,0.361,0.398,0.438,0.473,0.504,0.534,0.562,0.591,0.618,0.645
+Belgium,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.386,0.421,0.465,0.511,0.551,0.589,0.623,0.656,0.689,0.721,0.752
+Belgium,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,4.054,4.405,4.831,5.288,5.688,6.053,6.393,6.712,7.032,7.344,7.641
+Belgium,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,9.652,10.487,11.502,12.59,13.544,14.412,15.221,15.982,16.743,17.484,18.188
+Belgium,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,4.343,4.719,5.176,5.665,6.095,6.485,6.849,7.192,7.534,7.869,8.187
+Belgium,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,2.22,2.412,2.645,2.896,3.115,3.315,3.501,3.676,3.851,4.022,4.184
+Belgium,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,3.861,4.195,4.601,5.036,5.418,5.765,6.088,6.393,6.697,6.995,7.278
+Belgium,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,2.123,2.307,2.53,2.77,2.98,3.171,3.349,3.516,3.683,3.847,4.002
+Belgium,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,3.088,3.356,3.681,4.029,4.334,4.612,4.871,5.114,5.358,5.595,5.82
+Belgium,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.895,3.146,3.451,3.777,4.063,4.324,4.566,4.795,5.023,5.245,5.457
+Belgium,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,3.378,3.67,4.026,4.406,4.74,5.044,5.327,5.594,5.86,6.119,6.366
+Belgium,Food,Revenue,Total,million USD (US$),Statista,86.56,97.2,107.9,166,194.1,186.3,226.3,251.9,279.7,302.3,325.7
+Belgium,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,8.89,9.983,11.08,20.6,25.06,23.52,27.95,30.42,33,35.53,37.95
+Belgium,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,12.33,13.85,15.37,24.51,28.79,27.5,33.26,36.84,40.69,44.17,47.72
+Belgium,Food,Revenue,Convenience Food,million USD (US$),Statista,10.24,11.5,12.77,23.64,28.69,26.92,31.99,34.81,37.77,40.7,43.5
+Belgium,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,11.77,13.22,14.67,20.04,22.86,22.28,27.51,31.11,35.08,37.88,40.94
+Belgium,Food,Revenue,Fish & Seafood,million USD (US$),Statista,5.187,5.825,6.466,9.321,10.74,10.39,12.73,14.28,15.98,17.29,18.68
+Belgium,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,6.832,7.672,8.517,12.3,14.17,13.76,16.92,19.05,21.39,23.15,25.03
+Belgium,Food,Revenue,Meat,million USD (US$),Statista,19.16,21.51,23.88,34.35,39.55,38.27,46.89,52.63,58.91,63.72,68.86
+Belgium,Food,Revenue,Oils & Fats,million USD (US$),Statista,2.158,2.423,2.689,3.666,4.179,4.062,5.001,5.639,6.341,6.844,7.391
+Belgium,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.712,0.8,0.888,1.094,1.226,1.193,1.469,1.658,1.866,2.004,2.157
+Belgium,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.903,1.014,1.126,1.37,1.531,1.519,1.909,2.199,2.526,2.716,2.938
+Belgium,Food,Revenue,Vegetables,million USD (US$),Statista,8.372,9.401,10.44,15.07,17.36,16.84,20.69,23.28,26.12,28.27,30.57
+Belgium,Food,Revenue Change,Total,percent,Statista,,12.297,11.002,53.816,16.985,-4.067,21.511,11.31,11.017,8.086,7.759
+Belgium,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,12.297,11.002,85.911,21.627,-6.153,18.843,8.835,8.508,7.662,6.789
+Belgium,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,12.297,11.002,59.44,17.491,-4.488,20.947,10.762,10.436,8.57,8.037
+Belgium,Food,Revenue Change,Convenience Food,percent,Statista,,12.297,11.002,85.102,21.375,-6.157,18.832,8.817,8.483,7.762,6.87
+Belgium,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,12.297,11.002,36.622,14.034,-2.511,23.459,13.078,12.769,7.985,8.081
+Belgium,Food,Revenue Change,Fish & Seafood,percent,Statista,,12.297,11.002,44.16,15.176,-3.245,22.527,12.218,11.903,8.187,8.057
+Belgium,Food,Revenue Change,Fruits & Nuts,percent,Statista,,12.297,11.002,44.44,15.218,-2.921,22.938,12.597,12.285,8.237,8.153
+Belgium,Food,Revenue Change,Meat,percent,Statista,,12.297,11.002,43.835,15.127,-3.235,22.543,12.238,11.928,8.176,8.055
+Belgium,Food,Revenue Change,Oils & Fats,percent,Statista,,12.297,11.002,36.314,13.988,-2.79,23.107,12.756,12.448,7.939,7.998
+Belgium,Food,Revenue Change,Sauces & Spices,percent,Statista,,12.297,11.002,23.232,12.008,-2.704,23.217,12.858,12.552,7.359,7.658
+Belgium,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,12.297,11.002,21.631,11.765,-0.765,25.693,15.151,14.872,7.555,8.163
+Belgium,Food,Revenue Change,Vegetables,percent,Statista,,12.297,11.002,44.394,15.211,-2.991,22.848,12.515,12.201,8.226,8.133
+Belgium,Food,Average Revenue per User,Total,USD (US$),Statista,64.19,62.85,60.9,82.33,86.34,75.06,83.54,86.87,90.39,91.53,92.96
+Belgium,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,14.03,13.73,13.31,21.74,23.71,20.16,21.95,22.32,22.7,22.89,23.04
+Belgium,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,18.66,18.27,17.7,24.81,26.13,22.62,25.06,25.93,26.84,27.3,27.8
+Belgium,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,13.57,13.28,12.87,20.94,22.78,19.38,21.09,21.44,21.8,22.01,22.17
+Belgium,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,37.95,37.15,36,43.23,44.19,39.04,44.15,46.64,49.29,49.87,50.8
+Belgium,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,20.25,19.82,19.21,24.34,25.13,22.03,24.73,25.92,27.19,27.55,28.06
+Belgium,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,9.744,9.54,9.244,11.74,12.12,10.66,12.01,12.63,13.29,13.48,13.74
+Belgium,Food,Average Revenue per User,Meat,USD (US$),Statista,47.36,46.37,44.93,56.8,58.62,51.4,57.7,60.5,63.46,64.32,65.51
+Belgium,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,6.4,6.266,6.071,7.274,7.433,6.548,7.384,7.778,8.197,8.289,8.438
+Belgium,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,1.201,1.176,1.139,1.234,1.239,1.092,1.233,1.3,1.371,1.379,1.399
+Belgium,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,2.03,1.988,1.926,2.059,2.063,1.855,2.136,2.297,2.473,2.492,2.541
+Belgium,Food,Average Revenue per User,Vegetables,USD (US$),Statista,12.67,12.41,12.02,15.25,15.76,13.85,15.59,16.38,17.23,17.47,17.8
+Belgium,Food,Online & Offline Split,Offline,percent,Statista,99.714,99.681,99.649,99.534,99.403,99.32,99.254,99.185,99.109,,
+Belgium,Food,Online & Offline Split,Online,percent,Statista,0.286,0.319,0.351,0.466,0.597,0.68,0.746,0.815,0.891,,
+Belgium,Food,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Food,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Food,Users,Total,million users,Statista,1.348,1.547,1.772,2.016,2.249,2.481,2.709,2.9,3.094,3.303,3.504
+Belgium,Food,Users,Bread & Cereal Products,million users,Statista,0.634,0.727,0.833,0.947,1.057,1.166,1.273,1.363,1.454,1.552,1.647
+Belgium,Food,Users,Confectionery & Snacks,million users,Statista,0.661,0.758,0.868,0.988,1.102,1.216,1.327,1.421,1.516,1.618,1.717
+Belgium,Food,Users,Convenience Food,million users,Statista,0.755,0.866,0.992,1.129,1.259,1.39,1.517,1.624,1.733,1.849,1.962
+Belgium,Food,Users,Dairy Products & Eggs,million users,Statista,0.31,0.356,0.408,0.464,0.517,0.571,0.623,0.667,0.712,0.76,0.806
+Belgium,Food,Users,Fish & Seafood,million users,Statista,0.256,0.294,0.337,0.383,0.427,0.471,0.515,0.551,0.588,0.628,0.666
+Belgium,Food,Users,Fruits & Nuts,million users,Statista,0.701,0.804,0.921,1.048,1.169,1.29,1.409,1.508,1.609,1.717,1.822
+Belgium,Food,Users,Meat,million users,Statista,0.405,0.464,0.532,0.605,0.675,0.744,0.813,0.87,0.928,0.991,1.051
+Belgium,Food,Users,Oils & Fats,million users,Statista,0.337,0.387,0.443,0.504,0.562,0.62,0.677,0.725,0.774,0.826,0.876
+Belgium,Food,Users,Sauces & Spices,million users,Statista,0.593,0.681,0.78,0.887,0.989,1.092,1.192,1.276,1.361,1.453,1.542
+Belgium,Food,Users,Spreads & Sweeteners,million users,Statista,0.445,0.51,0.585,0.665,0.742,0.819,0.894,0.957,1.021,1.09,1.156
+Belgium,Food,Users,Vegetables,million users,Statista,0.661,0.758,0.868,0.988,1.102,1.216,1.327,1.421,1.516,1.618,1.717
+Belgium,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,5.55,6.331,7.217,8.175,9.086,9.995,10.883,11.621,12.368,13.169,13.936
+Belgium,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,5.786,6.6,7.524,8.523,9.472,10.42,11.346,12.116,12.895,13.729,14.529
+Belgium,Food,Penetration Rate,Convenience Food,percent,Statista,6.612,7.543,8.599,9.741,10.826,11.909,12.967,13.846,14.737,15.69,16.604
+Belgium,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.716,3.098,3.532,4.001,4.446,4.891,5.326,5.687,6.053,6.444,6.82
+Belgium,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.243,2.559,2.917,3.305,3.673,4.04,4.4,4.698,5,5.324,5.634
+Belgium,Food,Penetration Rate,Food,percent,Statista,11.808,13.47,15.355,17.394,19.331,21.266,23.156,24.726,26.316,28.018,29.651
+Belgium,Food,Penetration Rate,Fruits & Nuts,percent,Statista,6.14,7.004,7.984,9.045,10.052,11.058,12.041,12.857,13.684,14.569,15.418
+Belgium,Food,Penetration Rate,Meat,percent,Statista,3.542,4.041,4.606,5.218,5.799,6.38,6.947,7.418,7.895,8.406,8.895
+Belgium,Food,Penetration Rate,Oils & Fats,percent,Statista,2.952,3.367,3.839,4.348,4.833,5.316,5.789,6.181,6.579,7.005,7.413
+Belgium,Food,Penetration Rate,Sauces & Spices,percent,Statista,5.195,5.927,6.756,7.653,8.506,9.357,10.189,10.879,11.579,12.328,13.046
+Belgium,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.897,4.445,5.067,5.74,6.379,7.018,7.641,8.159,8.684,9.246,9.785
+Belgium,Food,Penetration Rate,Vegetables,percent,Statista,5.786,6.6,7.524,8.523,9.472,10.42,11.346,12.116,12.895,13.729,14.529
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,14.03,13.73,13.31,21.74,23.71,20.16,21.95,22.32,22.7,22.89,23.04
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,15.29,14.97,14.51,24.18,26.46,22.45,24.37,24.71,25.05,25.25,25.37
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,1.237,1.211,1.174,1.489,1.538,1.352,1.521,1.599,1.681,1.705,1.738
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,4.099,4.013,3.889,6.354,6.928,5.892,6.414,6.521,6.632,6.697,6.747
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,1.207,1.181,1.145,1.912,2.094,1.779,1.935,1.966,1.997,2.016,2.03
+Belgium,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.489,0.478,0.464,0.778,0.852,0.727,0.794,0.809,0.825,0.836,0.844
+Belgium,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,8.89,9.983,11.08,20.6,25.06,23.52,27.95,30.42,33,35.53,37.95
+Belgium,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,6.107,6.858,7.612,14.44,17.62,16.49,19.55,21.21,22.95,24.69,26.32
+Belgium,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.651,0.731,0.811,1.171,1.349,1.309,1.608,1.809,2.03,2.197,2.375
+Belgium,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,1.169,1.313,1.457,2.709,3.295,3.092,3.675,4,4.34,4.678,5
+Belgium,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.688,0.773,0.858,1.631,1.991,1.868,2.218,2.412,2.614,2.817,3.008
+Belgium,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.276,0.31,0.344,0.656,0.801,0.754,0.899,0.982,1.068,1.155,1.237
+Belgium,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,12.297,11.002,85.911,21.627,-6.153,18.843,8.835,8.508,7.662,6.789
+Belgium,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,12.297,11.002,89.646,22.064,-6.401,18.52,8.529,8.191,7.56,6.63
+Belgium,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,12.297,11.002,44.38,15.209,-2.996,22.842,12.509,12.196,8.227,8.132
+Belgium,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,12.297,11.002,85.911,21.627,-6.153,18.843,8.835,8.508,7.784,6.886
+Belgium,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,12.297,11.002,90.08,22.129,-6.218,18.751,8.741,8.405,7.739,6.811
+Belgium,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,12.297,11.002,90.809,22.24,-5.866,19.198,9.153,8.818,8.09,7.168
+Belgium,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.675,99.638,99.601,99.412,99.163,99.042,98.971,98.897,98.817,,
+Belgium,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.325,0.362,0.399,0.588,0.837,0.958,1.029,1.103,1.183,,
+Belgium,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.634,0.727,0.833,0.947,1.057,1.166,1.273,1.363,1.454,1.552,1.647
+Belgium,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.399,0.458,0.525,0.597,0.666,0.735,0.802,0.859,0.916,0.978,1.038
+Belgium,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.526,0.603,0.691,0.786,0.877,0.968,1.057,1.131,1.207,1.288,1.367
+Belgium,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.285,0.327,0.375,0.426,0.476,0.525,0.573,0.613,0.654,0.699,0.741
+Belgium,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.57,0.654,0.749,0.853,0.951,1.05,1.146,1.227,1.309,1.397,1.482
+Belgium,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.564,0.647,0.741,0.843,0.941,1.038,1.133,1.213,1.294,1.381,1.466
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,3.496,3.988,4.547,5.15,5.724,6.297,6.856,7.321,7.792,8.296,8.78
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,5.55,6.331,7.217,8.175,9.086,9.995,10.883,11.621,12.368,13.169,13.936
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,4.606,5.254,5.99,6.785,7.541,8.296,9.033,9.645,10.266,10.93,11.567
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,2.497,2.849,3.248,3.679,4.089,4.498,4.897,5.229,5.566,5.926,6.271
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,4.995,5.698,6.495,7.358,8.177,8.995,9.795,10.459,11.132,11.852,12.542
+Belgium,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,4.939,5.634,6.423,7.276,8.086,8.895,9.686,10.343,11.008,11.72,12.403
+Belgium,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,18.66,18.27,17.7,24.81,26.13,22.62,25.06,25.93,26.84,27.3,27.8
+Belgium,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,16.38,16.03,15.53,21.86,23.05,19.94,22.08,22.83,23.62,24.03,24.47
+Belgium,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.339,0.332,0.322,0.451,0.475,0.411,0.455,0.471,0.488,0.496,0.505
+Belgium,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,5.428,5.315,5.15,7.135,7.497,6.499,7.209,7.471,7.744,7.873,8.018
+Belgium,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,12.33,13.85,15.37,24.51,28.79,27.5,33.26,36.84,40.69,44.17,47.72
+Belgium,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,8.872,9.963,11.06,17.71,20.82,19.88,24.03,26.6,29.36,31.88,34.44
+Belgium,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.123,0.138,0.154,0.245,0.288,0.275,0.332,0.368,0.407,0.442,0.477
+Belgium,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,3.336,3.746,4.158,6.554,7.683,7.348,8.9,9.872,10.92,11.85,12.8
+Belgium,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,12.297,11.002,59.44,17.491,-4.488,20.947,10.762,10.436,8.57,8.037
+Belgium,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,12.297,11.002,60.117,17.592,-4.538,20.883,10.703,10.377,8.586,8.036
+Belgium,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,12.297,11.002,59.44,17.491,-4.488,20.947,10.762,10.436,8.583,8.045
+Belgium,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,12.297,11.002,57.639,17.217,-4.352,21.119,10.92,10.596,8.527,8.038
+Belgium,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.715,99.681,99.648,99.522,99.374,99.285,99.218,99.154,99.086,,
+Belgium,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.285,0.319,0.352,0.478,0.626,0.715,0.782,0.846,0.914,,
+Belgium,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.661,0.758,0.868,0.988,1.102,1.216,1.327,1.421,1.516,1.618,1.717
+Belgium,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.542,0.621,0.712,0.81,0.904,0.997,1.089,1.165,1.243,1.327,1.408
+Belgium,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.363,0.417,0.478,0.543,0.606,0.669,0.73,0.782,0.834,0.89,0.944
+Belgium,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.614,0.705,0.807,0.919,1.025,1.131,1.235,1.322,1.41,1.505,1.597
+Belgium,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,4.744,5.412,6.169,6.989,7.767,8.545,9.304,9.935,10.574,11.258,11.914
+Belgium,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,5.786,6.6,7.524,8.523,9.472,10.42,11.346,12.116,12.895,13.729,14.529
+Belgium,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,3.182,3.63,4.138,4.688,5.21,5.731,6.241,6.664,7.092,7.551,7.991
+Belgium,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,5.381,6.138,6.997,7.926,8.809,9.691,10.552,11.267,11.992,12.768,13.512
+Belgium,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,13.57,13.28,12.87,20.94,22.78,19.38,21.09,21.44,21.8,22.01,22.17
+Belgium,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,14.62,14.31,13.87,22.57,24.56,20.94,22.85,23.28,23.72,24,24.22
+Belgium,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,5.798,5.677,5.5,8.938,9.722,8.211,8.876,8.96,9.047,9.081,9.092
+Belgium,Convenience Food,Revenue,Total,million USD (US$),Statista,10.24,11.5,12.77,23.64,28.69,26.92,31.99,34.81,37.77,40.7,43.5
+Belgium,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,7.618,8.554,9.495,17.58,21.34,20.08,23.91,26.08,28.36,30.62,32.79
+Belgium,Convenience Food,Revenue,Soups,million USD (US$),Statista,2.627,2.95,3.275,6.054,7.346,6.846,8.079,8.731,9.405,10.08,10.7
+Belgium,Convenience Food,Revenue Change,Total,percent,Statista,,12.297,11.002,85.102,21.375,-6.157,18.832,8.817,8.483,7.762,6.87
+Belgium,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,12.297,11.002,85.181,21.387,-5.935,19.111,9.072,8.737,7.967,7.081
+Belgium,Convenience Food,Revenue Change,Soups,percent,Statista,,12.297,11.002,84.873,21.341,-6.801,18.013,8.063,7.724,7.142,6.231
+Belgium,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.718,99.684,99.651,99.487,99.269,99.162,99.097,99.03,98.957,,
+Belgium,Convenience Food,Online & Offline Split,Online,percent,Statista,0.282,0.316,0.349,0.513,0.731,0.838,0.903,0.97,1.043,,
+Belgium,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Convenience Food,Users by Segment,Total,million users,Statista,0.755,0.866,0.992,1.129,1.259,1.39,1.517,1.624,1.733,1.849,1.962
+Belgium,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.521,0.598,0.685,0.779,0.869,0.959,1.047,1.121,1.196,1.276,1.354
+Belgium,Convenience Food,Users by Segment,Soups,million users,Statista,0.453,0.52,0.595,0.677,0.756,0.834,0.91,0.974,1.04,1.11,1.177
+Belgium,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,6.612,7.543,8.599,9.741,10.826,11.909,12.967,13.846,14.737,15.69,16.604
+Belgium,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,4.562,5.205,5.933,6.721,7.47,8.217,8.947,9.554,10.168,10.826,11.457
+Belgium,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.967,4.526,5.159,5.844,6.495,7.145,7.78,8.308,8.842,9.414,9.963
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,37.95,37.15,36,43.23,44.19,39.04,44.15,46.64,49.29,49.87,50.8
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,25.47,24.94,24.16,28.99,29.63,26.14,29.52,31.14,32.86,33.24,33.84
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,6.317,6.184,5.992,7.18,7.337,6.459,7.277,7.659,8.065,8.14,8.27
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,6.327,6.195,6.002,7.219,7.382,6.544,7.426,7.872,8.349,8.45,8.616
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,19.48,19.07,18.48,22.21,22.71,20.11,22.78,24.11,25.54,25.8,26.26
+Belgium,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,7.959,7.792,7.55,9.075,9.278,8.21,9.298,9.837,10.41,10.52,10.7
+Belgium,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,11.77,13.22,14.67,20.04,22.86,22.28,27.51,31.11,35.08,37.88,40.94
+Belgium,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,5.924,6.653,7.384,10.08,11.5,11.19,13.8,15.58,17.54,18.94,20.46
+Belgium,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.842,0.946,1.05,1.431,1.632,1.585,1.95,2.197,2.468,2.664,2.876
+Belgium,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,1.531,1.719,1.908,2.611,2.978,2.913,3.609,4.095,4.635,5.007,5.416
+Belgium,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,2.115,2.375,2.636,3.605,4.112,4.016,4.968,5.629,6.361,6.871,7.43
+Belgium,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,1.358,1.525,1.692,2.314,2.639,2.577,3.186,3.609,4.076,4.402,4.76
+Belgium,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,12.297,11.002,36.622,14.034,-2.511,23.459,13.078,12.769,7.985,8.081
+Belgium,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,12.297,11.002,36.528,14.02,-2.652,23.279,12.911,12.601,7.963,8.039
+Belgium,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,12.297,11.002,36.326,13.99,-2.864,23.01,12.663,12.351,7.93,7.976
+Belgium,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,12.297,11.002,36.839,14.067,-2.174,23.887,13.472,13.166,8.034,8.178
+Belgium,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,12.297,11.002,36.767,14.056,-2.318,23.704,13.304,12.997,8.015,8.137
+Belgium,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,12.297,11.002,36.741,14.053,-2.361,23.649,13.253,12.946,8.008,8.125
+Belgium,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.718,99.687,99.656,99.575,99.49,99.419,99.354,99.284,99.206,,
+Belgium,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.282,0.313,0.344,0.425,0.51,0.581,0.646,0.716,0.794,,
+Belgium,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.31,0.356,0.408,0.464,0.517,0.571,0.623,0.667,0.712,0.76,0.806
+Belgium,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.233,0.267,0.306,0.348,0.388,0.428,0.467,0.5,0.534,0.57,0.605
+Belgium,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.133,0.153,0.175,0.199,0.222,0.245,0.268,0.287,0.306,0.327,0.348
+Belgium,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.242,0.277,0.318,0.362,0.403,0.445,0.486,0.52,0.555,0.593,0.629
+Belgium,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.109,0.125,0.143,0.162,0.181,0.2,0.218,0.233,0.249,0.266,0.283
+Belgium,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.171,0.196,0.224,0.255,0.284,0.314,0.343,0.367,0.391,0.419,0.445
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,2.037,2.324,2.649,3,3.335,3.668,3.994,4.265,4.539,4.834,5.116
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.716,3.098,3.532,4.001,4.446,4.891,5.326,5.687,6.053,6.444,6.82
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.168,1.332,1.519,1.72,1.912,2.103,2.29,2.445,2.603,2.776,2.943
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,2.118,2.416,2.755,3.12,3.468,3.815,4.154,4.436,4.721,5.027,5.32
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.951,1.084,1.236,1.4,1.556,1.712,1.864,1.99,2.118,2.259,2.394
+Belgium,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.494,1.704,1.942,2.2,2.445,2.69,2.929,3.128,3.329,3.552,3.765
+Belgium,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,20.25,19.82,19.21,24.34,25.13,22.03,24.73,25.92,27.19,27.55,28.06
+Belgium,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,26.38,25.82,25.02,31.68,32.7,28.64,32.09,33.59,35.18,35.6,36.19
+Belgium,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,23.98,23.47,22.74,28.82,29.75,26.08,29.27,30.68,32.17,32.56,33.11
+Belgium,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,4.673,4.576,4.433,5.628,5.814,5.116,5.763,6.063,6.383,6.472,6.597
+Belgium,Fish & Seafood,Revenue,Total,million USD (US$),Statista,5.187,5.825,6.466,9.321,10.74,10.39,12.73,14.28,15.98,17.29,18.68
+Belgium,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,2.635,2.959,3.285,4.732,5.449,5.265,6.442,7.219,8.067,8.725,9.425
+Belgium,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,1.474,1.655,1.838,2.649,3.051,2.951,3.616,4.057,4.539,4.91,5.305
+Belgium,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,1.078,1.21,1.343,1.94,2.235,2.171,2.67,3.007,3.377,3.656,3.954
+Belgium,Fish & Seafood,Revenue Change,Total,percent,Statista,,12.297,11.002,44.16,15.176,-3.245,22.527,12.218,11.903,8.187,8.057
+Belgium,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,12.297,11.002,44.049,15.159,-3.38,22.354,12.058,11.742,8.166,8.017
+Belgium,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,12.297,11.002,44.151,15.175,-3.262,22.504,12.197,11.882,8.185,8.052
+Belgium,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,12.297,11.002,44.443,15.219,-2.891,22.976,12.632,12.319,8.24,8.161
+Belgium,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.718,99.686,99.654,99.557,99.452,99.374,99.308,99.236,99.157,,
+Belgium,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.282,0.314,0.346,0.443,0.548,0.626,0.692,0.764,0.843,,
+Belgium,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Fish & Seafood,Users by Segment,Total,million users,Statista,0.256,0.294,0.337,0.383,0.427,0.471,0.515,0.551,0.588,0.628,0.666
+Belgium,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.1,0.115,0.131,0.149,0.167,0.184,0.201,0.215,0.229,0.245,0.26
+Belgium,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.061,0.071,0.081,0.092,0.103,0.113,0.124,0.132,0.141,0.151,0.16
+Belgium,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.231,0.264,0.303,0.345,0.385,0.424,0.463,0.496,0.529,0.565,0.599
+Belgium,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.243,2.559,2.917,3.305,3.673,4.04,4.4,4.698,5,5.324,5.634
+Belgium,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.875,0.998,1.138,1.289,1.432,1.576,1.716,1.832,1.95,2.08,2.204
+Belgium,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.538,0.614,0.7,0.793,0.882,0.97,1.056,1.127,1.2,1.279,1.356
+Belgium,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,2.019,2.303,2.626,2.974,3.306,3.636,3.96,4.228,4.5,4.792,5.071
+Belgium,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,9.744,9.54,9.244,11.74,12.12,10.66,12.01,12.63,13.29,13.48,13.74
+Belgium,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,11.88,11.63,11.27,14.3,14.77,12.99,14.63,15.38,16.18,16.41,16.72
+Belgium,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,1.288,1.261,1.222,1.555,1.607,1.421,1.607,1.699,1.797,1.823,1.861
+Belgium,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,1.572,1.539,1.491,1.891,1.953,1.717,1.931,2.03,2.134,2.164,2.205
+Belgium,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,6.832,7.672,8.517,12.3,14.17,13.76,16.92,19.05,21.39,23.15,25.03
+Belgium,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,5.83,6.547,7.267,10.49,12.09,11.74,14.42,16.24,18.22,19.72,21.33
+Belgium,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.452,0.507,0.563,0.815,0.94,0.916,1.132,1.281,1.445,1.565,1.695
+Belgium,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.551,0.619,0.687,0.991,1.142,1.108,1.36,1.53,1.717,1.858,2.009
+Belgium,Fruits & Nuts,Revenue Change,Total,percent,Statista,,12.297,11.002,44.44,15.218,-2.921,22.938,12.597,12.285,8.237,8.153
+Belgium,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,12.297,11.002,44.421,15.215,-2.948,22.903,12.565,12.252,8.232,8.145
+Belgium,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,12.297,11.002,44.79,15.271,-2.457,23.527,13.14,12.832,8.305,8.287
+Belgium,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,12.297,11.002,44.354,15.205,-3.014,22.819,12.487,12.174,8.224,8.127
+Belgium,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.718,99.688,99.66,99.568,99.469,99.397,99.336,99.271,99.199,,
+Belgium,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.282,0.312,0.34,0.432,0.531,0.603,0.664,0.729,0.801,,
+Belgium,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.701,0.804,0.921,1.048,1.169,1.29,1.409,1.508,1.609,1.717,1.822
+Belgium,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.491,0.563,0.645,0.734,0.819,0.903,0.986,1.056,1.126,1.202,1.275
+Belgium,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.351,0.402,0.461,0.524,0.585,0.645,0.704,0.754,0.804,0.859,0.911
+Belgium,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.351,0.402,0.461,0.524,0.585,0.645,0.704,0.754,0.804,0.859,0.911
+Belgium,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,4.298,4.903,5.589,6.331,7.037,7.741,8.429,9,9.579,10.199,10.793
+Belgium,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,6.14,7.004,7.984,9.045,10.052,11.058,12.041,12.857,13.684,14.569,15.418
+Belgium,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,3.07,3.502,3.992,4.522,5.026,5.529,6.021,6.429,6.842,7.285,7.709
+Belgium,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,3.07,3.502,3.992,4.522,5.026,5.529,6.021,6.429,6.842,7.285,7.709
+Belgium,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,47.36,46.37,44.93,56.8,58.62,51.4,57.7,60.5,63.46,64.32,65.51
+Belgium,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,39.75,38.92,37.71,47.91,49.5,43.64,49.25,51.92,54.76,55.54,56.65
+Belgium,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,22.91,22.43,21.73,27.28,28.12,24.47,27.26,28.36,29.52,29.88,30.36
+Belgium,Meat,Revenue,Total,million USD (US$),Statista,19.16,21.51,23.88,34.35,39.55,38.27,46.89,52.63,58.91,63.72,68.86
+Belgium,Meat,Revenue,Fresh Meat,million USD (US$),Statista,11.1,12.46,13.83,19.99,23.04,22.42,27.62,31.17,35.07,37.97,41.09
+Belgium,Meat,Revenue,Processed Meat,million USD (US$),Statista,8.062,9.054,10.05,14.36,16.51,15.85,19.27,21.47,23.84,25.75,27.77
+Belgium,Meat,Revenue Change,Total,percent,Statista,,12.297,11.002,43.835,15.127,-3.235,22.543,12.238,11.928,8.176,8.055
+Belgium,Meat,Revenue Change,Fresh Meat,percent,Statista,,12.297,11.002,44.552,15.235,-2.708,23.208,12.846,12.535,8.265,8.213
+Belgium,Meat,Revenue Change,Processed Meat,percent,Statista,,12.297,11.002,42.848,14.977,-3.97,21.604,11.367,11.046,8.044,7.822
+Belgium,Meat,Online & Offline Split,Offline,percent,Statista,99.718,99.686,99.654,99.558,99.453,99.376,99.309,99.238,99.158,,
+Belgium,Meat,Online & Offline Split,Online,percent,Statista,0.282,0.314,0.346,0.442,0.547,0.624,0.691,0.762,0.842,,
+Belgium,Meat,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Meat,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Meat,Users by Segment,Total,million users,Statista,0.405,0.464,0.532,0.605,0.675,0.744,0.813,0.87,0.928,0.991,1.051
+Belgium,Meat,Users by Segment,Fresh Meat,million users,Statista,0.279,0.32,0.367,0.417,0.465,0.514,0.561,0.6,0.64,0.684,0.725
+Belgium,Meat,Users by Segment,Processed Meat,million users,Statista,0.352,0.404,0.462,0.526,0.587,0.648,0.707,0.757,0.808,0.862,0.915
+Belgium,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,2.444,2.788,3.178,3.601,4.002,4.402,4.793,5.118,5.447,5.8,6.138
+Belgium,Meat,Penetration Rate by Segment,Meat,percent,Statista,3.542,4.041,4.606,5.218,5.799,6.38,6.947,7.418,7.895,8.406,8.895
+Belgium,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,3.082,3.516,4.008,4.54,5.045,5.55,6.044,6.453,6.868,7.313,7.739
+Belgium,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,6.4,6.266,6.071,7.274,7.433,6.548,7.384,7.778,8.197,8.289,8.438
+Belgium,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,2.727,2.67,2.587,3.105,3.173,2.8,3.163,3.337,3.522,3.562,3.628
+Belgium,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,2.769,2.711,2.627,3.151,3.221,2.841,3.207,3.382,3.569,3.609,3.675
+Belgium,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,1.836,1.797,1.742,2.075,2.118,1.851,2.07,2.162,2.259,2.282,2.317
+Belgium,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,0.891,0.872,0.845,1.015,1.038,0.924,1.054,1.122,1.195,1.208,1.231
+Belgium,Oils & Fats,Revenue,Total,million USD (US$),Statista,2.158,2.423,2.689,3.666,4.179,4.062,5.001,5.639,6.341,6.844,7.391
+Belgium,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.736,0.826,0.917,1.252,1.427,1.39,1.714,1.935,2.179,2.353,2.542
+Belgium,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.747,0.839,0.931,1.271,1.449,1.41,1.738,1.962,2.208,2.384,2.576
+Belgium,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.495,0.556,0.617,0.837,0.953,0.918,1.121,1.254,1.398,1.507,1.624
+Belgium,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.18,0.202,0.225,0.307,0.35,0.344,0.428,0.488,0.555,0.6,0.649
+Belgium,Oils & Fats,Revenue Change,Total,percent,Statista,,12.297,11.002,36.314,13.988,-2.79,23.107,12.756,12.448,7.939,7.998
+Belgium,Oils & Fats,Revenue Change,Butter,percent,Statista,,12.297,11.002,36.53,14.021,-2.632,23.304,12.935,12.625,7.968,8.046
+Belgium,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,12.297,11.002,36.504,14.017,-2.675,23.251,12.885,12.575,7.961,8.034
+Belgium,Oils & Fats,Revenue Change,Margarine,percent,Statista,,12.297,11.002,35.558,13.873,-3.588,22.09,11.815,11.497,7.8,7.749
+Belgium,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,12.297,11.002,36.726,14.05,-1.743,24.436,13.978,13.677,8.092,8.298
+Belgium,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.718,99.684,99.651,99.567,99.476,99.401,99.331,99.256,99.171,,
+Belgium,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.282,0.316,0.349,0.433,0.524,0.599,0.669,0.744,0.829,,
+Belgium,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Oils & Fats,Users by Segment,Total,million users,Statista,0.337,0.387,0.443,0.504,0.562,0.62,0.677,0.725,0.774,0.826,0.876
+Belgium,Oils & Fats,Users by Segment,Butter,million users,Statista,0.27,0.309,0.354,0.403,0.45,0.496,0.542,0.58,0.619,0.661,0.701
+Belgium,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.27,0.309,0.354,0.403,0.45,0.496,0.542,0.58,0.619,0.661,0.701
+Belgium,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.27,0.309,0.354,0.403,0.45,0.496,0.542,0.58,0.619,0.661,0.701
+Belgium,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.202,0.232,0.266,0.302,0.337,0.372,0.406,0.435,0.464,0.496,0.528
+Belgium,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,2.362,2.694,3.071,3.479,3.866,4.253,4.631,4.945,5.263,5.604,5.93
+Belgium,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,2.362,2.694,3.071,3.479,3.866,4.253,4.631,4.945,5.263,5.604,5.93
+Belgium,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,2.362,2.694,3.071,3.479,3.866,4.253,4.631,4.945,5.263,5.604,5.93
+Belgium,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.952,3.367,3.839,4.348,4.833,5.316,5.789,6.181,6.579,7.005,7.413
+Belgium,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.771,2.02,2.303,2.609,2.9,3.19,3.473,3.709,3.947,4.211,4.465
+Belgium,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,1.201,1.176,1.139,1.234,1.239,1.092,1.233,1.3,1.371,1.379,1.399
+Belgium,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,1.151,1.126,1.091,1.188,1.193,1.056,1.195,1.264,1.338,1.346,1.367
+Belgium,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.467,0.457,0.443,0.473,0.473,0.413,0.461,0.481,0.502,0.503,0.509
+Belgium,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.712,0.8,0.888,1.094,1.226,1.193,1.469,1.658,1.866,2.004,2.157
+Belgium,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.546,0.613,0.681,0.843,0.945,0.922,1.14,1.29,1.457,1.565,1.687
+Belgium,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.166,0.187,0.207,0.252,0.281,0.271,0.33,0.368,0.41,0.439,0.471
+Belgium,Sauces & Spices,Revenue Change,Total,percent,Statista,,12.297,11.002,23.232,12.008,-2.704,23.217,12.858,12.552,7.359,7.658
+Belgium,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,12.297,11.002,23.795,12.092,-2.394,23.608,13.215,12.907,7.433,7.764
+Belgium,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,12.297,11.002,21.381,11.727,-3.749,21.885,11.626,11.307,7.098,7.28
+Belgium,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.282,0.323,0.366,0.437,0.519,0.606,0.697,0.8,0.921,,
+Belgium,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Sauces & Spices,Users by Segment,Total,million users,Statista,0.593,0.681,0.78,0.887,0.989,1.092,1.192,1.276,1.361,1.453,1.542
+Belgium,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.475,0.544,0.624,0.71,0.792,0.873,0.954,1.021,1.089,1.163,1.233
+Belgium,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.356,0.408,0.468,0.532,0.594,0.655,0.715,0.766,0.817,0.872,0.925
+Belgium,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,5.195,5.927,6.756,7.653,8.506,9.357,10.189,10.879,11.579,12.328,13.046
+Belgium,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,4.156,4.741,5.405,6.123,6.805,7.486,8.151,8.703,9.263,9.863,10.437
+Belgium,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,3.117,3.556,4.054,4.592,5.103,5.614,6.113,6.528,6.947,7.397,7.828
+Belgium,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,2.03,1.988,1.926,2.059,2.063,1.855,2.136,2.297,2.473,2.492,2.541
+Belgium,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,1.549,1.517,1.47,1.572,1.575,1.428,1.657,1.797,1.95,1.967,2.009
+Belgium,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,1.647,1.613,1.563,1.67,1.673,1.485,1.688,1.791,1.903,1.911,1.939
+Belgium,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.903,1.014,1.126,1.37,1.531,1.519,1.909,2.199,2.526,2.716,2.938
+Belgium,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.551,0.619,0.688,0.836,0.935,0.935,1.185,1.376,1.593,1.715,1.859
+Belgium,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.352,0.395,0.439,0.533,0.596,0.584,0.724,0.823,0.933,1.001,1.08
+Belgium,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,12.297,11.002,21.631,11.765,-0.765,25.693,15.151,14.872,7.555,8.163
+Belgium,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,12.297,11.002,21.66,11.769,0.047,26.713,16.08,15.797,7.657,8.374
+Belgium,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,12.297,11.002,21.586,11.758,-2.038,24.06,13.631,13.327,7.381,7.802
+Belgium,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.715,99.69,99.664,99.621,99.566,99.502,99.435,99.37,99.297,,
+Belgium,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.285,0.31,0.336,0.379,0.434,0.498,0.565,0.63,0.703,,
+Belgium,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.445,0.51,0.585,0.665,0.742,0.819,0.894,0.957,1.021,1.09,1.156
+Belgium,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.356,0.408,0.468,0.532,0.594,0.655,0.715,0.766,0.817,0.872,0.925
+Belgium,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.214,0.245,0.281,0.319,0.356,0.393,0.429,0.459,0.49,0.524,0.557
+Belgium,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,3.117,3.556,4.054,4.592,5.103,5.614,6.113,6.528,6.947,7.397,7.828
+Belgium,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.897,4.445,5.067,5.74,6.379,7.018,7.641,8.159,8.684,9.246,9.785
+Belgium,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.87,2.134,2.432,2.755,3.062,3.368,3.668,3.917,4.168,4.446,4.713
+Belgium,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,12.67,12.41,12.02,15.25,15.76,13.85,15.59,16.38,17.23,17.47,17.8
+Belgium,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,14.41,14.11,13.67,17.35,17.91,15.74,17.71,18.61,19.56,19.83,20.21
+Belgium,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,5.167,5.059,4.901,6.226,6.431,5.662,6.38,6.715,7.072,7.172,7.312
+Belgium,Vegetables,Revenue,Total,million USD (US$),Statista,8.372,9.401,10.44,15.07,17.36,16.84,20.69,23.28,26.12,28.27,30.57
+Belgium,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,6.665,7.484,8.308,11.99,13.82,13.4,16.45,18.51,20.76,22.46,24.29
+Belgium,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,1.707,1.917,2.128,3.075,3.543,3.442,4.234,4.771,5.361,5.803,6.277
+Belgium,Vegetables,Revenue Change,Total,percent,Statista,,12.297,11.002,44.394,15.211,-2.991,22.848,12.515,12.201,8.226,8.133
+Belgium,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,12.297,11.002,44.363,15.207,-3.026,22.804,12.474,12.16,8.221,8.122
+Belgium,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,12.297,11.002,44.517,15.23,-2.855,23.021,12.674,12.362,8.246,8.172
+Belgium,Vegetables,Online & Offline Split,Offline,percent,Statista,99.718,99.688,99.659,99.565,99.465,99.392,99.33,99.264,99.19,,
+Belgium,Vegetables,Online & Offline Split,Online,percent,Statista,0.282,0.312,0.341,0.435,0.535,0.608,0.67,0.736,0.81,,
+Belgium,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,68.701,67.08,65.62,64.097,63.208,62.506,61.981,61.97,61.966,,
+Belgium,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,31.299,32.92,34.38,35.903,36.792,37.494,38.019,38.03,38.034,,
+Belgium,Vegetables,Users by Segment,Total,million users,Statista,0.661,0.758,0.868,0.988,1.102,1.216,1.327,1.421,1.516,1.618,1.717
+Belgium,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.463,0.53,0.608,0.691,0.771,0.851,0.929,0.995,1.061,1.133,1.202
+Belgium,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.33,0.379,0.434,0.494,0.551,0.608,0.664,0.71,0.758,0.809,0.858
+Belgium,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,4.05,4.62,5.267,5.966,6.631,7.294,7.943,8.481,9.026,9.61,10.17
+Belgium,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.893,3.3,3.762,4.261,4.736,5.21,5.673,6.058,6.447,6.865,7.265
+Belgium,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,5.786,6.6,7.524,8.523,9.472,10.42,11.346,12.116,12.895,13.729,14.529

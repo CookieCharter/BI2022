@@ -1,0 +1,694 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Costa Rica,eCommerce,Revenue,Total,million USD (US$),Statista,651.6,760.1,886.3,"1,247","1,512","1,571","1,981","2,324","2,707","2,948","3,220"
+Costa Rica,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,62.99,74.23,87.21,115.8,141.3,158.8,204.7,249,298.3,326.3,359
+Costa Rica,eCommerce,Revenue,Beverages,million USD (US$),Statista,9.915,12.38,15.34,21.53,32.49,37.48,47.39,56.46,67.69,74.22,81.67
+Costa Rica,eCommerce,Revenue,Electronics,million USD (US$),Statista,289.3,340.8,396.2,558.2,664.3,664.4,849.6,990.1,"1,132","1,235","1,347"
+Costa Rica,eCommerce,Revenue,Fashion,million USD (US$),Statista,124.3,140.3,161.2,223.1,264.7,291.1,366.9,441.7,533,580.1,636.9
+Costa Rica,eCommerce,Revenue,Food,million USD (US$),Statista,22.47,27.51,33.98,58.67,85.85,95.74,121.7,148.5,183.2,201.8,223.8
+Costa Rica,eCommerce,Revenue,Furniture,million USD (US$),Statista,47.75,55.49,63.92,86.63,102.8,95.16,125.1,144.8,168.1,182.2,198.3
+Costa Rica,eCommerce,Revenue,Media,million USD (US$),Statista,35.45,36.87,39.8,53.14,57.88,55.59,59.44,60.49,61.26,62.78,63.88
+Costa Rica,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,59.46,72.6,88.6,130,162.2,173.1,206.7,233.1,263.6,286.1,309.7
+Costa Rica,eCommerce,Revenue Change,Total,percent,Statista,,16.651,16.603,40.697,21.251,3.902,26.098,17.314,16.48,8.903,9.227
+Costa Rica,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,17.844,17.486,32.783,22.021,12.385,28.904,21.641,19.799,9.387,10.021
+Costa Rica,eCommerce,Revenue Change,Beverages,percent,Statista,,24.861,23.91,40.352,50.906,15.359,26.441,19.139,19.89,9.647,10.038
+Costa Rica,eCommerce,Revenue Change,Electronics,percent,Statista,,17.802,16.256,40.888,19.008,0.015,27.875,16.537,14.332,9.099,9.069
+Costa Rica,eCommerce,Revenue Change,Fashion,percent,Statista,,12.872,14.897,38.4,18.646,9.974,26.039,20.387,20.67,8.837,9.791
+Costa Rica,eCommerce,Revenue Change,Food,percent,Statista,,22.43,23.519,72.66,46.327,11.52,27.115,22.021,23.367,10.153,10.902
+Costa Rica,eCommerce,Revenue Change,Furniture,percent,Statista,,16.209,15.192,35.529,18.666,-7.432,31.463,15.747,16.091,8.388,8.836
+Costa Rica,eCommerce,Revenue Change,Media,percent,Statista,,4.006,7.947,33.518,8.92,-3.956,6.926,1.766,1.273,2.481,1.752
+Costa Rica,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,22.099,22.039,46.727,24.769,6.72,19.411,12.772,13.085,8.536,8.249
+Costa Rica,eCommerce,Average Revenue per User,Total,USD (US$),Statista,499.6,505.3,475.1,597.6,646.6,631.5,757.5,860.4,971,"1,025","1,093"
+Costa Rica,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,114,116.7,117.3,133,143.8,144.4,169.7,191.9,214.7,218.7,225.8
+Costa Rica,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,33.18,35.49,36.96,44.31,57.81,58.66,66.79,73.18,81.14,82.31,84.4
+Costa Rica,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,360.5,359.8,350.7,416.2,430.8,380.9,439.9,474.7,505,510.6,520.5
+Costa Rica,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,153.3,149.2,145.5,171.9,177,172,195.2,216.3,241.4,243.4,249.2
+Costa Rica,eCommerce,Average Revenue per User,Food,USD (US$),Statista,79.99,83.85,87.08,128.4,162.4,159.4,182.4,204.7,233.5,238,246
+Costa Rica,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,148.9,140.2,128.7,142.2,139.2,109.3,125.4,131,138.5,137.3,137.8
+Costa Rica,eCommerce,Average Revenue per User,Media,USD (US$),Statista,52.88,49.03,47.24,56.82,56.89,50.77,51.21,49.32,47.38,46.34,45.2
+Costa Rica,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,103.9,103.9,101.9,123.7,128.3,116.6,122.8,126,130.5,129.8,130
+Costa Rica,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,eCommerce,Online & Offline Split,Offline,percent,Statista,95.876,95.39,94.842,92.853,91.662,90.88,89.952,88.726,87.41,,
+Costa Rica,eCommerce,Online & Offline Split,Online,percent,Statista,4.124,4.61,5.158,7.147,8.338,9.12,10.048,11.274,12.59,,
+Costa Rica,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,65.298,62.672,61.474,60.836,60.47,59.866,59.427,58.999,58.671,,
+Costa Rica,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,34.702,37.328,38.526,39.164,39.53,40.134,40.573,41.001,41.329,,
+Costa Rica,eCommerce,Users,Total,million users,Statista,1.304,1.504,1.866,2.087,2.338,2.488,2.616,2.701,2.788,2.876,2.947
+Costa Rica,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,0.553,0.636,0.743,0.87,0.982,1.1,1.206,1.298,1.389,1.492,1.59
+Costa Rica,eCommerce,Users,Beverages,million users,Statista,0.299,0.349,0.415,0.486,0.562,0.639,0.71,0.771,0.834,0.902,0.968
+Costa Rica,eCommerce,Users,Electronics,million users,Statista,0.803,0.947,1.13,1.341,1.542,1.744,1.931,2.086,2.242,2.418,2.587
+Costa Rica,eCommerce,Users,Fashion,million users,Statista,0.811,0.94,1.108,1.298,1.496,1.693,1.879,2.043,2.208,2.383,2.556
+Costa Rica,eCommerce,Users,Food,million users,Statista,0.281,0.328,0.39,0.457,0.529,0.601,0.667,0.725,0.784,0.848,0.91
+Costa Rica,eCommerce,Users,Furniture,million users,Statista,0.321,0.396,0.497,0.609,0.739,0.871,0.998,1.105,1.214,1.327,1.439
+Costa Rica,eCommerce,Users,Media,million users,Statista,0.67,0.752,0.843,0.935,1.017,1.095,1.161,1.226,1.293,1.355,1.413
+Costa Rica,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.572,0.699,0.869,1.051,1.265,1.485,1.683,1.85,2.02,2.203,2.383
+Costa Rica,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,11.168,12.726,14.729,17.079,19.115,21.223,23.093,24.654,26.204,27.943,29.594
+Costa Rica,eCommerce,Penetration Rate,Beverages,percent,Statista,6.036,6.98,8.221,9.536,10.937,12.329,13.583,14.656,15.735,16.89,18.008
+Costa Rica,eCommerce,Penetration Rate,eCommerce,percent,Statista,26.347,30.088,36.96,40.963,45.486,48.013,50.076,51.32,52.581,53.868,54.848
+Costa Rica,eCommerce,Penetration Rate,Electronics,percent,Statista,16.215,18.946,22.382,26.33,30.006,33.659,36.969,39.626,42.278,45.295,48.151
+Costa Rica,eCommerce,Penetration Rate,Fashion,percent,Statista,16.379,18.806,21.953,25.476,29.104,32.663,35.975,38.802,41.638,44.646,47.562
+Costa Rica,eCommerce,Penetration Rate,Food,percent,Statista,5.676,6.564,7.73,8.966,10.284,11.593,12.772,13.781,14.795,15.882,16.933
+Costa Rica,eCommerce,Penetration Rate,Furniture,percent,Statista,6.48,7.916,9.843,11.955,14.378,16.803,19.097,20.991,22.892,24.858,26.775
+Costa Rica,eCommerce,Penetration Rate,Media,percent,Statista,13.541,15.042,16.695,18.36,19.794,21.126,22.219,23.3,24.389,25.375,26.304
+Costa Rica,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,11.563,13.978,17.219,20.637,24.61,28.653,32.216,35.15,38.092,41.275,44.347
+Costa Rica,Electronics,Revenue,Total,billion USD (US$),Statista,0.289,0.341,0.396,0.558,0.664,0.664,0.85,0.99,1.132,1.235,1.347
+Costa Rica,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.209,0.245,0.283,0.411,0.493,0.468,0.609,0.71,0.807,0.88,0.959
+Costa Rica,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.08,0.096,0.113,0.147,0.172,0.197,0.24,0.281,0.325,0.354,0.387
+Costa Rica,Electronics,Revenue Change,Total,percent,Statista,,17.802,16.256,40.888,19.008,0.015,27.875,16.537,14.332,9.099,9.069
+Costa Rica,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,17.096,15.498,45.304,19.757,-5.053,30.199,16.464,13.756,9.057,8.975
+Costa Rica,Electronics,Revenue Change,Household Appliances,percent,Statista,,19.542,18.367,29.708,16.973,14.51,22.341,16.722,15.788,9.11,9.281
+Costa Rica,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,360.5,359.8,350.7,416.2,430.8,380.9,439.9,474.7,505,510.6,520.5
+Costa Rica,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,272.2,274.5,271.3,337.1,360.3,310.3,373.8,410.1,440.6,454,470.8
+Costa Rica,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,155.7,153.1,146.7,156.3,152.4,148.3,157.9,166.2,175,174.9,176.4
+Costa Rica,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,Electronics,Online & Offline Split,Offline,percent,Statista,83.128,80.864,78.572,72.447,68.588,64.345,61.258,57.379,53.769,,
+Costa Rica,Electronics,Online & Offline Split,Online,percent,Statista,16.872,19.136,21.428,27.553,31.412,35.655,38.742,42.621,46.231,,
+Costa Rica,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.776,53.89,52.627,52.118,51.922,51.844,51.815,51.804,51.799,,
+Costa Rica,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.224,46.11,47.373,47.882,48.078,48.156,48.185,48.196,48.201,,
+Costa Rica,Electronics,Users by Segment,Total,million users,Statista,0.803,0.947,1.13,1.341,1.542,1.744,1.931,2.086,2.242,2.418,2.587
+Costa Rica,Electronics,Users by Segment,Consumer Electronics,million users,Statista,0.769,0.893,1.044,1.221,1.368,1.508,1.63,1.73,1.832,1.939,2.037
+Costa Rica,Electronics,Users by Segment,Household Appliances,million users,Statista,0.513,0.624,0.771,0.939,1.125,1.325,1.522,1.688,1.856,2.027,2.196
+Costa Rica,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,15.541,17.867,20.678,23.96,26.611,29.093,31.198,32.866,34.546,36.311,37.915
+Costa Rica,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,16.215,18.946,22.382,26.33,30.006,33.659,36.969,39.626,42.278,45.295,48.151
+Costa Rica,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,10.368,12.481,15.27,18.431,21.899,25.564,29.14,32.069,35.01,37.961,40.861
+Costa Rica,Consumer Electronics,Revenue,Total,million USD (US$),Statista,209.4,245.2,283.2,411.5,492.8,467.9,609.2,709.5,807.1,880.2,959.2
+Costa Rica,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,35.76,42.06,48.88,63.69,76.22,71.37,93.91,108.2,124.2,134.8,146.6
+Costa Rica,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,71.87,84.14,97.07,140.4,167.5,158.9,206.8,240.9,273.6,298.3,325
+Costa Rica,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,61.01,70.4,80.01,126.4,148.3,144.2,187.2,222.3,251.6,275.4,300.8
+Costa Rica,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,39.71,47.4,55.72,78.9,98.76,91.72,119.6,136.6,156.1,170.1,185.3
+Costa Rica,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,1.023,1.24,1.478,2.092,2.015,1.625,1.766,1.647,1.507,1.521,1.505
+Costa Rica,Consumer Electronics,Revenue Change,Total,percent,Statista,,17.096,15.498,45.304,19.757,-5.053,30.199,16.464,13.756,9.057,8.975
+Costa Rica,Consumer Electronics,Revenue Change,Computing,percent,Statista,,17.617,16.215,30.299,19.673,-6.363,31.582,15.217,14.787,8.535,8.754
+Costa Rica,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,17.072,15.367,44.638,19.302,-5.134,30.145,16.489,13.574,9.028,8.951
+Costa Rica,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,15.391,13.651,57.98,17.326,-2.765,29.82,18.75,13.18,9.459,9.223
+Costa Rica,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,19.365,17.553,41.601,25.171,-7.128,30.397,14.214,14.275,8.969,8.936
+Costa Rica,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,21.212,19.194,41.543,-3.681,-19.355,8.677,-6.738,-8.5,0.929,-1.052
+Costa Rica,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,272.2,274.5,271.3,337.1,360.3,310.3,373.8,410.1,440.6,454,470.8
+Costa Rica,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,66.42,67.27,66.91,74.55,79.62,67.62,82.32,89.31,96.88,99.31,102.8
+Costa Rica,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,116.8,117.7,116.2,143.8,153.1,131.8,158.6,174,186.7,192.4,199.4
+Costa Rica,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,99.14,98.51,95.82,129.4,135.6,119.6,143.6,160.6,171.7,177.6,184.6
+Costa Rica,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,129,132.7,133.5,161.6,180.5,152.1,183.4,197.4,213.1,219.4,227.4
+Costa Rica,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,4.433,4.628,4.721,5.712,4.91,3.592,3.611,3.174,2.742,2.616,2.463
+Costa Rica,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Costa Rica,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Costa Rica,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,81.705,79.514,77.379,69.785,66.146,62.314,59.602,55.93,52.638,,
+Costa Rica,Consumer Electronics,Online & Offline Split,Online,percent,Statista,18.295,20.486,22.621,30.215,33.854,37.686,40.398,44.07,47.362,,
+Costa Rica,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.9,54.006,52.733,52.2,51.992,51.907,51.873,51.856,51.848,,
+Costa Rica,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.1,45.994,47.267,47.8,48.008,48.093,48.127,48.144,48.152,,
+Costa Rica,Consumer Electronics,Users,Total,million users,Statista,0.769,0.893,1.044,1.221,1.368,1.508,1.63,1.73,1.832,1.939,2.037
+Costa Rica,Consumer Electronics,Users,Computing,million users,Statista,0.538,0.625,0.731,0.854,0.957,1.055,1.141,1.211,1.282,1.357,1.426
+Costa Rica,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,0.615,0.715,0.835,0.976,1.094,1.206,1.304,1.384,1.465,1.551,1.63
+Costa Rica,Consumer Electronics,Users,Telephony,million users,Statista,0.615,0.715,0.835,0.976,1.094,1.206,1.304,1.384,1.465,1.551,1.63
+Costa Rica,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.308,0.357,0.417,0.488,0.547,0.603,0.652,0.692,0.733,0.775,0.815
+Costa Rica,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.231,0.268,0.313,0.366,0.41,0.452,0.489,0.519,0.549,0.582,0.611
+Costa Rica,Consumer Electronics,Penetration Rate,Computing,percent,Statista,10.878,12.507,14.475,16.772,18.628,20.365,21.838,23.006,24.182,25.419,26.542
+Costa Rica,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,15.541,17.867,20.678,23.96,26.611,29.093,31.198,32.866,34.546,36.311,37.915
+Costa Rica,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,12.432,14.293,16.543,19.168,21.289,23.274,24.958,26.293,27.637,29.051,30.335
+Costa Rica,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,12.432,14.293,16.543,19.168,21.289,23.274,24.958,26.293,27.637,29.051,30.335
+Costa Rica,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,6.216,7.147,8.271,9.584,10.645,11.637,12.479,13.146,13.818,14.524,15.166
+Costa Rica,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,4.662,5.36,6.203,7.188,7.983,8.728,9.359,9.86,10.364,10.894,11.375
+Costa Rica,Household Appliances,Revenue,Total,million USD (US$),Statista,79.93,95.55,113.1,146.7,171.6,196.5,240.4,280.6,324.9,354.5,387.4
+Costa Rica,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,40.03,47.82,56.56,73.33,85.68,97.24,119.2,139.8,161.8,176.5,192.9
+Costa Rica,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,17.29,20.67,24.46,31.74,37.12,42.51,52.01,60.7,70.29,76.7,83.81
+Costa Rica,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,22.61,27.06,32.06,41.64,48.77,56.77,69.18,80.11,92.85,101.3,110.7
+Costa Rica,Household Appliances,Revenue Change,Total,percent,Statista,,19.542,18.367,29.708,16.973,14.51,22.341,16.722,15.788,9.11,9.281
+Costa Rica,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,19.46,18.277,29.65,16.842,13.492,22.583,17.282,15.737,9.085,9.292
+Costa Rica,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,19.549,18.336,29.763,16.95,14.52,22.348,16.708,15.799,9.119,9.27
+Costa Rica,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,19.682,18.477,29.881,17.123,16.404,21.86,15.799,15.903,9.101,9.279
+Costa Rica,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,155.7,153.1,146.7,156.3,152.4,148.3,157.9,166.2,175,174.9,176.4
+Costa Rica,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,195,191.6,183.4,195.3,190.3,183.5,195.8,207,217.9,217.7,219.6
+Costa Rica,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,168.5,165.6,158.7,169,164.9,160.5,170.8,179.8,189.3,189.2,190.8
+Costa Rica,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,55.06,54.22,52,55.44,54.17,53.56,56.81,59.32,62.52,62.51,63.04
+Costa Rica,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Costa Rica,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Costa Rica,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Costa Rica,Household Appliances,Online & Offline Split,Offline,percent,Statista,85.984,83.633,81.071,77.906,73.98,68.931,65.097,60.816,56.488,,
+Costa Rica,Household Appliances,Online & Offline Split,Online,percent,Statista,14.016,16.367,18.929,22.094,26.02,31.069,34.903,39.184,43.512,,
+Costa Rica,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,56.453,53.59,52.362,51.889,51.722,51.671,51.661,51.665,51.673,,
+Costa Rica,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,43.547,46.41,47.638,48.111,48.278,48.329,48.339,48.335,48.327,,
+Costa Rica,Household Appliances,Users,Total,million users,Statista,0.513,0.624,0.771,0.939,1.125,1.325,1.522,1.688,1.856,2.027,2.196
+Costa Rica,Household Appliances,Users,Major Appliances,million users,Statista,0.205,0.25,0.308,0.376,0.45,0.53,0.609,0.675,0.742,0.811,0.878
+Costa Rica,Household Appliances,Users,Other Household Appliances,million users,Statista,0.103,0.125,0.154,0.188,0.225,0.265,0.304,0.338,0.371,0.405,0.439
+Costa Rica,Household Appliances,Users,Small Appliances,million users,Statista,0.411,0.499,0.617,0.751,0.9,1.06,1.218,1.35,1.485,1.621,1.756
+Costa Rica,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,10.368,12.481,15.27,18.431,21.899,25.564,29.14,32.069,35.01,37.961,40.861
+Costa Rica,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,4.147,4.992,6.108,7.372,8.76,10.225,11.656,12.828,14.004,15.185,16.346
+Costa Rica,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,2.074,2.496,3.054,3.686,4.38,5.113,5.828,6.414,7.002,7.593,8.173
+Costa Rica,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,8.294,9.985,12.216,14.745,17.519,20.451,23.312,25.655,28.008,30.369,32.689
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,62.99,74.23,87.21,115.8,141.3,158.8,204.7,249,298.3,326.3,359
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,15.04,17.72,20.76,27.79,33.34,36.4,45.26,53.5,63.57,69.23,75.83
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,3.644,3.98,4.549,5.65,8.154,11.26,15.95,19.08,21.07,23.59,26.05
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,4.844,5.221,5.625,6.507,7.97,10.89,18.73,28.92,38.27,42.2,47.48
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,39.47,47.3,56.27,75.81,91.79,100.3,124.8,147.5,175.4,191.3,209.7
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,17.844,17.486,32.783,22.021,12.385,28.904,21.641,19.799,9.387,10.021
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,17.819,17.156,33.863,19.971,9.178,24.341,18.206,18.822,8.904,9.533
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,9.221,14.296,24.203,44.319,38.092,41.652,19.624,10.43,11.96,10.428
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,7.783,7.738,15.68,22.483,36.637,71.993,54.405,32.331,10.269,12.512
+Costa Rica,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,19.838,18.964,34.725,21.079,9.271,24.427,18.189,18.915,9.065,9.618
+Costa Rica,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,114,116.7,117.3,133,143.8,144.4,169.7,191.9,214.7,218.7,225.8
+Costa Rica,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,38.86,39.79,39.89,45.63,48.48,47.27,53.6,58.89,65.37,66.29,68.11
+Costa Rica,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,10.3,9.776,9.561,10.15,12.97,15.99,20.66,22.97,23.7,24.7,25.58
+Costa Rica,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,23.06,21.6,19.91,19.68,21.35,26.07,40.86,58.64,72.48,74.39,78.44
+Costa Rica,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,115.2,119.9,122.1,140.5,150.7,147.1,166.8,183.4,203.7,206.7,212.6
+Costa Rica,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,92.304,91.25,90.099,86.616,84.721,83.009,80.668,77.764,74.793,,
+Costa Rica,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,7.696,8.75,9.901,13.384,15.279,16.991,19.332,22.236,25.207,,
+Costa Rica,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,59.847,56.903,55.222,54.272,53.717,53.357,53.063,52.826,52.588,,
+Costa Rica,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,40.153,43.097,44.778,45.728,46.283,46.643,46.937,47.174,47.412,,
+Costa Rica,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,0.553,0.636,0.743,0.87,0.982,1.1,1.206,1.298,1.389,1.492,1.59
+Costa Rica,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.387,0.445,0.52,0.609,0.688,0.77,0.844,0.908,0.973,1.044,1.113
+Costa Rica,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.354,0.407,0.476,0.557,0.629,0.704,0.772,0.831,0.889,0.955,1.018
+Costa Rica,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.21,0.242,0.283,0.331,0.373,0.418,0.458,0.493,0.528,0.567,0.605
+Costa Rica,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.343,0.394,0.461,0.539,0.609,0.682,0.748,0.805,0.861,0.925,0.986
+Costa Rica,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,11.168,12.726,14.729,17.079,19.115,21.223,23.093,24.654,26.204,27.943,29.594
+Costa Rica,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,7.818,8.908,10.31,11.955,13.381,14.856,16.165,17.258,18.343,19.563,20.722
+Costa Rica,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,7.148,8.144,9.426,10.931,12.234,13.583,14.779,15.778,16.771,17.888,18.949
+Costa Rica,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,4.244,4.836,5.597,6.49,7.264,8.065,8.775,9.368,9.958,10.627,11.264
+Costa Rica,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,6.924,7.89,9.132,10.589,11.852,13.158,14.317,15.285,16.247,17.329,18.358
+Costa Rica,Personal Care,Revenue,Total,million USD (US$),Statista,39.47,47.3,56.27,75.81,91.79,100.3,124.8,147.5,175.4,191.3,209.7
+Costa Rica,Personal Care,Revenue,Body Care,million USD (US$),Statista,6.689,8.025,9.56,12.86,15.54,17.07,21.33,25.3,30.17,32.91,36.1
+Costa Rica,Personal Care,Revenue,Eye Care,million USD (US$),Statista,2.838,3.416,4.061,5.35,6.366,6.365,7.299,8.049,8.919,9.637,10.38
+Costa Rica,Personal Care,Revenue,Hair Care,million USD (US$),Statista,6.161,7.434,8.911,12.1,14.75,16.26,20.39,24.26,29.02,31.68,34.79
+Costa Rica,Personal Care,Revenue,Oral Care,million USD (US$),Statista,3.23,3.884,4.642,6.295,7.661,8.451,10.61,12.64,15.14,16.52,18.15
+Costa Rica,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,11.1,13.35,15.95,21.57,26.19,28.84,36.12,42.93,51.3,55.97,61.44
+Costa Rica,Personal Care,Revenue,Skin Care,million USD (US$),Statista,9.452,11.2,13.15,17.64,21.29,23.3,29.03,34.36,40.89,44.55,48.83
+Costa Rica,Personal Care,Revenue Change,Total,percent,Statista,,19.838,18.964,34.725,21.079,9.271,24.427,18.189,18.915,9.065,9.618
+Costa Rica,Personal Care,Revenue Change,Body Care,percent,Statista,,19.973,19.128,34.519,20.84,9.846,24.956,18.612,19.249,9.082,9.693
+Costa Rica,Personal Care,Revenue Change,Eye Care,percent,Statista,,20.366,18.882,31.741,18.991,-0.016,14.674,10.275,10.809,8.05,7.71
+Costa Rica,Personal Care,Revenue Change,Hair Care,percent,Statista,,20.662,19.868,35.787,21.901,10.237,25.4,18.98,19.621,9.166,9.817
+Costa Rica,Personal Care,Revenue Change,Oral Care,percent,Statista,,20.248,19.516,35.61,21.7,10.312,25.547,19.133,19.778,9.115,9.867
+Costa Rica,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,20.27,19.476,35.235,21.419,10.118,25.243,18.854,19.497,9.103,9.773
+Costa Rica,Personal Care,Revenue Change,Skin Care,percent,Statista,,18.493,17.411,34.144,20.692,9.441,24.592,18.36,19.005,8.951,9.607
+Costa Rica,Personal Care,Average Revenue per User,Total,USD (US$),Statista,115.2,119.9,122.1,140.5,150.7,147.1,166.8,183.4,203.7,206.7,212.6
+Costa Rica,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,28.7,29.92,30.5,35.06,37.52,36.82,41.94,46.25,51.51,52.28,53.76
+Costa Rica,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,16.56,17.32,17.62,19.84,20.9,18.67,19.52,20.01,20.71,20.82,21.02
+Costa Rica,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,34.57,36.24,37.18,43.13,46.56,45.85,52.43,57.99,64.78,65.81,67.74
+Costa Rica,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,19.23,20.09,20.55,23.82,25.67,25.29,28.95,32.05,35.87,36.42,37.5
+Costa Rica,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,71.95,75.21,76.9,88.85,95.55,93.97,107.3,118.6,132.3,134.4,138.2
+Costa Rica,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,62.67,64.51,64.84,74.33,79.46,77.65,88.21,97.06,107.9,109.4,112.4
+Costa Rica,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,Personal Care,Online & Offline Split,Offline,percent,Statista,89.371,87.724,85.971,80.22,77.874,76.075,73.862,70.746,67.144,,
+Costa Rica,Personal Care,Online & Offline Split,Online,percent,Statista,10.629,12.276,14.029,19.78,22.126,23.925,26.138,29.254,32.856,,
+Costa Rica,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,56.413,53.55,52.322,51.85,51.684,51.633,51.624,51.629,51.636,,
+Costa Rica,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,43.587,46.45,47.678,48.15,48.316,48.367,48.376,48.371,48.364,,
+Costa Rica,Personal Care,Users,Total,million users,Statista,0.343,0.394,0.461,0.539,0.609,0.682,0.748,0.805,0.861,0.925,0.986
+Costa Rica,Personal Care,Users,Body Care,million users,Statista,0.233,0.268,0.313,0.367,0.414,0.464,0.509,0.547,0.586,0.629,0.671
+Costa Rica,Personal Care,Users,Eye Care,million users,Statista,0.171,0.197,0.23,0.27,0.305,0.341,0.374,0.402,0.431,0.463,0.494
+Costa Rica,Personal Care,Users,Hair Care,million users,Statista,0.178,0.205,0.24,0.28,0.317,0.355,0.389,0.418,0.448,0.481,0.514
+Costa Rica,Personal Care,Users,Oral Care,million users,Statista,0.168,0.193,0.226,0.264,0.298,0.334,0.366,0.394,0.422,0.454,0.484
+Costa Rica,Personal Care,Users,Other Personal Care,million users,Statista,0.154,0.178,0.207,0.243,0.274,0.307,0.337,0.362,0.388,0.417,0.444
+Costa Rica,Personal Care,Users,Skin Care,million users,Statista,0.151,0.174,0.203,0.237,0.268,0.3,0.329,0.354,0.379,0.407,0.435
+Costa Rica,Personal Care,Penetration Rate,Body Care,percent,Statista,4.708,5.365,6.21,7.201,8.059,8.948,9.736,10.394,11.048,11.79,12.496
+Costa Rica,Personal Care,Penetration Rate,Eye Care,percent,Statista,3.462,3.945,4.566,5.294,5.926,6.579,7.159,7.643,8.123,8.67,9.19
+Costa Rica,Personal Care,Penetration Rate,Hair Care,percent,Statista,3.601,4.103,4.749,5.506,6.163,6.842,7.445,7.948,8.448,9.017,9.558
+Costa Rica,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.393,3.866,4.475,5.189,5.807,6.448,7.016,7.49,7.961,8.497,9.006
+Costa Rica,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,3.116,3.55,4.109,4.765,5.333,5.921,6.443,6.878,7.311,7.803,8.272
+Costa Rica,Personal Care,Penetration Rate,Personal Care,percent,Statista,6.924,7.89,9.132,10.589,11.852,13.158,14.317,15.285,16.247,17.329,18.358
+Costa Rica,Personal Care,Penetration Rate,Skin Care,percent,Statista,3.047,3.472,4.018,4.659,5.215,5.79,6.3,6.726,7.149,7.63,8.088
+Costa Rica,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,38.86,39.79,39.89,45.63,48.48,47.27,53.6,58.89,65.37,66.29,68.11
+Costa Rica,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,23.87,24.13,23.91,27.13,28.55,27.75,31.37,34.39,38.1,38.56,39.56
+Costa Rica,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,2.533,2.386,2.197,2.479,2.382,2.228,2.464,2.68,2.932,2.934,2.983
+Costa Rica,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,82.52,85.86,87.35,100.6,108.3,106.1,120.7,132.8,147.8,150,154.2
+Costa Rica,Beauty Care,Revenue,Total,million USD (US$),Statista,15.04,17.72,20.76,27.79,33.34,36.4,45.26,53.5,63.57,69.23,75.83
+Costa Rica,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,6.466,7.524,8.709,11.57,13.74,14.95,18.54,21.87,25.94,28.2,30.86
+Costa Rica,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.588,0.637,0.686,0.906,0.983,1.029,1.248,1.461,1.711,1.84,1.996
+Costa Rica,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,7.984,9.559,11.36,15.32,18.61,20.41,25.47,30.17,35.93,39.19,42.98
+Costa Rica,Beauty Care,Revenue Change,Total,percent,Statista,,17.819,17.156,33.863,19.971,9.178,24.341,18.206,18.822,8.904,9.533
+Costa Rica,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,16.363,15.75,32.851,18.755,8.806,24.013,17.961,18.61,8.712,9.433
+Costa Rica,Beauty Care,Revenue Change,Fragrances,percent,Statista,,8.418,7.592,32.06,8.512,4.69,21.283,17.067,17.112,7.539,8.478
+Costa Rica,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,19.727,18.841,34.859,21.475,9.672,24.792,18.453,19.092,9.073,9.671
+Costa Rica,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,Beauty Care,Online & Offline Split,Offline,percent,Statista,86.34,84.614,82.871,76.725,74.822,73.205,71.235,68.602,65.704,,
+Costa Rica,Beauty Care,Online & Offline Split,Online,percent,Statista,13.66,15.386,17.129,23.275,25.178,26.795,28.765,31.398,34.296,,
+Costa Rica,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.392,62.18,60.073,58.761,57.589,56.73,56.036,55.558,55.282,,
+Costa Rica,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.608,37.82,39.927,41.239,42.411,43.27,43.964,44.442,44.718,,
+Costa Rica,Beauty Care,Users by Segment,Total,million users,Statista,0.387,0.445,0.52,0.609,0.688,0.77,0.844,0.908,0.973,1.044,1.113
+Costa Rica,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.271,0.312,0.364,0.426,0.481,0.539,0.591,0.636,0.681,0.731,0.78
+Costa Rica,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.232,0.267,0.312,0.365,0.413,0.462,0.507,0.545,0.584,0.627,0.669
+Costa Rica,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.097,0.111,0.13,0.152,0.172,0.192,0.211,0.227,0.243,0.261,0.279
+Costa Rica,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,7.818,8.908,10.31,11.955,13.381,14.856,16.165,17.258,18.343,19.563,20.722
+Costa Rica,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,5.472,6.236,7.217,8.369,9.367,10.399,11.315,12.08,12.84,13.699,14.515
+Costa Rica,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,4.691,5.345,6.186,7.173,8.028,8.914,9.699,10.355,11.006,11.745,12.448
+Costa Rica,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.954,2.227,2.578,2.989,3.345,3.714,4.041,4.314,4.586,4.894,5.186
+Costa Rica,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,10.3,9.776,9.561,10.15,12.97,15.99,20.66,22.97,23.7,24.7,25.58
+Costa Rica,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,10.78,10.08,9.619,9.614,11.69,13.86,17.53,19.22,19.61,20.33,20.95
+Costa Rica,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,5.957,5.604,5.403,5.498,6.834,8.244,10.51,11.56,11.81,12.27,12.66
+Costa Rica,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,2.94,2.926,3.031,3.466,4.895,6.439,8.542,9.542,9.79,10.29,10.7
+Costa Rica,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.476,0.539,0.638,1.103,1.564,2.166,3.141,3.939,4.547,4.753,5.013
+Costa Rica,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.383,0.387,0.401,0.463,0.655,0.917,1.282,1.48,1.544,1.626,1.699
+Costa Rica,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,13.02,12.35,12.07,12.8,16.35,20.13,25.98,28.86,29.78,31.02,32.12
+Costa Rica,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,1.876,1.754,1.708,1.804,2.334,2.836,3.536,3.781,3.768,3.929,4.045
+Costa Rica,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,1.735,1.612,1.543,1.572,1.961,2.357,2.971,3.226,3.259,3.386,3.488
+Costa Rica,Health Care,Revenue,Total,million USD (US$),Statista,3.644,3.98,4.549,5.65,8.154,11.26,15.95,19.08,21.07,23.59,26.05
+Costa Rica,Health Care,Revenue,Analgesics,million USD (US$),Statista,0.763,0.821,0.915,1.071,1.47,1.951,2.707,3.193,3.487,3.885,4.269
+Costa Rica,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,0.843,0.913,1.028,1.224,1.719,2.321,3.246,3.841,4.201,4.691,5.164
+Costa Rica,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,0.312,0.357,0.433,0.579,0.923,1.36,1.979,2.378,2.611,2.949,3.271
+Costa Rica,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.067,0.088,0.121,0.246,0.393,0.61,0.97,1.309,1.617,1.817,2.044
+Costa Rica,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.027,0.032,0.038,0.052,0.082,0.129,0.198,0.246,0.275,0.311,0.346
+Costa Rica,Health Care,Revenue,Other Health Care,million USD (US$),Statista,1.059,1.156,1.321,1.639,2.364,3.259,4.613,5.514,6.09,6.816,7.526
+Costa Rica,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,0.266,0.286,0.325,0.402,0.587,0.798,1.092,1.256,1.34,1.502,1.65
+Costa Rica,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,0.307,0.328,0.367,0.438,0.617,0.83,1.147,1.34,1.449,1.618,1.778
+Costa Rica,Health Care,Revenue Change,Total,percent,Statista,,9.221,14.296,24.203,44.319,38.092,41.652,19.624,10.43,11.96,10.428
+Costa Rica,Health Care,Revenue Change,Analgesics,percent,Statista,,7.591,11.553,16.998,37.255,32.721,38.749,17.953,9.208,11.414,9.884
+Costa Rica,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,8.255,12.633,19.066,40.441,35.02,39.854,18.33,9.373,11.664,10.083
+Costa Rica,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,14.583,21.007,33.842,59.465,47.298,45.515,20.162,9.798,12.945,10.919
+Costa Rica,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,30.404,38.32,102.14,60.179,55.008,59.052,34.962,23.529,12.369,12.493
+Costa Rica,Health Care,Revenue Change,Incontinence,percent,Statista,,16.47,21.021,35.001,59.752,56.827,53.292,24.204,11.717,13.146,11.426
+Costa Rica,Health Care,Revenue Change,Other Health Care,percent,Statista,,9.16,14.273,24.073,44.234,37.86,41.546,19.532,10.446,11.921,10.417
+Costa Rica,Health Care,Revenue Change,Skin Treatment,percent,Statista,,7.571,13.796,23.631,46.093,36.014,36.774,15.018,6.688,12.09,9.854
+Costa Rica,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,6.938,11.818,19.177,40.914,34.582,38.243,16.827,8.134,11.663,9.889
+Costa Rica,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,Health Care,Online & Offline Split,Offline,percent,Statista,95.178,94.945,94.461,93.282,90.888,87.472,84.218,82.078,81.047,,
+Costa Rica,Health Care,Online & Offline Split,Online,percent,Statista,4.822,5.055,5.539,6.718,9.112,12.528,15.782,17.922,18.953,,
+Costa Rica,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.137,65.382,62.538,59.605,56.854,54.316,51.851,49.702,47.661,,
+Costa Rica,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.863,34.618,37.462,40.395,43.146,45.684,48.149,50.298,52.339,,
+Costa Rica,Health Care,Users by Segment,Total,million users,Statista,0.354,0.407,0.476,0.557,0.629,0.704,0.772,0.831,0.889,0.955,1.018
+Costa Rica,Health Care,Users by Segment,Analgesics,million users,Statista,0.071,0.081,0.095,0.111,0.126,0.141,0.154,0.166,0.178,0.191,0.204
+Costa Rica,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.142,0.163,0.19,0.223,0.251,0.282,0.309,0.332,0.356,0.382,0.408
+Costa Rica,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.106,0.122,0.143,0.167,0.189,0.211,0.232,0.249,0.267,0.287,0.306
+Costa Rica,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.142,0.163,0.19,0.223,0.251,0.282,0.309,0.332,0.356,0.382,0.408
+Costa Rica,Health Care,Users by Segment,Incontinence,million users,Statista,0.071,0.081,0.095,0.111,0.126,0.141,0.154,0.166,0.178,0.191,0.204
+Costa Rica,Health Care,Users by Segment,Other Health Care,million users,Statista,0.081,0.094,0.109,0.128,0.145,0.162,0.178,0.191,0.205,0.22,0.234
+Costa Rica,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.142,0.163,0.19,0.223,0.251,0.282,0.309,0.332,0.356,0.382,0.408
+Costa Rica,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.177,0.204,0.238,0.278,0.314,0.352,0.386,0.415,0.445,0.478,0.51
+Costa Rica,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.43,1.629,1.885,2.186,2.447,2.717,2.956,3.156,3.354,3.579,3.792
+Costa Rica,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,2.859,3.258,3.771,4.372,4.894,5.433,5.912,6.311,6.708,7.16,7.59
+Costa Rica,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.144,2.443,2.828,3.279,3.67,4.075,4.434,4.734,5.031,5.369,5.691
+Costa Rica,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,2.859,3.258,3.771,4.372,4.894,5.433,5.912,6.311,6.708,7.16,7.59
+Costa Rica,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,7.148,8.144,9.426,10.931,12.234,13.583,14.779,15.778,16.771,17.888,18.949
+Costa Rica,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.43,1.629,1.885,2.186,2.447,2.717,2.956,3.156,3.354,3.579,3.792
+Costa Rica,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.644,1.873,2.168,2.514,2.814,3.124,3.399,3.629,3.857,4.116,4.361
+Costa Rica,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,2.859,3.258,3.771,4.372,4.894,5.433,5.912,6.311,6.708,7.16,7.59
+Costa Rica,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,3.574,4.072,4.713,5.465,6.117,6.791,7.39,7.889,8.385,8.95,9.486
+Costa Rica,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,23.06,21.6,19.91,19.68,21.35,26.07,40.86,58.64,72.48,74.39,78.44
+Costa Rica,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,3.392,3.092,2.761,2.686,2.895,3.548,5.875,8.79,10.92,11.22,11.85
+Costa Rica,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,4.816,4.392,3.928,3.883,4.25,5.238,8.591,12.71,15.72,16.16,17.07
+Costa Rica,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,4.305,4.382,4.557,4.913,6.965,10.43,14.78,16.92,17.52,18.49,19.32
+Costa Rica,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,13.29,12.07,10.72,9.974,10.23,12.1,20.19,30.87,38.58,39.54,41.76
+Costa Rica,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,37.79,34.36,30.58,29,30.38,36.47,60.61,91.71,114.3,117.3,123.9
+Costa Rica,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.691,0.688,0.707,0.763,1.049,1.496,2.081,2.379,2.475,2.605,2.718
+Costa Rica,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,3.772,3.421,3.031,2.798,2.839,3.345,5.634,8.684,10.87,11.14,11.77
+Costa Rica,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,9.991,10.51,10.81,12.07,13.31,15.64,21.03,26.99,34.76,35.4,37.24
+Costa Rica,Household Care,Revenue,Total,million USD (US$),Statista,4.844,5.221,5.625,6.507,7.97,10.89,18.73,28.92,38.27,42.2,47.48
+Costa Rica,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.299,0.314,0.328,0.373,0.454,0.623,1.131,1.821,2.421,2.672,3.012
+Costa Rica,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.455,0.478,0.499,0.578,0.714,0.985,1.772,2.82,3.735,4.125,4.648
+Costa Rica,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.208,0.244,0.296,0.374,0.598,1.003,1.558,1.919,2.128,2.412,2.687
+Costa Rica,Household Care,Revenue,Laundry Care,million USD (US$),Statista,1.116,1.167,1.211,1.319,1.527,2.022,3.703,6.089,8.149,8.971,10.1
+Costa Rica,Household Care,Revenue,Other Household Care,million USD (US$),Statista,1.746,1.828,1.901,2.11,2.495,3.354,6.113,9.95,13.27,14.63,16.48
+Costa Rica,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.046,0.053,0.064,0.081,0.125,0.2,0.305,0.376,0.418,0.473,0.526
+Costa Rica,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.238,0.248,0.257,0.278,0.318,0.419,0.775,1.285,1.722,1.895,2.135
+Costa Rica,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.735,0.889,1.069,1.396,1.739,2.288,3.373,4.658,6.424,7.027,7.884
+Costa Rica,Household Care,Revenue Change,Total,percent,Statista,,7.783,7.738,15.68,22.483,36.637,71.993,54.405,32.331,10.269,12.512
+Costa Rica,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,4.913,4.364,13.858,21.689,37.189,81.628,61.008,32.949,10.368,12.725
+Costa Rica,Household Care,Revenue Change,Household Cleaners,percent,Statista,,4.942,4.521,15.679,23.594,37.969,79.88,59.142,32.447,10.442,12.679
+Costa Rica,Household Care,Revenue Change,Household Paper,percent,Statista,,17.163,21.502,26.174,60.064,67.726,55.334,23.171,10.891,13.346,11.401
+Costa Rica,Household Care,Revenue Change,Laundry Care,percent,Statista,,4.57,3.77,8.918,15.77,32.417,83.136,64.434,33.831,10.087,12.585
+Costa Rica,Household Care,Revenue Change,Other Household Care,percent,Statista,,4.696,3.993,10.994,18.246,34.429,82.26,62.768,33.367,10.249,12.645
+Costa Rica,Household Care,Revenue Change,Paper Tissues,percent,Statista,,14.689,20.056,26.263,55.228,59.697,52.574,22.994,11.372,13.032,11.276
+Costa Rica,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,4.375,3.547,8.019,14.559,31.928,84.74,65.849,34.008,10.046,12.665
+Costa Rica,Household Care,Revenue Change,Toilet Paper,percent,Statista,,21.086,20.18,30.589,24.57,31.57,47.421,38.097,37.913,9.387,12.196
+Costa Rica,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Costa Rica,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Costa Rica,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Costa Rica,Household Care,Online & Offline Split,Offline,percent,Statista,98.148,98.059,97.965,97.66,97.23,96.242,94.204,91.464,89.162,,
+Costa Rica,Household Care,Online & Offline Split,Online,percent,Statista,1.852,1.941,2.035,2.34,2.77,3.758,5.796,8.536,10.838,,
+Costa Rica,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,66.726,62.908,60.418,58.696,57.735,56.969,56.493,55.937,55.188,,
+Costa Rica,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,33.274,37.092,39.582,41.304,42.265,43.031,43.507,44.063,44.812,,
+Costa Rica,Household Care,Users by Segment,Total,million users,Statista,0.21,0.242,0.283,0.331,0.373,0.418,0.458,0.493,0.528,0.567,0.605
+Costa Rica,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.088,0.102,0.119,0.139,0.157,0.176,0.193,0.207,0.222,0.238,0.254
+Costa Rica,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.095,0.109,0.127,0.149,0.168,0.188,0.206,0.222,0.238,0.255,0.272
+Costa Rica,Household Care,Users by Segment,Household Paper,million users,Statista,0.048,0.056,0.065,0.076,0.086,0.096,0.105,0.113,0.121,0.13,0.139
+Costa Rica,Household Care,Users by Segment,Laundry Care,million users,Statista,0.084,0.097,0.113,0.132,0.149,0.167,0.183,0.197,0.211,0.227,0.242
+Costa Rica,Household Care,Users by Segment,Other Household Care,million users,Statista,0.046,0.053,0.062,0.073,0.082,0.092,0.101,0.108,0.116,0.125,0.133
+Costa Rica,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.067,0.077,0.09,0.106,0.119,0.134,0.147,0.158,0.169,0.181,0.194
+Costa Rica,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.063,0.073,0.085,0.099,0.112,0.125,0.138,0.148,0.158,0.17,0.181
+Costa Rica,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.074,0.085,0.099,0.116,0.131,0.146,0.16,0.173,0.185,0.199,0.212
+Costa Rica,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.782,2.031,2.351,2.726,3.051,3.387,3.686,3.935,4.182,4.463,4.729
+Costa Rica,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,4.244,4.836,5.597,6.49,7.264,8.065,8.775,9.368,9.958,10.627,11.264
+Costa Rica,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,1.91,2.176,2.519,2.921,3.269,3.629,3.949,4.216,4.481,4.782,5.067
+Costa Rica,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.976,1.112,1.287,1.493,1.671,1.855,2.018,2.155,2.29,2.443,2.589
+Costa Rica,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.698,1.934,2.239,2.596,2.906,3.226,3.51,3.747,3.983,4.25,4.504
+Costa Rica,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.934,1.064,1.231,1.428,1.598,1.774,1.931,2.061,2.191,2.337,2.476
+Costa Rica,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.358,1.547,1.791,2.077,2.324,2.581,2.808,2.998,3.186,3.4,3.602
+Costa Rica,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.273,1.451,1.679,1.947,2.179,2.419,2.633,2.811,2.987,3.187,3.377
+Costa Rica,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.485,1.693,1.959,2.272,2.542,2.823,3.071,3.279,3.485,3.718,3.94
+Costa Rica,Food,Revenue,Total,million USD (US$),Statista,22.47,27.51,33.98,58.67,85.85,95.74,121.7,148.5,183.2,201.8,223.8
+Costa Rica,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,2.006,2.455,3.032,6.3,10.2,11.18,13.92,16.6,19.99,22.15,24.55
+Costa Rica,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,2.799,3.379,4.102,7.456,11.13,12.11,14.98,17.67,21.06,23.24,25.67
+Costa Rica,Food,Revenue,Convenience Food,million USD (US$),Statista,1.357,1.66,2.05,4.134,6.218,6.919,8.751,10.61,12.99,14.36,15.94
+Costa Rica,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,2.31,2.83,3.496,5.525,7.725,8.695,11.17,13.8,17.23,18.93,21
+Costa Rica,Food,Revenue,Fish & Seafood,million USD (US$),Statista,1.785,2.208,2.757,4.658,6.779,7.675,9.916,12.32,15.48,17.04,18.94
+Costa Rica,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,2.196,2.677,3.292,5.48,7.846,8.739,11.1,13.55,16.72,18.4,20.39
+Costa Rica,Food,Revenue,Meat,million USD (US$),Statista,5.417,6.63,8.19,13.68,19.67,22,28.05,34.38,42.59,46.88,52
+Costa Rica,Food,Revenue,Oils & Fats,million USD (US$),Statista,1.239,1.529,1.904,3.031,4.273,4.849,6.282,7.824,9.851,10.83,12.03
+Costa Rica,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.572,0.712,0.895,1.313,1.798,2.094,2.784,3.561,4.603,5.05,5.624
+Costa Rica,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.185,0.229,0.289,0.421,0.578,0.666,0.877,1.121,1.447,1.586,1.765
+Costa Rica,Food,Revenue,Vegetables,million USD (US$),Statista,2.61,3.205,3.974,6.669,9.629,10.81,13.85,17.06,21.23,23.37,25.94
+Costa Rica,Food,Revenue Change,Total,percent,Statista,,22.43,23.519,72.66,46.327,11.52,27.115,22.021,23.367,10.153,10.902
+Costa Rica,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,22.383,23.503,107.784,61.905,9.608,24.508,19.253,20.422,10.805,10.835
+Costa Rica,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,20.722,21.397,81.765,49.276,8.805,23.699,17.957,19.185,10.351,10.456
+Costa Rica,Food,Revenue Change,Convenience Food,percent,Statista,,22.329,23.494,101.659,50.411,11.274,26.478,21.243,22.432,10.547,11.003
+Costa Rica,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,22.511,23.534,58.038,39.819,12.557,28.465,23.545,24.855,9.867,10.935
+Costa Rica,Food,Revenue Change,Fish & Seafood,percent,Statista,,23.697,24.864,68.952,45.535,13.217,29.199,24.244,25.649,10.078,11.15
+Costa Rica,Food,Revenue Change,Fruits & Nuts,percent,Statista,,21.903,22.973,66.464,43.175,11.382,27.017,22.072,23.395,10.048,10.815
+Costa Rica,Food,Revenue Change,Meat,percent,Statista,,22.392,23.529,67.033,43.787,11.845,27.5,22.567,23.88,10.073,10.922
+Costa Rica,Food,Revenue Change,Oils & Fats,percent,Statista,,23.406,24.526,59.191,40.977,13.48,29.552,24.546,25.907,9.938,11.08
+Costa Rica,Food,Revenue Change,Sauces & Spices,percent,Statista,,24.633,25.646,46.688,36.938,16.463,32.951,27.909,29.261,9.711,11.366
+Costa Rica,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,23.931,26.212,45.76,37.188,15.337,31.592,27.851,29.081,9.606,11.286
+Costa Rica,Food,Revenue Change,Vegetables,percent,Statista,,22.797,23.994,67.816,44.384,12.265,28.122,23.177,24.443,10.08,10.997
+Costa Rica,Food,Average Revenue per User,Total,USD (US$),Statista,79.99,83.85,87.08,128.4,162.4,159.4,182.4,204.7,233.5,238,246
+Costa Rica,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,15.19,15.92,16.53,29.35,41.06,39.61,44.4,48.68,54.22,55.58,57.41
+Costa Rica,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,20.33,21.01,21.45,33.31,43,41.13,45.81,49.71,54.78,55.95,57.58
+Costa Rica,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,8.623,9.032,9.38,16.16,21.01,20.57,23.42,26.11,29.57,30.24,31.28
+Costa Rica,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,35.75,37.5,38.95,52.59,63.55,62.93,72.78,82.69,95.47,97.2,100.6
+Costa Rica,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,33.44,35.41,37.19,53.67,67.5,67.24,78.22,89.38,103.8,105.9,109.9
+Costa Rica,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,15.03,15.69,16.22,23.07,28.55,27.97,31.99,35.92,40.98,41.73,43.1
+Costa Rica,Food,Average Revenue per User,Meat,USD (US$),Statista,64.27,67.35,69.96,99.83,124.1,122,140.1,158,181,184.5,190.9
+Costa Rica,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,17.64,18.64,19.52,26.54,32.34,32.29,37.66,43.14,50.23,51.16,53.03
+Costa Rica,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,4.624,4.934,5.214,6.534,7.734,7.921,9.484,11.16,13.34,13.54,14.05
+Costa Rica,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,1.992,2.113,2.244,2.793,3.313,3.361,3.982,4.681,5.589,5.675,5.892
+Costa Rica,Food,Average Revenue per User,Vegetables,USD (US$),Statista,18.96,19.93,20.78,29.8,37.18,36.74,42.37,47.99,55.24,56.26,58.2
+Costa Rica,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Food,Online & Offline Split,Offline,percent,Statista,99.594,99.512,99.407,99.109,98.691,98.466,98.194,97.855,97.422,,
+Costa Rica,Food,Online & Offline Split,Online,percent,Statista,0.406,0.488,0.593,0.891,1.309,1.534,1.806,2.145,2.578,,
+Costa Rica,Food,Mobile/Desktop Split,Desktop,percent,Statista,60.045,57.224,55.298,54.083,53.217,52.642,52.131,51.809,51.639,,
+Costa Rica,Food,Mobile/Desktop Split,Mobile,percent,Statista,39.955,42.776,44.702,45.917,46.783,47.358,47.869,48.191,48.361,,
+Costa Rica,Food,Users,Total,million users,Statista,0.281,0.328,0.39,0.457,0.529,0.601,0.667,0.725,0.784,0.848,0.91
+Costa Rica,Food,Users,Bread & Cereal Products,million users,Statista,0.132,0.154,0.183,0.215,0.248,0.282,0.314,0.341,0.369,0.398,0.428
+Costa Rica,Food,Users,Confectionery & Snacks,million users,Statista,0.138,0.161,0.191,0.224,0.259,0.294,0.327,0.355,0.384,0.415,0.446
+Costa Rica,Food,Users,Convenience Food,million users,Statista,0.157,0.184,0.219,0.256,0.296,0.336,0.374,0.406,0.439,0.475,0.509
+Costa Rica,Food,Users,Dairy Products & Eggs,million users,Statista,0.065,0.075,0.09,0.105,0.122,0.138,0.153,0.167,0.18,0.195,0.209
+Costa Rica,Food,Users,Fish & Seafood,million users,Statista,0.053,0.062,0.074,0.087,0.1,0.114,0.127,0.138,0.149,0.161,0.172
+Costa Rica,Food,Users,Fruits & Nuts,million users,Statista,0.146,0.171,0.203,0.238,0.275,0.312,0.347,0.377,0.408,0.441,0.473
+Costa Rica,Food,Users,Meat,million users,Statista,0.084,0.098,0.117,0.137,0.159,0.18,0.2,0.218,0.235,0.254,0.272
+Costa Rica,Food,Users,Oils & Fats,million users,Statista,0.07,0.082,0.098,0.114,0.132,0.15,0.167,0.181,0.196,0.212,0.227
+Costa Rica,Food,Users,Sauces & Spices,million users,Statista,0.124,0.144,0.172,0.201,0.233,0.264,0.294,0.319,0.345,0.373,0.4
+Costa Rica,Food,Users,Spreads & Sweeteners,million users,Statista,0.093,0.108,0.129,0.151,0.174,0.198,0.22,0.239,0.259,0.28,0.3
+Costa Rica,Food,Users,Vegetables,million users,Statista,0.138,0.161,0.191,0.224,0.259,0.294,0.327,0.355,0.384,0.415,0.446
+Costa Rica,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,2.668,3.085,3.633,4.214,4.833,5.449,6.003,6.477,6.954,7.464,7.958
+Costa Rica,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,2.781,3.216,3.788,4.394,5.039,5.68,6.258,6.753,7.25,7.782,8.297
+Costa Rica,Food,Penetration Rate,Convenience Food,percent,Statista,3.178,3.676,4.329,5.021,5.759,6.492,7.152,7.718,8.285,8.893,9.48
+Costa Rica,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.305,1.51,1.778,2.062,2.365,2.666,2.938,3.17,3.403,3.648,3.884
+Costa Rica,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.078,1.247,1.469,1.704,1.954,2.203,2.427,2.618,2.811,3.013,3.208
+Costa Rica,Food,Penetration Rate,Food,percent,Statista,5.676,6.564,7.73,8.966,10.284,11.593,12.772,13.781,14.795,15.882,16.933
+Costa Rica,Food,Penetration Rate,Fruits & Nuts,percent,Statista,2.951,3.413,4.02,4.663,5.348,6.028,6.642,7.166,7.694,8.258,8.805
+Costa Rica,Food,Penetration Rate,Meat,percent,Statista,1.703,1.969,2.319,2.69,3.085,3.478,3.832,4.134,4.439,4.759,5.069
+Costa Rica,Food,Penetration Rate,Oils & Fats,percent,Statista,1.419,1.641,1.933,2.242,2.571,2.898,3.193,3.445,3.699,3.965,4.223
+Costa Rica,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.497,2.888,3.401,3.945,4.525,5.101,5.62,6.064,6.51,6.988,7.45
+Costa Rica,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.873,2.166,2.551,2.959,3.394,3.826,4.215,4.548,4.882,5.236,5.577
+Costa Rica,Food,Penetration Rate,Vegetables,percent,Statista,2.781,3.216,3.788,4.394,5.039,5.68,6.258,6.753,7.25,7.782,8.297
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,15.19,15.92,16.53,29.35,41.06,39.61,44.4,48.68,54.22,55.58,57.41
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,11.5,12.06,12.53,22.93,32.48,31.28,34.97,38.21,42.37,43.52,45
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,2.048,2.131,2.199,3.123,3.855,3.779,4.326,4.86,5.55,5.65,5.836
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,8.108,8.509,8.844,15.83,22.34,21.48,24.02,26.26,29.17,29.95,30.98
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,2.094,2.194,2.286,4.193,5.948,5.76,6.488,7.153,8.019,8.222,8.504
+Costa Rica,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.806,0.842,0.872,1.589,2.247,2.154,2.4,2.613,2.891,2.965,3.061
+Costa Rica,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,2.006,2.455,3.032,6.3,10.2,11.18,13.92,16.6,19.99,22.15,24.55
+Costa Rica,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,0.956,1.172,1.447,3.101,5.082,5.564,6.909,8.207,9.843,10.91,12.1
+Costa Rica,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.224,0.273,0.335,0.556,0.795,0.886,1.126,1.375,1.699,1.869,2.071
+Costa Rica,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.482,0.591,0.73,1.529,2.497,2.73,3.389,4.029,4.84,5.364,5.945
+Costa Rica,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.249,0.305,0.377,0.81,1.33,1.464,1.831,2.195,2.661,2.949,3.273
+Costa Rica,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.095,0.116,0.142,0.304,0.497,0.541,0.67,0.793,0.949,1.052,1.165
+Costa Rica,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,22.383,23.503,107.784,61.905,9.608,24.508,19.253,20.422,10.805,10.835
+Costa Rica,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,22.543,23.464,114.305,63.883,9.484,24.173,18.787,19.934,10.84,10.907
+Costa Rica,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,21.524,22.736,66.268,42.821,11.437,27.131,22.114,23.564,10.006,10.808
+Costa Rica,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,22.582,23.586,109.481,63.309,9.331,24.139,18.885,20.129,10.826,10.831
+Costa Rica,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,22.428,23.867,114.71,64.177,10.075,25.068,19.88,21.23,10.823,10.987
+Costa Rica,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,22.07,23.097,113.352,63.603,8.979,23.721,18.411,19.622,10.9,10.741
+Costa Rica,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Costa Rica,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Costa Rica,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.481,99.378,99.246,98.751,97.94,97.602,97.218,96.759,96.188,,
+Costa Rica,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.519,0.622,0.754,1.249,2.06,2.398,2.782,3.241,3.812,,
+Costa Rica,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,64.842,59.633,56.166,53.556,51.856,50.73,49.696,48.795,47.923,,
+Costa Rica,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,35.158,40.367,43.834,46.444,48.144,49.27,50.304,51.205,52.077,,
+Costa Rica,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.132,0.154,0.183,0.215,0.248,0.282,0.314,0.341,0.369,0.398,0.428
+Costa Rica,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.083,0.097,0.116,0.135,0.156,0.178,0.198,0.215,0.232,0.251,0.269
+Costa Rica,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.11,0.128,0.152,0.178,0.206,0.234,0.26,0.283,0.306,0.331,0.355
+Costa Rica,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.059,0.069,0.083,0.097,0.112,0.127,0.141,0.153,0.166,0.179,0.192
+Costa Rica,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.119,0.139,0.165,0.193,0.224,0.254,0.282,0.307,0.332,0.359,0.385
+Costa Rica,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.118,0.137,0.163,0.191,0.221,0.251,0.279,0.303,0.328,0.355,0.381
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.681,1.943,2.289,2.655,3.045,3.433,3.782,4.081,4.381,4.697,5.003
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.668,3.085,3.633,4.214,4.833,5.449,6.003,6.477,6.954,7.464,7.958
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.214,2.56,3.016,3.498,4.012,4.522,4.982,5.376,5.772,6.196,6.606
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.2,1.388,1.635,1.896,2.175,2.452,2.701,2.915,3.129,3.354,3.571
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.401,2.776,3.27,3.793,4.35,4.904,5.403,5.83,6.258,6.718,7.163
+Costa Rica,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.374,2.746,3.234,3.751,4.302,4.849,5.343,5.765,6.189,6.643,7.083
+Costa Rica,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,20.33,21.01,21.45,33.31,43,41.13,45.81,49.71,54.78,55.95,57.58
+Costa Rica,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,18.46,19.13,19.67,30.81,39.95,38.3,42.74,46.58,51.55,52.66,54.24
+Costa Rica,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.503,0.52,0.531,0.825,1.064,1.018,1.134,1.231,1.356,1.387,1.429
+Costa Rica,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,5.288,5.418,5.411,8.169,10.38,9.85,10.9,11.66,12.64,12.91,13.25
+Costa Rica,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,2.799,3.379,4.102,7.456,11.13,12.11,14.98,17.67,21.06,23.24,25.67
+Costa Rica,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,2.083,2.522,3.084,5.654,8.484,9.245,11.46,13.58,16.25,17.94,19.83
+Costa Rica,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.038,0.046,0.056,0.102,0.152,0.165,0.204,0.241,0.287,0.317,0.35
+Costa Rica,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,0.677,0.81,0.962,1.7,2.499,2.697,3.314,3.854,4.52,4.987,5.493
+Costa Rica,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,20.722,21.397,81.765,49.276,8.805,23.699,17.957,19.185,10.351,10.456
+Costa Rica,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,21.075,22.284,83.333,50.053,8.97,23.959,18.499,19.661,10.4,10.535
+Costa Rica,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,20.735,21.413,81.737,49.36,8.707,23.726,17.999,19.16,10.394,10.458
+Costa Rica,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,19.675,18.748,76.697,47,7.923,22.877,16.295,17.281,10.332,10.146
+Costa Rica,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Costa Rica,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Costa Rica,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.599,99.518,99.417,99.09,98.609,98.383,98.117,97.806,97.415,,
+Costa Rica,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.401,0.482,0.583,0.91,1.391,1.617,1.883,2.194,2.585,,
+Costa Rica,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,65.087,59.915,56.471,53.883,52.196,51.078,50.051,49.156,48.289,,
+Costa Rica,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,34.913,40.085,43.529,46.117,47.804,48.922,49.949,50.844,51.711,,
+Costa Rica,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.138,0.161,0.191,0.224,0.259,0.294,0.327,0.355,0.384,0.415,0.446
+Costa Rica,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.113,0.132,0.157,0.184,0.212,0.241,0.268,0.291,0.315,0.341,0.366
+Costa Rica,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.076,0.088,0.105,0.123,0.142,0.162,0.18,0.196,0.211,0.228,0.245
+Costa Rica,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.128,0.15,0.178,0.208,0.241,0.274,0.304,0.331,0.357,0.386,0.415
+Costa Rica,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.281,2.637,3.106,3.603,4.132,4.658,5.132,5.537,5.945,6.381,6.804
+Costa Rica,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.781,3.216,3.788,4.394,5.039,5.68,6.258,6.753,7.25,7.782,8.297
+Costa Rica,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.53,1.769,2.083,2.416,2.772,3.124,3.442,3.714,3.987,4.275,4.552
+Costa Rica,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.586,2.991,3.523,4.086,4.686,5.283,5.82,6.28,6.742,7.237,7.716
+Costa Rica,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,8.623,9.032,9.38,16.16,21.01,20.57,23.42,26.11,29.57,30.24,31.28
+Costa Rica,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,10.52,11.03,11.46,19.78,25.75,25.25,28.8,32.15,36.45,37.27,38.56
+Costa Rica,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,2.272,2.37,2.452,4.189,5.398,5.237,5.918,6.552,7.366,7.539,7.794
+Costa Rica,Convenience Food,Revenue,Total,million USD (US$),Statista,1.357,1.66,2.05,4.134,6.218,6.919,8.751,10.61,12.99,14.36,15.94
+Costa Rica,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,1.142,1.398,1.728,3.491,5.259,5.862,7.424,9.011,11.05,12.21,13.56
+Costa Rica,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.214,0.261,0.322,0.643,0.959,1.057,1.327,1.597,1.942,2.145,2.378
+Costa Rica,Convenience Food,Revenue Change,Total,percent,Statista,,22.329,23.494,101.659,50.411,11.274,26.478,21.243,22.432,10.547,11.003
+Costa Rica,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,22.417,23.605,102.025,50.645,11.466,26.646,21.377,22.628,10.498,11.057
+Costa Rica,Convenience Food,Revenue Change,Soups,percent,Statista,,21.818,23.039,100,49.067,10.276,25.544,20.347,21.603,10.453,10.862
+Costa Rica,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.604,99.527,99.428,99.082,98.591,98.337,98.042,97.683,97.23,,
+Costa Rica,Convenience Food,Online & Offline Split,Online,percent,Statista,0.396,0.473,0.572,0.918,1.409,1.663,1.958,2.317,2.77,,
+Costa Rica,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,56.453,53.59,52.362,51.889,51.722,51.671,51.661,51.665,51.673,,
+Costa Rica,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,43.547,46.41,47.638,48.111,48.278,48.329,48.339,48.335,48.327,,
+Costa Rica,Convenience Food,Users by Segment,Total,million users,Statista,0.157,0.184,0.219,0.256,0.296,0.336,0.374,0.406,0.439,0.475,0.509
+Costa Rica,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.109,0.127,0.151,0.176,0.204,0.232,0.258,0.28,0.303,0.328,0.352
+Costa Rica,Convenience Food,Users by Segment,Soups,million users,Statista,0.094,0.11,0.131,0.153,0.178,0.202,0.224,0.244,0.264,0.285,0.305
+Costa Rica,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.178,3.676,4.329,5.021,5.759,6.492,7.152,7.718,8.285,8.893,9.48
+Costa Rica,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.193,2.536,2.987,3.465,3.974,4.479,4.935,5.325,5.717,6.137,6.543
+Costa Rica,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.907,2.205,2.597,3.013,3.455,3.895,4.291,4.631,4.971,5.331,5.679
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,35.75,37.5,38.95,52.59,63.55,62.93,72.78,82.69,95.47,97.2,100.6
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,8.726,8.99,9.185,12.18,14.47,14.06,15.96,17.79,20.15,20.49,21.14
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,17.87,18.71,19.4,26.15,31.54,31.17,35.98,40.78,46.97,47.84,49.5
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,8.537,9.086,9.51,12.98,15.83,15.82,18.47,21.18,24.68,25.15,26.08
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,20.44,21.55,22.5,30.49,37.01,36.83,42.8,48.83,56.62,57.68,59.76
+Costa Rica,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,14,14.7,15.32,20.75,25.17,24.99,29.01,33.08,38.34,39.05,40.45
+Costa Rica,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,2.31,2.83,3.496,5.525,7.725,8.695,11.17,13.8,17.23,18.93,21
+Costa Rica,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.423,0.509,0.618,0.96,1.319,1.458,1.837,2.227,2.726,2.992,3.308
+Costa Rica,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.497,0.607,0.749,1.181,1.648,1.852,2.374,2.926,3.644,4.004,4.44
+Costa Rica,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.43,0.535,0.666,1.063,1.5,1.705,2.211,2.757,3.474,3.819,4.244
+Costa Rica,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.462,0.569,0.707,1.121,1.575,1.781,2.299,2.852,3.575,3.93,4.363
+Costa Rica,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.498,0.61,0.756,1.199,1.683,1.899,2.448,3.035,3.805,4.182,4.642
+Costa Rica,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,22.511,23.534,58.038,39.819,12.557,28.465,23.545,24.855,9.867,10.935
+Costa Rica,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,20.336,21.478,55.29,37.396,10.538,25.995,21.23,22.407,9.758,10.561
+Costa Rica,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,22.227,23.34,57.719,39.543,12.379,28.186,23.252,24.539,9.879,10.889
+Costa Rica,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,24.309,24.453,59.682,41.11,13.667,29.677,24.695,26.007,9.931,11.129
+Costa Rica,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,23.119,24.117,58.647,40.5,13.079,29.085,24.054,25.351,9.93,11.018
+Costa Rica,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,22.624,23.939,58.514,40.367,12.834,28.91,23.979,25.371,9.908,11
+Costa Rica,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Costa Rica,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Costa Rica,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.603,99.521,99.416,99.167,98.838,98.629,98.371,98.041,97.614,,
+Costa Rica,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.397,0.479,0.584,0.833,1.162,1.371,1.629,1.959,2.386,,
+Costa Rica,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,56.453,53.59,52.362,51.889,51.722,51.671,51.661,51.665,51.673,,
+Costa Rica,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,43.547,46.41,47.638,48.111,48.278,48.329,48.339,48.335,48.327,,
+Costa Rica,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.065,0.075,0.09,0.105,0.122,0.138,0.153,0.167,0.18,0.195,0.209
+Costa Rica,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.048,0.057,0.067,0.079,0.091,0.104,0.115,0.125,0.135,0.146,0.156
+Costa Rica,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.028,0.032,0.039,0.045,0.052,0.059,0.066,0.072,0.078,0.084,0.09
+Costa Rica,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.05,0.059,0.07,0.082,0.095,0.108,0.12,0.13,0.141,0.152,0.163
+Costa Rica,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.023,0.026,0.031,0.037,0.043,0.048,0.054,0.058,0.063,0.068,0.073
+Costa Rica,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.036,0.042,0.049,0.058,0.067,0.076,0.084,0.092,0.099,0.107,0.115
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.979,1.132,1.334,1.547,1.774,2,2.203,2.377,2.552,2.735,2.912
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.305,1.51,1.778,2.062,2.365,2.666,2.938,3.17,3.403,3.648,3.884
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.561,0.649,0.765,0.887,1.017,1.147,1.263,1.363,1.463,1.568,1.669
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.018,1.177,1.387,1.609,1.845,2.08,2.291,2.472,2.654,2.845,3.029
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.457,0.528,0.622,0.722,0.828,0.933,1.028,1.109,1.191,1.276,1.359
+Costa Rica,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.718,0.83,0.978,1.134,1.301,1.466,1.616,1.743,1.872,2.006,2.135
+Costa Rica,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,33.44,35.41,37.19,53.67,67.5,67.24,78.22,89.38,103.8,105.9,109.9
+Costa Rica,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,53.86,57.18,60.32,87.47,110.6,110.5,129.1,148,172.7,176.2,183
+Costa Rica,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,21.26,22.54,23.61,33.99,42.56,42.4,49.29,56.24,65.21,66.55,69.03
+Costa Rica,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,8.145,8.556,8.882,12.67,15.72,15.5,17.85,20.16,23.15,23.61,24.45
+Costa Rica,Fish & Seafood,Revenue,Total,million USD (US$),Statista,1.785,2.208,2.757,4.658,6.779,7.675,9.916,12.32,15.48,17.04,18.94
+Costa Rica,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,1.121,1.39,1.744,2.961,4.332,4.921,6.381,7.958,10.04,11.05,12.3
+Costa Rica,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.272,0.337,0.42,0.708,1.026,1.162,1.5,1.86,2.333,2.569,2.855
+Costa Rica,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.391,0.48,0.593,0.989,1.42,1.593,2.036,2.501,3.106,3.418,3.793
+Costa Rica,Fish & Seafood,Revenue Change,Total,percent,Statista,,23.697,24.864,68.952,45.535,13.217,29.199,24.244,25.649,10.078,11.15
+Costa Rica,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,23.996,25.468,69.782,46.302,13.596,29.669,24.714,26.162,10.06,11.312
+Costa Rica,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,23.825,24.548,68.531,44.915,13.255,29.088,24,25.43,10.116,11.133
+Costa Rica,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,22.694,23.433,66.942,43.536,12.183,27.809,22.839,24.19,10.045,10.971
+Costa Rica,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.603,99.523,99.419,99.143,98.765,98.547,98.281,97.942,97.506,,
+Costa Rica,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.397,0.477,0.581,0.857,1.235,1.453,1.719,2.058,2.494,,
+Costa Rica,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,56.453,53.59,52.362,51.889,51.722,51.671,51.661,51.665,51.673,,
+Costa Rica,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,43.547,46.41,47.638,48.111,48.278,48.329,48.339,48.335,48.327,,
+Costa Rica,Fish & Seafood,Users by Segment,Total,million users,Statista,0.053,0.062,0.074,0.087,0.1,0.114,0.127,0.138,0.149,0.161,0.172
+Costa Rica,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.021,0.024,0.029,0.034,0.039,0.045,0.049,0.054,0.058,0.063,0.067
+Costa Rica,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.013,0.015,0.018,0.021,0.024,0.027,0.03,0.033,0.036,0.039,0.041
+Costa Rica,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.048,0.056,0.067,0.078,0.09,0.103,0.114,0.124,0.134,0.145,0.155
+Costa Rica,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.078,1.247,1.469,1.704,1.954,2.203,2.427,2.618,2.811,3.013,3.208
+Costa Rica,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.421,0.486,0.573,0.664,0.762,0.859,0.946,1.021,1.096,1.175,1.251
+Costa Rica,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.259,0.299,0.353,0.409,0.469,0.529,0.582,0.628,0.675,0.723,0.77
+Costa Rica,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.971,1.122,1.322,1.533,1.759,1.982,2.184,2.357,2.53,2.712,2.887
+Costa Rica,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,15.03,15.69,16.22,23.07,28.55,27.97,31.99,35.92,40.98,41.73,43.1
+Costa Rica,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,18.27,19.08,19.74,28.08,34.77,34.08,38.99,43.78,49.97,50.88,52.55
+Costa Rica,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,2.177,2.255,2.318,3.277,4.031,3.926,4.467,4.99,5.666,5.774,5.965
+Costa Rica,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,2.304,2.407,2.49,3.545,4.389,4.307,4.934,5.549,6.342,6.465,6.687
+Costa Rica,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,2.196,2.677,3.292,5.48,7.846,8.739,11.1,13.55,16.72,18.4,20.39
+Costa Rica,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,1.869,2.279,2.804,4.669,6.689,7.452,9.469,11.56,14.27,15.7,17.4
+Costa Rica,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.159,0.192,0.235,0.389,0.554,0.613,0.775,0.941,1.156,1.271,1.408
+Costa Rica,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.168,0.205,0.253,0.421,0.603,0.673,0.856,1.047,1.293,1.423,1.578
+Costa Rica,Fruits & Nuts,Revenue Change,Total,percent,Statista,,21.903,22.973,66.464,43.175,11.382,27.017,22.072,23.395,10.048,10.815
+Costa Rica,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,21.937,23.036,66.512,43.264,11.407,27.067,22.083,23.443,10.021,10.828
+Costa Rica,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,21.006,22.245,65.476,42.318,10.724,26.333,21.464,22.835,9.948,10.779
+Costa Rica,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,21.985,23.088,66.601,43.254,11.557,27.229,22.313,23.496,10.054,10.892
+Costa Rica,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.604,99.523,99.421,99.147,98.774,98.561,98.304,97.979,97.562,,
+Costa Rica,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.396,0.477,0.579,0.853,1.226,1.439,1.696,2.021,2.438,,
+Costa Rica,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Costa Rica,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Costa Rica,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.146,0.171,0.203,0.238,0.275,0.312,0.347,0.377,0.408,0.441,0.473
+Costa Rica,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.102,0.119,0.142,0.166,0.192,0.219,0.243,0.264,0.286,0.309,0.331
+Costa Rica,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.073,0.085,0.101,0.119,0.137,0.156,0.173,0.189,0.204,0.22,0.236
+Costa Rica,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.073,0.085,0.101,0.119,0.137,0.156,0.173,0.189,0.204,0.22,0.236
+Costa Rica,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.066,2.389,2.814,3.264,3.743,4.22,4.649,5.016,5.386,5.781,6.164
+Costa Rica,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,2.951,3.413,4.02,4.663,5.348,6.028,6.642,7.166,7.694,8.258,8.805
+Costa Rica,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.476,1.707,2.01,2.331,2.674,3.014,3.321,3.583,3.847,4.124,4.392
+Costa Rica,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.476,1.707,2.01,2.331,2.674,3.014,3.321,3.583,3.847,4.124,4.392
+Costa Rica,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,64.27,67.35,69.96,99.83,124.1,122,140.1,158,181,184.5,190.9
+Costa Rica,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,67.83,71.04,73.78,105.5,131.3,129.6,149.2,168.8,194,197.9,204.9
+Costa Rica,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,20.08,21.07,21.91,31.05,38.45,37.53,42.73,47.72,54.17,55.23,57.07
+Costa Rica,Meat,Revenue,Total,million USD (US$),Statista,5.417,6.63,8.19,13.68,19.67,22,28.05,34.38,42.59,46.88,52
+Costa Rica,Meat,Revenue,Fresh Meat,million USD (US$),Statista,3.945,4.825,5.959,9.977,14.37,16.11,20.61,25.34,31.5,34.68,38.48
+Costa Rica,Meat,Revenue,Processed Meat,million USD (US$),Statista,1.472,1.805,2.231,3.702,5.304,5.884,7.441,9.035,11.09,12.21,13.52
+Costa Rica,Meat,Revenue Change,Total,percent,Statista,,22.392,23.529,67.033,43.787,11.845,27.5,22.567,23.88,10.073,10.922
+Costa Rica,Meat,Revenue Change,Fresh Meat,percent,Statista,,22.307,23.503,67.427,44.031,12.109,27.933,22.95,24.309,10.095,10.957
+Costa Rica,Meat,Revenue Change,Processed Meat,percent,Statista,,22.622,23.601,65.935,43.274,10.935,26.462,21.422,22.745,10.099,10.729
+Costa Rica,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Costa Rica,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Costa Rica,Meat,Online & Offline Split,Offline,percent,Statista,99.603,99.522,99.418,99.141,98.763,98.547,98.283,97.95,97.522,,
+Costa Rica,Meat,Online & Offline Split,Online,percent,Statista,0.397,0.478,0.582,0.859,1.237,1.453,1.717,2.05,2.478,,
+Costa Rica,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Costa Rica,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Costa Rica,Meat,Users by Segment,Total,million users,Statista,0.084,0.098,0.117,0.137,0.159,0.18,0.2,0.218,0.235,0.254,0.272
+Costa Rica,Meat,Users by Segment,Fresh Meat,million users,Statista,0.058,0.068,0.081,0.095,0.109,0.124,0.138,0.15,0.162,0.175,0.188
+Costa Rica,Meat,Users by Segment,Processed Meat,million users,Statista,0.073,0.086,0.102,0.119,0.138,0.157,0.174,0.189,0.205,0.221,0.237
+Costa Rica,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.175,1.359,1.6,1.856,2.129,2.4,2.644,2.853,3.063,3.283,3.495
+Costa Rica,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.703,1.969,2.319,2.69,3.085,3.478,3.832,4.134,4.439,4.759,5.069
+Costa Rica,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.481,1.713,2.018,2.34,2.684,3.026,3.334,3.597,3.862,4.14,4.409
+Costa Rica,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,17.64,18.64,19.52,26.54,32.34,32.29,37.66,43.14,50.23,51.16,53.03
+Costa Rica,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,2.074,2.186,2.278,3.083,3.734,3.708,4.299,4.892,5.655,5.76,5.964
+Costa Rica,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,11.61,11.83,11.91,15.58,18.19,17.4,19.4,21.21,23.51,23.89,24.54
+Costa Rica,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,4.683,4.951,5.189,7.052,8.59,8.559,9.964,11.4,13.25,13.5,13.99
+Costa Rica,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,4.9,5.782,6.689,9.957,13.21,14.26,17.88,21.91,27.17,27.76,29.08
+Costa Rica,Oils & Fats,Revenue,Total,million USD (US$),Statista,1.239,1.529,1.904,3.031,4.273,4.849,6.282,7.824,9.851,10.83,12.03
+Costa Rica,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.117,0.143,0.178,0.282,0.395,0.446,0.574,0.71,0.887,0.975,1.082
+Costa Rica,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.653,0.776,0.93,1.423,1.923,2.09,2.589,3.077,3.688,4.044,4.454
+Costa Rica,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.263,0.325,0.405,0.644,0.908,1.028,1.33,1.653,2.079,2.285,2.538
+Costa Rica,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.206,0.285,0.392,0.682,1.047,1.285,1.789,2.384,3.197,3.525,3.957
+Costa Rica,Oils & Fats,Revenue Change,Total,percent,Statista,,23.406,24.526,59.191,40.977,13.48,29.552,24.546,25.907,9.938,11.08
+Costa Rica,Oils & Fats,Revenue Change,Butter,percent,Statista,,23.07,23.902,58.436,40.114,12.896,28.748,23.723,25.007,9.918,10.94
+Costa Rica,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,18.94,19.789,53.044,35.137,8.684,23.876,18.849,19.857,9.653,10.138
+Costa Rica,Oils & Fats,Revenue Change,Margarine,percent,Statista,,23.489,24.654,59.062,40.95,13.216,29.377,24.286,25.771,9.909,11.072
+Costa Rica,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,37.821,37.561,74.253,53.474,22.732,39.222,33.259,34.102,10.26,12.255
+Costa Rica,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.603,99.521,99.417,99.171,98.845,98.638,98.382,98.056,97.635,,
+Costa Rica,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.397,0.479,0.583,0.829,1.155,1.362,1.618,1.944,2.365,,
+Costa Rica,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Costa Rica,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Costa Rica,Oils & Fats,Users by Segment,Total,million users,Statista,0.07,0.082,0.098,0.114,0.132,0.15,0.167,0.181,0.196,0.212,0.227
+Costa Rica,Oils & Fats,Users by Segment,Butter,million users,Statista,0.056,0.066,0.078,0.091,0.106,0.12,0.133,0.145,0.157,0.169,0.181
+Costa Rica,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.056,0.066,0.078,0.091,0.106,0.12,0.133,0.145,0.157,0.169,0.181
+Costa Rica,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.056,0.066,0.078,0.091,0.106,0.12,0.133,0.145,0.157,0.169,0.181
+Costa Rica,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.042,0.049,0.059,0.069,0.079,0.09,0.1,0.109,0.118,0.127,0.136
+Costa Rica,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.135,1.313,1.546,1.793,2.057,2.319,2.554,2.756,2.959,3.172,3.377
+Costa Rica,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.135,1.313,1.546,1.793,2.057,2.319,2.554,2.756,2.959,3.172,3.377
+Costa Rica,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.135,1.313,1.546,1.793,2.057,2.319,2.554,2.756,2.959,3.172,3.377
+Costa Rica,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.419,1.641,1.933,2.242,2.571,2.898,3.193,3.445,3.699,3.965,4.223
+Costa Rica,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.851,0.985,1.16,1.345,1.543,1.739,1.916,2.067,2.219,2.378,2.532
+Costa Rica,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,4.624,4.934,5.214,6.534,7.734,7.921,9.484,11.16,13.34,13.54,14.05
+Costa Rica,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,4.533,4.914,5.272,6.707,8.054,8.368,10.16,12.12,14.67,14.91,15.52
+Costa Rica,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,1.663,1.672,1.66,1.948,2.151,2.044,2.26,2.441,2.659,2.69,2.75
+Costa Rica,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.572,0.712,0.895,1.313,1.798,2.094,2.784,3.561,4.603,5.05,5.624
+Costa Rica,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.448,0.568,0.724,1.078,1.498,1.77,2.386,3.094,4.052,4.448,4.965
+Costa Rica,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.123,0.145,0.171,0.235,0.3,0.324,0.398,0.467,0.551,0.601,0.659
+Costa Rica,Sauces & Spices,Revenue Change,Total,percent,Statista,,24.633,25.646,46.688,36.938,16.463,32.951,27.909,29.261,9.711,11.366
+Costa Rica,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,26.612,27.572,48.874,38.961,18.158,34.802,29.673,30.963,9.773,11.623
+Costa Rica,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,17.437,18.094,37.368,27.756,8.031,22.795,17.408,17.843,9.168,9.563
+Costa Rica,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.398,0.474,0.571,0.762,1.001,1.18,1.406,1.696,2.075,,
+Costa Rica,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Costa Rica,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Costa Rica,Sauces & Spices,Users by Segment,Total,million users,Statista,0.124,0.144,0.172,0.201,0.233,0.264,0.294,0.319,0.345,0.373,0.4
+Costa Rica,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.099,0.116,0.137,0.161,0.186,0.211,0.235,0.255,0.276,0.298,0.32
+Costa Rica,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.074,0.087,0.103,0.121,0.14,0.159,0.176,0.192,0.207,0.224,0.24
+Costa Rica,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.497,2.888,3.401,3.945,4.525,5.101,5.62,6.064,6.51,6.988,7.45
+Costa Rica,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.998,2.31,2.721,3.156,3.62,4.081,4.496,4.851,5.208,5.587,5.954
+Costa Rica,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.498,1.733,2.041,2.367,2.715,3.06,3.372,3.638,3.906,4.187,4.459
+Costa Rica,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,1.992,2.113,2.244,2.793,3.313,3.361,3.982,4.681,5.589,5.675,5.892
+Costa Rica,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,1.569,1.624,1.682,2.036,2.351,2.36,2.77,3.217,3.794,3.848,3.986
+Costa Rica,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,1.536,1.696,1.871,2.426,2.983,3.068,3.679,4.39,5.319,5.414,5.64
+Costa Rica,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.185,0.229,0.289,0.421,0.578,0.666,0.877,1.121,1.447,1.586,1.765
+Costa Rica,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.116,0.141,0.173,0.245,0.328,0.374,0.488,0.616,0.786,0.86,0.955
+Costa Rica,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.068,0.088,0.116,0.175,0.25,0.292,0.389,0.504,0.661,0.726,0.81
+Costa Rica,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,23.931,26.212,45.76,37.188,15.337,31.592,27.851,29.081,9.606,11.286
+Costa Rica,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,20.876,23.17,41.662,33.605,14.116,30.377,26.27,27.524,9.468,11.032
+Costa Rica,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,29.05,31.209,51.685,42.279,16.9,33.231,29.725,31.021,9.818,11.641
+Costa Rica,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Costa Rica,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Costa Rica,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.596,99.507,99.383,99.155,98.849,98.611,98.305,97.89,97.34,,
+Costa Rica,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.404,0.493,0.617,0.845,1.151,1.389,1.695,2.11,2.66,,
+Costa Rica,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Costa Rica,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Costa Rica,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.093,0.108,0.129,0.151,0.174,0.198,0.22,0.239,0.259,0.28,0.3
+Costa Rica,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.074,0.087,0.103,0.121,0.14,0.159,0.176,0.192,0.207,0.224,0.24
+Costa Rica,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.045,0.052,0.062,0.072,0.084,0.095,0.106,0.115,0.124,0.134,0.144
+Costa Rica,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.498,1.733,2.041,2.367,2.715,3.06,3.372,3.638,3.906,4.187,4.459
+Costa Rica,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.873,2.166,2.551,2.959,3.394,3.826,4.215,4.548,4.882,5.236,5.577
+Costa Rica,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.899,1.04,1.225,1.42,1.629,1.836,2.023,2.183,2.344,2.512,2.674
+Costa Rica,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,18.96,19.93,20.78,29.8,37.18,36.74,42.37,47.99,55.24,56.26,58.2
+Costa Rica,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,20.82,21.84,22.74,32.55,40.56,40.03,46.14,52.21,60.06,61.23,63.38
+Costa Rica,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,8.765,9.283,9.737,14.02,17.58,17.42,20.15,22.88,26.39,26.92,27.9
+Costa Rica,Vegetables,Revenue,Total,million USD (US$),Statista,2.61,3.205,3.974,6.669,9.629,10.81,13.85,17.06,21.23,23.37,25.94
+Costa Rica,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,2.006,2.459,3.043,5.1,7.353,8.25,10.56,12.99,16.16,17.79,19.74
+Costa Rica,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.603,0.746,0.931,1.569,2.276,2.565,3.295,4.066,5.072,5.585,6.203
+Costa Rica,Vegetables,Revenue Change,Total,percent,Statista,,22.797,23.994,67.816,44.384,12.265,28.122,23.177,24.443,10.08,10.997
+Costa Rica,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,22.582,23.749,67.598,44.176,12.199,28,23.011,24.403,10.087,10.961
+Costa Rica,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,23.703,24.722,68.565,45.061,12.698,28.46,23.399,24.742,10.114,11.065
+Costa Rica,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Costa Rica,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Costa Rica,Vegetables,Online & Offline Split,Offline,percent,Statista,99.603,99.523,99.419,99.142,98.765,98.549,98.285,97.952,97.524,,
+Costa Rica,Vegetables,Online & Offline Split,Online,percent,Statista,0.397,0.477,0.581,0.858,1.235,1.451,1.715,2.048,2.476,,
+Costa Rica,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Costa Rica,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Costa Rica,Vegetables,Users by Segment,Total,million users,Statista,0.138,0.161,0.191,0.224,0.259,0.294,0.327,0.355,0.384,0.415,0.446
+Costa Rica,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.096,0.113,0.134,0.157,0.181,0.206,0.229,0.249,0.269,0.291,0.311
+Costa Rica,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.069,0.08,0.096,0.112,0.129,0.147,0.163,0.178,0.192,0.207,0.222
+Costa Rica,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.947,2.251,2.652,3.076,3.527,3.976,4.381,4.727,5.075,5.442,5.797
+Costa Rica,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.391,1.608,1.894,2.197,2.52,2.84,3.129,3.376,3.625,3.886,4.138
+Costa Rica,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,2.781,3.216,3.788,4.394,5.039,5.68,6.258,6.753,7.25,7.782,8.297

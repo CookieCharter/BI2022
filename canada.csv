@@ -1,0 +1,703 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Canada,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.35,,,,,,
+Canada,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.211,,,,,,
+Canada,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.397,,,,,,
+Canada,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.921,,,,,,
+Canada,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.12,,,,,,
+Canada,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,50.872,,,,,,
+Canada,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,49.128,,,,,,
+Canada,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.892,,,,,,
+Canada,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.184,,,,,,
+Canada,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.924,,,,,,
+Canada,eCommerce,Revenue,Total,billion USD (US$),Statista,31.1,33.22,35.79,46.09,58.01,57.92,75.55,87.85,102,109.5,118.2
+Canada,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,3.167,3.453,3.746,4.688,6.085,6.415,8.295,9.758,11.45,12.39,13.47
+Canada,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.489,0.539,0.613,0.856,1.156,1.267,1.724,2.156,2.714,2.933,3.221
+Canada,eCommerce,Revenue,Electronics,billion USD (US$),Statista,6.998,7.352,7.688,9.95,12.44,10.89,13.81,14.98,16.18,17.05,17.94
+Canada,eCommerce,Revenue,Fashion,billion USD (US$),Statista,7.802,8.291,8.879,10.95,14.03,15.05,19.69,23.31,27.37,29.5,32.02
+Canada,eCommerce,Revenue,Food,billion USD (US$),Statista,0.484,0.537,0.606,0.88,1.106,1.409,2.197,3.109,4.374,4.766,5.345
+Canada,eCommerce,Revenue,Furniture,billion USD (US$),Statista,4.635,5.009,5.482,6.793,7.672,7.315,10.65,12.98,15.72,16.89,18.4
+Canada,eCommerce,Revenue,Media,billion USD (US$),Statista,1.823,1.887,1.982,2.409,2.694,2.574,2.993,3.139,3.256,3.45,3.628
+Canada,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,5.698,6.15,6.796,9.571,12.84,13,16.2,18.41,20.95,22.48,24.14
+Canada,eCommerce,Revenue Change,Total,percent,Statista,,6.824,7.745,28.789,25.851,-0.158,30.449,16.268,16.146,7.28,7.954
+Canada,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,9.03,8.459,25.162,29.794,5.432,29.308,17.628,17.383,8.137,8.779
+Canada,eCommerce,Revenue Change,Beverages,percent,Statista,,10.313,13.693,39.531,35.12,9.602,36.06,25.073,25.875,8.071,9.804
+Canada,eCommerce,Revenue Change,Electronics,percent,Statista,,5.056,4.571,29.426,24.994,-12.414,26.735,8.492,8.053,5.353,5.193
+Canada,eCommerce,Revenue Change,Fashion,percent,Statista,,6.271,7.086,23.308,28.111,7.271,30.891,18.384,17.409,7.781,8.534
+Canada,eCommerce,Revenue Change,Food,percent,Statista,,11.063,12.756,45.293,25.655,27.362,55.957,41.492,40.677,8.98,12.132
+Canada,eCommerce,Revenue Change,Furniture,percent,Statista,,8.054,9.451,23.922,12.939,-4.652,45.59,21.892,21.116,7.451,8.907
+Canada,eCommerce,Revenue Change,Media,percent,Statista,,3.5,5.029,21.538,11.833,-4.457,16.305,4.857,3.744,5.953,5.151
+Canada,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,7.932,10.511,40.828,34.106,1.288,24.581,13.678,13.802,7.267,7.42
+Canada,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,1.365,1.387,1.433,1.768,2.103,2.011,2.551,2.921,3.342,3.511,3.726
+Canada,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.44,0.434,0.426,0.485,0.573,0.555,0.67,0.744,0.826,0.844,0.872
+Canada,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.138,0.132,0.129,0.159,0.193,0.192,0.239,0.279,0.329,0.334,0.347
+Canada,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.661,0.617,0.573,0.667,0.758,0.61,0.717,0.732,0.747,0.744,0.743
+Canada,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.746,0.713,0.682,0.759,0.87,0.844,1.01,1.107,1.208,1.22,1.246
+Canada,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.145,0.14,0.135,0.173,0.196,0.226,0.324,0.428,0.565,0.578,0.612
+Canada,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,0.972,0.931,0.894,1.004,1.038,0.915,1.256,1.458,1.684,1.733,1.817
+Canada,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.226,0.216,0.209,0.232,0.239,0.213,0.234,0.229,0.223,0.224,0.224
+Canada,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.732,0.691,0.661,0.819,0.974,0.889,1.013,1.068,1.133,1.133,1.142
+Canada,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,6.481,6.634,7.057,7.417,7.599,7.776,7.945,8.205,8.464,,
+Canada,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,67.992,64.685,60.284,55.499,53.766,52.051,50.361,49.249,48.136,,
+Canada,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,3.619,3.705,3.5,3.28,3.182,3.101,3.032,3.009,2.986,,
+Canada,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,2.966,3.036,3.406,3.784,3.877,3.967,4.054,3.045,2.036,,
+Canada,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,2.063,2.112,2.208,2.27,2.409,2.545,2.68,2.844,3.007,,
+Canada,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,10.947,13.757,16.764,20.182,21.412,22.625,23.821,25.277,26.732,,
+Canada,eCommerce,Revenue Share Payment Types,Other,percent,Statista,5.932,6.072,6.781,7.568,7.754,7.935,8.107,8.372,8.637,,
+Canada,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,3.249,3.264,3.28,3.292,3.302,3.31,3.316,3.321,3.324,,
+Canada,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,96.751,96.736,96.72,96.708,96.698,96.69,96.684,96.679,96.676,,
+Canada,eCommerce,Online & Offline Split,Offline,percent,Statista,90.464,90.016,89.444,86.136,83.391,82.032,80.115,77.773,75.157,,
+Canada,eCommerce,Online & Offline Split,Online,percent,Statista,9.536,9.984,10.556,13.864,16.609,17.968,19.885,22.227,24.843,,
+Canada,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,72.065,70.619,69.199,67.837,66.95,66.152,65.538,65.488,65.443,,
+Canada,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,27.935,29.381,30.801,32.163,33.05,33.848,34.462,34.512,34.557,,
+Canada,eCommerce,Users,Total,million users,Statista,22.779,23.949,24.982,26.072,27.588,28.801,29.619,30.07,30.526,31.176,31.71
+Canada,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,7.203,7.957,8.794,9.668,10.625,11.556,12.377,13.123,13.862,14.67,15.451
+Canada,eCommerce,Users,Beverages,million users,Statista,3.539,4.084,4.759,5.398,6.007,6.618,7.219,7.725,8.24,8.773,9.285
+Canada,eCommerce,Users,Electronics,million users,Statista,10.58,11.923,13.418,14.905,16.403,17.87,19.265,20.456,21.661,22.922,24.131
+Canada,eCommerce,Users,Fashion,million users,Statista,10.459,11.633,13.019,14.422,16.119,17.837,19.491,21.063,22.659,24.178,25.706
+Canada,eCommerce,Users,Food,million users,Statista,3.328,3.84,4.475,5.076,5.648,6.223,6.788,7.264,7.748,8.249,8.73
+Canada,eCommerce,Users,Furniture,million users,Statista,4.77,5.382,6.131,6.768,7.394,7.997,8.481,8.905,9.334,9.748,10.128
+Canada,eCommerce,Users,Media,million users,Statista,8.068,8.716,9.503,10.393,11.25,12.054,12.784,13.68,14.59,15.379,16.189
+Canada,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,7.786,8.902,10.274,11.682,13.178,14.615,15.995,17.235,18.495,19.829,21.137
+Canada,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,19.61,21.462,23.506,25.616,27.911,30.102,31.977,33.635,35.248,37.014,38.686
+Canada,eCommerce,Penetration Rate,Beverages,percent,Statista,9.634,11.015,12.722,14.302,15.779,17.24,18.653,19.8,20.952,22.134,23.247
+Canada,eCommerce,Penetration Rate,eCommerce,percent,Statista,62.013,64.596,66.778,69.08,72.471,75.024,76.526,77.07,77.62,78.66,79.395
+Canada,eCommerce,Penetration Rate,Electronics,percent,Statista,28.804,32.16,35.868,39.492,43.089,46.55,49.774,52.429,55.079,57.833,60.42
+Canada,eCommerce,Penetration Rate,Fashion,percent,Statista,28.473,31.376,34.799,38.211,42.342,46.465,50.359,53.985,57.617,61.003,64.364
+Canada,eCommerce,Penetration Rate,Food,percent,Statista,9.059,10.357,11.962,13.449,14.837,16.21,17.539,18.618,19.701,20.813,21.859
+Canada,eCommerce,Penetration Rate,Furniture,percent,Statista,12.985,14.516,16.389,17.931,19.424,20.832,21.913,22.822,23.735,24.594,25.359
+Canada,eCommerce,Penetration Rate,Media,percent,Statista,21.966,23.51,25.401,27.537,29.553,31.399,33.029,35.061,37.1,38.801,40.535
+Canada,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,21.196,24.01,27.462,30.953,34.617,38.071,41.325,44.173,47.029,50.03,52.923
+Canada,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.202,,,,,,
+Canada,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.433,,,,,,
+Canada,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.236,,,,,,
+Canada,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,20.296,,,,,,
+Canada,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.833,,,,,,
+Canada,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,42.956,,,,,,
+Canada,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,57.044,,,,,,
+Canada,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.364,,,,,,
+Canada,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.601,,,,,,
+Canada,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.035,,,,,,
+Canada,Electronics,Revenue,Total,billion USD (US$),Statista,6.998,7.352,7.688,9.95,12.44,10.89,13.81,14.98,16.18,17.05,17.94
+Canada,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,5.527,5.779,5.965,7.84,9.624,8.021,10.22,10.92,11.61,12.17,12.71
+Canada,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,1.471,1.573,1.723,2.11,2.813,2.871,3.584,4.056,4.569,4.883,5.226
+Canada,Electronics,Revenue Change,Total,percent,Statista,,5.056,4.571,29.426,24.994,-12.414,26.735,8.492,8.053,5.353,5.193
+Canada,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,4.551,3.225,31.434,22.75,-16.649,27.427,6.846,6.347,4.761,4.46
+Canada,Electronics,Revenue Change,Household Appliances,percent,Statista,,6.955,9.519,22.475,33.33,2.075,24.804,13.188,12.645,6.86,7.019
+Canada,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.661,0.617,0.573,0.667,0.758,0.61,0.717,0.732,0.747,0.744,0.743
+Canada,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.547,0.518,0.485,0.578,0.649,0.5,0.596,0.606,0.615,0.613,0.612
+Canada,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.215,0.198,0.186,0.202,0.242,0.225,0.257,0.269,0.282,0.282,0.283
+Canada,Electronics,Online & Offline Split,Offline,percent,Statista,66.092,65.39,64.22,56.363,50.925,45.731,42.905,39.084,35.957,,
+Canada,Electronics,Online & Offline Split,Online,percent,Statista,33.908,34.61,35.78,43.637,49.075,54.269,57.095,60.916,64.043,,
+Canada,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Electronics,Users by Segment,Total,million users,Statista,10.58,11.923,13.418,14.905,16.403,17.87,19.265,20.456,21.661,22.922,24.131
+Canada,Electronics,Users by Segment,Consumer Electronics,million users,Statista,10.101,11.149,12.288,13.564,14.819,16.027,17.16,18.016,18.886,19.859,20.768
+Canada,Electronics,Users by Segment,Household Appliances,million users,Statista,6.823,7.964,9.282,10.434,11.61,12.792,13.954,15.073,16.211,17.327,18.431
+Canada,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,27.5,30.073,32.846,35.937,38.928,41.75,44.336,46.175,48.022,50.104,51.998
+Canada,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,28.804,32.16,35.868,39.492,43.089,46.55,49.774,52.429,55.079,57.833,60.42
+Canada,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,18.576,21.482,24.811,27.644,30.499,33.322,36.053,38.632,41.22,43.716,46.148
+Canada,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.82,,,,,,
+Canada,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.534,,,,,,
+Canada,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.292,,,,,,
+Canada,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,20.497,,,,,,
+Canada,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.857,,,,,,
+Canada,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,35.248,,,,,,
+Canada,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,64.752,,,,,,
+Canada,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.749,,,,,,
+Canada,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.212,,,,,,
+Canada,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.039,,,,,,
+Canada,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,5.527,5.779,5.965,7.84,9.624,8.021,10.22,10.92,11.61,12.17,12.71
+Canada,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,1.343,1.44,1.465,1.852,2.05,1.748,2.274,2.474,2.674,2.79,2.915
+Canada,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,0.899,0.94,0.971,1.276,1.566,1.305,1.663,1.777,1.89,1.976,2.06
+Canada,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,1.814,1.912,1.985,2.782,3.685,3.023,3.788,3.977,4.153,4.327,4.479
+Canada,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,1.426,1.444,1.505,1.886,2.265,1.899,2.439,2.634,2.838,3.012,3.191
+Canada,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.045,0.043,0.04,0.044,0.057,0.046,0.057,0.058,0.059,0.062,0.064
+Canada,Consumer Electronics,Revenue Change,Total,percent,Statista,,4.551,3.225,31.434,22.75,-16.649,27.427,6.846,6.347,4.761,4.46
+Canada,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.259,1.693,26.434,10.709,-14.735,30.081,8.817,8.054,4.351,4.497
+Canada,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,4.551,3.225,31.434,22.75,-16.649,27.427,6.846,6.347,4.548,4.272
+Canada,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,5.364,3.822,40.159,32.468,-17.965,25.323,4.993,4.411,4.203,3.498
+Canada,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,1.249,4.227,25.353,20.082,-16.176,28.47,7.986,7.749,6.123,5.953
+Canada,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,-4.473,-5.763,10.431,29.457,-19.155,21.821,2.532,2.56,3.839,3.464
+Canada,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,547.2,518.3,485.4,578,649.4,500.5,595.6,606.2,615,612.7,612
+Canada,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,189.9,184.5,170.3,195,197.6,155.8,189.3,196.2,202.2,200.7,200.5
+Canada,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,115.6,109.5,102.6,122.2,137.2,105.8,125.9,128.1,130,129.2,128.8
+Canada,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,224.5,214.3,201.9,256.3,310.8,235.7,275.9,276,274.9,272.4,269.6
+Canada,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,352.9,323.7,306.2,347.7,382.2,296.2,355.4,365.5,375.7,379.2,384.2
+Canada,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,14.73,12.75,10.9,10.91,12.92,9.659,10.99,10.73,10.5,10.37,10.26
+Canada,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,63.78,63.373,62.532,52.718,47.697,44.197,42.263,39.139,36.776,,
+Canada,Consumer Electronics,Online & Offline Split,Online,percent,Statista,36.22,36.627,37.468,47.282,52.303,55.803,57.737,60.861,63.224,,
+Canada,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Consumer Electronics,Users,Total,million users,Statista,10.101,11.149,12.288,13.564,14.819,16.027,17.16,18.016,18.886,19.859,20.768
+Canada,Consumer Electronics,Users,Computing,million users,Statista,7.071,7.805,8.601,9.494,10.373,11.219,12.012,12.611,13.22,13.901,14.538
+Canada,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,7.778,8.585,9.462,10.444,11.411,12.341,13.213,13.872,14.542,15.291,15.991
+Canada,Consumer Electronics,Users,Telephony,million users,Statista,8.081,8.92,9.83,10.851,11.855,12.822,13.728,14.413,15.109,15.887,16.614
+Canada,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,4.04,4.46,4.915,5.425,5.928,6.411,6.864,7.206,7.554,7.944,8.307
+Canada,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,3.03,3.345,3.686,4.069,4.446,4.808,5.148,5.405,5.666,5.958,6.231
+Canada,Consumer Electronics,Penetration Rate,Computing,percent,Statista,19.25,21.051,22.992,25.156,27.25,29.225,31.035,32.322,33.616,35.074,36.401
+Canada,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,27.5,30.073,32.846,35.937,38.928,41.75,44.336,46.175,48.022,50.104,51.998
+Canada,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,21.175,23.156,25.291,27.672,29.975,32.148,34.139,35.555,36.977,38.58,40.039
+Canada,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,22,24.058,26.276,28.75,31.142,33.4,35.469,36.94,38.418,40.083,41.599
+Canada,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,11,12.029,13.138,14.375,15.571,16.7,17.734,18.47,19.209,20.042,20.8
+Canada,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,8.25,9.022,9.854,10.781,11.678,12.525,13.301,13.852,14.407,15.032,15.6
+Canada,Household Appliances,Revenue,Total,billion USD (US$),Statista,1.471,1.573,1.723,2.11,2.813,2.871,3.584,4.056,4.569,4.883,5.226
+Canada,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.618,0.66,0.723,0.886,1.182,1.204,1.498,1.692,1.902,2.029,2.168
+Canada,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.287,0.307,0.337,0.412,0.55,0.561,0.701,0.793,0.893,0.965,1.041
+Canada,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.565,0.605,0.663,0.811,1.081,1.107,1.385,1.571,1.775,1.889,2.016
+Canada,Household Appliances,Revenue Change,Total,percent,Statista,,6.955,9.519,22.475,33.33,2.075,24.804,13.188,12.645,6.86,7.019
+Canada,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,6.861,9.465,22.607,33.397,1.819,24.497,12.916,12.381,6.707,6.868
+Canada,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,6.955,9.519,22.475,33.33,2.075,24.804,13.188,12.645,8.01,7.953
+Canada,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,7.057,9.577,22.331,33.257,2.356,25.138,13.483,12.93,6.446,6.705
+Canada,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,215.5,197.5,185.6,202.2,242.3,224.5,256.8,269.1,281.9,281.8,283.5
+Canada,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,226.4,207.3,194.7,212.3,254.5,235.2,268.5,280.6,293.3,292.8,294.1
+Canada,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,210.7,193,181.4,197.6,236.8,219.4,251,263,275.5,278.4,282.5
+Canada,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,103.6,94.99,89.31,97.2,116.4,108.1,124,130.3,136.8,136.3,136.7
+Canada,Household Appliances,Online & Offline Split,Offline,percent,Statista,72.65,71.213,69.049,66.08,59.481,50.137,44.761,38.929,33.657,,
+Canada,Household Appliances,Online & Offline Split,Online,percent,Statista,27.35,28.787,30.951,33.92,40.519,49.863,55.239,61.071,66.343,,
+Canada,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Household Appliances,Users,Total,million users,Statista,6.823,7.964,9.282,10.434,11.61,12.792,13.954,15.073,16.211,17.327,18.431
+Canada,Household Appliances,Users,Major Appliances,million users,Statista,2.729,3.186,3.713,4.173,4.644,5.117,5.582,6.029,6.484,6.931,7.372
+Canada,Household Appliances,Users,Other Household Appliances,million users,Statista,1.365,1.593,1.856,2.087,2.322,2.558,2.791,3.015,3.242,3.465,3.686
+Canada,Household Appliances,Users,Small Appliances,million users,Statista,5.459,6.371,7.426,8.347,9.288,10.233,11.163,12.058,12.969,13.861,14.745
+Canada,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,18.576,21.482,24.811,27.644,30.499,33.322,36.053,38.632,41.22,43.716,46.148
+Canada,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,7.43,8.593,9.924,11.058,12.2,13.329,14.421,15.453,16.488,17.487,18.459
+Canada,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,3.715,4.296,4.962,5.529,6.1,6.664,7.211,7.726,8.244,8.743,9.23
+Canada,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,14.861,17.185,19.848,22.115,24.399,26.657,28.842,30.905,32.976,34.973,36.918
+Canada,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.563,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.919,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.975,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.138,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.406,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,57.729,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,42.271,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.667,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.697,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.636,,,,,,
+Canada,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,3.167,3.453,3.746,4.688,6.085,6.415,8.295,9.758,11.45,12.39,13.47
+Canada,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.438,0.452,0.492,0.565,0.721,0.773,1.014,1.208,1.432,1.545,1.683
+Canada,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.617,0.658,0.715,1.051,1.676,1.701,2.112,2.379,2.667,2.922,3.181
+Canada,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.284,0.304,0.334,0.416,0.516,0.558,0.75,0.927,1.155,1.25,1.373
+Canada,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,1.828,2.039,2.205,2.656,3.171,3.383,4.42,5.245,6.2,6.668,7.235
+Canada,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,9.03,8.459,25.162,29.794,5.432,29.308,17.628,17.383,8.137,8.779
+Canada,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,3.101,8.901,14.867,27.566,7.21,31.221,19.098,18.546,7.935,8.906
+Canada,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,6.697,8.634,47.002,59.547,1.489,24.129,12.628,12.143,9.56,8.863
+Canada,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,7.06,9.577,24.662,24.118,8.1,34.312,23.628,24.64,8.217,9.879
+Canada,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,11.545,8.139,20.455,19.388,6.678,30.65,18.663,18.209,7.556,8.506
+Canada,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,439.7,434,425.9,484.9,572.7,555.1,670.3,743.5,826.3,844.3,872
+Canada,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,76.03,70.97,69.93,73.06,84.8,83.6,102.4,115,129.1,131.7,136.2
+Canada,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,133.8,129.2,127,169.8,246.5,230,266.6,283.2,300.7,311.3,321.7
+Canada,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,103.9,100.7,99.85,113.2,127.9,127.1,159.4,185.8,219.3,224.2,233.9
+Canada,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,409.3,413.4,404.4,443.1,481.4,472.2,576,644.6,721.4,733.1,755.3
+Canada,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,82.876,81.857,80.88,76.053,71.527,68.656,65.516,61.797,57.796,,
+Canada,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,17.124,18.143,19.12,23.947,28.473,31.344,34.484,38.203,42.204,,
+Canada,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,7.203,7.957,8.794,9.668,10.625,11.556,12.377,13.123,13.862,14.67,15.451
+Canada,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,5.763,6.366,7.035,7.734,8.5,9.245,9.901,10.499,11.089,11.736,12.361
+Canada,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,4.61,5.092,5.628,6.188,6.8,7.396,7.921,8.399,8.872,9.389,9.889
+Canada,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,2.737,3.024,3.342,3.674,4.038,4.391,4.703,4.987,5.267,5.575,5.871
+Canada,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,4.466,4.933,5.452,5.994,6.588,7.165,7.673,8.137,8.594,9.096,9.58
+Canada,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,19.61,21.462,23.506,25.616,27.911,30.102,31.977,33.635,35.248,37.014,38.686
+Canada,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,15.688,17.17,18.805,20.493,22.329,24.082,25.582,26.908,28.198,29.611,30.949
+Canada,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,12.551,13.736,15.044,16.394,17.863,19.266,20.465,21.526,22.558,23.689,24.759
+Canada,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,7.452,8.156,8.932,9.734,10.606,11.439,12.151,12.781,13.394,14.065,14.701
+Canada,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,12.159,13.306,14.574,15.882,17.305,18.664,19.826,20.854,21.853,22.949,23.986
+Canada,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.955,,,,,,
+Canada,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.667,,,,,,
+Canada,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.865,,,,,,
+Canada,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.099,,,,,,
+Canada,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.414,,,,,,
+Canada,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,68.649,,,,,,
+Canada,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,31.351,,,,,,
+Canada,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.554,,,,,,
+Canada,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.518,,,,,,
+Canada,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.928,,,,,,
+Canada,Personal Care,Revenue,Total,billion USD (US$),Statista,1.828,2.039,2.205,2.656,3.171,3.383,4.42,5.245,6.2,6.668,7.235
+Canada,Personal Care,Revenue,Body Care,billion USD (US$),Statista,0.268,0.295,0.325,0.389,0.452,0.481,0.627,0.743,0.876,0.939,1.017
+Canada,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,0.176,0.19,0.204,0.245,0.317,0.335,0.433,0.509,0.598,0.649,0.708
+Canada,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,0.263,0.296,0.32,0.381,0.381,0.405,0.527,0.624,0.735,0.789,0.856
+Canada,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,0.152,0.174,0.184,0.22,0.267,0.286,0.374,0.445,0.527,0.572,0.625
+Canada,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,0.691,0.771,0.833,1.004,1.198,1.278,1.67,1.982,2.343,2.504,2.703
+Canada,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,0.278,0.314,0.339,0.418,0.556,0.598,0.788,0.942,1.121,1.215,1.326
+Canada,Personal Care,Revenue Change,Total,percent,Statista,,11.545,8.139,20.455,19.388,6.678,30.65,18.663,18.209,7.556,8.506
+Canada,Personal Care,Revenue Change,Body Care,percent,Statista,,10.263,10.099,19.639,16.081,6.513,30.409,18.403,17.905,7.266,8.265
+Canada,Personal Care,Revenue Change,Eye Care,percent,Statista,,8.177,7.295,20.145,29.411,5.513,29.358,17.651,17.402,8.556,9.174
+Canada,Personal Care,Revenue Change,Hair Care,percent,Statista,,12.451,7.954,19.145,-0,6.378,30.262,18.286,17.804,7.386,8.509
+Canada,Personal Care,Revenue Change,Oral Care,percent,Statista,,13.906,6.055,19.403,21.587,6.961,30.97,18.922,18.429,8.484,9.297
+Canada,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,11.545,8.139,20.455,19.388,6.678,30.65,18.663,18.209,6.864,7.962
+Canada,Personal Care,Revenue Change,Skin Care,percent,Statista,,12.754,8.132,23.228,33.089,7.547,31.677,19.556,19.051,8.37,9.084
+Canada,Personal Care,Average Revenue per User,Total,USD (US$),Statista,409.3,413.4,404.4,443.1,481.4,472.2,576,644.6,721.4,733.1,755.3
+Canada,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,88.19,88.03,87.69,95.43,100.8,98.72,120.2,134.2,149.8,151.9,156.1
+Canada,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,78.67,77.04,74.79,81.74,96.25,93.38,112.8,125.1,139.1,142.7,147.9
+Canada,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,113.3,115.4,112.7,122.1,111.1,108.7,132.2,147.5,164.5,166.9,171.9
+Canada,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,69.66,71.84,68.93,74.87,82.83,81.46,99.61,111.7,125.3,128.4,133.2
+Canada,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,343.7,347.1,339.6,372.1,404.2,396.5,483.7,541.3,605.8,611.7,627
+Canada,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,141.6,144.5,141.4,158.5,191.9,189.8,233.3,263.1,296.5,303.6,314.5
+Canada,Personal Care,Online & Offline Split,Offline,percent,Statista,78.261,76.596,75.47,69.785,66.927,63.805,60.411,56.295,51.93,,
+Canada,Personal Care,Online & Offline Split,Online,percent,Statista,21.739,23.404,24.53,30.215,33.073,36.195,39.589,43.705,48.07,,
+Canada,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Personal Care,Users,Total,million users,Statista,4.466,4.933,5.452,5.994,6.588,7.165,7.673,8.137,8.594,9.096,9.58
+Canada,Personal Care,Users,Body Care,million users,Statista,3.037,3.355,3.708,4.076,4.48,4.872,5.218,5.533,5.844,6.185,6.514
+Canada,Personal Care,Users,Eye Care,million users,Statista,2.233,2.467,2.726,2.997,3.294,3.582,3.837,4.068,4.297,4.548,4.79
+Canada,Personal Care,Users,Hair Care,million users,Statista,2.322,2.565,2.835,3.117,3.426,3.726,3.99,4.231,4.469,4.73,4.981
+Canada,Personal Care,Users,Oral Care,million users,Statista,2.188,2.417,2.672,2.937,3.228,3.511,3.76,3.987,4.211,4.457,4.694
+Canada,Personal Care,Users,Other Personal Care,million users,Statista,2.01,2.22,2.454,2.697,2.964,3.224,3.453,3.661,3.867,4.093,4.311
+Canada,Personal Care,Users,Skin Care,million users,Statista,1.965,2.171,2.399,2.637,2.899,3.152,3.376,3.58,3.781,4.002,4.215
+Canada,Personal Care,Penetration Rate,Body Care,percent,Statista,8.268,9.048,9.91,10.8,11.767,12.691,13.482,14.181,14.86,15.605,16.31
+Canada,Personal Care,Penetration Rate,Eye Care,percent,Statista,6.079,6.653,7.287,7.941,8.652,9.332,9.913,10.427,10.927,11.474,11.993
+Canada,Personal Care,Penetration Rate,Hair Care,percent,Statista,6.322,6.919,7.578,8.259,8.999,9.705,10.309,10.844,11.364,11.933,12.472
+Canada,Personal Care,Penetration Rate,Oral Care,percent,Statista,5.958,6.52,7.141,7.782,8.479,9.145,9.715,10.218,10.708,11.245,11.753
+Canada,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,5.471,5.988,6.558,7.147,7.787,8.399,8.922,9.384,9.834,10.327,10.793
+Canada,Personal Care,Penetration Rate,Personal Care,percent,Statista,12.159,13.306,14.574,15.882,17.305,18.664,19.826,20.854,21.853,22.949,23.986
+Canada,Personal Care,Penetration Rate,Skin Care,percent,Statista,5.35,5.855,6.413,6.988,7.614,8.212,8.723,9.176,9.616,10.097,10.554
+Canada,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,76.03,70.97,69.93,73.06,84.8,83.6,102.4,115,129.1,131.7,136.2
+Canada,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,73.77,68.08,67.02,69.92,81.63,80.43,98.52,110.6,124.2,126.3,130.4
+Canada,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,6.814,7.257,7.228,7.669,8.354,8.275,10.17,11.44,12.84,13.17,13.68
+Canada,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,81.23,75.82,74.71,78.06,90.6,89.31,109.4,122.9,137.9,141.3,146.7
+Canada,Beauty Care,Revenue,Total,million USD (US$),Statista,438.1,451.7,491.9,565.1,720.9,772.8,"1,014","1,208","1,432","1,545","1,683"
+Canada,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,297.6,303.4,330,378.6,485.7,520.5,682.8,813.1,963.9,"1,038","1,128"
+Canada,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,23.56,27.72,30.51,35.59,42.61,45.9,60.43,72.08,85.42,92.77,101.5
+Canada,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,117,120.7,131.4,150.9,192.5,206.4,270.9,322.6,382.4,414.7,453.2
+Canada,Beauty Care,Revenue Change,Total,percent,Statista,,3.101,8.901,14.867,27.566,7.21,31.221,19.098,18.546,7.935,8.906
+Canada,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,1.95,8.794,14.701,28.305,7.164,31.183,19.081,18.549,7.678,8.709
+Canada,Beauty Care,Revenue Change,Fragrances,percent,Statista,,17.642,10.067,16.662,19.712,7.734,31.648,19.28,18.507,8.608,9.393
+Canada,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,3.101,8.901,14.867,27.566,7.21,31.221,19.098,18.546,8.433,9.287
+Canada,Beauty Care,Online & Offline Split,Offline,percent,Statista,79.77,79.565,78.466,74.095,69.816,66.531,62.859,58.295,53.298,,
+Canada,Beauty Care,Online & Offline Split,Online,percent,Statista,20.23,20.435,21.534,25.905,30.184,33.469,37.141,41.705,46.702,,
+Canada,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Beauty Care,Users by Segment,Total,million users,Statista,5.763,6.366,7.035,7.734,8.5,9.245,9.901,10.499,11.089,11.736,12.361
+Canada,Beauty Care,Users by Segment,Cosmetics,million users,Statista,4.034,4.456,4.925,5.414,5.95,6.471,6.931,7.349,7.763,8.215,8.653
+Canada,Beauty Care,Users by Segment,Fragrances,million users,Statista,3.458,3.819,4.221,4.641,5.1,5.547,5.941,6.299,6.654,7.042,7.416
+Canada,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,1.441,1.591,1.759,1.934,2.125,2.311,2.475,2.625,2.772,2.934,3.09
+Canada,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,15.688,17.17,18.805,20.493,22.329,24.082,25.582,26.908,28.198,29.611,30.949
+Canada,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,10.982,12.019,13.164,14.345,15.63,16.857,17.907,18.836,19.739,20.728,21.664
+Canada,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,9.413,10.302,11.283,12.296,13.397,14.449,15.349,16.145,16.919,17.767,18.569
+Canada,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,3.922,4.292,4.701,5.123,5.582,6.02,6.395,6.727,7.05,7.403,7.737
+Canada,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,133.8,129.2,127,169.8,246.5,230,266.6,283.2,300.7,311.3,321.7
+Canada,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,152.6,147.4,144.8,193.9,281.7,262.3,303.2,321.3,340.4,350.7,361
+Canada,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,61.64,59.53,58.49,78.47,114.2,106.9,124.3,132.4,141,146.6,152.1
+Canada,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,39.38,38.02,37.36,49.98,72.53,67.83,78.79,83.86,89.21,92.69,96.14
+Canada,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,1.24,1.198,1.177,2.478,5.459,4.978,5.639,5.858,6.088,6.444,6.73
+Canada,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,10.04,9.836,9.815,10.39,10.88,9.582,10.51,10.58,10.65,10.72,10.79
+Canada,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,155.3,150,147.5,197.2,286.3,267.1,309.6,328.9,349.2,360.3,371.4
+Canada,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,21.36,20.63,20.27,27.22,39.65,37.11,43.13,45.93,48.89,50.81,52.71
+Canada,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,38.36,37.04,36.4,48.59,70.37,65.77,76.34,81.2,86.33,89.69,93
+Canada,Health Care,Revenue,Total,million USD (US$),Statista,616.6,657.9,714.7,"1,051","1,676","1,701","2,112","2,379","2,667","2,922","3,181"
+Canada,Health Care,Revenue,Analgesics,million USD (US$),Statista,140.7,150.1,163,240,383.2,387.9,480.4,539.8,603.9,658.6,713.9
+Canada,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,119.4,127.3,138.3,203.9,326.1,332.1,413.5,467.1,525.3,577.9,631.6
+Canada,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,54.46,58.09,63.09,92.78,148,150.5,187.2,211.3,237.4,261.1,285.2
+Canada,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,2.287,2.44,2.65,6.132,14.85,14.73,17.87,19.68,21.6,24.2,26.62
+Canada,Health Care,Revenue,Incontinence,million USD (US$),Statista,9.253,10.02,11.05,12.86,14.79,14.17,16.64,17.77,18.9,20.13,21.33
+Canada,Health Care,Revenue,Other Health Care,million USD (US$),Statista,164.7,175.7,190.9,280.6,447.7,454.4,564.1,635.3,712.4,778,844.7
+Canada,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,37.42,39.91,43.35,64,102.5,104.3,129.8,146.6,164.8,181.3,198.1
+Canada,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,88.43,94.32,102.4,150.3,239.3,243.2,302.4,341,382.9,421,459.8
+Canada,Health Care,Revenue Change,Total,percent,Statista,,6.697,8.634,47.002,59.547,1.489,24.129,12.628,12.143,9.56,8.863
+Canada,Health Care,Revenue Change,Analgesics,percent,Statista,,6.665,8.598,47.23,59.637,1.249,23.834,12.36,11.878,9.059,8.403
+Canada,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,6.665,8.598,47.5,59.927,1.817,24.515,12.964,12.466,10.017,9.28
+Canada,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,6.665,8.598,47.072,59.466,1.72,24.398,12.861,12.365,9.968,9.234
+Canada,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,6.665,8.598,131.443,142.159,-0.834,21.328,10.152,9.765,12.026,9.993
+Canada,Health Care,Revenue Change,Incontinence,percent,Statista,,8.261,10.289,16.362,15.068,-4.191,17.438,6.743,6.403,6.475,5.986
+Canada,Health Care,Revenue Change,Other Health Care,percent,Statista,,6.697,8.634,47.002,59.547,1.489,24.129,12.628,12.143,9.208,8.574
+Canada,Health Care,Revenue Change,Skin Treatment,percent,Statista,,6.665,8.598,47.647,60.086,1.785,24.475,12.929,12.432,9.997,9.263
+Canada,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,6.665,8.598,46.773,59.143,1.652,24.317,12.789,12.295,9.95,9.212
+Canada,Health Care,Online & Offline Split,Offline,percent,Statista,80.534,79.828,78.763,68.558,57.097,54.899,52.059,48.802,45.52,,
+Canada,Health Care,Online & Offline Split,Online,percent,Statista,19.466,20.172,21.237,31.442,42.903,45.101,47.941,51.198,54.48,,
+Canada,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Health Care,Users by Segment,Total,million users,Statista,4.61,5.092,5.628,6.188,6.8,7.396,7.921,8.399,8.872,9.389,9.889
+Canada,Health Care,Users by Segment,Analgesics,million users,Statista,0.922,1.018,1.126,1.238,1.36,1.479,1.584,1.68,1.774,1.878,1.978
+Canada,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,1.936,2.139,2.364,2.599,2.856,3.106,3.327,3.528,3.726,3.943,4.153
+Canada,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,1.383,1.528,1.688,1.856,2.04,2.219,2.376,2.52,2.661,2.817,2.967
+Canada,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,1.844,2.037,2.251,2.475,2.72,2.958,3.168,3.36,3.549,3.756,3.955
+Canada,Health Care,Users by Segment,Incontinence,million users,Statista,0.922,1.018,1.126,1.238,1.36,1.479,1.584,1.68,1.774,1.878,1.978
+Canada,Health Care,Users by Segment,Other Health Care,million users,Statista,1.06,1.171,1.294,1.423,1.564,1.701,1.822,1.932,2.04,2.159,2.274
+Canada,Health Care,Users by Segment,Skin Treatment,million users,Statista,1.752,1.935,2.139,2.351,2.584,2.81,3.01,3.192,3.371,3.568,3.758
+Canada,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,2.305,2.546,2.814,3.094,3.4,3.698,3.96,4.199,4.436,4.694,4.944
+Canada,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.51,2.747,3.009,3.279,3.573,3.853,4.093,4.305,4.512,4.738,4.952
+Canada,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,5.271,5.769,6.319,6.886,7.503,8.092,8.595,9.041,9.475,9.949,10.399
+Canada,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,3.765,4.121,4.513,4.918,5.359,5.78,6.14,6.458,6.768,7.107,7.428
+Canada,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,5.02,5.494,6.018,6.558,7.145,7.706,8.186,8.611,9.023,9.476,9.904
+Canada,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,12.551,13.736,15.044,16.394,17.863,19.266,20.465,21.526,22.558,23.689,24.759
+Canada,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.51,2.747,3.009,3.279,3.573,3.853,4.093,4.305,4.512,4.738,4.952
+Canada,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,2.887,3.159,3.46,3.771,4.109,4.431,4.707,4.951,5.188,5.448,5.695
+Canada,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,4.769,5.22,5.717,6.23,6.788,7.321,7.777,8.18,8.572,9.002,9.409
+Canada,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,6.275,6.868,7.522,8.197,8.932,9.633,10.233,10.763,11.279,11.844,12.38
+Canada,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,103.9,100.7,99.85,113.2,127.9,127.1,159.4,185.8,219.3,224.2,233.9
+Canada,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,10.41,10.02,9.898,11.74,13.87,14.45,18.85,22.74,27.68,28.52,30.04
+Canada,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,20.27,19.52,19.28,23.38,28.31,29.43,38.3,46.07,55.95,57.71,60.81
+Canada,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,37.77,37.01,36.94,42.56,49.02,41.51,43.79,42.46,41.27,40.65,39.85
+Canada,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,45.86,44.16,43.61,47.53,51.26,56.65,77.74,97.67,122.4,125.9,133
+Canada,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,199.1,193,191.3,217,245,243.5,305.4,356.1,420.2,430.2,449.2
+Canada,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,6.229,6.105,6.092,6.33,6.496,5.761,6.358,6.442,6.53,6.562,6.606
+Canada,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,20.85,20.08,19.83,21.71,23.53,26.1,35.96,45.34,57.01,58.65,62.03
+Canada,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,32.37,31.73,31.66,36.27,41.36,35.18,37.27,36.29,35.42,34.97,34.37
+Canada,Household Care,Revenue,Total,million USD (US$),Statista,284.4,304.5,333.7,416,516.3,558.1,749.6,926.7,"1,155","1,250","1,373"
+Canada,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,11.96,12.73,13.89,18.11,23.52,26.66,37.24,47.63,61.25,66.78,74.09
+Canada,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,24.97,26.56,28.99,38.66,51.44,58.16,81.05,103.4,132.6,144.8,160.7
+Canada,Household Care,Revenue,Household Paper,million USD (US$),Statista,23.78,25.74,28.39,35.96,45.52,41.93,47.37,48.7,50,52.12,53.81
+Canada,Household Care,Revenue,Laundry Care,million USD (US$),Statista,50.21,53.4,58.3,69.85,82.79,99.51,146.3,194.8,257.8,280.6,312.4
+Canada,Household Care,Revenue,Other Household Care,million USD (US$),Statista,119.9,128.4,140.7,175.4,217.7,235.3,316,390.7,486.9,527.6,580.2
+Canada,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,5.456,5.907,6.514,7.441,8.394,8.095,9.569,10.28,11.01,11.71,12.41
+Canada,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,17.12,18.21,19.88,23.93,28.5,34.39,50.73,67.83,90.1,98.08,109.2
+Canada,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,31.02,33.58,37.03,46.64,58.45,54.07,61.35,63.35,65.31,68.23,70.63
+Canada,Household Care,Revenue Change,Total,percent,Statista,,7.06,9.577,24.662,24.118,8.1,34.312,23.628,24.64,8.217,9.879
+Canada,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,6.367,9.158,30.368,29.848,13.351,39.709,27.896,28.595,9.034,10.944
+Canada,Household Care,Revenue Change,Household Cleaners,percent,Statista,,6.367,9.158,33.347,33.049,13.072,39.358,27.568,28.256,9.165,10.979
+Canada,Household Care,Revenue Change,Household Paper,percent,Statista,,8.261,10.289,26.668,26.598,-7.899,12.974,2.813,2.671,4.234,3.24
+Canada,Household Care,Revenue Change,Laundry Care,percent,Statista,,6.367,9.158,19.827,18.522,20.189,46.978,33.209,32.33,8.853,11.312
+Canada,Household Care,Revenue Change,Other Household Care,percent,Statista,,7.06,9.577,24.662,24.118,8.1,34.312,23.628,24.64,8.351,9.967
+Canada,Household Care,Revenue Change,Paper Tissues,percent,Statista,,8.261,10.289,14.228,12.796,-3.554,18.209,7.431,7.07,6.343,6.033
+Canada,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,6.367,9.158,20.374,19.11,20.649,47.536,33.709,32.819,8.866,11.374
+Canada,Household Care,Revenue Change,Toilet Paper,percent,Statista,,8.261,10.289,25.934,25.334,-7.497,13.464,3.252,3.095,4.474,3.52
+Canada,Household Care,Online & Offline Split,Offline,percent,Statista,94.017,93.72,93.26,92.095,90.589,88.925,86.977,84.555,81.608,,
+Canada,Household Care,Online & Offline Split,Online,percent,Statista,5.983,6.28,6.74,7.905,9.411,11.075,13.023,15.445,18.392,,
+Canada,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Household Care,Users by Segment,Total,million users,Statista,2.737,3.024,3.342,3.674,4.038,4.391,4.703,4.987,5.267,5.575,5.871
+Canada,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,1.15,1.27,1.404,1.543,1.696,1.844,1.975,2.094,2.212,2.341,2.466
+Canada,Household Care,Users by Segment,Household Cleaners,million users,Statista,1.232,1.361,1.504,1.653,1.817,1.976,2.116,2.244,2.37,2.509,2.642
+Canada,Household Care,Users by Segment,Household Paper,million users,Statista,0.63,0.695,0.769,0.845,0.929,1.01,1.082,1.147,1.212,1.282,1.35
+Canada,Household Care,Users by Segment,Laundry Care,million users,Statista,1.095,1.209,1.337,1.47,1.615,1.756,1.881,1.995,2.107,2.23,2.349
+Canada,Household Care,Users by Segment,Other Household Care,million users,Statista,0.602,0.665,0.735,0.808,0.888,0.966,1.035,1.097,1.159,1.226,1.292
+Canada,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.876,0.968,1.069,1.176,1.292,1.405,1.505,1.596,1.686,1.784,1.879
+Canada,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.821,0.907,1.003,1.102,1.211,1.317,1.411,1.496,1.58,1.672,1.761
+Canada,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.958,1.058,1.17,1.286,1.413,1.537,1.646,1.745,1.844,1.951,2.055
+Canada,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,3.13,3.425,3.752,4.088,4.455,4.804,5.104,5.368,5.626,5.907,6.174
+Canada,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,7.452,8.156,8.932,9.734,10.606,11.439,12.151,12.781,13.394,14.065,14.701
+Canada,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,3.353,3.67,4.02,4.38,4.773,5.148,5.468,5.752,6.027,6.329,6.615
+Canada,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.714,1.876,2.054,2.239,2.439,2.631,2.795,2.94,3.081,3.235,3.381
+Canada,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,2.981,3.262,3.573,3.894,4.243,4.576,4.861,5.113,5.358,5.626,5.88
+Canada,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.639,1.794,1.965,2.142,2.333,2.517,2.673,2.812,2.947,3.094,3.234
+Canada,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.385,2.61,2.858,3.115,3.394,3.66,3.888,4.09,4.286,4.501,4.704
+Canada,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.236,2.447,2.68,2.92,3.182,3.432,3.645,3.834,4.018,4.219,4.41
+Canada,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.608,2.854,3.126,3.407,3.712,4.004,4.253,4.473,4.688,4.923,5.145
+Canada,Food,Revenue,Total,million USD (US$),Statista,483.9,537.4,605.9,880.4,"1,106","1,409","2,197","3,109","4,374","4,766","5,345"
+Canada,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,43.39,48.6,53.42,84.98,120.5,151.3,232.5,324.1,449.1,492.8,554.2
+Canada,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,113.1,125.8,142.4,212.1,246.5,312.1,483.6,679.8,949.9,"1,031","1,150"
+Canada,Food,Revenue,Convenience Food,million USD (US$),Statista,24.72,27.53,31.21,52.14,93.26,114.5,172.2,234.7,318.2,350.4,393.7
+Canada,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,65.13,71.14,81.81,113.9,141,181.7,286.5,409.7,582.5,636.2,715.8
+Canada,Food,Revenue,Fish & Seafood,million USD (US$),Statista,14.84,16.32,18.61,26.16,35.2,45.36,71.55,102.4,145.6,159.3,179.4
+Canada,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,61.7,68.14,76.89,108.5,113.9,145.5,227.6,323,455.6,495.9,556.2
+Canada,Food,Revenue,Meat,million USD (US$),Statista,93.94,104.2,116.2,164.8,205.2,263.6,414.6,591.4,838.6,908.5,"1,015"
+Canada,Food,Revenue,Oils & Fats,million USD (US$),Statista,8.008,8.855,9.975,13.76,17.83,23.05,36.47,52.36,74.72,81.63,91.92
+Canada,Food,Revenue,Sauces & Spices,million USD (US$),Statista,4.682,5.151,5.819,7.004,8.102,10.61,17.01,24.74,35.77,38.9,43.76
+Canada,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,9.986,11.03,12.57,15.78,18.47,24.4,39.45,57.87,84.38,91.84,103.5
+Canada,Food,Revenue,Vegetables,million USD (US$),Statista,44.35,50.61,57.04,81.22,106.2,136.8,215.8,308.9,439.3,480.5,541.2
+Canada,Food,Revenue Change,Total,percent,Statista,,11.063,12.756,45.293,25.655,27.362,55.957,41.492,40.677,8.98,12.132
+Canada,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,11.998,9.93,59.078,41.836,25.52,53.669,39.394,38.577,9.726,12.468
+Canada,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,11.217,13.23,48.929,16.214,26.589,54.97,40.562,39.722,8.493,11.632
+Canada,Food,Revenue Change,Convenience Food,percent,Statista,,11.364,13.37,67.074,78.876,22.806,50.325,36.352,35.553,10.123,12.336
+Canada,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,9.218,15.006,39.265,23.791,28.8,57.689,43.031,42.171,9.21,12.522
+Canada,Food,Revenue Change,Fish & Seafood,percent,Statista,,9.981,14.039,40.534,34.571,28.855,57.756,43.091,42.228,9.368,12.618
+Canada,Food,Revenue Change,Fruits & Nuts,percent,Statista,,10.436,12.842,41.153,4.915,27.793,56.449,41.905,41.053,8.831,12.166
+Canada,Food,Revenue Change,Meat,percent,Statista,,10.94,11.453,41.836,24.576,28.452,57.264,42.649,41.794,8.336,11.692
+Canada,Food,Revenue Change,Oils & Fats,percent,Statista,,10.576,12.651,37.924,29.575,29.276,58.274,43.563,42.697,9.251,12.595
+Canada,Food,Revenue Change,Sauces & Spices,percent,Statista,,10.015,12.979,20.361,15.676,30.937,60.331,45.442,44.573,8.764,12.49
+Canada,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,10.484,13.923,25.52,17.096,32.067,61.711,46.687,45.799,8.847,12.647
+Canada,Food,Revenue Change,Vegetables,percent,Statista,,14.125,12.696,42.399,30.719,28.86,57.762,43.096,42.233,9.384,12.627
+Canada,Food,Average Revenue per User,Total,USD (US$),Statista,145.4,139.9,135.4,173.4,195.9,226.4,323.7,428,564.5,577.8,612.2
+Canada,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,27.74,26.93,25.4,35.62,45.4,51.73,72.87,94.92,123.3,127.1,135.1
+Canada,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,69.37,66.86,64.96,85.29,89.08,102.3,145.4,191,250.2,255,268.9
+Canada,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,13.26,12.8,12.45,18.34,29.48,32.86,45.29,57.71,73.34,75.86,80.52
+Canada,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,85.1,80.55,79.48,97.6,108.6,126.9,183.5,245.2,326.9,335.3,356.5
+Canada,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,23.47,22.37,21.89,27.12,32.8,38.36,55.48,74.18,98.92,101.6,108.1
+Canada,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,35.65,34.12,33.04,41.12,38.77,44.97,64.49,85.52,113.1,115.6,122.5
+Canada,Food,Average Revenue per User,Meat,USD (US$),Statista,94.1,90.47,86.52,108.2,121.1,141.2,203.6,271.4,360.8,367.1,387.4
+Canada,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,9.626,9.224,8.916,10.84,12.62,14.81,21.49,28.83,38.58,39.59,42.11
+Canada,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,3.198,3.049,2.955,3.136,3.26,3.875,5.695,7.74,10.49,10.72,11.39
+Canada,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,9.093,8.706,8.511,9.419,9.911,11.88,17.61,24.14,33,33.74,35.91
+Canada,Food,Average Revenue per User,Vegetables,USD (US$),Statista,27.2,26.9,26.01,32.66,38.36,44.87,64.89,86.77,115.7,118.9,126.5
+Canada,Food,Online & Offline Split,Offline,percent,Statista,99.354,99.283,99.192,98.914,98.611,98.046,97.254,96.178,94.735,,
+Canada,Food,Online & Offline Split,Online,percent,Statista,0.646,0.717,0.808,1.086,1.389,1.954,2.746,3.822,5.265,,
+Canada,Food,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Food,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Food,Users,Total,million users,Statista,3.328,3.84,4.475,5.076,5.648,6.223,6.788,7.264,7.748,8.249,8.73
+Canada,Food,Users,Bread & Cereal Products,million users,Statista,1.564,1.805,2.103,2.386,2.655,2.925,3.191,3.414,3.642,3.877,4.103
+Canada,Food,Users,Confectionery & Snacks,million users,Statista,1.631,1.882,2.193,2.487,2.768,3.049,3.326,3.559,3.796,4.042,4.278
+Canada,Food,Users,Convenience Food,million users,Statista,1.863,2.15,2.506,2.842,3.163,3.485,3.802,4.068,4.339,4.619,4.889
+Canada,Food,Users,Dairy Products & Eggs,million users,Statista,0.765,0.883,1.029,1.167,1.299,1.431,1.561,1.671,1.782,1.897,2.008
+Canada,Food,Users,Fish & Seafood,million users,Statista,0.632,0.73,0.85,0.964,1.073,1.182,1.29,1.38,1.472,1.567,1.659
+Canada,Food,Users,Fruits & Nuts,million users,Statista,1.73,1.997,2.327,2.639,2.937,3.236,3.53,3.777,4.029,4.289,4.54
+Canada,Food,Users,Meat,million users,Statista,0.998,1.152,1.343,1.523,1.694,1.867,2.037,2.179,2.324,2.475,2.619
+Canada,Food,Users,Oils & Fats,million users,Statista,0.832,0.96,1.119,1.269,1.412,1.556,1.697,1.816,1.937,2.062,2.183
+Canada,Food,Users,Sauces & Spices,million users,Statista,1.464,1.69,1.969,2.233,2.485,2.738,2.987,3.196,3.409,3.63,3.841
+Canada,Food,Users,Spreads & Sweeteners,million users,Statista,1.098,1.267,1.477,1.675,1.864,2.054,2.24,2.397,2.557,2.722,2.881
+Canada,Food,Users,Vegetables,million users,Statista,1.631,1.882,2.193,2.487,2.768,3.049,3.326,3.559,3.796,4.042,4.278
+Canada,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,4.258,4.868,5.622,6.321,6.974,7.619,8.243,8.75,9.26,9.782,10.274
+Canada,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,4.439,5.075,5.861,6.59,7.27,7.943,8.594,9.123,9.654,10.198,10.711
+Canada,Food,Penetration Rate,Convenience Food,percent,Statista,5.073,5.8,6.699,7.531,8.309,9.078,9.822,10.426,11.033,11.655,12.241
+Canada,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.084,2.382,2.751,3.093,3.413,3.728,4.034,4.282,4.531,4.787,5.028
+Canada,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.721,1.968,2.273,2.555,2.819,3.08,3.332,3.537,3.743,3.954,4.153
+Canada,Food,Penetration Rate,Food,percent,Statista,9.059,10.357,11.962,13.449,14.837,16.21,17.539,18.618,19.701,20.813,21.859
+Canada,Food,Penetration Rate,Fruits & Nuts,percent,Statista,4.711,5.386,6.22,6.993,7.715,8.429,9.12,9.681,10.245,10.823,11.367
+Canada,Food,Penetration Rate,Meat,percent,Statista,2.718,3.107,3.589,4.035,4.451,4.863,5.262,5.585,5.91,6.244,6.558
+Canada,Food,Penetration Rate,Oils & Fats,percent,Statista,2.265,2.589,2.991,3.362,3.709,4.053,4.385,4.655,4.925,5.203,5.465
+Canada,Food,Penetration Rate,Sauces & Spices,percent,Statista,3.986,4.557,5.263,5.917,6.528,7.133,7.717,8.192,8.669,9.158,9.618
+Canada,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,2.99,3.418,3.948,4.438,4.896,5.349,5.788,6.144,6.501,6.868,7.213
+Canada,Food,Penetration Rate,Vegetables,percent,Statista,4.439,5.075,5.861,6.59,7.27,7.943,8.594,9.123,9.654,10.198,10.711
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,27.74,26.93,25.4,35.62,45.4,51.73,72.87,94.92,123.3,127.1,135.1
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,22.57,22.28,20.89,30.05,37.72,42.76,59.93,77.68,100.4,103.5,110
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,5.893,5.607,5.355,6.843,8.788,10.21,14.67,19.49,25.82,26.56,28.26
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,9.502,9.223,8.699,12.2,15.55,17.72,24.96,32.51,42.24,43.53,46.26
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,2.829,2.674,2.505,3.594,4.995,5.656,7.917,10.25,13.23,13.65,14.51
+Canada,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,2.033,1.884,1.825,2.571,3.206,3.651,5.14,6.691,8.687,8.949,9.507
+Canada,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,43.39,48.6,53.42,84.98,120.5,151.3,232.5,324.1,449.1,492.8,554.2
+Canada,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,22.24,25.34,27.68,45.16,63.08,78.79,120.5,167.1,230.3,252.8,284.3
+Canada,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,7.65,8.4,9.349,13.55,19.36,24.79,38.85,55.23,78.05,85.47,96.25
+Canada,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,6.688,7.49,8.234,13.1,18.58,23.32,35.83,49.95,69.22,75.95,85.41
+Canada,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,3.983,4.343,4.742,7.717,11.93,14.89,22.73,31.49,43.35,47.64,53.58
+Canada,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,2.83,3.026,3.416,5.459,7.575,9.504,14.6,20.33,28.15,30.88,34.72
+Canada,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,11.998,9.93,59.078,41.836,25.52,53.669,39.394,38.577,9.726,12.468
+Canada,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,13.931,9.244,63.146,39.692,24.907,52.9,38.682,37.857,9.775,12.424
+Canada,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,9.797,11.307,44.921,42.919,28.021,56.73,42.159,41.304,9.512,12.612
+Canada,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,11.998,9.93,59.078,41.836,25.52,53.669,39.394,38.577,9.718,12.463
+Canada,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,9.04,9.205,62.718,54.655,24.746,52.702,38.503,37.679,9.891,12.472
+Canada,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,6.92,12.891,59.799,38.759,25.459,53.579,39.299,38.469,9.683,12.433
+Canada,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.301,99.213,99.131,98.749,98.164,97.426,96.407,95.049,93.273,,
+Canada,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.699,0.787,0.869,1.251,1.836,2.574,3.593,4.951,6.727,,
+Canada,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Bread & Cereal Products,Users by Segment,Total,million users,Statista,1.564,1.805,2.103,2.386,2.655,2.925,3.191,3.414,3.642,3.877,4.103
+Canada,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.985,1.137,1.325,1.503,1.672,1.843,2.01,2.151,2.294,2.443,2.585
+Canada,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,1.298,1.498,1.746,1.98,2.203,2.428,2.648,2.834,3.022,3.218,3.406
+Canada,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.704,0.812,0.947,1.074,1.195,1.316,1.436,1.536,1.639,1.745,1.846
+Canada,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,1.408,1.624,1.893,2.147,2.389,2.632,2.872,3.073,3.277,3.489,3.693
+Canada,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,1.392,1.606,1.872,2.123,2.363,2.603,2.84,3.039,3.241,3.451,3.652
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,2.682,3.067,3.542,3.982,4.393,4.8,5.193,5.513,5.834,6.163,6.472
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,4.258,4.868,5.622,6.321,6.974,7.619,8.243,8.75,9.26,9.782,10.274
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,3.534,4.04,4.666,5.246,5.788,6.324,6.842,7.263,7.685,8.119,8.527
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.916,2.191,2.53,2.844,3.138,3.429,3.71,3.938,4.167,4.402,4.622
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,3.832,4.381,5.06,5.689,6.276,6.857,7.419,7.875,8.334,8.804,9.246
+Canada,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,3.789,4.332,5.004,5.626,6.206,6.781,7.337,7.788,8.241,8.706,9.144
+Canada,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,69.37,66.86,64.96,85.29,89.08,102.3,145.4,191,250.2,255,268.9
+Canada,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,52.77,50.86,49.41,64.83,64.96,74.49,105.6,138.5,181,183.6,192.8
+Canada,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.514,1.459,1.418,1.861,1.944,2.233,3.173,4.168,5.46,5.603,5.945
+Canada,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,27.17,26.19,25.44,33.45,37.35,43.05,61.34,80.81,106.2,109,115.7
+Canada,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,113.1,125.8,142.4,212.1,246.5,312.1,483.6,679.8,949.9,"1,031","1,150"
+Canada,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,70.55,78.46,88.84,132.2,147.4,186.3,288.1,404.1,563.5,608.4,676.3
+Canada,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,1.358,1.51,1.71,2.546,2.959,3.746,5.805,8.159,11.4,12.46,13.99
+Canada,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,41.2,45.83,51.89,77.38,96.15,122.1,189.8,267.5,374.9,409.7,460.1
+Canada,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,11.217,13.23,48.929,16.214,26.589,54.97,40.562,39.722,8.493,11.632
+Canada,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,11.217,13.23,48.817,11.507,26.342,54.664,40.284,39.445,7.959,11.16
+Canada,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,11.217,13.23,48.929,16.214,26.589,54.97,40.562,39.722,9.254,12.312
+Canada,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,11.217,13.23,49.12,24.257,26.969,55.436,40.984,40.14,9.273,12.312
+Canada,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.286,99.205,99.098,98.763,98.53,97.937,97.112,96.002,94.528,,
+Canada,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.714,0.795,0.902,1.237,1.47,2.063,2.888,3.998,5.472,,
+Canada,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Confectionery & Snacks,Users by Segment,Total,million users,Statista,1.631,1.882,2.193,2.487,2.768,3.049,3.326,3.559,3.796,4.042,4.278
+Canada,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,1.337,1.543,1.798,2.039,2.269,2.5,2.728,2.919,3.113,3.314,3.508
+Canada,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.897,1.035,1.206,1.368,1.522,1.677,1.829,1.958,2.088,2.223,2.353
+Canada,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,1.516,1.75,2.039,2.313,2.574,2.836,3.094,3.31,3.531,3.759,3.978
+Canada,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,3.64,4.162,4.806,5.404,5.962,6.513,7.047,7.481,7.916,8.362,8.783
+Canada,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,4.439,5.075,5.861,6.59,7.27,7.943,8.594,9.123,9.654,10.198,10.711
+Canada,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.441,2.791,3.224,3.624,3.999,4.369,4.727,5.018,5.309,5.609,5.891
+Canada,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,4.128,4.72,5.451,6.128,6.761,7.387,7.993,8.484,8.978,9.484,9.961
+Canada,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,13.26,12.8,12.45,18.34,29.48,32.86,45.29,57.71,73.34,75.86,80.52
+Canada,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,16.14,15.57,15.15,21.78,35.58,39.78,54.98,70.27,89.58,92.61,98.31
+Canada,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,3.549,3.425,3.332,5.52,8.228,9.03,12.25,15.36,19.22,19.93,21.15
+Canada,Convenience Food,Revenue,Total,million USD (US$),Statista,24.72,27.53,31.21,52.14,93.26,114.5,172.2,234.7,318.2,350.4,393.7
+Canada,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,20.75,23.11,26.2,42.72,77.64,95.65,144.2,197.2,268.2,295.2,331.6
+Canada,Convenience Food,Revenue,Soups,million USD (US$),Statista,3.968,4.419,5.01,9.415,15.62,18.88,27.94,37.5,50.04,55.24,62.03
+Canada,Convenience Food,Revenue Change,Total,percent,Statista,,11.364,13.37,67.074,78.876,22.806,50.325,36.352,35.553,10.123,12.336
+Canada,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,11.364,13.37,63.086,81.744,23.188,50.787,36.764,35.956,10.075,12.342
+Canada,Convenience Food,Revenue Change,Soups,percent,Statista,,11.364,13.37,87.926,65.86,20.909,47.985,34.221,33.435,10.385,12.307
+Canada,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.444,99.379,99.295,98.999,98.102,97.356,96.345,95.045,93.402,,
+Canada,Convenience Food,Online & Offline Split,Online,percent,Statista,0.556,0.621,0.705,1.001,1.898,2.644,3.655,4.955,6.598,,
+Canada,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Convenience Food,Users by Segment,Total,million users,Statista,1.863,2.15,2.506,2.842,3.163,3.485,3.802,4.068,4.339,4.619,4.889
+Canada,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,1.286,1.484,1.729,1.961,2.183,2.405,2.623,2.807,2.994,3.187,3.373
+Canada,Convenience Food,Users by Segment,Soups,million users,Statista,1.118,1.29,1.504,1.705,1.898,2.091,2.281,2.441,2.603,2.772,2.933
+Canada,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,5.073,5.8,6.699,7.531,8.309,9.078,9.822,10.426,11.033,11.655,12.241
+Canada,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,3.5,4.002,4.622,5.197,5.733,6.264,6.777,7.194,7.613,8.042,8.446
+Canada,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.044,3.48,4.019,4.519,4.985,5.447,5.893,6.256,6.62,6.993,7.345
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,85.1,80.55,79.48,97.6,108.6,126.9,183.5,245.2,326.9,335.3,356.5
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,42.26,39.33,39.5,50.71,54.96,64.18,92.69,123.8,164.8,169.1,179.8
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,17.42,16.24,15.61,18.77,23.62,27.77,40.36,54.25,72.71,74.66,79.47
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,33.05,31.09,31.22,37.03,39.29,45.76,65.89,87.73,116.5,119.4,126.8
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,33.49,32.94,30.65,36.68,40.46,47.5,68.97,92.6,124,127,135
+Canada,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,15.29,15.07,14.67,17.76,22.52,26.41,38.3,51.36,68.67,70.58,75.15
+Canada,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,65.13,71.14,81.81,113.9,141,181.7,286.5,409.7,582.5,636.2,715.8
+Canada,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,24.26,26.05,30.49,44.4,53.55,68.9,108.5,155.1,220.3,240.6,270.7
+Canada,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,5.732,6.169,6.91,9.42,13.19,17.09,27.1,38.97,55.71,60.91,68.63
+Canada,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,19.73,21.42,25.07,33.72,39.82,51.09,80.25,114.3,161.9,176.6,198.6
+Canada,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,8.972,10.18,11.04,14.99,18.4,23.8,37.69,54.15,77.32,84.36,94.92
+Canada,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,6.437,7.319,8.303,11.4,16.09,20.79,32.89,47.2,67.31,73.65,83
+Canada,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,9.218,15.006,39.265,23.791,28.8,57.689,43.031,42.171,9.21,12.522
+Canada,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,7.376,17.052,45.624,20.59,28.673,57.532,42.887,42.026,9.236,12.523
+Canada,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,7.615,12.015,36.326,40.055,29.517,58.569,43.829,42.959,9.331,12.665
+Canada,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,8.55,17.027,34.532,18.076,28.305,57.079,42.476,41.618,9.097,12.406
+Canada,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,13.477,8.458,35.735,22.726,29.368,58.386,43.662,42.795,9.1,12.518
+Canada,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,13.696,13.444,37.342,41.122,29.208,58.19,43.484,42.618,9.425,12.686
+Canada,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.403,99.345,99.245,99.006,98.754,98.229,97.484,96.451,95.038,,
+Canada,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.597,0.655,0.755,0.994,1.246,1.771,2.516,3.549,4.962,,
+Canada,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.765,0.883,1.029,1.167,1.299,1.431,1.561,1.671,1.782,1.897,2.008
+Canada,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.574,0.662,0.772,0.876,0.974,1.073,1.171,1.253,1.337,1.423,1.506
+Canada,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.329,0.38,0.443,0.502,0.559,0.615,0.671,0.718,0.766,0.816,0.864
+Canada,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.597,0.689,0.803,0.911,1.013,1.116,1.218,1.303,1.39,1.48,1.566
+Canada,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.268,0.309,0.36,0.409,0.455,0.501,0.546,0.585,0.624,0.664,0.703
+Canada,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.421,0.486,0.566,0.642,0.715,0.787,0.859,0.919,0.98,1.044,1.104
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.563,1.787,2.063,2.32,2.559,2.796,3.026,3.212,3.398,3.59,3.771
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.084,2.382,2.751,3.093,3.413,3.728,4.034,4.282,4.531,4.787,5.028
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.896,1.024,1.183,1.33,1.467,1.603,1.735,1.841,1.948,2.059,2.162
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.625,1.858,2.146,2.413,2.662,2.908,3.147,3.34,3.534,3.734,3.921
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.729,0.834,0.963,1.083,1.194,1.305,1.412,1.499,1.586,1.676,1.76
+Canada,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.146,1.31,1.513,1.701,1.877,2.051,2.219,2.355,2.492,2.633,2.765
+Canada,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,23.47,22.37,21.89,27.12,32.8,38.36,55.48,74.18,98.92,101.6,108.1
+Canada,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,27.47,26.48,26.73,32.73,39.95,46.63,67.32,89.85,119.6,122.9,130.8
+Canada,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,35.05,33.17,31.65,39.67,44.87,52.53,76.04,101.8,135.9,139.4,148.2
+Canada,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,4.832,4.534,4.296,5.378,7.17,8.408,12.19,16.35,21.86,22.48,23.94
+Canada,Fish & Seafood,Revenue,Total,million USD (US$),Statista,14.84,16.32,18.61,26.16,35.2,45.36,71.55,102.4,145.6,159.3,179.4
+Canada,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,6.773,7.535,8.866,12.31,16.72,21.5,33.86,48.36,68.66,75.13,84.62
+Canada,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,5.318,5.809,6.46,9.181,11.56,14.91,23.54,33.71,48,52.42,59
+Canada,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,2.75,2.977,3.288,4.668,6.925,8.948,14.15,20.31,28.96,31.71,35.74
+Canada,Fish & Seafood,Revenue Change,Total,percent,Statista,,9.981,14.039,40.534,34.571,28.855,57.756,43.091,42.228,9.368,12.618
+Canada,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,11.261,17.652,38.833,35.832,28.622,57.468,42.83,41.969,9.421,12.623
+Canada,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,9.23,11.203,42.128,25.876,28.981,57.911,43.231,42.367,9.225,12.549
+Canada,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,8.281,10.426,41.992,48.344,29.206,58.187,43.482,42.616,9.479,12.717
+Canada,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.436,99.382,99.3,99.085,98.758,98.245,97.523,96.531,95.188,,
+Canada,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.564,0.618,0.7,0.915,1.242,1.755,2.477,3.469,4.812,,
+Canada,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Fish & Seafood,Users by Segment,Total,million users,Statista,0.632,0.73,0.85,0.964,1.073,1.182,1.29,1.38,1.472,1.567,1.659
+Canada,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.247,0.285,0.332,0.376,0.419,0.461,0.503,0.538,0.574,0.611,0.647
+Canada,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.152,0.175,0.204,0.231,0.258,0.284,0.31,0.331,0.353,0.376,0.398
+Canada,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.569,0.657,0.765,0.868,0.966,1.064,1.161,1.242,1.325,1.411,1.493
+Canada,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.721,1.968,2.273,2.555,2.819,3.08,3.332,3.537,3.743,3.954,4.153
+Canada,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.671,0.767,0.886,0.997,1.099,1.201,1.3,1.38,1.46,1.542,1.62
+Canada,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.413,0.472,0.545,0.613,0.677,0.739,0.8,0.849,0.898,0.949,0.997
+Canada,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.549,1.771,2.046,2.3,2.537,2.772,2.999,3.184,3.369,3.559,3.738
+Canada,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,35.65,34.12,33.04,41.12,38.77,44.97,64.49,85.52,113.1,115.6,122.5
+Canada,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,40.52,38.78,37.54,46.73,42.84,49.64,71.13,94.23,124.5,127.2,134.7
+Canada,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,8.089,7.726,7.507,9.323,9.725,11.35,16.38,21.85,29.07,29.79,31.65
+Canada,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,6.249,5.991,5.782,7.203,7.534,8.735,12.52,16.6,21.94,22.48,23.87
+Canada,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,61.7,68.14,76.89,108.5,113.9,145.5,227.6,323,455.6,495.9,556.2
+Canada,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,49.08,54.2,61.15,86.34,88.07,112.4,175.8,249.2,351.1,381.8,428
+Canada,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,6.999,7.714,8.735,12.3,14.28,18.36,28.9,41.27,58.57,63.9,71.84
+Canada,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,5.622,6.221,6.997,9.886,11.51,14.7,22.98,32.6,45.96,50.15,56.35
+Canada,Fruits & Nuts,Revenue Change,Total,percent,Statista,,10.436,12.842,41.153,4.915,27.793,56.449,41.905,41.053,8.831,12.166
+Canada,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,10.444,12.827,41.181,2.009,27.674,56.303,41.771,40.919,8.747,12.096
+Canada,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,10.217,13.241,40.847,16.082,28.575,57.411,42.777,41.917,9.1,12.435
+Canada,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,10.644,12.472,41.292,16.399,27.73,56.372,41.834,40.982,9.127,12.362
+Canada,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.228,99.149,99.043,98.74,98.664,98.123,97.365,96.331,94.94,,
+Canada,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.772,0.851,0.957,1.26,1.336,1.877,2.635,3.669,5.06,,
+Canada,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Fruits & Nuts,Users by Segment,Total,million users,Statista,1.73,1.997,2.327,2.639,2.937,3.236,3.53,3.777,4.029,4.289,4.54
+Canada,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,1.211,1.398,1.629,1.848,2.056,2.265,2.471,2.644,2.82,3.003,3.178
+Canada,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.865,0.998,1.164,1.32,1.469,1.618,1.765,1.889,2.014,2.145,2.27
+Canada,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.9,1.038,1.21,1.372,1.527,1.683,1.836,1.964,2.095,2.231,2.361
+Canada,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,3.298,3.77,4.354,4.895,5.401,5.901,6.384,6.777,7.171,7.576,7.957
+Canada,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,4.711,5.386,6.22,6.993,7.715,8.429,9.12,9.681,10.245,10.823,11.367
+Canada,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.355,2.693,3.11,3.497,3.858,4.215,4.56,4.841,5.122,5.411,5.683
+Canada,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.45,2.801,3.235,3.636,4.012,4.383,4.743,5.034,5.327,5.628,5.911
+Canada,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,94.1,90.47,86.52,108.2,121.1,141.2,203.6,271.4,360.8,367.1,387.4
+Canada,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,93.79,90.17,86.23,108.1,117,137,198.2,265.3,354.1,358.6,377.2
+Canada,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,33.78,32.47,31.06,38.61,46.43,53.69,76.78,101.5,133.8,137.6,146.2
+Canada,Meat,Revenue,Total,million USD (US$),Statista,93.94,104.2,116.2,164.8,205.2,263.6,414.6,591.4,838.6,908.5,"1,015"
+Canada,Meat,Revenue,Fresh Meat,million USD (US$),Statista,64.61,71.67,79.88,113.6,136.8,176.4,278.6,399,568,612.4,681.6
+Canada,Meat,Revenue,Processed Meat,million USD (US$),Statista,29.34,32.55,36.27,51.15,68.45,87.21,136,192.5,270.7,296.2,333.2
+Canada,Meat,Revenue Change,Total,percent,Statista,,10.94,11.453,41.836,24.576,28.452,57.264,42.649,41.794,8.336,11.692
+Canada,Meat,Revenue Change,Fresh Meat,percent,Statista,,10.94,11.453,42.212,20.416,28.971,57.897,43.219,42.355,7.818,11.303
+Canada,Meat,Revenue Change,Processed Meat,percent,Statista,,10.94,11.453,41.008,33.816,27.414,55.983,41.481,40.632,9.424,12.498
+Canada,Meat,Online & Offline Split,Offline,percent,Statista,99.379,99.312,99.235,98.988,98.724,98.198,97.455,96.435,95.053,,
+Canada,Meat,Online & Offline Split,Online,percent,Statista,0.621,0.688,0.765,1.012,1.276,1.802,2.545,3.565,4.947,,
+Canada,Meat,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Meat,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Meat,Users by Segment,Total,million users,Statista,0.998,1.152,1.343,1.523,1.694,1.867,2.037,2.179,2.324,2.475,2.619
+Canada,Meat,Users by Segment,Fresh Meat,million users,Statista,0.689,0.795,0.926,1.051,1.169,1.288,1.405,1.504,1.604,1.707,1.807
+Canada,Meat,Users by Segment,Processed Meat,million users,Statista,0.869,1.002,1.168,1.325,1.474,1.624,1.772,1.896,2.022,2.153,2.279
+Canada,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.875,2.144,2.476,2.784,3.071,3.356,3.631,3.854,4.078,4.308,4.524
+Canada,Meat,Penetration Rate by Segment,Meat,percent,Statista,2.718,3.107,3.589,4.035,4.451,4.863,5.262,5.585,5.91,6.244,6.558
+Canada,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.364,2.703,3.122,3.51,3.873,4.231,4.578,4.859,5.142,5.432,5.705
+Canada,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,9.626,9.224,8.916,10.84,12.62,14.81,21.49,28.83,38.58,39.59,42.11
+Canada,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,4.604,4.465,4.401,5.359,5.717,6.704,9.719,13.03,17.42,17.86,18.98
+Canada,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,4.135,3.599,3.642,4.437,5.288,6.232,9.082,12.24,16.44,16.87,17.96
+Canada,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,2.677,2.857,2.508,3.035,3.905,4.567,6.602,8.827,11.77,12.09,12.87
+Canada,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,0.692,0.675,0.663,0.807,0.992,1.156,1.666,2.22,2.95,3.032,3.225
+Canada,Oils & Fats,Revenue,Total,million USD (US$),Statista,8.008,8.855,9.975,13.76,17.83,23.05,36.47,52.36,74.72,81.63,91.92
+Canada,Oils & Fats,Revenue,Butter,million USD (US$),Statista,3.141,3.515,4.038,5.576,6.62,8.552,13.53,19.4,27.67,30.19,33.97
+Canada,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,2.718,2.729,3.219,4.448,5.899,7.66,12.18,17.56,25.16,27.49,30.97
+Canada,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,1.804,2.222,2.272,3.119,4.467,5.755,9.076,12.98,18.46,20.2,22.75
+Canada,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.346,0.389,0.445,0.615,0.84,1.079,1.696,2.419,3.429,3.751,4.224
+Canada,Oils & Fats,Revenue Change,Total,percent,Statista,,10.576,12.651,37.924,29.575,29.276,58.274,43.563,42.697,9.251,12.595
+Canada,Oils & Fats,Revenue Change,Butter,percent,Statista,,11.911,14.886,38.1,18.716,29.184,58.159,43.457,42.591,9.13,12.516
+Canada,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,0.425,17.949,38.153,32.641,29.841,58.967,44.19,43.318,9.244,12.649
+Canada,Oils & Fats,Revenue Change,Margarine,percent,Statista,,23.186,2.281,37.259,43.206,28.827,57.721,43.059,42.196,9.413,12.641
+Canada,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,12.474,14.515,38.057,36.726,28.419,57.218,42.603,41.744,9.411,12.596
+Canada,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.423,99.364,99.286,99.076,98.794,98.291,97.578,96.592,95.248,,
+Canada,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.577,0.636,0.714,0.924,1.206,1.709,2.422,3.408,4.752,,
+Canada,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Oils & Fats,Users by Segment,Total,million users,Statista,0.832,0.96,1.119,1.269,1.412,1.556,1.697,1.816,1.937,2.062,2.183
+Canada,Oils & Fats,Users by Segment,Butter,million users,Statista,0.682,0.787,0.917,1.041,1.158,1.276,1.392,1.489,1.588,1.691,1.789
+Canada,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.657,0.758,0.884,1.002,1.116,1.229,1.341,1.435,1.53,1.629,1.724
+Canada,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.674,0.778,0.906,1.028,1.144,1.26,1.375,1.471,1.569,1.67,1.768
+Canada,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.499,0.576,0.671,0.761,0.847,0.933,1.018,1.09,1.162,1.237,1.31
+Canada,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.857,2.123,2.452,2.757,3.042,3.323,3.596,3.817,4.039,4.266,4.481
+Canada,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.789,2.046,2.363,2.656,2.93,3.202,3.464,3.677,3.891,4.11,4.317
+Canada,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.834,2.097,2.422,2.723,3.005,3.283,3.552,3.77,3.99,4.214,4.426
+Canada,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.265,2.589,2.991,3.362,3.709,4.053,4.385,4.655,4.925,5.203,5.465
+Canada,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.359,1.554,1.794,2.017,2.226,2.432,2.631,2.793,2.955,3.122,3.279
+Canada,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,3.198,3.049,2.955,3.136,3.26,3.875,5.695,7.74,10.49,10.72,11.39
+Canada,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,3.188,3.041,2.948,3.139,3.152,3.767,5.567,7.608,10.37,10.58,11.25
+Canada,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,1.185,1.128,1.093,1.146,1.336,1.561,2.254,3.01,4.008,4.105,4.36
+Canada,Sauces & Spices,Revenue,Total,million USD (US$),Statista,4.682,5.151,5.819,7.004,8.102,10.61,17.01,24.74,35.77,38.9,43.76
+Canada,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,3.641,4.008,4.528,5.468,6.109,8.045,12.97,18.97,27.57,29.96,33.71
+Canada,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,1.041,1.143,1.291,1.536,1.993,2.564,4.039,5.772,8.198,8.939,10.05
+Canada,Sauces & Spices,Revenue Change,Total,percent,Statista,,10.015,12.979,20.361,15.676,30.937,60.331,45.442,44.573,8.764,12.49
+Canada,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,10.074,12.994,20.749,11.731,31.675,61.223,46.238,45.348,8.682,12.513
+Canada,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,9.807,12.924,18.999,29.719,28.674,57.533,42.888,42.026,9.038,12.412
+Canada,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.594,0.665,0.765,0.918,1.074,1.561,2.276,3.31,4.79,,
+Canada,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Sauces & Spices,Users by Segment,Total,million users,Statista,1.464,1.69,1.969,2.233,2.485,2.738,2.987,3.196,3.409,3.63,3.841
+Canada,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,1.142,1.318,1.536,1.742,1.938,2.136,2.33,2.493,2.659,2.831,2.996
+Canada,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.878,1.014,1.181,1.34,1.491,1.643,1.792,1.918,2.045,2.178,2.305
+Canada,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,3.986,4.557,5.263,5.917,6.528,7.133,7.717,8.192,8.669,9.158,9.618
+Canada,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.109,3.555,4.105,4.616,5.092,5.563,6.019,6.39,6.761,7.143,7.502
+Canada,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.392,2.734,3.158,3.55,3.917,4.28,4.63,4.915,5.201,5.495,5.771
+Canada,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,9.093,8.706,8.511,9.419,9.911,11.88,17.61,24.14,33,33.74,35.91
+Canada,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,6.22,5.956,5.822,6.43,7.151,8.527,12.57,17.14,23.31,23.86,25.39
+Canada,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,8.577,8.212,8.028,8.906,8.729,10.54,15.73,21.72,29.9,30.53,32.49
+Canada,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,9.986,11.03,12.57,15.78,18.47,24.4,39.45,57.87,84.38,91.84,103.5
+Canada,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,5.465,6.037,6.878,8.616,10.66,14.01,22.53,32.88,47.68,51.95,58.52
+Canada,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,4.521,4.995,5.691,7.16,7.809,10.39,16.92,24.99,36.7,39.89,44.93
+Canada,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,10.484,13.923,25.52,17.096,32.067,61.711,46.687,45.799,8.847,12.647
+Canada,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,10.484,13.923,25.267,23.769,31.373,60.851,45.901,45.014,8.971,12.648
+Canada,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,10.484,13.923,25.827,9.067,33.014,62.87,47.734,46.831,8.686,12.646
+Canada,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.423,99.365,99.284,99.127,98.991,98.553,97.919,97.009,95.727,,
+Canada,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.577,0.635,0.716,0.873,1.009,1.447,2.081,2.991,4.273,,
+Canada,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,1.098,1.267,1.477,1.675,1.864,2.054,2.24,2.397,2.557,2.722,2.881
+Canada,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.878,1.014,1.181,1.34,1.491,1.643,1.792,1.918,2.045,2.178,2.305
+Canada,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.527,0.608,0.709,0.804,0.895,0.986,1.075,1.151,1.227,1.307,1.383
+Canada,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.392,2.734,3.158,3.55,3.917,4.28,4.63,4.915,5.201,5.495,5.771
+Canada,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,2.99,3.418,3.948,4.438,4.896,5.349,5.788,6.144,6.501,6.868,7.213
+Canada,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.435,1.641,1.895,2.13,2.35,2.568,2.778,2.949,3.121,3.297,3.463
+Canada,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,27.2,26.9,26.01,32.66,38.36,44.87,64.89,86.77,115.7,118.9,126.5
+Canada,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,31.53,31.98,30.92,38.83,44.71,52.31,75.68,101.2,135,138.7,147.6
+Canada,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,10.26,9.032,8.733,10.94,14.13,16.5,23.83,31.82,42.38,43.55,46.35
+Canada,Vegetables,Revenue,Total,million USD (US$),Statista,44.35,50.61,57.04,81.22,106.2,136.8,215.8,308.9,439.3,480.5,541.2
+Canada,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,35.98,42.11,47.46,67.61,86.62,111.7,176.2,252.2,358.8,392.5,442.1
+Canada,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,8.364,8.497,9.575,13.61,19.55,25.15,39.63,56.63,80.44,88.02,99.13
+Canada,Vegetables,Revenue Change,Total,percent,Statista,,14.125,12.696,42.399,30.719,28.86,57.762,43.096,42.233,9.384,12.627
+Canada,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,17.041,12.696,42.452,28.123,28.9,57.81,43.139,42.276,9.376,12.626
+Canada,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,1.582,12.696,42.139,43.617,28.687,57.549,42.903,42.041,9.417,12.629
+Canada,Vegetables,Online & Offline Split,Offline,percent,Statista,99.437,99.362,99.286,99.057,98.758,98.249,97.532,96.549,95.222,,
+Canada,Vegetables,Online & Offline Split,Online,percent,Statista,0.563,0.638,0.714,0.943,1.242,1.751,2.468,3.451,4.778,,
+Canada,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,70.516,68.856,67.204,65.557,64.57,63.705,63.055,63.035,63.019,,
+Canada,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,29.484,31.144,32.796,34.443,35.43,36.295,36.945,36.965,36.981,,
+Canada,Vegetables,Users by Segment,Total,million users,Statista,1.631,1.882,2.193,2.487,2.768,3.049,3.326,3.559,3.796,4.042,4.278
+Canada,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,1.141,1.317,1.535,1.741,1.937,2.134,2.328,2.492,2.658,2.829,2.994
+Canada,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.815,0.941,1.096,1.244,1.384,1.525,1.663,1.78,1.898,2.021,2.139
+Canada,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.107,3.553,4.103,4.613,5.089,5.56,6.016,6.386,6.758,7.139,7.498
+Canada,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.22,2.538,2.931,3.295,3.635,3.972,4.297,4.561,4.827,5.099,5.356
+Canada,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,4.439,5.075,5.861,6.59,7.27,7.943,8.594,9.123,9.654,10.198,10.711

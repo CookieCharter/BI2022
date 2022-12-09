@@ -1,0 +1,753 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Argentina,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.018,,,,,,
+Argentina,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,28.945,,,,,,
+Argentina,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.601,,,,,,
+Argentina,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,16.614,,,,,,
+Argentina,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,9.82,,,,,,
+Argentina,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,50.575,,,,,,
+Argentina,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,49.425,,,,,,
+Argentina,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.07,,,,,,
+Argentina,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.147,,,,,,
+Argentina,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.783,,,,,,
+Argentina,eCommerce,Revenue,Total,billion USD (US$),Statista,3.104,4.096,5.224,7.104,9.344,9.185,12.59,15.32,18.75,20.44,22.49
+Argentina,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.202,0.272,0.362,0.505,0.683,0.716,0.931,1.132,1.384,1.518,1.678
+Argentina,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.054,0.07,0.092,0.153,0.222,0.224,0.28,0.327,0.384,0.423,0.465
+Argentina,eCommerce,Revenue,Electronics,billion USD (US$),Statista,0.549,0.794,1.09,1.585,2.222,2.065,2.859,3.374,3.972,4.369,4.808
+Argentina,eCommerce,Revenue,Fashion,billion USD (US$),Statista,0.691,0.843,0.984,1.337,1.693,1.94,2.767,3.694,4.959,5.399,6.016
+Argentina,eCommerce,Revenue,Food,billion USD (US$),Statista,0.069,0.089,0.118,0.209,0.319,0.285,0.316,0.325,0.334,0.35,0.361
+Argentina,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.98,1.303,1.668,2.057,2.565,2.342,3.462,4.197,5.077,5.535,6.085
+Argentina,eCommerce,Revenue,Media,billion USD (US$),Statista,0.075,0.091,0.109,0.145,0.175,0.168,0.196,0.207,0.217,0.229,0.239
+Argentina,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.484,0.634,0.802,1.112,1.464,1.445,1.782,2.066,2.426,2.617,2.837
+Argentina,eCommerce,Revenue Change,Total,percent,Statista,,31.959,27.539,35.988,31.532,-1.702,37.071,21.684,22.389,9.013,10.029
+Argentina,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,35.186,32.966,39.564,35.213,4.696,30.045,21.642,22.261,9.682,10.54
+Argentina,eCommerce,Revenue Change,Beverages,percent,Statista,,28.651,31.812,66.558,45.294,0.675,24.933,16.81,17.544,10.081,10.009
+Argentina,eCommerce,Revenue Change,Electronics,percent,Statista,,44.659,37.349,45.413,40.189,-7.066,38.45,18.013,17.724,9.995,10.048
+Argentina,eCommerce,Revenue Change,Fashion,percent,Statista,,21.918,16.708,35.943,26.627,14.589,42.629,33.502,34.245,8.873,11.428
+Argentina,eCommerce,Revenue Change,Food,percent,Statista,,28.947,31.938,77.693,52.076,-10.452,10.62,2.883,2.833,4.702,3.289
+Argentina,eCommerce,Revenue Change,Furniture,percent,Statista,,32.959,28.012,23.321,24.696,-8.694,47.822,21.231,20.967,9.021,9.937
+Argentina,eCommerce,Revenue Change,Media,percent,Statista,,21.957,19.042,33.058,20.773,-3.771,16.627,5.295,4.981,5.527,4.496
+Argentina,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,31.027,26.407,38.688,31.655,-1.298,23.322,15.937,17.425,7.873,8.407
+Argentina,eCommerce,Average Revenue per User,Total,USD (US$),Statista,154.5,187.3,224.8,286.3,350.6,340.4,448,534.9,642.4,687.7,745.6
+Argentina,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,38.03,45.04,52.62,64.07,76.99,71.58,83.65,93.1,104.2,106.4,109.8
+Argentina,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,16.8,19.5,23.13,34.73,45.7,42.2,48.94,53.7,59.42,61.57,64.06
+Argentina,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,63.77,82.05,100.5,130.3,166,141.8,183.3,205.1,229.4,239.7,251.9
+Argentina,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,94.62,98.25,97.31,113.6,124.2,124.3,156.7,190.4,233.9,235.3,243.6
+Argentina,eCommerce,Average Revenue per User,Food,USD (US$),Statista,22.85,26.6,31.58,50.58,69.65,57.2,58.74,56.77,54.96,54.17,52.92
+Argentina,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,274.3,315.2,347.5,372.5,405.5,330.3,445,501.9,566.7,574.9,592.3
+Argentina,eCommerce,Average Revenue per User,Media,USD (US$),Statista,11.26,12.66,13.84,17.08,19.4,17.62,19.63,19.8,19.91,20.25,20.45
+Argentina,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,75.2,86.11,94.84,116.6,135.4,119.2,133.8,144.3,158,158.8,161.5
+Argentina,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,11.531,11.968,12.709,12.619,12.502,12.401,12.318,12.249,12.181,,
+Argentina,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,48.58,46.629,43.478,43.64,43.806,43.97,44.142,44.302,44.462,,
+Argentina,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,6.255,6.492,6.355,5.914,5.511,5.166,4.87,4.614,4.359,,
+Argentina,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,12.138,12.598,13.378,13.283,13.205,13.098,12.953,12.823,12.693,,
+Argentina,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,0.595,0.617,0.669,0.766,0.868,0.972,1.078,1.153,1.229,,
+Argentina,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,16.654,17.285,18.729,19.127,19.487,19.81,20.106,20.37,20.634,,
+Argentina,eCommerce,Revenue Share Payment Types,Other,percent,Statista,4.248,4.409,4.682,4.649,4.622,4.584,4.533,4.488,4.442,,
+Argentina,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,4.821,4.939,5.06,5.15,5.219,5.271,5.31,5.339,5.36,,
+Argentina,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,95.179,95.061,94.94,94.85,94.781,94.729,94.69,94.661,94.64,,
+Argentina,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,eCommerce,Online & Offline Split,Offline,percent,Statista,98.147,97.793,97.612,96.924,96.369,96.485,96.387,96.175,95.879,,
+Argentina,eCommerce,Online & Offline Split,Online,percent,Statista,1.853,2.207,2.388,3.076,3.631,3.515,3.613,3.825,4.121,,
+Argentina,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,87.935,87.279,86.433,85.221,84.624,84.122,83.718,83.701,83.681,,
+Argentina,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,12.065,12.721,13.567,14.779,15.376,15.878,16.282,16.299,16.319,,
+Argentina,eCommerce,Users,Total,million users,Statista,20.093,21.87,23.234,24.811,26.652,26.983,28.107,28.646,29.192,29.725,30.163
+Argentina,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,5.299,6.048,6.884,7.89,8.878,9.997,11.126,12.159,13.279,14.264,15.272
+Argentina,eCommerce,Users,Beverages,million users,Statista,3.225,3.573,3.97,4.405,4.865,5.304,5.713,6.083,6.461,6.864,7.258
+Argentina,eCommerce,Users,Electronics,million users,Statista,8.603,9.672,10.84,12.164,13.389,14.566,15.602,16.45,17.317,18.232,19.087
+Argentina,eCommerce,Users,Fashion,million users,Statista,7.304,8.577,10.108,11.77,13.633,15.605,17.655,19.405,21.202,22.947,24.695
+Argentina,eCommerce,Users,Food,million users,Statista,3.032,3.36,3.733,4.142,4.575,4.988,5.372,5.719,6.075,6.454,6.824
+Argentina,eCommerce,Users,Furniture,million users,Statista,3.572,4.134,4.8,5.523,6.326,7.09,7.78,8.362,8.958,9.628,10.274
+Argentina,eCommerce,Users,Media,million users,Statista,6.663,7.228,7.863,8.482,9.021,9.559,10.004,10.448,10.902,11.314,11.708
+Argentina,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,6.437,7.365,8.455,9.534,10.818,12.127,13.316,14.323,15.357,16.478,17.572
+Argentina,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,12.061,13.635,15.374,17.458,19.467,21.728,23.973,25.978,28.139,29.981,31.846
+Argentina,eCommerce,Penetration Rate,Beverages,percent,Statista,7.34,8.054,8.867,9.747,10.668,11.528,12.31,12.996,13.69,14.427,15.134
+Argentina,eCommerce,Penetration Rate,eCommerce,percent,Statista,45.73,49.301,51.884,54.897,58.44,58.646,60.563,61.206,61.858,62.478,62.898
+Argentina,eCommerce,Penetration Rate,Electronics,percent,Statista,19.581,21.802,24.206,26.915,29.358,31.659,33.618,35.147,36.694,38.321,39.801
+Argentina,eCommerce,Penetration Rate,Fashion,percent,Statista,16.624,19.335,22.571,26.042,29.893,33.917,38.042,41.462,44.928,48.233,51.497
+Argentina,eCommerce,Penetration Rate,Food,percent,Statista,6.902,7.573,8.337,9.165,10.031,10.84,11.575,12.22,12.873,13.565,14.231
+Argentina,eCommerce,Penetration Rate,Furniture,percent,Statista,8.131,9.318,10.719,12.221,13.87,15.409,16.765,17.867,18.983,20.237,21.424
+Argentina,eCommerce,Penetration Rate,Media,percent,Statista,15.165,16.293,17.559,18.767,19.779,20.775,21.556,22.324,23.101,23.781,24.414
+Argentina,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,14.65,16.603,18.88,21.095,23.72,26.357,28.693,30.603,32.541,34.635,36.642
+Argentina,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.747,,,,,,
+Argentina,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.384,,,,,,
+Argentina,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.066,,,,,,
+Argentina,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,17.536,,,,,,
+Argentina,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.27,,,,,,
+Argentina,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,44.392,,,,,,
+Argentina,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,55.608,,,,,,
+Argentina,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.065,,,,,,
+Argentina,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.224,,,,,,
+Argentina,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.71,,,,,,
+Argentina,Electronics,Revenue,Total,billion USD (US$),Statista,0.549,0.794,1.09,1.585,2.222,2.065,2.859,3.374,3.972,4.369,4.808
+Argentina,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.313,0.489,0.71,1.078,1.574,1.399,2.014,2.375,2.79,3.077,3.389
+Argentina,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.236,0.304,0.38,0.507,0.649,0.665,0.845,0.999,1.182,1.292,1.418
+Argentina,Electronics,Revenue Change,Total,percent,Statista,,44.659,37.349,45.413,40.189,-7.066,38.45,18.013,17.724,9.995,10.048
+Argentina,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,56.462,45.103,51.895,46.011,-11.118,43.96,17.925,17.474,10.287,10.14
+Argentina,Electronics,Revenue Change,Household Appliances,percent,Statista,,29.025,24.795,33.5,27.853,2.606,26.972,18.26,18.283,9.306,9.752
+Argentina,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,63.77,82.05,100.5,130.3,166,141.8,183.3,205.1,229.4,239.7,251.9
+Argentina,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,37.82,53.4,70.47,97.41,132.4,111.1,152.8,174.2,198,211.6,227
+Argentina,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,41.9,47.25,51.35,59.57,67.1,61.43,71.08,78.21,86.37,87.9,90.42
+Argentina,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,Electronics,Online & Offline Split,Offline,percent,Statista,95.531,93.949,92.078,89.607,86.607,83.209,80.786,77.721,74.814,,
+Argentina,Electronics,Online & Offline Split,Online,percent,Statista,4.469,6.051,7.922,10.393,13.393,16.791,19.214,22.279,25.186,,
+Argentina,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Electronics,Users by Segment,Total,million users,Statista,8.603,9.672,10.84,12.164,13.389,14.566,15.602,16.45,17.317,18.232,19.087
+Argentina,Electronics,Users by Segment,Consumer Electronics,million users,Statista,8.267,9.159,10.07,11.069,11.885,12.594,13.181,13.633,14.093,14.538,14.93
+Argentina,Electronics,Users by Segment,Household Appliances,million users,Statista,5.631,6.444,7.4,8.515,9.665,10.833,11.888,12.777,13.687,14.703,15.686
+Argentina,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,18.816,20.646,22.487,24.492,26.061,27.373,28.402,29.128,29.863,30.558,31.132
+Argentina,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,19.581,21.802,24.206,26.915,29.358,31.659,33.618,35.147,36.694,38.321,39.801
+Argentina,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,12.817,14.527,16.526,18.84,21.193,23.544,25.615,27.299,29.004,30.903,32.71
+Argentina,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.361,,,,,,
+Argentina,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.887,,,,,,
+Argentina,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.504,,,,,,
+Argentina,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,17.669,,,,,,
+Argentina,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,6.58,,,,,,
+Argentina,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.414,,,,,,
+Argentina,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.586,,,,,,
+Argentina,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.868,,,,,,
+Argentina,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.093,,,,,,
+Argentina,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.04,,,,,,
+Argentina,Consumer Electronics,Revenue,Total,million USD (US$),Statista,312.6,489.1,709.7,"1,078","1,574","1,399","2,014","2,375","2,790","3,077","3,389"
+Argentina,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,61.46,98.91,142.5,203.4,283.7,261.9,391.3,478.9,583.8,640.9,707.5
+Argentina,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,54.33,85,123.3,187.4,273.5,243.2,350,412.7,484.8,536.7,592.9
+Argentina,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,100.4,157.4,230.8,385.1,588,515.4,730.1,845.4,973.3,"1,081","1,193"
+Argentina,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,93.48,143.1,206.3,292.4,413.9,368.4,531.4,628.3,741,811.3,889.1
+Argentina,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,2.963,4.645,6.81,10.03,14.48,10.5,11.3,9.399,7.002,7.218,6.927
+Argentina,Consumer Electronics,Revenue Change,Total,percent,Statista,,56.462,45.103,51.895,46.011,-11.118,43.96,17.925,17.474,10.287,10.14
+Argentina,Consumer Electronics,Revenue Change,Computing,percent,Statista,,60.934,44.07,42.737,39.479,-7.684,49.408,22.387,21.904,9.781,10.392
+Argentina,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,56.451,45.059,51.987,45.945,-11.079,43.914,17.914,17.47,10.705,10.471
+Argentina,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,56.773,46.633,66.854,52.688,-12.347,41.657,15.792,15.129,11.065,10.361
+Argentina,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,53.081,44.165,41.735,41.553,-10.993,44.245,18.235,17.937,9.487,9.59
+Argentina,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,56.767,46.609,47.283,44.367,-27.486,7.619,-16.823,-25.503,3.085,-4.032
+Argentina,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,37.82,53.4,70.47,97.41,132.4,111.1,152.8,174.2,198,211.6,227
+Argentina,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,10.62,15.43,20.22,26.24,34.1,29.71,42.41,50.18,59.18,62.97,67.69
+Argentina,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,8.535,12.05,15.9,21.98,29.88,25.08,34.48,39.31,44.68,47.94,51.58
+Argentina,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,15.18,21.49,28.65,43.49,61.84,51.15,69.23,77.52,86.33,92.94,99.87
+Argentina,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,28.27,39.07,51.21,66.03,87.07,73.14,100.8,115.2,131.4,139.5,148.9
+Argentina,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,1.195,1.691,2.254,3.021,4.06,2.779,2.858,2.298,1.656,1.655,1.547
+Argentina,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Argentina,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Argentina,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,96.327,94.733,92.802,89.81,86.3,83.423,81.267,78.463,75.83,,
+Argentina,Consumer Electronics,Online & Offline Split,Online,percent,Statista,3.673,5.267,7.198,10.19,13.7,16.577,18.733,21.537,24.17,,
+Argentina,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Consumer Electronics,Users,Total,million users,Statista,8.267,9.159,10.07,11.069,11.885,12.594,13.181,13.633,14.093,14.538,14.93
+Argentina,Consumer Electronics,Users,Computing,million users,Statista,5.787,6.411,7.049,7.749,8.32,8.816,9.227,9.543,9.865,10.177,10.451
+Argentina,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,6.366,7.052,7.754,8.523,9.152,9.698,10.15,10.497,10.852,11.194,11.496
+Argentina,Consumer Electronics,Users,Telephony,million users,Statista,6.614,7.327,8.056,8.856,9.508,10.076,10.545,10.906,11.274,11.631,11.944
+Argentina,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,3.307,3.664,4.028,4.428,4.754,5.038,5.272,5.453,5.637,5.815,5.972
+Argentina,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,2.48,2.748,3.021,3.321,3.566,3.778,3.954,4.09,4.228,4.361,4.479
+Argentina,Consumer Electronics,Penetration Rate,Computing,percent,Statista,13.171,14.452,15.741,17.145,18.243,19.161,19.882,20.39,20.904,21.39,21.792
+Argentina,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,18.816,20.646,22.487,24.492,26.061,27.373,28.402,29.128,29.863,30.558,31.132
+Argentina,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,14.488,15.897,17.315,18.859,20.067,21.077,21.87,22.429,22.995,23.529,23.972
+Argentina,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,15.053,16.517,17.99,19.594,20.849,21.899,22.722,23.302,23.89,24.446,24.906
+Argentina,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,7.526,8.258,8.995,9.797,10.424,10.949,11.361,11.651,11.945,12.223,12.453
+Argentina,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,5.645,6.194,6.746,7.348,7.818,8.212,8.521,8.738,8.959,9.167,9.34
+Argentina,Household Appliances,Revenue,Total,million USD (US$),Statista,236,304.5,380,507.3,648.6,665.5,845,999.3,"1,182","1,292","1,418"
+Argentina,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,123.1,158.9,198.3,264.6,338.2,346.9,440.2,520.3,615,672.4,737.8
+Argentina,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,49.12,63.38,79.1,105.6,135,138.5,175.9,208,246.1,269.1,295.3
+Argentina,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,63.7,82.2,102.6,137.1,175.3,180,228.8,271,321.1,351,385.3
+Argentina,Household Appliances,Revenue Change,Total,percent,Statista,,29.025,24.795,33.5,27.853,2.606,26.972,18.26,18.283,9.306,9.752
+Argentina,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,29.082,24.795,33.434,27.816,2.572,26.895,18.196,18.201,9.333,9.726
+Argentina,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,29.031,24.803,33.502,27.841,2.593,27.004,18.249,18.317,9.346,9.736
+Argentina,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,29.042,24.818,33.626,27.863,2.681,27.111,18.444,18.487,9.312,9.772
+Argentina,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,41.9,47.25,51.35,59.57,67.1,61.43,71.08,78.21,86.37,87.9,90.42
+Argentina,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,54.67,61.64,66.99,77.69,87.49,80.06,92.58,101.8,112.3,114.3,117.6
+Argentina,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,43.62,49.18,53.45,62.01,69.85,63.95,73.99,81.41,89.9,91.5,94.12
+Argentina,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,14.14,15.94,17.33,20.12,22.67,20.77,24.06,26.51,29.32,29.84,30.7
+Argentina,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Argentina,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Argentina,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Argentina,Household Appliances,Online & Offline Split,Offline,percent,Statista,93.732,92.047,90.246,89.147,87.299,82.667,79.52,75.726,72.038,,
+Argentina,Household Appliances,Online & Offline Split,Online,percent,Statista,6.268,7.953,9.754,10.853,12.701,17.333,20.48,24.274,27.962,,
+Argentina,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Household Appliances,Users,Total,million users,Statista,5.631,6.444,7.4,8.515,9.665,10.833,11.888,12.777,13.687,14.703,15.686
+Argentina,Household Appliances,Users,Major Appliances,million users,Statista,2.253,2.578,2.96,3.406,3.866,4.333,4.755,5.111,5.475,5.881,6.274
+Argentina,Household Appliances,Users,Other Household Appliances,million users,Statista,1.126,1.289,1.48,1.703,1.933,2.167,2.378,2.555,2.737,2.941,3.137
+Argentina,Household Appliances,Users,Small Appliances,million users,Statista,4.505,5.155,5.92,6.812,7.732,8.666,9.51,10.222,10.95,11.762,12.549
+Argentina,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,12.817,14.527,16.526,18.84,21.193,23.544,25.615,27.299,29.004,30.903,32.71
+Argentina,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,5.127,5.811,6.61,7.536,8.477,9.418,10.246,10.92,11.602,12.361,13.084
+Argentina,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,2.563,2.905,3.305,3.768,4.239,4.709,5.123,5.46,5.801,6.181,6.542
+Argentina,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,10.253,11.621,13.22,15.072,16.954,18.835,20.492,21.839,23.203,24.722,26.168
+Argentina,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.572,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,28.705,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,28.33,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,16.698,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,10.694,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,58.724,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,41.276,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.863,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.702,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.435,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,201.5,272.4,362.2,505.5,683.5,715.6,930.6,"1,132","1,384","1,518","1,678"
+Argentina,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,34.57,46.37,61.52,85.76,115.4,120.3,155.2,186.8,225.2,247.3,272.9
+Argentina,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,21.7,27.98,35.41,47.76,63.99,64.48,80.4,93.38,108.6,118.8,130
+Argentina,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,16.73,21.91,28.19,40.98,55.48,66.2,98.4,136.9,191.4,209.5,235.5
+Argentina,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,128.5,176.2,237.1,331,448.6,464.7,596.7,714.8,858.6,942.5,"1,039"
+Argentina,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,35.186,32.966,39.564,35.213,4.696,30.045,21.642,22.261,9.682,10.54
+Argentina,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,34.134,32.672,39.402,34.562,4.246,29.011,20.361,20.557,9.813,10.352
+Argentina,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,28.94,26.555,34.877,33.982,0.766,24.69,16.144,16.299,9.392,9.428
+Argentina,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,30.962,28.663,45.371,35.383,19.322,48.64,39.126,39.81,9.457,12.411
+Argentina,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,37.121,34.563,39.604,35.529,3.589,28.405,19.792,20.118,9.772,10.239
+Argentina,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,38.03,45.04,52.62,64.07,76.99,71.58,83.65,93.1,104.2,106.4,109.8
+Argentina,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,8.154,9.584,11.17,13.59,16.26,15.04,17.44,19.2,21.2,21.67,22.33
+Argentina,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,6.397,7.228,8.037,9.458,11.26,10.08,11.29,12,12.78,13.01,13.3
+Argentina,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,8.31,9.533,10.77,13.67,16.45,17.43,23.28,29.64,37.93,38.66,40.59
+Argentina,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,39.12,46.98,55.55,67.66,81.49,74.97,86.5,94.83,104.3,106.6,109.7
+Argentina,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,97.315,96.517,95.56,93.546,91.834,90.915,89.714,88.243,86.504,,
+Argentina,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,2.685,3.483,4.44,6.454,8.166,9.085,10.286,11.757,13.496,,
+Argentina,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,5.299,6.048,6.884,7.89,8.878,9.997,11.126,12.159,13.279,14.264,15.272
+Argentina,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,4.24,4.839,5.508,6.312,7.102,7.998,8.901,9.727,10.624,11.411,12.217
+Argentina,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,3.392,3.871,4.406,5.05,5.682,6.398,7.12,7.782,8.499,9.129,9.774
+Argentina,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,2.014,2.298,2.616,2.998,3.374,3.799,4.228,4.62,5.046,5.42,5.803
+Argentina,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,3.286,3.75,4.268,4.892,5.504,6.198,6.898,7.538,8.233,8.844,9.468
+Argentina,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,12.061,13.635,15.374,17.458,19.467,21.728,23.973,25.978,28.139,29.981,31.846
+Argentina,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,9.649,10.908,12.299,13.966,15.573,17.382,19.178,20.783,22.511,23.985,25.477
+Argentina,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,7.719,8.726,9.839,11.173,12.459,13.906,15.343,16.626,18.009,19.188,20.381
+Argentina,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,4.583,5.181,5.842,6.634,7.397,8.257,9.11,9.872,10.693,11.393,12.101
+Argentina,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,7.478,8.453,9.532,10.824,12.069,13.471,14.863,16.107,17.446,18.588,19.744
+Argentina,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.73,,,,,,
+Argentina,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,30.712,,,,,,
+Argentina,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.966,,,,,,
+Argentina,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,16.105,,,,,,
+Argentina,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,10.487,,,,,,
+Argentina,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,72.659,,,,,,
+Argentina,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,27.341,,,,,,
+Argentina,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.596,,,,,,
+Argentina,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.07,,,,,,
+Argentina,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.333,,,,,,
+Argentina,Personal Care,Revenue,Total,million USD (US$),Statista,128.5,176.2,237.1,331,448.6,464.7,596.7,714.8,858.6,942.5,"1,039"
+Argentina,Personal Care,Revenue,Body Care,million USD (US$),Statista,28.15,38.97,52.85,73.41,99.6,103.8,133.8,161,194,213.2,235.4
+Argentina,Personal Care,Revenue,Eye Care,million USD (US$),Statista,4.374,5.911,7.784,11.25,15.31,14.12,16.14,17.21,18.41,19.42,20.32
+Argentina,Personal Care,Revenue,Hair Care,million USD (US$),Statista,6.781,9.388,12.73,17.8,24.23,25.57,33.4,40.68,49.63,54.56,60.36
+Argentina,Personal Care,Revenue,Oral Care,million USD (US$),Statista,2.224,3.079,4.176,5.859,7.983,8.366,10.86,13.14,15.93,17.51,19.36
+Argentina,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,50.98,69.87,94.04,131.3,177.9,184.3,236.6,283.5,340.5,374.1,412.7
+Argentina,Personal Care,Revenue,Skin Care,million USD (US$),Statista,36.04,48.96,65.54,91.4,123.5,128.6,165.8,199.3,240.1,263.7,291
+Argentina,Personal Care,Revenue Change,Total,percent,Statista,,37.121,34.563,39.604,35.529,3.589,28.405,19.792,20.118,9.772,10.239
+Argentina,Personal Care,Revenue Change,Body Care,percent,Statista,,38.437,35.617,38.903,35.676,4.217,28.902,20.329,20.497,9.897,10.413
+Argentina,Personal Care,Revenue Change,Eye Care,percent,Statista,,35.139,31.687,44.527,36.089,-7.773,14.306,6.629,6.973,5.486,4.634
+Argentina,Personal Care,Revenue Change,Hair Care,percent,Statista,,38.446,35.599,39.827,36.124,5.53,30.622,21.796,22.001,9.934,10.63
+Argentina,Personal Care,Revenue Change,Oral Care,percent,Statista,,38.444,35.628,40.302,36.252,4.798,29.811,20.994,21.233,9.918,10.565
+Argentina,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,37.054,34.593,39.621,35.491,3.598,28.378,19.822,20.106,9.868,10.318
+Argentina,Personal Care,Revenue Change,Skin Care,percent,Statista,,35.849,33.864,39.457,35.12,4.13,28.927,20.205,20.472,9.829,10.353
+Argentina,Personal Care,Average Revenue per User,Total,USD (US$),Statista,39.12,46.98,55.55,67.66,81.49,74.97,86.5,94.83,104.3,106.6,109.7
+Argentina,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,12.6,15.28,18.21,22.07,26.61,24.62,28.54,31.41,34.65,35.46,36.56
+Argentina,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,2.663,3.153,3.647,4.601,5.563,4.556,4.679,4.567,4.473,4.391,4.292
+Argentina,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,3.969,4.814,5.736,6.999,8.465,7.932,9.312,10.38,11.59,11.86,12.26
+Argentina,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,1.381,1.676,1.997,2.444,2.96,2.754,3.212,3.557,3.949,4.042,4.172
+Argentina,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,34.48,41.41,48.96,59.63,71.82,66.08,76.23,83.58,91.91,94,96.85
+Argentina,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,24.93,29.67,34.9,42.46,51.01,47.15,54.62,60.09,66.27,67.78,69.86
+Argentina,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,Personal Care,Online & Offline Split,Offline,percent,Statista,96.198,95.044,93.669,90.568,88.316,87.171,85.836,84.304,82.561,,
+Argentina,Personal Care,Online & Offline Split,Online,percent,Statista,3.802,4.956,6.331,9.432,11.684,12.829,14.164,15.696,17.439,,
+Argentina,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Personal Care,Users,Total,million users,Statista,3.286,3.75,4.268,4.892,5.504,6.198,6.898,7.538,8.233,8.844,9.468
+Argentina,Personal Care,Users,Body Care,million users,Statista,2.234,2.55,2.903,3.327,3.743,4.215,4.691,5.126,5.599,6.014,6.439
+Argentina,Personal Care,Users,Eye Care,million users,Statista,1.643,1.875,2.134,2.446,2.752,3.099,3.449,3.769,4.117,4.422,4.734
+Argentina,Personal Care,Users,Hair Care,million users,Statista,1.709,1.95,2.22,2.544,2.862,3.223,3.587,3.92,4.281,4.599,4.924
+Argentina,Personal Care,Users,Oral Care,million users,Statista,1.61,1.838,2.092,2.397,2.697,3.037,3.38,3.694,4.034,4.333,4.64
+Argentina,Personal Care,Users,Other Personal Care,million users,Statista,1.479,1.688,1.921,2.201,2.477,2.789,3.104,3.392,3.705,3.98,4.261
+Argentina,Personal Care,Users,Skin Care,million users,Statista,1.446,1.65,1.878,2.152,2.422,2.727,3.035,3.317,3.623,3.891,4.166
+Argentina,Personal Care,Penetration Rate,Body Care,percent,Statista,5.085,5.748,6.482,7.36,8.207,9.161,10.107,10.952,11.863,12.64,13.426
+Argentina,Personal Care,Penetration Rate,Eye Care,percent,Statista,3.739,4.227,4.766,5.412,6.035,6.736,7.432,8.053,8.723,9.294,9.872
+Argentina,Personal Care,Penetration Rate,Hair Care,percent,Statista,3.889,4.396,4.957,5.628,6.276,7.005,7.729,8.375,9.072,9.666,10.267
+Argentina,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.664,4.142,4.671,5.304,5.914,6.601,7.283,7.892,8.549,9.108,9.675
+Argentina,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,3.365,3.804,4.289,4.871,5.431,6.062,6.688,7.248,7.851,8.365,8.885
+Argentina,Personal Care,Penetration Rate,Personal Care,percent,Statista,7.478,8.453,9.532,10.824,12.069,13.471,14.863,16.107,17.446,18.588,19.744
+Argentina,Personal Care,Penetration Rate,Skin Care,percent,Statista,3.29,3.72,4.194,4.763,5.31,5.927,6.54,7.087,7.676,8.179,8.688
+Argentina,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,8.154,9.584,11.17,13.59,16.26,15.04,17.44,19.2,21.2,21.67,22.33
+Argentina,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,8.04,9.503,11.12,13.51,16.19,15,17.43,19.22,21.25,21.73,22.4
+Argentina,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,0.366,0.368,0.378,0.473,0.54,0.47,0.51,0.526,0.542,0.549,0.557
+Argentina,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,9.225,10.84,12.64,15.37,18.39,17.01,19.73,21.72,23.98,24.52,25.27
+Argentina,Beauty Care,Revenue,Total,million USD (US$),Statista,34.57,46.37,61.52,85.76,115.4,120.3,155.2,186.8,225.2,247.3,272.9
+Argentina,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,23.86,32.19,42.88,59.71,80.49,84,108.6,130.9,158.1,173.6,191.6
+Argentina,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.931,1.069,1.248,1.793,2.303,2.253,2.725,3.069,3.455,3.762,4.084
+Argentina,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,9.777,13.12,17.4,24.26,32.65,34.01,43.89,52.82,63.69,69.94,77.17
+Argentina,Beauty Care,Revenue Change,Total,percent,Statista,,34.134,32.672,39.402,34.562,4.246,29.011,20.361,20.557,9.813,10.352
+Argentina,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,34.912,33.209,39.249,34.802,4.361,29.286,20.534,20.779,9.804,10.369
+Argentina,Beauty Care,Revenue Change,Fragrances,percent,Statista,,14.872,16.745,43.67,28.444,-2.171,20.95,12.624,12.577,8.886,8.559
+Argentina,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,34.192,32.622,39.425,34.584,4.165,29.05,20.346,20.579,9.813,10.337
+Argentina,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,Beauty Care,Online & Offline Split,Offline,percent,Statista,96.849,95.975,94.922,92.269,90.543,89.609,88.499,87.205,85.715,,
+Argentina,Beauty Care,Online & Offline Split,Online,percent,Statista,3.151,4.025,5.078,7.731,9.457,10.391,11.501,12.795,14.285,,
+Argentina,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Beauty Care,Users by Segment,Total,million users,Statista,4.24,4.839,5.508,6.312,7.102,7.998,8.901,9.727,10.624,11.411,12.217
+Argentina,Beauty Care,Users by Segment,Cosmetics,million users,Statista,2.968,3.387,3.855,4.419,4.972,5.598,6.23,6.809,7.436,7.988,8.552
+Argentina,Beauty Care,Users by Segment,Fragrances,million users,Statista,2.544,2.903,3.305,3.787,4.261,4.799,5.34,5.836,6.374,6.847,7.33
+Argentina,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,1.06,1.21,1.377,1.578,1.776,1.999,2.225,2.432,2.656,2.853,3.054
+Argentina,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,9.649,10.908,12.299,13.966,15.573,17.382,19.178,20.783,22.511,23.985,25.477
+Argentina,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,6.754,7.635,8.609,9.777,10.901,12.168,13.425,14.548,15.758,16.789,17.834
+Argentina,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,5.789,6.545,7.379,8.38,9.344,10.429,11.507,12.47,13.507,14.391,15.286
+Argentina,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.412,2.727,3.075,3.492,3.893,4.346,4.795,5.196,5.628,5.996,6.369
+Argentina,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,6.397,7.228,8.037,9.458,11.26,10.08,11.29,12,12.78,13.01,13.3
+Argentina,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,4.822,5.446,6.052,6.719,7.514,6.762,7.603,8.092,8.606,8.742,8.924
+Argentina,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,1.078,1.218,1.353,1.506,1.686,1.552,1.786,1.943,2.111,2.148,2.202
+Argentina,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,1.807,2.041,2.268,2.511,2.805,2.527,2.845,3.031,3.227,3.278,3.347
+Argentina,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.727,0.821,0.913,1.929,3.359,2.859,3.042,3.067,3.093,3.189,3.248
+Argentina,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.409,0.474,0.542,0.649,0.761,0.843,1.179,1.573,2.109,2.143,2.259
+Argentina,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,7.866,8.889,9.883,11.63,13.85,12.39,13.88,14.76,15.72,16.02,16.38
+Argentina,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,5,5.648,6.276,6.991,7.831,6.986,7.788,8.219,8.669,8.804,8.973
+Argentina,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.711,0.803,0.893,0.99,1.107,0.997,1.122,1.196,1.273,1.293,1.32
+Argentina,Health Care,Revenue,Total,million USD (US$),Statista,21.7,27.98,35.41,47.76,63.99,64.48,80.4,93.38,108.6,118.8,130
+Argentina,Health Care,Revenue,Analgesics,million USD (US$),Statista,3.271,4.216,5.333,6.786,8.538,8.653,10.83,12.59,14.63,15.96,17.45
+Argentina,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,1.536,1.98,2.504,3.194,4.023,4.172,5.34,6.35,7.537,8.234,9.039
+Argentina,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,1.839,2.37,2.998,3.805,4.782,4.851,6.077,7.076,8.227,8.977,9.813
+Argentina,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.987,1.272,1.609,3.897,7.633,7.317,8.665,9.547,10.52,11.64,12.7
+Argentina,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.277,0.367,0.478,0.655,0.865,1.079,1.679,2.449,3.584,3.913,4.415
+Argentina,Health Care,Revenue,Other Health Care,million USD (US$),Statista,6.136,7.914,10.02,13.51,18.1,18.24,22.74,26.41,30.72,33.63,36.83
+Argentina,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,6.444,8.307,10.51,13.42,16.91,16.98,21.07,24.3,28,30.54,33.33
+Argentina,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,1.206,1.555,1.966,2.5,3.144,3.19,3.996,4.653,5.41,5.903,6.453
+Argentina,Health Care,Revenue Change,Total,percent,Statista,,28.94,26.555,34.877,33.982,0.766,24.69,16.144,16.299,9.392,9.428
+Argentina,Health Care,Revenue Change,Analgesics,percent,Statista,,28.89,26.494,27.245,25.818,1.347,25.159,16.251,16.203,9.091,9.336
+Argentina,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,28.906,26.465,27.556,25.955,3.704,27.996,18.914,18.693,9.248,9.777
+Argentina,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,28.874,26.498,26.918,25.677,1.443,25.273,16.439,16.266,9.116,9.313
+Argentina,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,28.928,26.494,142.2,95.869,-4.14,18.423,10.179,10.192,10.646,9.107
+Argentina,Health Care,Revenue Change,Incontinence,percent,Statista,,32.42,30.147,37.1,32.067,24.697,55.607,45.861,46.345,9.18,12.829
+Argentina,Health Care,Revenue Change,Other Health Care,percent,Statista,,28.977,26.611,34.83,33.975,0.773,24.671,16.139,16.32,9.473,9.515
+Argentina,Health Care,Revenue Change,Skin Treatment,percent,Statista,,28.911,26.52,27.688,26.006,0.414,24.087,15.33,15.226,9.071,9.136
+Argentina,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,28.939,26.431,27.162,25.76,1.463,25.266,16.441,16.269,9.113,9.317
+Argentina,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,Health Care,Online & Offline Split,Offline,percent,Statista,95.774,94.782,93.688,92,89.747,88.773,87.645,86.433,85.101,,
+Argentina,Health Care,Online & Offline Split,Online,percent,Statista,4.226,5.218,6.312,8,10.253,11.227,12.355,13.567,14.899,,
+Argentina,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Health Care,Users by Segment,Total,million users,Statista,3.392,3.871,4.406,5.05,5.682,6.398,7.12,7.782,8.499,9.129,9.774
+Argentina,Health Care,Users by Segment,Analgesics,million users,Statista,0.678,0.774,0.881,1.01,1.136,1.28,1.424,1.556,1.7,1.826,1.955
+Argentina,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,1.424,1.626,1.851,2.121,2.386,2.687,2.991,3.268,3.57,3.834,4.105
+Argentina,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,1.017,1.161,1.322,1.515,1.705,1.919,2.136,2.334,2.55,2.739,2.932
+Argentina,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,1.357,1.548,1.762,2.02,2.273,2.559,2.848,3.113,3.4,3.652,3.91
+Argentina,Health Care,Users by Segment,Incontinence,million users,Statista,0.678,0.774,0.881,1.01,1.136,1.28,1.424,1.556,1.7,1.826,1.955
+Argentina,Health Care,Users by Segment,Other Health Care,million users,Statista,0.78,0.89,1.013,1.161,1.307,1.472,1.638,1.79,1.955,2.1,2.248
+Argentina,Health Care,Users by Segment,Skin Treatment,million users,Statista,1.289,1.471,1.674,1.919,2.159,2.431,2.706,2.957,3.23,3.469,3.714
+Argentina,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,1.696,1.936,2.203,2.525,2.841,3.199,3.56,3.891,4.249,4.564,4.887
+Argentina,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.544,1.745,1.968,2.235,2.492,2.781,3.069,3.325,3.602,3.838,4.076
+Argentina,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,3.242,3.665,4.132,4.693,5.233,5.841,6.444,6.983,7.564,8.059,8.56
+Argentina,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.316,2.618,2.952,3.352,3.738,4.172,4.603,4.988,5.403,5.756,6.115
+Argentina,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,3.088,3.49,3.936,4.469,4.983,5.562,6.137,6.65,7.204,7.675,8.153
+Argentina,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,7.719,8.726,9.839,11.173,12.459,13.906,15.343,16.626,18.009,19.188,20.381
+Argentina,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.544,1.745,1.968,2.235,2.492,2.781,3.069,3.325,3.602,3.838,4.076
+Argentina,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.775,2.007,2.263,2.57,2.865,3.198,3.529,3.824,4.142,4.413,4.688
+Argentina,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,2.933,3.316,3.739,4.246,4.734,5.284,5.83,6.318,6.843,7.291,7.745
+Argentina,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,3.86,4.363,4.92,5.587,6.229,6.953,7.671,8.313,9.005,9.594,10.191
+Argentina,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,8.31,9.533,10.77,13.67,16.45,17.43,23.28,29.64,37.93,38.66,40.59
+Argentina,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,0.714,0.809,0.904,1.106,1.297,1.351,1.769,2.205,2.76,2.812,2.944
+Argentina,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,1.302,1.476,1.648,2.093,2.499,2.578,3.345,4.131,5.122,5.226,5.468
+Argentina,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,4.409,5.117,5.85,8.264,10.49,11.18,15.02,19.26,24.8,25.33,26.64
+Argentina,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,2.519,2.856,3.189,3.623,4.105,4.278,5.607,6.994,8.76,8.912,9.322
+Argentina,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,16.66,19.11,21.59,27.39,32.96,34.93,46.65,59.41,76.02,77.48,81.34
+Argentina,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.554,0.643,0.736,0.986,1.221,1.325,1.814,2.371,3.112,3.172,3.34
+Argentina,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,1.379,1.564,1.746,1.948,2.189,2.282,2.992,3.734,4.679,4.758,4.976
+Argentina,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,3.277,3.803,4.348,5.669,6.924,7.499,10.25,13.37,17.52,17.85,18.79
+Argentina,Household Care,Revenue,Total,million USD (US$),Statista,16.73,21.91,28.19,40.98,55.48,66.2,98.4,136.9,191.4,209.5,235.5
+Argentina,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.604,0.781,0.993,1.393,1.838,2.155,3.141,4.279,5.849,6.403,7.177
+Argentina,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,1.179,1.526,1.94,2.824,3.793,4.407,6.364,8.589,11.63,12.75,14.28
+Argentina,Household Care,Revenue,Household Paper,million USD (US$),Statista,2.042,2.705,3.52,5.699,8.14,9.764,14.61,20.47,28.79,31.57,35.55
+Argentina,Household Care,Revenue,Laundry Care,million USD (US$),Statista,2.029,2.626,3.337,4.345,5.539,6.501,9.481,12.93,17.68,19.32,21.64
+Argentina,Household Care,Revenue,Other Household Care,million USD (US$),Statista,7.379,9.661,12.43,18.07,24.47,29.19,43.39,60.39,84.39,92.39,103.9
+Argentina,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.357,0.473,0.616,0.946,1.318,1.61,2.455,3.505,5.025,5.502,6.203
+Argentina,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.833,1.078,1.37,1.752,2.215,2.601,3.795,5.175,7.083,7.737,8.663
+Argentina,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,2.31,3.059,3.981,5.949,8.176,9.97,15.17,21.62,30.94,33.86,38.16
+Argentina,Household Care,Revenue Change,Total,percent,Statista,,30.962,28.663,45.371,35.383,19.322,48.64,39.126,39.81,9.457,12.411
+Argentina,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,29.392,27.105,40.254,31.945,17.247,45.754,36.23,36.691,9.472,12.088
+Argentina,Household Care,Revenue Change,Household Cleaners,percent,Statista,,29.432,27.13,45.567,34.313,16.188,44.407,34.962,35.406,9.63,12
+Argentina,Household Care,Revenue Change,Household Paper,percent,Statista,,32.468,30.129,61.903,42.832,19.951,49.631,40.11,40.645,9.656,12.607
+Argentina,Household Care,Revenue Change,Laundry Care,percent,Statista,,29.423,27.075,30.207,27.48,17.368,45.839,36.378,36.736,9.276,12.008
+Argentina,Household Care,Revenue Change,Other Household Care,percent,Statista,,30.926,28.662,45.374,35.418,19.289,48.647,39.18,39.742,9.48,12.458
+Argentina,Household Care,Revenue Change,Paper Tissues,percent,Statista,,32.438,30.135,53.654,39.294,22.155,52.484,42.77,43.367,9.493,12.741
+Argentina,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,29.381,27.087,27.883,26.427,17.427,45.905,36.364,36.87,9.233,11.968
+Argentina,Household Care,Revenue Change,Toilet Paper,percent,Statista,,32.424,30.141,49.435,37.435,21.942,52.156,42.518,43.108,9.438,12.699
+Argentina,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Argentina,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Argentina,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Argentina,Household Care,Online & Offline Split,Offline,percent,Statista,99.335,99.15,98.932,98.434,97.935,97.376,96.53,95.318,93.672,,
+Argentina,Household Care,Online & Offline Split,Online,percent,Statista,0.665,0.85,1.068,1.566,2.065,2.624,3.47,4.682,6.328,,
+Argentina,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Household Care,Users by Segment,Total,million users,Statista,2.014,2.298,2.616,2.998,3.374,3.799,4.228,4.62,5.046,5.42,5.803
+Argentina,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.846,0.965,1.099,1.259,1.417,1.596,1.776,1.941,2.119,2.277,2.437
+Argentina,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.906,1.034,1.177,1.349,1.518,1.71,1.902,2.079,2.271,2.439,2.612
+Argentina,Household Care,Users by Segment,Household Paper,million users,Statista,0.463,0.529,0.602,0.69,0.776,0.874,0.972,1.063,1.161,1.247,1.335
+Argentina,Household Care,Users by Segment,Laundry Care,million users,Statista,0.806,0.919,1.046,1.199,1.349,1.52,1.691,1.848,2.018,2.168,2.321
+Argentina,Household Care,Users by Segment,Other Household Care,million users,Statista,0.443,0.506,0.576,0.66,0.742,0.836,0.93,1.016,1.11,1.192,1.277
+Argentina,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.644,0.735,0.837,0.959,1.08,1.216,1.353,1.478,1.615,1.735,1.857
+Argentina,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.604,0.69,0.785,0.899,1.012,1.14,1.268,1.386,1.514,1.626,1.741
+Argentina,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.705,0.804,0.916,1.049,1.181,1.33,1.48,1.617,1.766,1.897,2.031
+Argentina,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.925,2.176,2.454,2.786,3.107,3.468,3.826,4.146,4.491,4.785,5.083
+Argentina,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,4.583,5.181,5.842,6.634,7.397,8.257,9.11,9.872,10.693,11.393,12.101
+Argentina,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.063,2.332,2.629,2.985,3.329,3.716,4.099,4.442,4.812,5.127,5.446
+Argentina,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.054,1.192,1.344,1.526,1.701,1.899,2.095,2.271,2.459,2.62,2.783
+Argentina,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.833,2.072,2.337,2.654,2.959,3.303,3.644,3.949,4.277,4.557,4.841
+Argentina,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.008,1.14,1.285,1.459,1.627,1.816,2.004,2.172,2.352,2.506,2.662
+Argentina,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.467,1.658,1.869,2.123,2.367,2.642,2.915,3.159,3.422,3.646,3.873
+Argentina,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.375,1.554,1.753,1.99,2.219,2.477,2.733,2.962,3.208,3.418,3.631
+Argentina,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.604,1.813,2.045,2.322,2.589,2.89,3.188,3.455,3.743,3.988,4.236
+Argentina,Food,Revenue,Total,million USD (US$),Statista,69.3,89.36,117.9,209.5,318.6,285.3,315.6,324.7,333.9,349.6,361.1
+Argentina,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,4.855,6.26,8.259,14.97,23.34,21.09,23.55,24.45,25.37,26.73,27.78
+Argentina,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,10.11,13.03,17.19,30.52,48.97,43.42,47.56,48.45,49.34,51.55,53.06
+Argentina,Food,Revenue,Convenience Food,million USD (US$),Statista,4.06,5.235,6.906,12.52,19.62,17.81,19.97,20.83,21.71,22.94,23.91
+Argentina,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,8.041,10.37,13.68,22.94,33.45,30.31,33.92,35.31,36.74,38.57,40.01
+Argentina,Food,Revenue,Fish & Seafood,million USD (US$),Statista,6.73,8.678,11.45,20.76,31.38,28.1,31.07,31.96,32.85,34.39,35.51
+Argentina,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,5.391,6.952,9.172,16.6,25.07,22.34,24.6,25.19,25.78,26.92,27.73
+Argentina,Food,Revenue,Meat,million USD (US$),Statista,16.35,21.09,27.82,50.31,75.98,67.73,74.58,76.38,78.2,81.68,84.16
+Argentina,Food,Revenue,Oils & Fats,million USD (US$),Statista,3.629,4.68,6.174,10.34,15.07,13.59,15.15,15.7,16.26,17.03,17.62
+Argentina,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.669,0.862,1.138,1.745,2.446,2.24,2.534,2.667,2.807,2.953,3.076
+Argentina,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.739,0.953,1.258,1.912,2.669,2.39,2.644,2.721,2.799,2.908,2.99
+Argentina,Food,Revenue,Vegetables,million USD (US$),Statista,8.731,11.26,14.85,26.9,40.65,36.28,39.99,41.01,42.02,43.92,45.28
+Argentina,Food,Revenue Change,Total,percent,Statista,,28.947,31.938,77.693,52.076,-10.452,10.62,2.883,2.833,4.702,3.289
+Argentina,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,28.939,31.933,81.257,55.912,-9.64,11.664,3.822,3.763,5.361,3.928
+Argentina,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,28.882,31.926,77.545,60.452,-11.333,9.535,1.871,1.837,4.479,2.929
+Argentina,Food,Revenue Change,Convenience Food,percent,Statista,,28.941,31.92,81.292,56.709,-9.225,12.128,4.306,4.225,5.666,4.228
+Argentina,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,28.964,31.919,67.69,45.815,-9.387,11.91,4.098,4.05,4.981,3.733
+Argentina,Food,Revenue Change,Fish & Seafood,percent,Statista,,28.945,31.943,81.31,51.156,-10.453,10.569,2.864,2.785,4.688,3.257
+Argentina,Food,Revenue Change,Fruits & Nuts,percent,Statista,,28.956,31.933,80.986,51.024,-10.89,10.116,2.398,2.342,4.422,3.009
+Argentina,Food,Revenue Change,Meat,percent,Statista,,28.991,31.911,80.841,51.024,-10.858,10.114,2.414,2.383,4.45,3.036
+Argentina,Food,Revenue Change,Oils & Fats,percent,Statista,,28.961,31.923,67.477,45.745,-9.821,11.479,3.63,3.567,4.736,3.464
+Argentina,Food,Revenue Change,Sauces & Spices,percent,Statista,,28.947,31.957,53.339,40.172,-8.422,13.125,5.249,5.249,5.201,4.165
+Argentina,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,28.942,31.949,51.987,39.592,-10.453,10.628,2.912,2.867,3.894,2.82
+Argentina,Food,Revenue Change,Vegetables,percent,Statista,,28.966,31.883,81.145,51.115,-10.75,10.226,2.551,2.463,4.522,3.097
+Argentina,Food,Average Revenue per User,Total,USD (US$),Statista,22.85,26.6,31.58,50.58,69.65,57.2,58.74,56.77,54.96,54.17,52.92
+Argentina,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,3.406,3.965,4.707,7.691,10.86,8.998,9.326,9.095,8.885,8.812,8.66
+Argentina,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,6.801,7.916,9.397,15.04,21.85,17.77,18.07,17.29,16.58,16.3,15.87
+Argentina,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,2.391,2.783,3.303,5.399,7.658,6.377,6.639,6.504,6.383,6.347,6.255
+Argentina,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,11.53,13.42,15.93,24.08,31.79,26.42,27.46,26.85,26.29,25.98,25.49
+Argentina,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,11.68,13.59,16.14,26.37,36.1,29.65,30.44,29.41,28.46,28.04,27.39
+Argentina,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,3.419,3.98,4.724,7.705,10.54,8.614,8.805,8.468,8.16,8.022,7.814
+Argentina,Food,Average Revenue per User,Meat,USD (US$),Statista,17.97,20.92,24.84,40.49,55.36,45.26,46.28,44.52,42.91,42.19,41.11
+Argentina,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,4.787,5.572,6.614,9.984,13.17,10.9,11.28,10.98,10.71,10.56,10.33
+Argentina,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.501,0.583,0.693,0.958,1.215,1.021,1.072,1.06,1.05,1.04,1.024
+Argentina,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.739,0.86,1.021,1.399,1.768,1.452,1.491,1.442,1.396,1.366,1.328
+Argentina,Food,Average Revenue per User,Vegetables,USD (US$),Statista,5.876,6.84,8.119,13.25,18.13,14.84,15.19,14.63,14.12,13.89,13.54
+Argentina,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Food,Online & Offline Split,Offline,percent,Statista,99.852,99.809,99.743,99.605,99.367,99.341,99.327,99.309,99.29,,
+Argentina,Food,Online & Offline Split,Online,percent,Statista,0.148,0.191,0.257,0.395,0.633,0.659,0.673,0.691,0.71,,
+Argentina,Food,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Food,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Food,Users,Total,million users,Statista,3.032,3.36,3.733,4.142,4.575,4.988,5.372,5.719,6.075,6.454,6.824
+Argentina,Food,Users,Bread & Cereal Products,million users,Statista,1.425,1.579,1.755,1.947,2.15,2.344,2.525,2.688,2.855,3.033,3.208
+Argentina,Food,Users,Confectionery & Snacks,million users,Statista,1.486,1.646,1.829,2.03,2.242,2.444,2.632,2.803,2.977,3.162,3.344
+Argentina,Food,Users,Convenience Food,million users,Statista,1.698,1.881,2.091,2.32,2.562,2.793,3.008,3.203,3.402,3.614,3.822
+Argentina,Food,Users,Dairy Products & Eggs,million users,Statista,0.697,0.773,0.859,0.953,1.052,1.147,1.236,1.315,1.397,1.484,1.57
+Argentina,Food,Users,Fish & Seafood,million users,Statista,0.576,0.638,0.709,0.787,0.869,0.948,1.021,1.087,1.154,1.226,1.297
+Argentina,Food,Users,Fruits & Nuts,million users,Statista,1.577,1.747,1.941,2.154,2.379,2.594,2.793,2.974,3.159,3.356,3.549
+Argentina,Food,Users,Meat,million users,Statista,0.91,1.008,1.12,1.243,1.372,1.496,1.612,1.716,1.822,1.936,2.047
+Argentina,Food,Users,Oils & Fats,million users,Statista,0.758,0.84,0.933,1.036,1.144,1.247,1.343,1.43,1.519,1.613,1.706
+Argentina,Food,Users,Sauces & Spices,million users,Statista,1.334,1.478,1.643,1.823,2.013,2.195,2.364,2.517,2.673,2.84,3.003
+Argentina,Food,Users,Spreads & Sweeteners,million users,Statista,1.001,1.109,1.232,1.367,1.51,1.646,1.773,1.887,2.005,2.13,2.252
+Argentina,Food,Users,Vegetables,million users,Statista,1.486,1.646,1.829,2.03,2.242,2.444,2.632,2.803,2.977,3.162,3.344
+Argentina,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,3.244,3.559,3.918,4.308,4.715,5.095,5.44,5.744,6.05,6.376,6.689
+Argentina,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,3.382,3.711,4.085,4.491,4.915,5.312,5.672,5.988,6.308,6.647,6.973
+Argentina,Food,Penetration Rate,Convenience Food,percent,Statista,3.865,4.241,4.669,5.133,5.617,6.071,6.482,6.843,7.209,7.597,7.969
+Argentina,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.587,1.742,1.918,2.108,2.307,2.493,2.662,2.811,2.961,3.12,3.273
+Argentina,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.311,1.439,1.584,1.741,1.906,2.06,2.199,2.322,2.446,2.577,2.704
+Argentina,Food,Penetration Rate,Food,percent,Statista,6.902,7.573,8.337,9.165,10.031,10.84,11.575,12.22,12.873,13.565,14.231
+Argentina,Food,Penetration Rate,Fruits & Nuts,percent,Statista,3.589,3.938,4.335,4.766,5.216,5.637,6.019,6.355,6.694,7.054,7.4
+Argentina,Food,Penetration Rate,Meat,percent,Statista,2.071,2.272,2.501,2.75,3.009,3.252,3.473,3.666,3.862,4.07,4.269
+Argentina,Food,Penetration Rate,Oils & Fats,percent,Statista,1.725,1.893,2.084,2.291,2.508,2.71,2.894,3.055,3.218,3.391,3.558
+Argentina,Food,Penetration Rate,Sauces & Spices,percent,Statista,3.037,3.332,3.668,4.033,4.414,4.77,5.093,5.377,5.664,5.969,6.262
+Argentina,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,2.278,2.499,2.751,3.025,3.31,3.577,3.82,4.033,4.248,4.477,4.696
+Argentina,Food,Penetration Rate,Vegetables,percent,Statista,3.382,3.711,4.085,4.491,4.915,5.312,5.672,5.988,6.308,6.647,6.973
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,3.406,3.965,4.707,7.691,10.86,8.998,9.326,9.095,8.885,8.812,8.66
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,2.865,3.334,3.958,6.47,9.176,7.634,7.942,7.773,7.621,7.575,7.461
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.475,0.553,0.657,1.072,1.466,1.2,1.228,1.182,1.14,1.121,1.093
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,1.247,1.451,1.723,2.815,3.973,3.294,3.413,3.329,3.252,3.225,3.169
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.521,0.607,0.721,1.177,1.671,1.379,1.424,1.383,1.346,1.332,1.307
+Argentina,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.199,0.231,0.275,0.449,0.636,0.527,0.546,0.532,0.52,0.516,0.507
+Argentina,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,4.855,6.26,8.259,14.97,23.34,21.09,23.55,24.45,25.37,26.73,27.78
+Argentina,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,2.572,3.317,4.376,7.936,12.43,11.27,12.63,13.16,13.71,14.47,15.08
+Argentina,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.562,0.725,0.956,1.732,2.616,2.334,2.573,2.637,2.702,2.823,2.91
+Argentina,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.8,1.031,1.36,2.466,3.845,3.474,3.878,4.027,4.178,4.402,4.574
+Argentina,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.669,0.863,1.138,2.062,3.233,2.91,3.236,3.347,3.459,3.637,3.772
+Argentina,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.252,0.325,0.429,0.777,1.218,1.1,1.228,1.274,1.321,1.392,1.447
+Argentina,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,28.939,31.933,81.257,55.912,-9.64,11.664,3.822,3.763,5.361,3.928
+Argentina,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,28.966,31.926,81.353,56.628,-9.332,12.067,4.196,4.179,5.543,4.216
+Argentina,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,28.958,31.917,81.096,51.039,-10.78,10.24,2.487,2.465,4.478,3.082
+Argentina,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,28.939,31.911,81.324,55.921,-9.649,11.629,3.842,3.75,5.361,3.907
+Argentina,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,28.943,31.942,81.195,56.79,-9.991,11.203,3.43,3.346,5.146,3.712
+Argentina,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,28.968,31.938,81.273,56.696,-9.688,11.636,3.746,3.689,5.375,3.951
+Argentina,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Argentina,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Argentina,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.825,99.776,99.701,99.592,99.311,99.265,99.233,99.2,99.164,,
+Argentina,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.175,0.224,0.299,0.408,0.689,0.735,0.767,0.8,0.836,,
+Argentina,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Bread & Cereal Products,Users by Segment,Total,million users,Statista,1.425,1.579,1.755,1.947,2.15,2.344,2.525,2.688,2.855,3.033,3.208
+Argentina,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.898,0.995,1.105,1.227,1.355,1.477,1.591,1.694,1.799,1.911,2.021
+Argentina,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,1.183,1.311,1.456,1.616,1.785,1.946,2.096,2.231,2.37,2.518,2.662
+Argentina,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.641,0.711,0.79,0.876,0.968,1.055,1.136,1.21,1.285,1.365,1.443
+Argentina,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,1.283,1.421,1.579,1.752,1.935,2.11,2.272,2.419,2.57,2.73,2.887
+Argentina,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,1.268,1.405,1.562,1.733,1.914,2.086,2.247,2.392,2.541,2.7,2.855
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,2.044,2.242,2.469,2.714,2.97,3.21,3.427,3.618,3.812,4.017,4.214
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,3.244,3.559,3.918,4.308,4.715,5.095,5.44,5.744,6.05,6.376,6.689
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.692,2.954,3.252,3.575,3.913,4.229,4.516,4.767,5.022,5.292,5.552
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.46,1.602,1.763,1.939,2.122,2.293,2.448,2.585,2.723,2.869,3.01
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.919,3.203,3.527,3.877,4.243,4.585,4.896,5.169,5.445,5.738,6.02
+Argentina,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.887,3.168,3.487,3.834,4.196,4.534,4.842,5.112,5.385,5.674,5.953
+Argentina,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,6.801,7.916,9.397,15.04,21.85,17.77,18.07,17.29,16.58,16.3,15.87
+Argentina,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,6.506,7.572,8.989,14.38,20.9,16.99,17.27,16.53,15.84,15.57,15.16
+Argentina,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.16,0.187,0.222,0.355,0.515,0.419,0.426,0.408,0.391,0.385,0.374
+Argentina,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,1.481,1.724,2.047,3.278,4.758,3.874,3.944,3.778,3.626,3.568,3.475
+Argentina,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,10.11,13.03,17.19,30.52,48.97,43.42,47.56,48.45,49.34,51.55,53.06
+Argentina,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,7.927,10.22,13.49,23.94,38.42,34.05,37.29,37.98,38.66,40.39,41.56
+Argentina,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.131,0.169,0.223,0.396,0.635,0.563,0.617,0.629,0.64,0.669,0.689
+Argentina,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,2.047,2.64,3.483,6.188,9.92,8.805,9.655,9.847,10.04,10.49,10.81
+Argentina,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,28.882,31.926,77.545,60.452,-11.333,9.535,1.871,1.837,4.479,2.929
+Argentina,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,28.926,31.996,77.465,60.485,-11.374,9.515,1.85,1.79,4.475,2.897
+Argentina,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,28.986,31.875,77.578,60.455,-11.331,9.531,1.88,1.829,4.483,2.93
+Argentina,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,28.969,31.932,77.663,60.31,-11.24,9.654,1.989,1.96,4.482,3.051
+Argentina,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Argentina,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Argentina,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.852,99.807,99.736,99.603,99.311,99.274,99.248,99.222,99.192,,
+Argentina,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.148,0.193,0.264,0.397,0.689,0.726,0.752,0.778,0.808,,
+Argentina,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Confectionery & Snacks,Users by Segment,Total,million users,Statista,1.486,1.646,1.829,2.03,2.242,2.444,2.632,2.803,2.977,3.162,3.344
+Argentina,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,1.218,1.35,1.5,1.664,1.838,2.004,2.158,2.298,2.441,2.593,2.742
+Argentina,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.817,0.905,1.006,1.116,1.233,1.344,1.448,1.541,1.637,1.739,1.839
+Argentina,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,1.382,1.531,1.701,1.888,2.085,2.273,2.448,2.606,2.768,2.941,3.11
+Argentina,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.773,3.043,3.35,3.683,4.031,4.356,4.651,4.91,5.172,5.451,5.718
+Argentina,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,3.382,3.711,4.085,4.491,4.915,5.312,5.672,5.988,6.308,6.647,6.973
+Argentina,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.86,2.041,2.247,2.47,2.703,2.921,3.12,3.293,3.469,3.656,3.835
+Argentina,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,3.145,3.451,3.799,4.177,4.571,4.94,5.275,5.569,5.866,6.182,6.485
+Argentina,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,2.391,2.783,3.303,5.399,7.658,6.377,6.639,6.504,6.383,6.347,6.255
+Argentina,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,3.073,3.577,4.246,6.941,9.845,8.206,8.553,8.387,8.239,8.197,8.083
+Argentina,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.45,0.524,0.622,1.016,1.442,1.191,1.23,1.195,1.163,1.152,1.129
+Argentina,Convenience Food,Revenue,Total,million USD (US$),Statista,4.06,5.235,6.906,12.52,19.62,17.81,19.97,20.83,21.71,22.94,23.91
+Argentina,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,3.601,4.643,6.126,11.11,17.4,15.81,17.75,18.54,19.34,20.44,21.32
+Argentina,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.459,0.592,0.78,1.415,2.217,1.996,2.22,2.297,2.374,2.497,2.59
+Argentina,Convenience Food,Revenue Change,Total,percent,Statista,,28.941,31.92,81.292,56.709,-9.225,12.128,4.306,4.225,5.666,4.228
+Argentina,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,28.936,31.941,81.358,56.616,-9.138,12.271,4.451,4.315,5.688,4.305
+Argentina,Convenience Food,Revenue Change,Soups,percent,Statista,,28.951,31.919,81.341,56.678,-9.968,11.222,3.468,3.352,5.181,3.724
+Argentina,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.854,99.814,99.754,99.673,99.445,99.407,99.381,99.353,99.324,,
+Argentina,Convenience Food,Online & Offline Split,Online,percent,Statista,0.146,0.186,0.246,0.327,0.555,0.593,0.619,0.647,0.676,,
+Argentina,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Convenience Food,Users by Segment,Total,million users,Statista,1.698,1.881,2.091,2.32,2.562,2.793,3.008,3.203,3.402,3.614,3.822
+Argentina,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,1.172,1.298,1.443,1.601,1.768,1.927,2.076,2.21,2.347,2.494,2.637
+Argentina,Convenience Food,Users by Segment,Soups,million users,Statista,1.019,1.129,1.254,1.392,1.537,1.676,1.805,1.922,2.041,2.169,2.293
+Argentina,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.865,4.241,4.669,5.133,5.617,6.071,6.482,6.843,7.209,7.597,7.969
+Argentina,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.667,2.926,3.221,3.542,3.876,4.189,4.473,4.722,4.974,5.242,5.499
+Argentina,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,2.319,2.545,2.801,3.08,3.37,3.642,3.889,4.106,4.325,4.558,4.782
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,11.53,13.42,15.93,24.08,31.79,26.42,27.46,26.85,26.29,25.98,25.49
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,3.257,3.791,4.5,6.793,8.964,7.43,7.701,7.51,7.336,7.239,7.09
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,4.548,5.293,6.284,9.495,12.53,10.4,10.8,10.55,10.32,10.2,10
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,4.697,5.467,6.49,9.812,12.96,10.77,11.2,10.95,10.73,10.61,10.41
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,4.695,5.465,6.488,9.825,12.98,10.85,11.34,11.15,10.99,10.9,10.74
+Argentina,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,3.316,3.859,4.581,6.922,9.138,7.587,7.876,7.692,7.526,7.435,7.291
+Argentina,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,8.041,10.37,13.68,22.94,33.45,30.31,33.92,35.31,36.74,38.57,40.01
+Argentina,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,1.704,2.197,2.898,4.854,7.074,6.393,7.136,7.409,7.688,8.059,8.346
+Argentina,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,1.364,1.759,2.32,3.89,5.671,5.132,5.738,5.966,6.2,6.504,6.743
+Argentina,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,2.555,3.295,4.347,7.292,10.63,9.638,10.79,11.24,11.69,12.28,12.74
+Argentina,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,1.146,1.478,1.95,3.276,4.781,4.357,4.905,5.136,5.374,5.66,5.892
+Argentina,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,1.272,1.64,2.164,3.627,5.288,4.787,5.352,5.566,5.784,6.069,6.291
+Argentina,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,28.964,31.919,67.69,45.815,-9.387,11.91,4.098,4.05,4.981,3.733
+Argentina,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,28.932,31.907,67.495,45.735,-9.627,11.622,3.826,3.766,4.826,3.561
+Argentina,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,28.959,31.893,67.672,45.784,-9.504,11.808,3.974,3.922,4.903,3.675
+Argentina,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,28.963,31.927,67.748,45.776,-9.332,11.953,4.171,4.004,5.047,3.746
+Argentina,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,28.97,31.935,68,45.94,-8.868,12.577,4.709,4.634,5.322,4.099
+Argentina,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,28.931,31.951,67.606,45.795,-9.474,11.803,3.999,3.917,4.927,3.658
+Argentina,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Argentina,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Argentina,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.854,99.814,99.752,99.622,99.436,99.418,99.409,99.397,99.381,,
+Argentina,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.146,0.186,0.248,0.378,0.564,0.582,0.591,0.603,0.619,,
+Argentina,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.697,0.773,0.859,0.953,1.052,1.147,1.236,1.315,1.397,1.484,1.57
+Argentina,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.523,0.58,0.644,0.715,0.789,0.86,0.927,0.987,1.048,1.113,1.177
+Argentina,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.3,0.332,0.369,0.41,0.452,0.493,0.531,0.566,0.601,0.638,0.674
+Argentina,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.544,0.603,0.67,0.743,0.821,0.895,0.964,1.026,1.09,1.158,1.224
+Argentina,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.244,0.27,0.301,0.333,0.368,0.402,0.432,0.46,0.489,0.519,0.549
+Argentina,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.384,0.425,0.472,0.524,0.579,0.631,0.68,0.724,0.768,0.816,0.863
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.191,1.306,1.438,1.581,1.73,1.87,1.997,2.108,2.221,2.34,2.455
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.587,1.742,1.918,2.108,2.307,2.493,2.662,2.811,2.961,3.12,3.273
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.683,0.749,0.825,0.906,0.992,1.072,1.145,1.209,1.273,1.341,1.406
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.238,1.359,1.496,1.644,1.8,1.945,2.077,2.192,2.309,2.434,2.553
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.556,0.61,0.671,0.738,0.808,0.873,0.932,0.984,1.036,1.091,1.144
+Argentina,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.873,0.958,1.055,1.159,1.269,1.371,1.464,1.546,1.628,1.716,1.799
+Argentina,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,11.68,13.59,16.14,26.37,36.1,29.65,30.44,29.41,28.46,28.04,27.39
+Argentina,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,18.72,21.79,25.87,42.21,57.75,47.28,48.4,46.62,44.98,44.28,43.2
+Argentina,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,7.659,8.915,10.58,17.34,23.77,19.64,20.29,19.72,19.21,19,18.64
+Argentina,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,2.824,3.287,3.902,6.388,8.753,7.216,7.438,7.213,7.008,6.919,6.771
+Argentina,Fish & Seafood,Revenue,Total,million USD (US$),Statista,6.73,8.678,11.45,20.76,31.38,28.1,31.07,31.96,32.85,34.39,35.51
+Argentina,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,4.206,5.424,7.156,12.96,19.58,17.47,19.27,19.76,20.25,21.16,21.82
+Argentina,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,1.059,1.366,1.802,3.275,4.958,4.466,4.97,5.144,5.32,5.587,5.79
+Argentina,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,1.464,1.888,2.491,4.525,6.848,6.154,6.832,7.055,7.28,7.636,7.902
+Argentina,Fish & Seafood,Revenue Change,Total,percent,Statista,,28.945,31.943,81.31,51.156,-10.453,10.569,2.864,2.785,4.688,3.257
+Argentina,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,28.959,31.932,81.107,51.08,-10.776,10.303,2.543,2.48,4.494,3.119
+Argentina,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,28.99,31.918,81.743,51.389,-9.923,11.285,3.501,3.421,5.019,3.633
+Argentina,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,28.962,31.939,81.654,51.337,-10.134,11.017,3.264,3.189,4.89,3.483
+Argentina,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.854,99.813,99.751,99.601,99.374,99.356,99.349,99.338,99.325,,
+Argentina,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.146,0.187,0.249,0.399,0.626,0.644,0.651,0.662,0.675,,
+Argentina,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Fish & Seafood,Users by Segment,Total,million users,Statista,0.576,0.638,0.709,0.787,0.869,0.948,1.021,1.087,1.154,1.226,1.297
+Argentina,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.225,0.249,0.277,0.307,0.339,0.37,0.398,0.424,0.45,0.478,0.505
+Argentina,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.138,0.153,0.17,0.189,0.209,0.227,0.245,0.261,0.277,0.294,0.311
+Argentina,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.519,0.574,0.638,0.708,0.782,0.853,0.919,0.978,1.039,1.104,1.167
+Argentina,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.311,1.439,1.584,1.741,1.906,2.06,2.199,2.322,2.446,2.577,2.704
+Argentina,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.511,0.561,0.618,0.679,0.743,0.803,0.858,0.906,0.954,1.005,1.053
+Argentina,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.315,0.345,0.38,0.418,0.457,0.494,0.528,0.557,0.587,0.618,0.648
+Argentina,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.18,1.295,1.426,1.567,1.715,1.854,1.979,2.09,2.201,2.32,2.433
+Argentina,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,3.419,3.98,4.724,7.705,10.54,8.614,8.805,8.468,8.16,8.022,7.814
+Argentina,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,4.154,4.835,5.74,9.361,12.8,10.47,10.7,10.29,9.913,9.745,9.494
+Argentina,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.497,0.578,0.686,1.118,1.528,1.248,1.273,1.223,1.176,1.155,1.124
+Argentina,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.505,0.588,0.698,1.139,1.559,1.277,1.307,1.26,1.216,1.197,1.167
+Argentina,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,5.391,6.952,9.172,16.6,25.07,22.34,24.6,25.19,25.78,26.92,27.73
+Argentina,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,4.586,5.913,7.801,14.12,21.32,19,20.92,21.42,21.92,22.89,23.58
+Argentina,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.392,0.505,0.666,1.204,1.818,1.618,1.778,1.818,1.858,1.939,1.995
+Argentina,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.414,0.534,0.705,1.276,1.929,1.722,1.899,1.948,1.998,2.088,2.153
+Argentina,Fruits & Nuts,Revenue Change,Total,percent,Statista,,28.956,31.933,80.986,51.024,-10.89,10.116,2.398,2.342,4.422,3.009
+Argentina,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,28.936,31.93,81.002,50.992,-10.882,10.105,2.39,2.334,4.425,3.014
+Argentina,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,28.958,31.921,80.727,50.997,-11.001,9.889,2.25,2.2,4.36,2.888
+Argentina,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,28.947,31.923,81.096,51.176,-10.731,10.279,2.58,2.567,4.505,3.113
+Argentina,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.854,99.811,99.745,99.589,99.349,99.327,99.315,99.3,99.282,,
+Argentina,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.146,0.189,0.255,0.411,0.651,0.673,0.685,0.7,0.718,,
+Argentina,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Fruits & Nuts,Users by Segment,Total,million users,Statista,1.577,1.747,1.941,2.154,2.379,2.594,2.793,2.974,3.159,3.356,3.549
+Argentina,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,1.104,1.223,1.359,1.508,1.665,1.815,1.955,2.082,2.211,2.349,2.484
+Argentina,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.788,0.873,0.971,1.077,1.189,1.297,1.397,1.487,1.579,1.678,1.774
+Argentina,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.82,0.908,1.01,1.12,1.237,1.349,1.453,1.547,1.643,1.745,1.845
+Argentina,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.512,2.757,3.035,3.336,3.651,3.946,4.213,4.448,4.686,4.938,5.18
+Argentina,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,3.589,3.938,4.335,4.766,5.216,5.637,6.019,6.355,6.694,7.054,7.4
+Argentina,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.794,1.969,2.168,2.383,2.608,2.818,3.01,3.177,3.347,3.527,3.7
+Argentina,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.866,2.048,2.254,2.478,2.712,2.931,3.13,3.304,3.481,3.668,3.848
+Argentina,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,17.97,20.92,24.84,40.49,55.36,45.26,46.28,44.52,42.91,42.19,41.11
+Argentina,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,18.93,22.03,26.16,42.73,58.48,47.96,49.18,47.44,45.85,45.15,44.06
+Argentina,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,5.646,6.572,7.802,12.65,17.25,13.99,14.19,13.54,12.95,12.68,12.31
+Argentina,Meat,Revenue,Total,million USD (US$),Statista,16.35,21.09,27.82,50.31,75.98,67.73,74.58,76.38,78.2,81.68,84.16
+Argentina,Meat,Revenue,Fresh Meat,million USD (US$),Statista,11.88,15.32,20.22,36.64,55.38,49.52,54.68,56.17,57.66,60.32,62.24
+Argentina,Meat,Revenue,Processed Meat,million USD (US$),Statista,4.469,5.763,7.603,13.67,20.6,18.21,19.89,20.22,20.54,21.37,21.92
+Argentina,Meat,Revenue Change,Total,percent,Statista,,28.991,31.911,80.841,51.024,-10.858,10.114,2.414,2.383,4.45,3.036
+Argentina,Meat,Revenue Change,Fresh Meat,percent,Statista,,28.956,31.984,81.207,51.146,-10.581,10.42,2.725,2.653,4.613,3.183
+Argentina,Meat,Revenue Change,Processed Meat,percent,Statista,,28.955,31.928,79.797,50.695,-11.602,9.226,1.659,1.583,4.041,2.574
+Argentina,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Argentina,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Argentina,Meat,Online & Offline Split,Offline,percent,Statista,99.854,99.811,99.746,99.59,99.351,99.329,99.317,99.302,99.285,,
+Argentina,Meat,Online & Offline Split,Online,percent,Statista,0.146,0.189,0.254,0.41,0.649,0.671,0.683,0.698,0.715,,
+Argentina,Meat,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Meat,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Meat,Users by Segment,Total,million users,Statista,0.91,1.008,1.12,1.243,1.372,1.496,1.612,1.716,1.822,1.936,2.047
+Argentina,Meat,Users by Segment,Fresh Meat,million users,Statista,0.628,0.695,0.773,0.857,0.947,1.032,1.112,1.184,1.258,1.336,1.413
+Argentina,Meat,Users by Segment,Processed Meat,million users,Statista,0.791,0.877,0.974,1.081,1.194,1.302,1.402,1.493,1.586,1.684,1.781
+Argentina,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.429,1.568,1.726,1.897,2.076,2.244,2.396,2.53,2.665,2.808,2.946
+Argentina,Meat,Penetration Rate by Segment,Meat,percent,Statista,2.071,2.272,2.501,2.75,3.009,3.252,3.473,3.666,3.862,4.07,4.269
+Argentina,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.801,1.977,2.176,2.392,2.618,2.829,3.021,3.189,3.36,3.541,3.714
+Argentina,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,4.787,5.572,6.614,9.984,13.17,10.9,11.28,10.98,10.71,10.56,10.33
+Argentina,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.293,0.341,0.405,0.612,0.808,0.67,0.695,0.678,0.663,0.654,0.641
+Argentina,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,2.358,2.745,3.259,4.924,6.501,5.394,5.596,5.463,5.341,5.273,5.168
+Argentina,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,1.26,1.466,1.74,2.623,3.459,2.854,2.944,2.857,2.778,2.734,2.671
+Argentina,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,2.772,3.226,3.83,5.778,7.622,6.298,6.506,6.324,6.158,6.067,5.932
+Argentina,Oils & Fats,Revenue,Total,million USD (US$),Statista,3.629,4.68,6.174,10.34,15.07,13.59,15.15,15.7,16.26,17.03,17.62
+Argentina,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.182,0.235,0.31,0.52,0.758,0.685,0.766,0.795,0.826,0.866,0.897
+Argentina,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,1.412,1.821,2.403,4.029,5.874,5.313,5.937,6.17,6.409,6.722,6.966
+Argentina,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.773,0.997,1.316,2.201,3.205,2.883,3.203,3.309,3.418,3.574,3.691
+Argentina,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,1.261,1.626,2.145,3.59,5.23,4.711,5.243,5.425,5.611,5.872,6.071
+Argentina,Oils & Fats,Revenue Change,Total,percent,Statista,,28.961,31.923,67.477,45.745,-9.821,11.479,3.63,3.567,4.736,3.464
+Argentina,Oils & Fats,Revenue Change,Butter,percent,Statista,,28.963,31.944,67.634,45.788,-9.59,11.701,3.879,3.81,4.857,3.616
+Argentina,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,28.966,31.96,67.665,45.793,-9.551,11.745,3.925,3.874,4.884,3.63
+Argentina,Oils & Fats,Revenue Change,Margarine,percent,Statista,,28.963,31.943,67.249,45.616,-10.047,11.1,3.309,3.294,4.564,3.274
+Argentina,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,28.945,31.919,67.366,45.682,-9.924,11.293,3.471,3.429,4.652,3.389
+Argentina,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.854,99.812,99.747,99.611,99.414,99.393,99.38,99.363,99.344,,
+Argentina,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.146,0.188,0.253,0.389,0.586,0.607,0.62,0.637,0.656,,
+Argentina,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Oils & Fats,Users by Segment,Total,million users,Statista,0.758,0.84,0.933,1.036,1.144,1.247,1.343,1.43,1.519,1.613,1.706
+Argentina,Oils & Fats,Users by Segment,Butter,million users,Statista,0.622,0.689,0.765,0.849,0.938,1.022,1.101,1.172,1.245,1.323,1.399
+Argentina,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.599,0.664,0.737,0.818,0.904,0.985,1.061,1.13,1.2,1.275,1.348
+Argentina,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.614,0.68,0.756,0.839,0.926,1.01,1.088,1.158,1.23,1.307,1.382
+Argentina,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.455,0.504,0.56,0.621,0.686,0.748,0.806,0.858,0.911,0.968,1.023
+Argentina,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.415,1.552,1.709,1.879,2.056,2.222,2.373,2.505,2.639,2.781,2.917
+Argentina,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.363,1.496,1.647,1.81,1.981,2.141,2.286,2.414,2.542,2.679,2.811
+Argentina,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.398,1.534,1.688,1.856,2.031,2.195,2.344,2.475,2.607,2.747,2.882
+Argentina,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.725,1.893,2.084,2.291,2.508,2.71,2.894,3.055,3.218,3.391,3.558
+Argentina,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.035,1.136,1.251,1.375,1.505,1.626,1.736,1.833,1.931,2.034,2.134
+Argentina,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.501,0.583,0.693,0.958,1.215,1.021,1.072,1.06,1.05,1.04,1.024
+Argentina,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.445,0.518,0.615,0.851,1.081,0.908,0.954,0.943,0.935,0.926,0.912
+Argentina,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.257,0.298,0.354,0.489,0.621,0.521,0.547,0.54,0.535,0.529,0.521
+Argentina,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.669,0.862,1.138,1.745,2.446,2.24,2.534,2.667,2.807,2.953,3.076
+Argentina,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.463,0.598,0.788,1.21,1.696,1.554,1.758,1.851,1.949,2.051,2.137
+Argentina,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.205,0.265,0.349,0.535,0.749,0.686,0.776,0.816,0.858,0.902,0.939
+Argentina,Sauces & Spices,Revenue Change,Total,percent,Statista,,28.947,31.957,53.339,40.172,-8.422,13.125,5.249,5.249,5.201,4.165
+Argentina,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,28.96,31.928,53.475,40.165,-8.373,13.127,5.29,5.294,5.233,4.193
+Argentina,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,28.982,31.911,53.163,40.075,-8.447,13.088,5.194,5.109,5.164,4.101
+Argentina,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.146,0.185,0.245,0.352,0.498,0.513,0.522,0.535,0.55,,
+Argentina,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Sauces & Spices,Users by Segment,Total,million users,Statista,1.334,1.478,1.643,1.823,2.013,2.195,2.364,2.517,2.673,2.84,3.003
+Argentina,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,1.041,1.153,1.281,1.422,1.57,1.712,1.844,1.963,2.085,2.215,2.342
+Argentina,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.801,0.887,0.986,1.094,1.208,1.317,1.418,1.51,1.604,1.704,1.802
+Argentina,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,3.037,3.332,3.668,4.033,4.414,4.77,5.093,5.377,5.664,5.969,6.262
+Argentina,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.369,2.599,2.861,3.146,3.443,3.72,3.973,4.194,4.418,4.656,4.884
+Argentina,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.822,1.999,2.201,2.42,2.648,2.862,3.056,3.226,3.398,3.581,3.757
+Argentina,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.739,0.86,1.021,1.399,1.768,1.452,1.491,1.442,1.396,1.366,1.328
+Argentina,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.476,0.555,0.658,0.902,1.14,0.947,0.983,0.96,0.939,0.923,0.903
+Argentina,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.745,0.867,1.029,1.41,1.783,1.447,1.469,1.403,1.343,1.306,1.262
+Argentina,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.739,0.953,1.258,1.912,2.669,2.39,2.644,2.721,2.799,2.908,2.99
+Argentina,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.382,0.492,0.649,0.987,1.377,1.247,1.394,1.45,1.507,1.573,1.626
+Argentina,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.358,0.462,0.609,0.925,1.292,1.143,1.25,1.271,1.292,1.335,1.364
+Argentina,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,28.942,31.949,51.987,39.592,-10.453,10.628,2.912,2.867,3.894,2.82
+Argentina,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,28.938,31.937,52.003,39.584,-9.441,11.788,4.017,3.931,4.38,3.369
+Argentina,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,28.947,31.918,52.004,39.615,-11.533,9.361,1.68,1.652,3.328,2.172
+Argentina,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Argentina,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Argentina,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.852,99.801,99.72,99.577,99.37,99.331,99.301,99.261,99.216,,
+Argentina,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.148,0.199,0.28,0.423,0.63,0.669,0.699,0.739,0.784,,
+Argentina,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,1.001,1.109,1.232,1.367,1.51,1.646,1.773,1.887,2.005,2.13,2.252
+Argentina,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.801,0.887,0.986,1.094,1.208,1.317,1.418,1.51,1.604,1.704,1.802
+Argentina,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.48,0.532,0.591,0.656,0.725,0.79,0.851,0.906,0.962,1.022,1.081
+Argentina,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.822,1.999,2.201,2.42,2.648,2.862,3.056,3.226,3.398,3.581,3.757
+Argentina,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,2.278,2.499,2.751,3.025,3.31,3.577,3.82,4.033,4.248,4.477,4.696
+Argentina,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.093,1.2,1.321,1.452,1.589,1.717,1.834,1.936,2.039,2.149,2.254
+Argentina,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,5.876,6.84,8.119,13.25,18.13,14.84,15.19,14.63,14.12,13.89,13.54
+Argentina,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,6.461,7.521,8.928,14.57,19.94,16.32,16.7,16.08,15.52,15.26,14.88
+Argentina,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,2.706,3.15,3.739,6.104,8.352,6.839,7.003,6.746,6.511,6.406,6.246
+Argentina,Vegetables,Revenue,Total,million USD (US$),Statista,8.731,11.26,14.85,26.9,40.65,36.28,39.99,41.01,42.02,43.92,45.28
+Argentina,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,6.721,8.667,11.43,20.71,31.28,27.92,30.78,31.55,32.33,33.79,34.83
+Argentina,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,2.01,2.592,3.42,6.195,9.361,8.358,9.216,9.453,9.691,10.13,10.44
+Argentina,Vegetables,Revenue Change,Total,percent,Statista,,28.966,31.883,81.145,51.115,-10.75,10.226,2.551,2.463,4.522,3.097
+Argentina,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,28.954,31.88,81.19,51.038,-10.742,10.244,2.502,2.472,4.516,3.078
+Argentina,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,28.955,31.944,81.14,51.106,-10.715,10.266,2.572,2.518,4.53,3.06
+Argentina,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Argentina,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Argentina,Vegetables,Online & Offline Split,Offline,percent,Statista,99.854,99.812,99.747,99.593,99.357,99.336,99.325,99.312,99.296,,
+Argentina,Vegetables,Online & Offline Split,Online,percent,Statista,0.146,0.188,0.253,0.407,0.643,0.664,0.675,0.688,0.704,,
+Argentina,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,87.536,86.769,85.805,84.536,83.893,83.357,82.927,82.914,82.904,,
+Argentina,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,12.464,13.231,14.195,15.464,16.107,16.643,17.073,17.086,17.096,,
+Argentina,Vegetables,Users by Segment,Total,million users,Statista,1.486,1.646,1.829,2.03,2.242,2.444,2.632,2.803,2.977,3.162,3.344
+Argentina,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,1.04,1.152,1.281,1.421,1.569,1.711,1.843,1.962,2.084,2.214,2.341
+Argentina,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.743,0.823,0.915,1.015,1.121,1.222,1.316,1.401,1.488,1.581,1.672
+Argentina,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,2.367,2.598,2.86,3.144,3.441,3.718,3.97,4.192,4.415,4.653,4.881
+Argentina,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.691,1.855,2.043,2.246,2.458,2.656,2.836,2.994,3.154,3.324,3.487
+Argentina,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,3.382,3.711,4.085,4.491,4.915,5.312,5.672,5.988,6.308,6.647,6.973

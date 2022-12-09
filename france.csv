@@ -1,0 +1,703 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+France,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.715,,,,,,
+France,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.442,,,,,,
+France,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.668,,,,,,
+France,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,21.99,,,,,,
+France,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.185,,,,,,
+France,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,52.007,,,,,,
+France,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,47.993,,,,,,
+France,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,33.108,,,,,,
+France,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.905,,,,,,
+France,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.986,,,,,,
+France,eCommerce,Revenue,Total,billion USD (US$),Statista,49.08,53.76,58.89,79.68,92.02,83.74,106.5,119.3,133.8,142.3,151.7
+France,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,6.971,7.591,8.25,10.53,11.73,11.31,14.27,16.31,18.65,19.91,21.4
+France,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.803,0.889,0.985,1.485,1.846,1.815,2.361,2.818,3.404,3.662,3.985
+France,eCommerce,Revenue,Electronics,billion USD (US$),Statista,10.02,11.14,12.32,17.18,20.16,16.56,21.47,23.08,24.71,25.88,27.03
+France,eCommerce,Revenue,Fashion,billion USD (US$),Statista,16.36,17.96,19.69,26.26,30.08,28.01,34.01,37.3,40.77,43.39,46.12
+France,eCommerce,Revenue,Food,billion USD (US$),Statista,1.571,1.737,1.919,3.081,4.004,4.603,6.909,9.38,12.73,13.83,15.4
+France,eCommerce,Revenue,Furniture,billion USD (US$),Statista,4.849,5.383,5.996,8.063,9.313,7.903,11.46,13.21,15.13,16.31,17.65
+France,eCommerce,Revenue,Media,billion USD (US$),Statista,1.865,1.861,1.857,2.301,2.411,2.044,2.264,2.269,2.269,2.286,2.297
+France,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,6.645,7.198,7.869,10.79,12.48,11.49,13.8,14.93,16.12,16.98,17.87
+France,eCommerce,Revenue Change,Total,percent,Statista,,9.535,9.54,35.319,15.482,-8.999,27.237,11.973,12.135,6.33,6.671
+France,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,8.902,8.678,27.636,11.387,-3.574,26.156,14.322,14.358,6.757,7.438
+France,eCommerce,Revenue Change,Beverages,percent,Statista,,10.791,10.757,50.806,24.283,-1.688,30.128,19.33,20.785,7.598,8.804
+France,eCommerce,Revenue Change,Electronics,percent,Statista,,11.194,10.593,39.451,17.331,-17.824,29.638,7.496,7.059,4.732,4.43
+France,eCommerce,Revenue Change,Fashion,percent,Statista,,9.794,9.643,33.356,14.542,-6.883,21.438,9.673,9.308,6.42,6.288
+France,eCommerce,Revenue Change,Food,percent,Statista,,10.584,10.486,60.561,29.961,14.97,50.073,35.769,35.699,8.637,11.346
+France,eCommerce,Revenue Change,Furniture,percent,Statista,,11.018,11.39,34.468,15.511,-15.139,45.062,15.242,14.501,7.791,8.23
+France,eCommerce,Revenue Change,Media,percent,Statista,,-0.212,-0.212,23.91,4.777,-15.205,10.759,0.19,0.022,0.75,0.47
+France,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,8.316,9.325,37.067,15.739,-7.932,20.039,8.226,7.929,5.378,5.235
+France,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,1.206,1.264,1.32,1.726,1.898,1.668,2.087,2.326,2.596,2.726,2.884
+France,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.492,0.499,0.5,0.591,0.612,0.559,0.679,0.752,0.835,0.864,0.904
+France,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.105,0.107,0.109,0.149,0.169,0.153,0.186,0.209,0.239,0.243,0.251
+France,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.49,0.499,0.498,0.625,0.668,0.51,0.624,0.634,0.644,0.641,0.639
+France,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.812,0.818,0.815,0.988,1.041,0.901,1.033,1.087,1.142,1.164,1.191
+France,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.219,0.223,0.225,0.329,0.391,0.414,0.579,0.741,0.95,0.975,1.03
+France,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,0.54,0.54,0.538,0.647,0.663,0.509,0.682,0.727,0.773,0.781,0.795
+France,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.127,0.117,0.106,0.12,0.115,0.091,0.094,0.09,0.086,0.082,0.079
+France,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.427,0.416,0.407,0.501,0.52,0.432,0.476,0.48,0.485,0.479,0.475
+France,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,6.978,7.081,7.479,7.879,7.66,7.445,7.177,6.877,6.578,,
+France,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,61.11,60.535,58.89,57.273,54.42,51.771,48.984,46.064,43.145,,
+France,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,3.638,3.691,3.501,3.333,3.04,2.789,2.556,2.337,2.118,,
+France,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,2.553,2.591,2.658,2.727,2.651,2.577,2.484,2.381,2.277,,
+France,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,5.99,6.078,6.381,6.667,8.374,9.601,10.949,12.409,13.869,,
+France,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,15.519,15.748,16.533,17.273,19.141,21.236,23.433,25.699,27.966,,
+France,eCommerce,Revenue Share Payment Types,Other,percent,Statista,4.213,4.275,4.557,4.848,4.714,4.581,4.417,4.232,4.048,,
+France,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,6.516,6.623,6.731,6.828,6.914,6.99,7.058,7.117,7.169,,
+France,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,93.484,93.377,93.269,93.172,93.086,93.01,92.942,92.883,92.831,,
+France,eCommerce,Online & Offline Split,Offline,percent,Statista,89.709,88.824,87.97,83.571,81.533,80.291,78.719,76.867,74.762,,
+France,eCommerce,Online & Offline Split,Online,percent,Statista,10.291,11.176,12.03,16.429,18.467,19.709,21.281,23.133,25.238,,
+France,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,71.776,68.209,65.291,63.293,61.773,61.023,60.175,59.323,58.452,,
+France,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,28.224,31.791,34.709,36.707,38.227,38.977,39.825,40.677,41.548,,
+France,eCommerce,Users,Total,million users,Statista,40.704,42.518,44.625,46.156,48.494,50.19,51.063,51.298,51.528,52.174,52.613
+France,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,14.163,15.208,16.482,17.813,19.155,20.214,21.008,21.699,22.335,23.041,23.661
+France,eCommerce,Users,Beverages,million users,Statista,7.621,8.273,9.059,9.946,10.902,11.823,12.685,13.463,14.256,15.086,15.902
+France,eCommerce,Users,Electronics,million users,Statista,20.421,22.323,24.716,27.462,30.153,32.453,34.419,36.379,38.356,40.37,42.307
+France,eCommerce,Users,Fashion,million users,Statista,20.138,21.962,24.159,26.572,28.881,31.082,32.914,34.301,35.705,37.285,38.723
+France,eCommerce,Users,Food,million users,Statista,7.166,7.78,8.518,9.352,10.251,11.117,11.927,12.659,13.404,14.185,14.952
+France,eCommerce,Users,Furniture,million users,Statista,8.984,9.965,11.151,12.469,14.048,15.519,16.807,18.178,19.576,20.886,22.208
+France,eCommerce,Users,Media,million users,Statista,14.673,15.93,17.442,19.149,20.991,22.551,23.966,25.194,26.444,27.802,29.095
+France,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,15.564,17.297,19.331,21.525,23.993,26.602,28.97,31.081,33.225,35.443,37.631
+France,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,21.842,23.4,25.307,27.29,29.278,30.822,31.954,32.927,33.815,34.811,35.675
+France,eCommerce,Penetration Rate,Beverages,percent,Statista,11.753,12.73,13.91,15.237,16.664,18.027,19.293,20.429,21.583,22.792,23.976
+France,eCommerce,Penetration Rate,eCommerce,percent,Statista,62.773,65.422,68.517,70.711,74.12,76.527,77.668,77.84,78.013,78.824,79.327
+France,eCommerce,Penetration Rate,Electronics,percent,Statista,31.494,34.348,37.95,42.073,46.087,49.482,52.353,55.202,58.071,60.991,63.788
+France,eCommerce,Penetration Rate,Fashion,percent,Statista,31.057,33.792,37.094,40.708,44.143,47.393,50.063,52.049,54.057,56.33,58.384
+France,eCommerce,Penetration Rate,Food,percent,Statista,11.052,11.97,13.079,14.327,15.669,16.951,18.142,19.209,20.294,21.431,22.544
+France,eCommerce,Penetration Rate,Furniture,percent,Statista,13.855,15.333,17.122,19.103,21.472,23.663,25.564,27.584,29.638,31.555,33.484
+France,eCommerce,Penetration Rate,Media,percent,Statista,22.629,24.511,26.781,29.337,32.084,34.385,36.453,38.23,40.037,42.004,43.868
+France,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,24.002,26.615,29.681,32.976,36.672,40.561,44.064,47.162,50.303,53.547,56.738
+France,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.331,,,,,,
+France,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.918,,,,,,
+France,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.131,,,,,,
+France,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.234,,,,,,
+France,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.387,,,,,,
+France,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,47.418,,,,,,
+France,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,52.582,,,,,,
+France,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.561,,,,,,
+France,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.171,,,,,,
+France,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.268,,,,,,
+France,Electronics,Revenue,Total,billion USD (US$),Statista,10.02,11.14,12.32,17.18,20.16,16.56,21.47,23.08,24.71,25.88,27.03
+France,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,6.785,7.567,8.372,11.79,13.88,10.98,14.99,16.26,17.54,18.4,19.27
+France,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,3.232,3.572,3.947,5.39,6.276,5.581,6.487,6.822,7.167,7.477,7.76
+France,Electronics,Revenue Change,Total,percent,Statista,,11.194,10.593,39.451,17.331,-17.824,29.638,7.496,7.059,4.732,4.43
+France,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,11.523,10.639,40.807,17.741,-20.879,36.46,8.5,7.903,4.897,4.693
+France,Electronics,Revenue Change,Household Appliances,percent,Statista,,10.502,10.496,36.573,16.433,-11.068,16.217,5.176,5.049,4.327,3.782
+France,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.49,0.499,0.498,0.625,0.668,0.51,0.624,0.634,0.644,0.641,0.639
+France,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.354,0.364,0.368,0.472,0.507,0.373,0.479,0.485,0.49,0.487,0.483
+France,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.24,0.239,0.234,0.28,0.295,0.242,0.265,0.267,0.27,0.269,0.269
+France,Electronics,Online & Offline Split,Offline,percent,Statista,68.509,65.399,62.257,50.838,45.825,40.278,37.315,33.787,31.039,,
+France,Electronics,Online & Offline Split,Online,percent,Statista,31.491,34.601,37.743,49.162,54.175,59.722,62.685,66.213,68.961,,
+France,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Electronics,Users by Segment,Total,million users,Statista,20.421,22.323,24.716,27.462,30.153,32.453,34.419,36.379,38.356,40.37,42.307
+France,Electronics,Users by Segment,Consumer Electronics,million users,Statista,19.149,20.789,22.763,24.991,27.394,29.43,31.276,33.512,35.789,37.808,39.872
+France,Electronics,Users by Segment,Household Appliances,million users,Statista,13.454,14.923,16.885,19.224,21.267,23.064,24.511,25.519,26.545,27.749,28.804
+France,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,29.532,31.987,34.95,38.286,41.87,44.873,47.572,50.851,54.185,57.121,60.116
+France,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,31.494,34.348,37.95,42.073,46.087,49.482,52.353,55.202,58.071,60.991,63.788
+France,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,20.748,22.961,25.925,29.451,32.506,35.166,37.281,38.723,40.188,41.923,43.43
+France,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.217,,,,,,
+France,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.652,,,,,,
+France,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.348,,,,,,
+France,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.13,,,,,,
+France,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,15.652,,,,,,
+France,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,39.304,,,,,,
+France,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,60.696,,,,,,
+France,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.449,,,,,,
+France,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.34,,,,,,
+France,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.211,,,,,,
+France,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,6.785,7.567,8.372,11.79,13.88,10.98,14.99,16.26,17.54,18.4,19.27
+France,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,1.588,1.813,2.012,2.737,3.082,2.483,3.421,3.746,4.076,4.284,4.499
+France,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,2.015,2.248,2.487,3.501,4.123,3.262,4.451,4.829,5.211,5.494,5.776
+France,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,1.603,1.769,1.956,2.912,3.577,2.859,3.908,4.244,4.581,4.808,5.032
+France,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,1.532,1.691,1.871,2.584,3.044,2.338,3.158,3.395,3.634,3.777,3.919
+France,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.047,0.047,0.046,0.053,0.054,0.04,0.048,0.045,0.041,0.041,0.041
+France,Consumer Electronics,Revenue Change,Total,percent,Statista,,11.523,10.639,40.807,17.741,-20.879,36.46,8.5,7.903,4.897,4.693
+France,Consumer Electronics,Revenue Change,Computing,percent,Statista,,14.156,10.983,36.056,12.597,-19.429,37.77,9.482,8.811,5.1,5.016
+France,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,11.523,10.639,40.807,17.741,-20.879,36.46,8.5,7.903,5.423,5.143
+France,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,10.328,10.582,48.845,22.852,-20.069,36.674,8.61,7.943,4.942,4.665
+France,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,10.399,10.648,38.13,17.768,-23.195,35.08,7.513,7.058,3.915,3.771
+France,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,-0.099,-0.959,15.758,1.37,-26.834,20.211,-5.792,-7.818,0.017,-1.331
+France,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,354.3,364,367.8,471.7,506.7,373.1,479.1,485.2,490.2,486.7,483.2
+France,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,118.5,124.6,126.3,156.5,160.7,120.5,156.3,159.7,162.7,161.9,161.2
+France,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,131.6,135.1,136.6,175.1,188.1,138.5,177.9,180.1,182,181.6,181.1
+France,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,104.7,106.4,107.4,145.6,163.2,121.4,156.2,158.3,160,159,157.8
+France,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,200,203.3,205.5,258.5,277.8,198.6,252.4,253.3,253.9,249.7,245.7
+France,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,8.105,7.458,6.746,7.113,6.578,4.48,5.067,4.455,3.846,3.641,3.406
+France,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,69.153,65.978,62.841,49.063,44.052,39.205,36.053,32.082,28.887,,
+France,Consumer Electronics,Online & Offline Split,Online,percent,Statista,30.847,34.022,37.159,50.937,55.948,60.795,63.947,67.918,71.113,,
+France,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Consumer Electronics,Users,Total,million users,Statista,19.149,20.789,22.763,24.991,27.394,29.43,31.276,33.512,35.789,37.808,39.872
+France,Consumer Electronics,Users,Computing,million users,Statista,13.405,14.552,15.934,17.494,19.176,20.601,21.894,23.458,25.052,26.466,27.91
+France,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,15.319,16.631,18.21,19.993,21.915,23.544,25.021,26.809,28.631,30.247,31.897
+France,Consumer Electronics,Users,Telephony,million users,Statista,15.319,16.631,18.21,19.993,21.915,23.544,25.021,26.809,28.631,30.247,31.897
+France,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,7.66,8.315,9.105,9.996,10.958,11.772,12.511,13.405,14.316,15.123,15.949
+France,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,5.745,6.237,6.829,7.497,8.218,8.829,9.383,10.054,10.737,11.343,11.961
+France,Consumer Electronics,Penetration Rate,Computing,percent,Statista,20.672,22.391,24.465,26.8,29.309,31.411,33.301,35.596,37.929,39.984,42.081
+France,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,29.532,31.987,34.95,38.286,41.87,44.873,47.572,50.851,54.185,57.121,60.116
+France,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,23.626,25.59,27.96,30.629,33.496,35.899,38.058,40.681,43.348,45.697,48.093
+France,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,23.626,25.59,27.96,30.629,33.496,35.899,38.058,40.681,43.348,45.697,48.093
+France,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,11.813,12.795,13.98,15.314,16.748,17.949,19.029,20.34,21.674,22.848,24.047
+France,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,8.86,9.596,10.485,11.486,12.561,13.462,14.272,15.255,16.255,17.136,18.035
+France,Household Appliances,Revenue,Total,billion USD (US$),Statista,3.232,3.572,3.947,5.39,6.276,5.581,6.487,6.822,7.167,7.477,7.76
+France,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,1.601,1.769,1.954,2.669,3.107,2.77,3.227,3.402,3.582,3.744,3.893
+France,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.564,0.623,0.688,0.94,1.095,0.974,1.131,1.19,1.25,1.304,1.353
+France,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,1.068,1.18,1.304,1.781,2.074,1.838,2.129,2.231,2.335,2.429,2.513
+France,Household Appliances,Revenue Change,Total,percent,Statista,,10.502,10.496,36.573,16.433,-11.068,16.217,5.176,5.049,4.327,3.782
+France,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,10.502,10.496,36.554,16.423,-10.854,16.496,5.427,5.298,4.525,3.984
+France,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,10.502,10.496,36.573,16.433,-11.068,16.217,5.176,5.049,4.322,3.777
+France,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,10.502,10.496,36.603,16.449,-11.39,15.797,4.795,4.668,4.025,3.473
+France,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,240.3,239.4,233.8,280.4,295.1,242,264.6,267.3,270,269.4,269.4
+France,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,297.4,296.3,289.4,347.1,365.2,300.2,329.1,333.3,337.4,337.3,337.9
+France,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,209.5,208.7,203.9,244.5,257.4,211,230.8,233.1,235.5,235,234.9
+France,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,99.23,98.86,96.54,115.8,121.9,99.63,108.6,109.3,109.9,109.4,109.1
+France,Household Appliances,Online & Offline Split,Offline,percent,Statista,67.067,64.103,60.956,54.319,49.373,42.572,40.07,37.537,35.8,,
+France,Household Appliances,Online & Offline Split,Online,percent,Statista,32.933,35.897,39.044,45.681,50.627,57.428,59.93,62.463,64.2,,
+France,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Household Appliances,Users,Total,million users,Statista,13.454,14.923,16.885,19.224,21.267,23.064,24.511,25.519,26.545,27.749,28.804
+France,Household Appliances,Users,Major Appliances,million users,Statista,5.381,5.969,6.754,7.689,8.507,9.225,9.804,10.208,10.618,11.1,11.522
+France,Household Appliances,Users,Other Household Appliances,million users,Statista,2.691,2.985,3.377,3.845,4.253,4.613,4.902,5.104,5.309,5.55,5.761
+France,Household Appliances,Users,Small Appliances,million users,Statista,10.763,11.938,13.508,15.379,17.014,18.451,19.609,20.415,21.236,22.199,23.043
+France,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,20.748,22.961,25.925,29.451,32.506,35.166,37.281,38.723,40.188,41.923,43.43
+France,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,8.299,9.185,10.37,11.78,13.002,14.066,14.913,15.489,16.075,16.769,17.372
+France,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,4.15,4.592,5.185,5.89,6.501,7.033,7.456,7.745,8.038,8.385,8.687
+France,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,16.598,18.369,20.74,23.561,26.005,28.133,29.825,30.978,32.151,33.538,34.744
+France,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.068,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.208,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,21.673,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.814,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.237,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,60.33,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,39.67,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.725,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.447,,,,,,
+France,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.828,,,,,,
+France,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,6.971,7.591,8.25,10.53,11.73,11.31,14.27,16.31,18.65,19.91,21.4
+France,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,1.052,1.168,1.286,1.656,1.864,1.799,2.267,2.581,2.933,3.126,3.347
+France,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.569,0.602,0.636,0.877,1.031,0.995,1.257,1.437,1.642,1.771,1.917
+France,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.691,0.753,0.821,1.055,1.181,1.24,1.708,2.136,2.677,2.886,3.167
+France,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,4.66,5.069,5.508,6.942,7.654,7.276,9.037,10.16,11.4,12.13,12.97
+France,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,8.902,8.678,27.636,11.387,-3.574,26.156,14.322,14.358,6.757,7.438
+France,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,10.971,10.161,28.749,12.57,-3.484,25.989,13.89,13.62,6.573,7.06
+France,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,5.774,5.664,37.992,17.504,-3.431,26.268,14.34,14.274,7.848,8.233
+France,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,9.05,8.98,28.609,11.862,5.038,37.722,25.061,25.343,7.814,9.708
+France,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,8.795,8.649,26.036,10.26,-4.943,24.21,12.398,12.248,6.4,6.879
+France,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,492.2,499.2,500.5,591.1,612.3,559.5,679.2,751.7,835.2,864.3,904.3
+France,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,106.1,109.7,111.5,132.8,139,127.1,154.1,170,187.6,193.8,202.1
+France,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,62.74,61.8,60.25,76.93,84.06,76.93,93.46,103.5,114.9,120.1,126.6
+France,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,128.3,130.3,131,155.9,162.2,161.4,213.9,259,315.4,329.7,352.2
+France,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,530.6,537.6,539,628.5,644.5,580.5,693.8,755,823.3,849.2,883.8
+France,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,79.409,78.142,76.882,69.905,68.741,66.892,64.589,61.741,58.748,,
+France,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,20.591,21.858,23.118,30.095,31.259,33.108,35.411,38.259,41.252,,
+France,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,14.163,15.208,16.482,17.813,19.155,20.214,21.008,21.699,22.335,23.041,23.661
+France,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,9.914,10.645,11.538,12.469,13.409,14.15,14.706,15.19,15.635,16.129,16.563
+France,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,9.064,9.733,10.549,11.401,12.259,12.937,13.445,13.888,14.295,14.747,15.143
+France,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,5.382,5.779,6.263,6.769,7.279,7.681,7.983,8.246,8.487,8.756,8.991
+France,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,8.781,9.429,10.219,11.044,11.876,12.533,13.025,13.454,13.848,14.286,14.67
+France,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,21.842,23.4,25.307,27.29,29.278,30.822,31.954,32.927,33.815,34.811,35.675
+France,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,15.289,16.38,17.715,19.103,20.495,21.575,22.368,23.049,23.671,24.368,24.973
+France,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,13.979,14.976,16.196,17.466,18.738,19.726,20.45,21.073,21.642,22.279,22.832
+France,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,8.3,8.892,9.617,10.37,11.126,11.712,12.142,12.512,12.85,13.228,13.556
+France,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,13.542,14.508,15.69,16.92,18.152,19.11,19.811,20.415,20.966,21.583,22.119
+France,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,106.1,109.7,111.5,132.8,139,127.1,154.1,170,187.6,193.8,202.1
+France,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,98.15,100.6,101.6,119.7,124,113.4,137.6,151.9,167.9,172.1,178.3
+France,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,19.79,21.49,22.57,28.44,31.25,28.57,34.54,37.9,41.55,43.67,46.1
+France,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,102.1,105.6,107.3,127.8,133.8,122.4,148.4,163.6,180.6,188.4,198.2
+France,Beauty Care,Revenue,Total,billion USD (US$),Statista,1.052,1.168,1.286,1.656,1.864,1.799,2.267,2.581,2.933,3.126,3.347
+France,Beauty Care,Revenue,Cosmetics,billion USD (US$),Statista,0.681,0.749,0.82,1.045,1.164,1.124,1.416,1.615,1.838,1.943,2.068
+France,Beauty Care,Revenue,Fragrances,billion USD (US$),Statista,0.118,0.137,0.156,0.213,0.251,0.242,0.305,0.345,0.39,0.423,0.458
+France,Beauty Care,Revenue,Other Beauty Care,billion USD (US$),Statista,0.253,0.281,0.309,0.399,0.449,0.433,0.545,0.621,0.706,0.76,0.821
+France,Beauty Care,Revenue Change,Total,percent,Statista,,10.971,10.161,28.749,12.57,-3.484,25.989,13.89,13.62,6.573,7.06
+France,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,10.003,9.489,27.334,11.429,-3.472,26.062,14.008,13.787,5.764,6.396
+France,Beauty Care,Revenue Change,Fragrances,percent,Statista,,16.57,13.833,36.182,18.174,-3.54,25.649,13.345,12.841,8.436,8.384
+France,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,10.971,10.161,28.749,12.57,-3.484,25.989,13.89,13.62,7.647,8.02
+France,Beauty Care,Online & Offline Split,Offline,percent,Statista,78.141,77.058,76.011,66.86,66.867,65.736,63.909,61.264,58.498,,
+France,Beauty Care,Online & Offline Split,Online,percent,Statista,21.859,22.942,23.989,33.14,33.133,34.264,36.091,38.736,41.502,,
+France,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Beauty Care,Users by Segment,Total,million users,Statista,9.914,10.645,11.538,12.469,13.409,14.15,14.706,15.19,15.635,16.129,16.563
+France,Beauty Care,Users by Segment,Cosmetics,million users,Statista,6.94,7.452,8.076,8.729,9.386,9.905,10.294,10.633,10.944,11.29,11.594
+France,Beauty Care,Users by Segment,Fragrances,million users,Statista,5.948,6.387,6.923,7.482,8.045,8.49,8.823,9.114,9.381,9.677,9.937
+France,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,2.479,2.661,2.884,3.117,3.352,3.538,3.676,3.797,3.909,4.032,4.141
+France,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,15.289,16.38,17.715,19.103,20.495,21.575,22.368,23.049,23.671,24.368,24.973
+France,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,10.703,11.466,12.4,13.372,14.346,15.103,15.657,16.134,16.57,17.057,17.481
+France,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,9.174,9.828,10.629,11.462,12.297,12.945,13.421,13.829,14.203,14.62,14.983
+France,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,3.822,4.095,4.429,4.776,5.124,5.394,5.592,5.762,5.918,6.092,6.243
+France,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.531,,,,,,
+France,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.524,,,,,,
+France,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,21.353,,,,,,
+France,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.313,,,,,,
+France,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.279,,,,,,
+France,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,71.67,,,,,,
+France,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,28.33,,,,,,
+France,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.181,,,,,,
+France,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.889,,,,,,
+France,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,35.93,,,,,,
+France,Personal Care,Revenue,Total,billion USD (US$),Statista,4.66,5.069,5.508,6.942,7.654,7.276,9.037,10.16,11.4,12.13,12.97
+France,Personal Care,Revenue,Body Care,billion USD (US$),Statista,0.609,0.66,0.716,0.89,0.972,0.92,1.137,1.273,1.422,1.493,1.575
+France,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,0.541,0.587,0.637,0.824,0.922,0.881,1.099,1.241,1.4,1.491,1.595
+France,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,0.487,0.529,0.573,0.716,0.784,0.739,0.91,1.015,1.131,1.207,1.293
+France,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,0.312,0.339,0.367,0.459,0.503,0.478,0.595,0.669,0.752,0.805,0.864
+France,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,1.61,1.752,1.904,2.399,2.645,2.515,3.123,3.511,3.941,4.195,4.485
+France,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,1.1,1.202,1.311,1.653,1.828,1.743,2.172,2.448,2.755,2.941,3.154
+France,Personal Care,Revenue Change,Total,percent,Statista,,8.795,8.649,26.036,10.26,-4.943,24.21,12.398,12.248,6.4,6.879
+France,Personal Care,Revenue Change,Body Care,percent,Statista,,8.476,8.403,24.377,9.213,-5.384,23.645,11.898,11.762,4.932,5.526
+France,Personal Care,Revenue Change,Eye Care,percent,Statista,,8.543,8.547,29.281,11.891,-4.497,24.8,12.94,12.8,6.481,6.97
+France,Personal Care,Revenue Change,Hair Care,percent,Statista,,8.476,8.403,24.895,9.492,-5.713,23.211,11.502,11.363,6.774,7.075
+France,Personal Care,Revenue Change,Oral Care,percent,Statista,,8.476,8.403,25.018,9.559,-4.848,24.341,12.524,12.383,6.966,7.383
+France,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,8.795,8.649,26.036,10.26,-4.943,24.21,12.398,12.248,6.449,6.922
+France,Personal Care,Revenue Change,Skin Care,percent,Statista,,9.326,9.011,26.148,10.538,-4.629,24.598,12.726,12.55,6.738,7.24
+France,Personal Care,Average Revenue per User,Total,USD (US$),Statista,530.6,537.6,539,628.5,644.5,580.5,693.8,755,823.3,849.2,883.8
+France,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,101.9,103,103,118.5,120.4,107.9,128.4,139.1,151.1,153.7,157.9
+France,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,123.2,124.6,124.8,149.2,155.3,140.5,168.8,184.5,202.2,208.7,217.4
+France,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,106.7,107.8,107.8,124.6,126.9,113.4,134.4,145.1,157,162.5,169.4
+France,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,72.56,73.31,73.32,84.82,86.41,77.92,93.22,101.6,110.9,115,120.2
+France,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,407.6,412.9,414,482.7,495,445.9,532.9,579.9,632.4,652.5,679.4
+France,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,284.6,289.8,291.5,340.2,349.7,316.1,379,413.6,452.2,467.9,488.6
+France,Personal Care,Online & Offline Split,Offline,percent,Statista,74.722,73.171,71.649,62.962,62.147,60.603,58.649,56.037,53.381,,
+France,Personal Care,Online & Offline Split,Online,percent,Statista,25.278,26.829,28.351,37.038,37.853,39.397,41.351,43.963,46.619,,
+France,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Personal Care,Users,Total,million users,Statista,8.781,9.429,10.219,11.044,11.876,12.533,13.025,13.454,13.848,14.286,14.67
+France,Personal Care,Users,Body Care,million users,Statista,5.971,6.412,6.949,7.51,8.076,8.522,8.857,9.148,9.417,9.714,9.975
+France,Personal Care,Users,Eye Care,million users,Statista,4.391,4.714,5.11,5.522,5.938,6.266,6.512,6.727,6.924,7.143,7.335
+France,Personal Care,Users,Hair Care,million users,Statista,4.566,4.903,5.314,5.743,6.176,6.517,6.773,6.996,7.201,7.429,7.628
+France,Personal Care,Users,Oral Care,million users,Statista,4.303,4.62,5.007,5.412,5.819,6.141,6.382,6.592,6.785,7,7.188
+France,Personal Care,Users,Other Personal Care,million users,Statista,3.951,4.243,4.599,4.97,5.344,5.64,5.861,6.054,6.232,6.429,6.602
+France,Personal Care,Users,Skin Care,million users,Statista,3.864,4.149,4.496,4.86,5.226,5.514,5.731,5.92,6.093,6.286,6.455
+France,Personal Care,Penetration Rate,Body Care,percent,Statista,9.209,9.865,10.669,11.506,12.344,12.994,13.472,13.882,14.257,14.676,15.04
+France,Personal Care,Penetration Rate,Eye Care,percent,Statista,6.771,7.254,7.845,8.46,9.076,9.555,9.906,10.207,10.483,10.791,11.059
+France,Personal Care,Penetration Rate,Hair Care,percent,Statista,7.042,7.544,8.159,8.798,9.439,9.937,10.302,10.616,10.902,11.223,11.502
+France,Personal Care,Penetration Rate,Oral Care,percent,Statista,6.636,7.109,7.688,8.291,8.895,9.364,9.708,10.003,10.273,10.576,10.838
+France,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,6.094,6.529,7.061,7.614,8.169,8.599,8.915,9.187,9.435,9.712,9.953
+France,Personal Care,Penetration Rate,Personal Care,percent,Statista,13.542,14.508,15.69,16.92,18.152,19.11,19.811,20.415,20.966,21.583,22.119
+France,Personal Care,Penetration Rate,Skin Care,percent,Statista,5.959,6.383,6.904,7.445,7.987,8.408,8.717,8.982,9.225,9.496,9.732
+France,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,62.74,61.8,60.25,76.93,84.06,76.93,93.46,103.5,114.9,120.1,126.6
+France,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,64.27,63.17,61.45,77.94,83.57,77.08,94.34,105.1,117.4,122.7,129.5
+France,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,35.97,35.36,34.4,43.45,46.47,42.4,51.33,56.58,62.51,65.25,68.66
+France,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,27.77,27.29,26.55,33.55,35.89,32.75,39.65,43.71,48.29,50.41,53.04
+France,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.592,2.548,2.479,5.272,9.298,8.046,9.239,9.66,10.12,10.76,11.31
+France,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,11.79,12.1,12.28,13.96,14.14,14.05,18.54,22.31,26.94,28.21,30.17
+France,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,65.64,64.66,63.04,80.49,87.95,80.48,97.79,108.2,120.2,125.7,132.5
+France,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,12.81,12.59,12.25,15.48,16.55,15,18.04,19.75,21.67,22.6,23.74
+France,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,7.097,6.976,6.786,8.582,9.185,8.369,10.12,11.14,12.29,12.83,13.49
+France,Health Care,Revenue,Total,million USD (US$),Statista,568.7,601.5,635.6,877,"1,031",995.2,"1,257","1,437","1,642","1,771","1,917"
+France,Health Care,Revenue,Analgesics,million USD (US$),Statista,116.5,123,129.6,177.7,204.9,199.4,253.7,292,335.7,362,392.3
+France,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,130.4,137.7,145.1,198.2,227.9,219.4,276.1,314.3,357.4,384.9,415.9
+France,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,75.51,79.69,84.02,114.8,132,127.1,159.9,182.1,207.1,223,241
+France,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,9.399,9.92,10.46,24.04,45.59,41.64,49.69,53.66,57.88,63.47,68.5
+France,Health Care,Revenue,Incontinence,million USD (US$),Statista,21.38,23.54,25.91,31.82,34.68,36.34,49.85,61.95,77.01,83.21,91.39
+France,Health Care,Revenue,Other Health Care,million USD (US$),Statista,136.8,144.7,152.9,211.1,248,239.5,302.4,345.8,395.1,426.3,461.6
+France,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,46.44,49.02,51.68,70.58,81.18,77.63,97.01,109.7,123.9,133.3,143.8
+France,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,32.16,33.95,35.79,48.92,56.3,54.14,68.02,77.35,87.84,94.58,102.2
+France,Health Care,Revenue Change,Total,percent,Statista,,5.774,5.664,37.992,17.504,-3.431,26.268,14.34,14.274,7.848,8.233
+France,Health Care,Revenue Change,Analgesics,percent,Statista,,5.547,5.426,37.073,15.304,-2.667,27.191,15.103,14.959,7.85,8.359
+France,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,5.547,5.426,36.538,15.005,-3.721,25.814,13.857,13.714,7.684,8.054
+France,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,5.547,5.426,36.587,15.033,-3.714,25.823,13.865,13.723,7.684,8.056
+France,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,5.547,5.426,129.894,89.631,-8.678,19.336,7.996,7.861,9.658,7.921
+France,Health Care,Revenue Change,Incontinence,percent,Statista,,10.122,10.035,22.823,8.977,4.81,37.15,24.287,24.303,8.046,9.834
+France,Health Care,Revenue Change,Other Health Care,percent,Statista,,5.774,5.664,37.992,17.504,-3.431,26.268,14.34,14.274,7.897,8.274
+France,Health Care,Revenue Change,Skin Treatment,percent,Statista,,5.547,5.426,36.569,15.023,-4.372,24.963,13.088,12.946,7.591,7.868
+France,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,5.547,5.426,36.689,15.09,-3.847,25.649,13.708,13.565,7.672,8.022
+France,Health Care,Online & Offline Split,Offline,percent,Statista,77.598,76.694,75.811,66.922,63.557,60.893,57.719,54.217,50.541,,
+France,Health Care,Online & Offline Split,Online,percent,Statista,22.402,23.306,24.189,33.078,36.443,39.107,42.281,45.783,49.459,,
+France,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Health Care,Users by Segment,Total,million users,Statista,9.064,9.733,10.549,11.401,12.259,12.937,13.445,13.888,14.295,14.747,15.143
+France,Health Care,Users by Segment,Analgesics,million users,Statista,1.813,1.947,2.11,2.28,2.452,2.587,2.689,2.778,2.859,2.949,3.029
+France,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,3.626,3.893,4.219,4.56,4.904,5.175,5.378,5.555,5.718,5.899,6.057
+France,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,2.719,2.92,3.165,3.42,3.678,3.881,4.034,4.166,4.288,4.424,4.543
+France,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,3.626,3.893,4.219,4.56,4.904,5.175,5.378,5.555,5.718,5.899,6.057
+France,Health Care,Users by Segment,Incontinence,million users,Statista,1.813,1.947,2.11,2.28,2.452,2.587,2.689,2.778,2.859,2.949,3.029
+France,Health Care,Users by Segment,Other Health Care,million users,Statista,2.085,2.239,2.426,2.622,2.82,2.976,3.092,3.194,3.288,3.392,3.483
+France,Health Care,Users by Segment,Skin Treatment,million users,Statista,3.626,3.893,4.219,4.56,4.904,5.175,5.378,5.555,5.718,5.899,6.057
+France,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,4.532,4.866,5.274,5.7,6.13,6.469,6.723,6.944,7.147,7.373,7.572
+France,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.796,2.995,3.239,3.493,3.748,3.945,4.09,4.215,4.328,4.456,4.566
+France,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,5.592,5.99,6.479,6.986,7.495,7.89,8.18,8.429,8.657,8.912,9.133
+France,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,4.194,4.493,4.859,5.24,5.621,5.918,6.135,6.322,6.493,6.684,6.85
+France,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,5.592,5.99,6.479,6.986,7.495,7.89,8.18,8.429,8.657,8.912,9.133
+France,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,13.979,14.976,16.196,17.466,18.738,19.726,20.45,21.073,21.642,22.279,22.832
+France,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.796,2.995,3.239,3.493,3.748,3.945,4.09,4.215,4.328,4.456,4.566
+France,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,3.215,3.444,3.725,4.017,4.31,4.537,4.704,4.847,4.978,5.124,5.252
+France,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,5.592,5.99,6.479,6.986,7.495,7.89,8.18,8.429,8.657,8.912,9.133
+France,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,6.989,7.488,8.098,8.733,9.369,9.863,10.225,10.537,10.821,11.139,11.416
+France,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,128.3,130.3,131,155.9,162.2,161.4,213.9,259,315.4,329.7,352.2
+France,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,19.01,19.18,19.16,24.33,26.27,26.13,34.64,42,51.29,53.97,57.97
+France,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,19.07,19.25,19.23,25.1,27.6,27.37,36.18,43.74,53.25,56.11,60.29
+France,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,60.76,62.31,63.26,71.96,72.96,72.65,96.12,116,140.4,147.1,157.4
+France,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,57.49,58.01,57.96,68.02,69.9,69.87,93.09,113.5,139.3,145.2,155
+France,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,226.2,229.8,231,274.9,286,284.7,377.3,456.8,556.2,579,616.5
+France,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,9.673,9.92,10.07,11.77,12.13,12.05,15.91,19.16,23.14,24.28,25.99
+France,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,26.53,26.77,26.74,31.07,31.72,31.74,42.34,51.67,63.5,66.51,71.31
+France,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,39.83,40.85,41.48,48.79,50.52,49.97,65.66,78.67,94.59,99.25,106.2
+France,Household Care,Revenue,Total,million USD (US$),Statista,690.5,753,820.7,"1,055","1,181","1,240","1,708","2,136","2,677","2,886","3,167"
+France,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,42.97,46.56,50.41,69.16,80.3,84.29,116.1,145.5,182.8,198.5,218.9
+France,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,46.19,50.05,54.19,76.46,90.4,94.61,130,162.3,203.4,221.1,243.9
+France,Household Care,Revenue,Household Paper,million USD (US$),Statista,75.21,82.82,91.13,112,122.1,128.4,176.5,219.9,274.1,296.2,325.5
+France,Household Care,Revenue,Laundry Care,million USD (US$),Statista,123.8,134.1,145.2,184.2,203.5,214.7,297.3,374.2,472.8,508.5,557.4
+France,Household Care,Revenue,Other Household Care,million USD (US$),Statista,267.9,292.1,318.4,409.4,458,481.1,662.6,828.6,"1,039","1,115","1,220"
+France,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,16.66,18.34,20.19,25.49,28.26,29.63,40.65,50.55,62.86,68.02,74.79
+France,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,42.83,46.41,50.25,63.09,69.27,73.15,101.4,127.8,161.7,174.7,192.4
+France,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,75.03,82.63,90.92,115.6,128.7,134.3,183.5,227,281,304.2,334.2
+France,Household Care,Revenue Change,Total,percent,Statista,,9.05,8.98,28.609,11.862,5.038,37.722,25.061,25.343,7.814,9.708
+France,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,8.351,8.28,37.186,16.111,4.961,37.781,25.261,25.691,8.556,10.305
+France,Household Care,Revenue Change,Household Cleaners,percent,Statista,,8.351,8.28,41.1,18.233,4.656,37.373,24.884,25.305,8.7,10.34
+France,Household Care,Revenue Change,Household Paper,percent,Statista,,10.122,10.035,22.928,9.033,5.078,37.502,24.607,24.625,8.072,9.889
+France,Household Care,Revenue Change,Laundry Care,percent,Statista,,8.351,8.28,26.842,10.504,5.476,38.469,25.898,26.342,7.545,9.612
+France,Household Care,Revenue Change,Other Household Care,percent,Statista,,9.05,8.98,28.609,11.862,5.038,37.722,25.061,25.343,7.385,9.347
+France,Household Care,Revenue Change,Paper Tissues,percent,Statista,,10.122,10.035,26.302,10.833,4.853,37.206,24.338,24.354,8.224,9.946
+France,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,8.351,8.28,25.553,9.805,5.595,38.627,26.045,26.491,8.069,10.118
+France,Household Care,Revenue Change,Toilet Paper,percent,Statista,,10.122,10.035,27.128,11.359,4.366,36.566,23.756,23.769,8.238,9.878
+France,Household Care,Online & Offline Split,Offline,percent,Statista,91.442,90.779,90.078,87.727,86.657,84.299,81.408,78.044,74.194,,
+France,Household Care,Online & Offline Split,Online,percent,Statista,8.558,9.221,9.922,12.273,13.343,15.701,18.592,21.956,25.806,,
+France,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Household Care,Users by Segment,Total,million users,Statista,5.382,5.779,6.263,6.769,7.279,7.681,7.983,8.246,8.487,8.756,8.991
+France,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,2.26,2.427,2.631,2.843,3.057,3.226,3.353,3.463,3.565,3.677,3.776
+France,Household Care,Users by Segment,Household Cleaners,million users,Statista,2.422,2.601,2.818,3.046,3.276,3.457,3.592,3.711,3.819,3.94,4.046
+France,Household Care,Users by Segment,Household Paper,million users,Statista,1.238,1.329,1.441,1.557,1.674,1.767,1.836,1.897,1.952,2.014,2.068
+France,Household Care,Users by Segment,Laundry Care,million users,Statista,2.153,2.312,2.505,2.708,2.912,3.073,3.193,3.298,3.395,3.502,3.597
+France,Household Care,Users by Segment,Other Household Care,million users,Statista,1.184,1.271,1.378,1.489,1.601,1.69,1.756,1.814,1.867,1.926,1.978
+France,Household Care,Users by Segment,Paper Tissues,million users,Statista,1.722,1.849,2.004,2.166,2.329,2.458,2.555,2.639,2.716,2.802,2.877
+France,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,1.615,1.734,1.879,2.031,2.184,2.304,2.395,2.474,2.546,2.627,2.698
+France,Household Care,Users by Segment,Toilet Paper,million users,Statista,1.884,2.023,2.192,2.369,2.548,2.689,2.794,2.886,2.971,3.065,3.147
+France,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,3.486,3.735,4.039,4.356,4.673,4.919,5.1,5.255,5.397,5.556,5.694
+France,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,8.3,8.892,9.617,10.37,11.126,11.712,12.142,12.512,12.85,13.228,13.556
+France,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,3.735,4.001,4.327,4.667,5.007,5.271,5.464,5.63,5.782,5.953,6.101
+France,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.909,2.045,2.212,2.385,2.559,2.694,2.793,2.878,2.955,3.043,3.118
+France,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,3.32,3.557,3.847,4.148,4.45,4.685,4.857,5.005,5.14,5.291,5.423
+France,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.826,1.956,2.116,2.281,2.448,2.577,2.671,2.753,2.827,2.91,2.983
+France,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.656,2.845,3.077,3.319,3.56,3.748,3.886,4.004,4.112,4.233,4.338
+France,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.49,2.668,2.885,3.111,3.338,3.514,3.643,3.754,3.855,3.969,4.068
+France,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.905,3.112,3.366,3.63,3.894,4.099,4.25,4.379,4.497,4.63,4.745
+France,Food,Revenue,Total,billion USD (US$),Statista,1.571,1.737,1.919,3.081,4.004,4.603,6.909,9.38,12.73,13.83,15.4
+France,Food,Revenue,Bread & Cereal Products,billion USD (US$),Statista,0.223,0.246,0.272,0.502,0.716,0.803,1.176,1.557,2.06,2.243,2.492
+France,Food,Revenue,Confectionery & Snacks,billion USD (US$),Statista,0.189,0.209,0.231,0.389,0.52,0.597,0.895,1.213,1.644,1.774,1.964
+France,Food,Revenue,Convenience Food,billion USD (US$),Statista,0.07,0.077,0.086,0.161,0.232,0.261,0.383,0.509,0.676,0.745,0.836
+France,Food,Revenue,Dairy Products & Eggs,billion USD (US$),Statista,0.213,0.235,0.26,0.386,0.474,0.552,0.839,1.153,1.584,1.733,1.942
+France,Food,Revenue,Fish & Seafood,billion USD (US$),Statista,0.111,0.123,0.136,0.21,0.266,0.309,0.468,0.641,0.877,0.959,1.075
+France,Food,Revenue,Fruits & Nuts,billion USD (US$),Statista,0.11,0.121,0.134,0.208,0.263,0.304,0.46,0.628,0.859,0.934,1.042
+France,Food,Revenue,Meat,billion USD (US$),Statista,0.411,0.454,0.502,0.777,0.981,1.135,1.715,2.342,3.197,3.457,3.84
+France,Food,Revenue,Oils & Fats,billion USD (US$),Statista,0.038,0.042,0.047,0.07,0.086,0.1,0.152,0.209,0.288,0.315,0.352
+France,Food,Revenue,Sauces & Spices,billion USD (US$),Statista,0.018,0.02,0.022,0.03,0.035,0.041,0.064,0.089,0.125,0.136,0.152
+France,Food,Revenue,Spreads & Sweeteners,billion USD (US$),Statista,0.037,0.041,0.046,0.062,0.071,0.083,0.126,0.174,0.239,0.261,0.291
+France,Food,Revenue,Vegetables,billion USD (US$),Statista,0.151,0.167,0.184,0.286,0.361,0.418,0.631,0.863,1.179,1.272,1.409
+France,Food,Revenue Change,Total,percent,Statista,,10.584,10.486,60.561,29.961,14.97,50.073,35.769,35.699,8.637,11.346
+France,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,10.584,10.486,84.302,42.709,12.192,46.412,32.419,32.3,8.91,11.095
+France,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,10.584,10.486,68.595,33.484,14.868,49.904,35.584,35.48,7.928,10.711
+France,Food,Revenue Change,Convenience Food,percent,Statista,,10.584,10.486,88.196,43.901,12.557,46.878,32.831,32.703,10.274,12.146
+France,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,10.584,10.486,48.509,22.805,16.45,51.981,37.478,37.395,9.351,12.112
+France,Food,Revenue Change,Fish & Seafood,percent,Statista,,10.584,10.486,55.322,26.426,16.035,51.437,36.984,36.897,9.338,12.061
+France,Food,Revenue Change,Fruits & Nuts,percent,Statista,,10.584,10.486,55.213,26.368,15.798,51.125,36.698,36.606,8.749,11.638
+France,Food,Revenue Change,Meat,percent,Statista,,10.584,10.486,54.917,26.213,15.712,51.019,36.607,36.52,8.13,11.065
+France,Food,Revenue Change,Oils & Fats,percent,Statista,,10.584,10.486,48.558,22.831,16.623,52.209,37.688,37.609,9.157,12.03
+France,Food,Revenue Change,Sauces & Spices,percent,Statista,,10.584,10.486,35.215,15.738,18.311,54.424,39.707,39.647,8.813,12.037
+France,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,10.584,10.486,34.87,15.555,16.6,52.201,37.701,37.642,8.823,11.841
+France,Food,Revenue Change,Vegetables,percent,Statista,,10.584,10.486,55.187,26.355,15.79,51.115,36.69,36.598,7.837,10.83
+France,Food,Average Revenue per User,Total,USD (US$),Statista,219.2,223.2,225.3,329.4,390.6,414.1,579.2,740.9,949.5,974.8,"1,030"
+France,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,66.14,67.37,67.98,114.1,148.6,153.7,209.8,261.7,327,336.5,354.7
+France,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,53.83,54.83,55.33,84.96,103.5,109.6,153.1,195.6,250.3,255.2,268.1
+France,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,17.46,17.78,17.95,30.76,40.38,41.91,57.38,71.81,90,93.79,99.78
+France,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,129,131.5,132.6,179.4,201,215.8,305.8,396.1,513.9,531,564.8
+France,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,81.47,82.99,83.74,118.5,136.6,146.2,206.4,266.4,344.4,355.8,378.2
+France,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,29.42,29.97,30.24,42.75,49.29,52.63,74.13,95.48,123.2,126.6,134.1
+France,Food,Average Revenue per User,Meat,USD (US$),Statista,191,194.6,196.4,277.1,319,340.4,479.2,616.7,795.1,812.5,856.1
+France,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,21.45,21.85,22.05,29.83,33.43,35.95,51,66.16,85.98,88.69,94.26
+France,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,5.801,5.909,5.962,7.343,7.753,8.459,12.17,16.03,21.14,21.73,23.1
+France,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,15.8,16.1,16.24,19.96,21.04,22.62,32.09,41.63,54.11,55.65,59.04
+France,Food,Average Revenue per User,Vegetables,USD (US$),Statista,42.9,43.7,44.1,62.33,71.85,76.71,108.1,139.2,179.5,182.9,192.3
+France,Food,Online & Offline Split,Offline,percent,Statista,99.033,98.933,98.826,98.322,97.723,96.866,95.776,94.394,92.544,,
+France,Food,Online & Offline Split,Online,percent,Statista,0.967,1.067,1.174,1.678,2.277,3.134,4.224,5.606,7.456,,
+France,Food,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Food,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Food,Users,Total,million users,Statista,7.166,7.78,8.518,9.352,10.251,11.117,11.927,12.659,13.404,14.185,14.952
+France,Food,Users,Bread & Cereal Products,million users,Statista,3.368,3.656,4.004,4.395,4.818,5.225,5.606,5.95,6.3,6.667,7.028
+France,Food,Users,Confectionery & Snacks,million users,Statista,3.511,3.812,4.174,4.583,5.023,5.447,5.844,6.203,6.568,6.951,7.327
+France,Food,Users,Convenience Food,million users,Statista,4.013,4.357,4.77,5.237,5.741,6.226,6.679,7.089,7.507,7.944,8.373
+France,Food,Users,Dairy Products & Eggs,million users,Statista,1.648,1.789,1.959,2.151,2.358,2.557,2.743,2.912,3.083,3.263,3.439
+France,Food,Users,Fish & Seafood,million users,Statista,1.362,1.478,1.618,1.777,1.948,2.112,2.266,2.405,2.547,2.695,2.841
+France,Food,Users,Fruits & Nuts,million users,Statista,3.726,4.045,4.43,4.863,5.331,5.781,6.202,6.583,6.97,7.376,7.775
+France,Food,Users,Meat,million users,Statista,2.15,2.334,2.556,2.806,3.075,3.335,3.578,3.798,4.021,4.256,4.486
+France,Food,Users,Oils & Fats,million users,Statista,1.792,1.945,2.13,2.338,2.563,2.779,2.982,3.165,3.351,3.546,3.738
+France,Food,Users,Sauces & Spices,million users,Statista,3.153,3.423,3.748,4.115,4.511,4.892,5.248,5.57,5.898,6.241,6.579
+France,Food,Users,Spreads & Sweeteners,million users,Statista,2.365,2.567,2.811,3.086,3.383,3.669,3.936,4.178,4.423,4.681,4.934
+France,Food,Users,Vegetables,million users,Statista,3.511,3.812,4.174,4.583,5.023,5.447,5.844,6.203,6.568,6.951,7.327
+France,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,5.194,5.626,6.147,6.734,7.364,7.967,8.527,9.028,9.538,10.072,10.596
+France,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,5.415,5.865,6.409,7.02,7.678,8.306,8.889,9.412,9.944,10.501,11.047
+France,Food,Penetration Rate,Convenience Food,percent,Statista,6.189,6.703,7.324,8.023,8.774,9.493,10.159,10.757,11.365,12.001,12.625
+France,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.542,2.753,3.008,3.295,3.604,3.899,4.173,4.418,4.668,4.929,5.185
+France,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.1,2.274,2.485,2.722,2.977,3.221,3.447,3.65,3.856,4.072,4.283
+France,Food,Penetration Rate,Food,percent,Statista,11.052,11.97,13.079,14.327,15.669,16.951,18.142,19.209,20.294,21.431,22.544
+France,Food,Penetration Rate,Fruits & Nuts,percent,Statista,5.747,6.225,6.801,7.45,8.148,8.814,9.434,9.989,10.553,11.144,11.723
+France,Food,Penetration Rate,Meat,percent,Statista,3.315,3.591,3.924,4.298,4.701,5.085,5.442,5.763,6.088,6.429,6.763
+France,Food,Penetration Rate,Oils & Fats,percent,Statista,2.763,2.993,3.27,3.582,3.917,4.238,4.535,4.802,5.074,5.358,5.636
+France,Food,Penetration Rate,Sauces & Spices,percent,Statista,4.863,5.267,5.755,6.304,6.894,7.458,7.982,8.452,8.929,9.43,9.92
+France,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.647,3.95,4.316,4.728,5.171,5.594,5.987,6.339,6.697,7.072,7.44
+France,Food,Penetration Rate,Vegetables,percent,Statista,5.415,5.865,6.409,7.02,7.678,8.306,8.889,9.412,9.944,10.501,11.047
+France,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,66.14,67.37,67.98,114.1,148.6,153.7,209.8,261.7,327,336.5,354.7
+France,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,39.69,40.43,40.79,72.39,97.35,100.3,136.4,169.4,210.7,215.3,225.4
+France,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,17.45,17.78,17.94,25.22,28.97,30.7,42.91,54.84,70.19,72.49,76.94
+France,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,20.1,20.48,20.66,34.69,45.16,46.72,63.75,79.54,99.38,103.2,109.5
+France,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,16.43,16.73,16.88,29.83,39.99,41.04,55.54,68.7,85.08,87.82,92.6
+France,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,3.168,3.227,3.256,5.757,7.723,7.93,10.74,13.3,16.48,17.14,18.2
+France,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,222.8,246.3,272.2,501.6,715.8,803.1,"1,176","1,557","2,060","2,243","2,492"
+France,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,84.21,93.12,102.9,200.5,295.5,330.2,481.6,635,836.3,904.2,997.9
+France,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,48.78,53.95,59.6,92.01,115.9,133.1,199.7,270.8,367,401.1,448.8
+France,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,30.47,33.69,37.23,68.61,97.91,109.8,160.8,213,281.8,309.5,346.2
+France,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,49.79,55.06,60.84,118,173.4,193,280.2,367.9,482.4,526.9,585.7
+France,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,9.495,10.5,11.6,22.52,33.12,36.88,53.59,70.4,92.39,101.7,113.8
+France,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,10.584,10.486,84.302,42.709,12.192,46.412,32.419,32.3,8.91,11.095
+France,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,10.584,10.486,94.823,47.422,11.754,45.817,31.857,31.712,8.114,10.369
+France,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,10.584,10.486,54.373,25.922,14.911,49.961,35.636,35.532,9.286,11.889
+France,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,10.584,10.486,84.302,42.709,12.192,46.412,32.419,32.3,9.856,11.837
+France,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,10.584,10.486,93.959,46.963,11.281,45.196,31.29,31.14,9.221,11.147
+France,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,10.584,10.486,94.12,47.049,11.361,45.3,31.385,31.236,10.103,11.887
+France,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,98.906,98.784,98.651,97.909,96.76,95.533,94.049,92.271,89.964,,
+France,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,1.094,1.216,1.349,2.091,3.24,4.467,5.951,7.729,10.036,,
+France,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Bread & Cereal Products,Users by Segment,Total,million users,Statista,3.368,3.656,4.004,4.395,4.818,5.225,5.606,5.95,6.3,6.667,7.028
+France,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,2.122,2.304,2.522,2.769,3.035,3.292,3.532,3.748,3.969,4.2,4.427
+France,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,2.795,3.035,3.323,3.648,3.999,4.337,4.653,4.938,5.229,5.534,5.833
+France,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,1.516,1.645,1.802,1.978,2.168,2.351,2.523,2.677,2.835,3,3.162
+France,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,3.031,3.291,3.603,3.956,4.336,4.703,5.045,5.355,5.67,6,6.325
+France,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,2.998,3.254,3.563,3.912,4.288,4.65,4.989,5.295,5.607,5.934,6.255
+France,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,3.272,3.544,3.873,4.242,4.64,5.019,5.372,5.688,6.009,6.346,6.675
+France,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,5.194,5.626,6.147,6.734,7.364,7.967,8.527,9.028,9.538,10.072,10.596
+France,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,4.311,4.67,5.102,5.589,6.112,6.613,7.077,7.493,7.917,8.36,8.795
+France,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,2.337,2.532,2.766,3.03,3.314,3.585,3.837,4.063,4.292,4.533,4.768
+France,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,4.675,5.063,5.532,6.061,6.628,7.17,7.674,8.125,8.584,9.065,9.536
+France,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,4.623,5.007,5.471,5.993,6.554,7.091,7.589,8.035,8.489,8.965,9.43
+France,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,53.83,54.83,55.33,84.96,103.5,109.6,153.1,195.6,250.3,255.2,268.1
+France,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,47.64,48.53,48.97,74.95,91.06,96.41,134.7,171.9,219.9,223.8,234.7
+France,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.023,1.042,1.051,1.615,1.966,2.083,2.91,3.718,4.756,4.926,5.237
+France,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,15.26,15.55,15.69,24.32,29.79,31.6,44.2,56.53,72.42,74.22,78.22
+France,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,189,209,230.9,389.3,519.7,597,894.9,"1,213","1,644","1,774","1,964"
+France,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,137.2,151.7,167.6,281.6,375.1,430.7,645.3,874.5,"1,184","1,276","1,410"
+France,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,1.976,2.185,2.414,4.07,5.432,6.24,9.354,12.68,17.18,18.83,21.1
+France,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,49.85,55.12,60.9,103.6,139.2,160.1,240.2,326.1,442.4,479.7,533
+France,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,10.584,10.486,68.595,33.484,14.868,49.904,35.584,35.48,7.928,10.711
+France,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,10.584,10.486,68.031,33.181,14.816,49.836,35.522,35.417,7.709,10.547
+France,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,10.584,10.486,68.595,33.484,14.868,49.904,35.584,35.48,9.592,12.058
+France,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,10.584,10.486,70.148,34.307,15.007,50.086,35.75,35.648,8.447,11.094
+France,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.043,98.957,98.867,98.355,97.706,96.851,95.783,94.481,92.765,,
+France,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.957,1.043,1.133,1.645,2.294,3.149,4.217,5.519,7.235,,
+France,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Confectionery & Snacks,Users by Segment,Total,million users,Statista,3.511,3.812,4.174,4.583,5.023,5.447,5.844,6.203,6.568,6.951,7.327
+France,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,2.879,3.126,3.423,3.758,4.119,4.467,4.792,5.086,5.386,5.7,6.008
+France,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,1.931,2.097,2.296,2.52,2.763,2.996,3.214,3.412,3.613,3.823,4.03
+France,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,3.266,3.545,3.882,4.262,4.672,5.066,5.435,5.769,6.108,6.464,6.814
+France,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,4.44,4.81,5.255,5.757,6.296,6.811,7.289,7.718,8.154,8.611,9.058
+France,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,5.415,5.865,6.409,7.02,7.678,8.306,8.889,9.412,9.944,10.501,11.047
+France,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.978,3.226,3.525,3.861,4.223,4.568,4.889,5.177,5.469,5.776,6.076
+France,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,5.036,5.455,5.96,6.529,7.14,7.725,8.267,8.754,9.248,9.766,10.273
+France,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,17.46,17.78,17.95,30.76,40.38,41.91,57.38,71.81,90,93.79,99.78
+France,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,23.26,23.69,23.91,41.02,53.88,56.04,76.87,96.39,121,126.1,134.3
+France,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,2.353,2.396,2.418,4.1,5.342,5.414,7.237,8.841,10.81,11.24,11.91
+France,Convenience Food,Revenue,Total,million USD (US$),Statista,70.06,77.48,85.6,161.1,231.8,260.9,383.3,509.1,675.6,745,835.5
+France,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,64.4,71.22,78.68,148.2,213.4,240.7,354.3,471.5,626.9,691.4,775.7
+France,Convenience Food,Revenue,Soups,million USD (US$),Statista,5.665,6.264,6.921,12.88,18.4,20.22,29,37.6,48.69,53.58,59.82
+France,Convenience Food,Revenue Change,Total,percent,Statista,,10.584,10.486,88.196,43.901,12.557,46.878,32.831,32.703,10.274,12.146
+France,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,10.584,10.486,88.376,43.995,12.785,47.17,33.091,32.959,10.293,12.185
+France,Convenience Food,Revenue Change,Soups,percent,Statista,,10.584,10.486,86.156,42.816,9.914,43.402,29.655,29.487,10.034,11.646
+France,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.052,98.96,98.861,98.231,97.252,96.225,94.991,93.517,91.595,,
+France,Convenience Food,Online & Offline Split,Online,percent,Statista,0.948,1.04,1.139,1.769,2.748,3.775,5.009,6.483,8.405,,
+France,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Convenience Food,Users by Segment,Total,million users,Statista,4.013,4.357,4.77,5.237,5.741,6.226,6.679,7.089,7.507,7.944,8.373
+France,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,2.769,3.006,3.292,3.614,3.961,4.296,4.609,4.891,5.179,5.481,5.778
+France,Convenience Food,Users by Segment,Soups,million users,Statista,2.408,2.614,2.862,3.142,3.444,3.735,4.008,4.253,4.504,4.766,5.024
+France,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,6.189,6.703,7.324,8.023,8.774,9.493,10.159,10.757,11.365,12.001,12.625
+France,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,4.27,4.625,5.054,5.536,6.054,6.55,7.01,7.422,7.842,8.281,8.711
+France,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.713,4.022,4.395,4.814,5.265,5.696,6.096,6.454,6.819,7.201,7.575
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,129,131.5,132.6,179.4,201,215.8,305.8,396.1,513.9,531,564.8
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,64.72,65.92,66.52,89.99,100.8,108.3,153.5,198.8,258.1,267.2,284.4
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,18.14,18.48,18.65,25.25,28.3,30.45,43.23,56.11,72.96,75.26,79.99
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,23.6,24.04,24.26,32.79,36.73,39.39,55.74,72.11,93.46,96.42,102.5
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,112,114.1,115.1,155.6,174.4,187.2,265,343.2,445.2,459.7,488.8
+France,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,27.47,27.98,28.24,38.2,42.81,45.98,65.16,84.43,109.6,113,120.1
+France,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,212.7,235.2,259.9,385.9,473.9,551.9,838.8,"1,153","1,584","1,733","1,942"
+France,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,80,88.47,97.74,145.2,178.3,207.7,315.7,434.2,596.7,653.7,733.6
+France,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,12.86,14.22,15.71,23.35,28.7,33.48,51,70.25,96.73,105.6,118.3
+France,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,30.34,33.55,37.07,55.02,67.54,78.56,119.3,163.8,224.7,245.4,274.8
+France,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,64.59,71.43,78.91,117.2,143.9,167.5,254.5,349.7,480.3,525,588.4
+France,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,24.9,27.54,30.43,45.2,55.51,64.66,98.31,135.2,185.8,202.9,227.2
+France,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,10.584,10.486,48.509,22.805,16.45,51.981,37.478,37.395,9.351,12.112
+France,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,10.584,10.486,48.531,22.817,16.482,52.022,37.516,37.433,9.555,12.22
+France,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,10.584,10.486,48.641,22.875,16.688,52.294,37.764,37.683,9.159,12.039
+France,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,10.584,10.486,48.422,22.759,16.317,51.806,37.318,37.233,9.177,12.003
+France,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,10.584,10.486,48.487,22.793,16.411,51.929,37.431,37.347,9.29,12.079
+France,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,10.584,10.486,48.537,22.82,16.491,52.034,37.527,37.444,9.161,12.016
+France,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.052,98.953,98.846,98.421,98.005,97.24,96.239,94.929,93.148,,
+France,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.948,1.047,1.154,1.579,1.995,2.76,3.761,5.071,6.852,,
+France,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,1.648,1.789,1.959,2.151,2.358,2.557,2.743,2.912,3.083,3.263,3.439
+France,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,1.236,1.342,1.469,1.613,1.768,1.918,2.057,2.184,2.312,2.447,2.579
+France,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.709,0.769,0.842,0.925,1.014,1.099,1.18,1.252,1.326,1.403,1.479
+France,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,1.286,1.396,1.528,1.678,1.839,1.994,2.14,2.271,2.405,2.545,2.682
+France,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.577,0.626,0.686,0.753,0.825,0.895,0.96,1.019,1.079,1.142,1.204
+France,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.907,0.984,1.078,1.183,1.297,1.406,1.509,1.601,1.696,1.794,1.892
+France,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.906,2.065,2.256,2.471,2.703,2.924,3.129,3.314,3.501,3.697,3.889
+France,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.542,2.753,3.008,3.295,3.604,3.899,4.173,4.418,4.668,4.929,5.185
+France,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.093,1.184,1.294,1.417,1.55,1.676,1.794,1.9,2.007,2.12,2.23
+France,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.983,2.147,2.346,2.57,2.811,3.041,3.255,3.446,3.641,3.845,4.044
+France,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.89,0.964,1.053,1.153,1.261,1.365,1.46,1.546,1.634,1.725,1.815
+France,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.398,1.514,1.655,1.812,1.982,2.144,2.295,2.43,2.567,2.711,2.852
+France,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,81.47,82.99,83.74,118.5,136.6,146.2,206.4,266.4,344.4,355.8,378.2
+France,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,97.54,99.36,100.3,141.6,163.2,174,244.7,314.7,405.4,419,445.3
+France,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,130.1,132.5,133.7,189.4,218.6,234.5,331.8,429.4,556.5,574.7,611.1
+France,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,13.57,13.82,13.95,19.76,22.82,24.52,34.77,45.08,58.56,60.48,64.32
+France,Fish & Seafood,Revenue,Total,million USD (US$),Statista,110.9,122.7,135.5,210.5,266.1,308.8,467.7,640.6,877,958.9,"1,075"
+France,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,51.79,57.28,63.28,98.14,123.9,143.3,216.3,295.2,402.7,440.4,493.4
+France,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,42.51,47.01,51.94,80.77,102.2,118.9,180.5,247.8,340.1,371.8,416.7
+France,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,16.63,18.39,20.32,31.61,40,46.62,70.92,97.6,134.2,146.7,164.5
+France,Fish & Seafood,Revenue Change,Total,percent,Statista,,10.584,10.486,55.322,26.426,16.035,51.437,36.984,36.897,9.338,12.061
+France,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,10.584,10.486,55.075,26.295,15.63,50.905,36.497,36.402,9.383,12.035
+France,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,10.584,10.486,55.526,26.534,16.321,51.811,37.323,37.238,9.299,12.073
+France,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,10.584,10.486,55.572,26.559,16.558,52.123,37.608,37.526,9.305,12.106
+France,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.052,98.961,98.864,98.417,97.937,97.163,96.169,94.894,93.179,,
+France,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.948,1.039,1.136,1.583,2.063,2.837,3.831,5.106,6.821,,
+France,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Fish & Seafood,Users by Segment,Total,million users,Statista,1.362,1.478,1.618,1.777,1.948,2.112,2.266,2.405,2.547,2.695,2.841
+France,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.531,0.576,0.631,0.693,0.76,0.824,0.884,0.938,0.993,1.051,1.108
+France,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.327,0.355,0.388,0.426,0.467,0.507,0.544,0.577,0.611,0.647,0.682
+France,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,1.225,1.33,1.457,1.599,1.753,1.901,2.04,2.165,2.292,2.426,2.557
+France,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.1,2.274,2.485,2.722,2.977,3.221,3.447,3.65,3.856,4.072,4.283
+France,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.819,0.887,0.969,1.062,1.161,1.256,1.344,1.423,1.504,1.588,1.671
+France,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.504,0.546,0.596,0.653,0.714,0.773,0.827,0.876,0.925,0.977,1.028
+France,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.89,2.047,2.237,2.45,2.679,2.899,3.102,3.285,3.47,3.665,3.855
+France,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,29.42,29.97,30.24,42.75,49.29,52.63,74.13,95.48,123.2,126.6,134.1
+France,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,37.09,37.78,38.13,53.9,62.14,66.36,93.47,120.4,155.3,159.5,168.8
+France,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,1.406,1.432,1.445,2.033,2.337,2.48,3.473,4.447,5.702,5.891,6.256
+France,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,5.507,5.609,5.66,8.008,9.237,9.877,13.93,17.97,23.21,23.98,25.49
+France,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,109.6,121.2,134,207.9,262.7,304.2,459.8,628.5,858.6,933.7,"1,042"
+France,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,96.76,107,118.2,183.5,231.9,268.5,405.8,554.7,757.8,823.5,918.9
+France,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,2.619,2.896,3.2,4.943,6.228,7.17,10.77,14.64,19.87,21.73,24.32
+France,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,10.26,11.35,12.54,19.47,24.62,28.55,43.2,59.14,80.9,88.44,99.09
+France,Fruits & Nuts,Revenue Change,Total,percent,Statista,,10.584,10.486,55.213,26.368,15.798,51.125,36.698,36.606,8.749,11.638
+France,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,10.584,10.486,55.219,26.371,15.799,51.126,36.699,36.607,8.674,11.587
+France,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,10.584,10.486,54.5,25.989,15.119,50.234,35.885,35.784,9.32,11.935
+France,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,10.584,10.486,55.335,26.433,15.958,51.335,36.889,36.799,9.316,12.038
+France,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.052,98.956,98.852,98.393,97.896,97.098,96.069,94.744,92.959,,
+France,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.948,1.044,1.148,1.607,2.104,2.902,3.931,5.256,7.041,,
+France,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Fruits & Nuts,Users by Segment,Total,million users,Statista,3.726,4.045,4.43,4.863,5.331,5.781,6.202,6.583,6.97,7.376,7.775
+France,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,2.608,2.832,3.101,3.404,3.732,4.047,4.342,4.608,4.879,5.163,5.443
+France,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,1.863,2.023,2.215,2.432,2.665,2.89,3.101,3.291,3.485,3.688,3.888
+France,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,1.863,2.023,2.215,2.432,2.665,2.89,3.101,3.291,3.485,3.688,3.888
+France,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,4.023,4.357,4.761,5.215,5.703,6.17,6.604,6.992,7.387,7.801,8.206
+France,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,5.747,6.225,6.801,7.45,8.148,8.814,9.434,9.989,10.553,11.144,11.723
+France,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.873,3.112,3.401,3.725,4.074,4.407,4.717,4.994,5.277,5.572,5.862
+France,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.873,3.112,3.401,3.725,4.074,4.407,4.717,4.994,5.277,5.572,5.862
+France,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,191,194.6,196.4,277.1,319,340.4,479.2,616.7,795.1,812.5,856.1
+France,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,172.7,175.9,177.5,251.4,290.1,311.1,440.2,569.4,737.9,749.5,786.6
+France,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,82.64,84.18,84.94,119.1,136.6,144.5,201.7,257.3,328.7,339.4,360.1
+France,Meat,Revenue,Total,billion USD (US$),Statista,0.411,0.454,0.502,0.777,0.981,1.135,1.715,2.342,3.197,3.457,3.84
+France,Meat,Revenue,Fresh Meat,billion USD (US$),Statista,0.256,0.283,0.313,0.487,0.616,0.716,1.087,1.492,2.047,2.201,2.435
+France,Meat,Revenue,Processed Meat,billion USD (US$),Statista,0.155,0.171,0.189,0.291,0.365,0.419,0.628,0.85,1.15,1.257,1.405
+France,Meat,Revenue Change,Total,percent,Statista,,10.584,10.486,54.917,26.213,15.712,51.019,36.607,36.52,8.13,11.065
+France,Meat,Revenue Change,Fresh Meat,percent,Statista,,10.584,10.486,55.485,26.513,16.302,51.787,37.301,37.216,7.495,10.616
+France,Meat,Revenue Change,Processed Meat,percent,Statista,,10.584,10.486,53.977,25.711,14.718,49.707,35.405,35.299,9.262,11.851
+France,Meat,Online & Offline Split,Offline,percent,Statista,99.052,98.954,98.847,98.386,97.885,97.078,96.037,94.694,92.881,,
+France,Meat,Online & Offline Split,Online,percent,Statista,0.948,1.046,1.153,1.614,2.115,2.922,3.963,5.306,7.119,,
+France,Meat,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Meat,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Meat,Users by Segment,Total,million users,Statista,2.15,2.334,2.556,2.806,3.075,3.335,3.578,3.798,4.021,4.256,4.486
+France,Meat,Users by Segment,Fresh Meat,million users,Statista,1.483,1.61,1.763,1.936,2.122,2.301,2.469,2.62,2.775,2.936,3.095
+France,Meat,Users by Segment,Processed Meat,million users,Statista,1.87,2.03,2.223,2.441,2.676,2.902,3.113,3.304,3.499,3.702,3.903
+France,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,2.288,2.478,2.707,2.966,3.243,3.509,3.755,3.976,4.201,4.436,4.667
+France,Meat,Penetration Rate by Segment,Meat,percent,Statista,3.315,3.591,3.924,4.298,4.701,5.085,5.442,5.763,6.088,6.429,6.763
+France,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.884,3.124,3.414,3.739,4.09,4.424,4.735,5.014,5.297,5.593,5.884
+France,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,21.45,21.85,22.05,29.83,33.43,35.95,51,66.16,85.98,88.69,94.26
+France,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,11.29,11.5,11.61,15.73,17.65,19.05,27.13,35.32,46.07,47.52,50.53
+France,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,8.712,8.874,8.954,12.09,13.54,14.5,20.5,26.5,34.31,35.39,37.59
+France,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,4.419,4.501,4.542,6.135,6.866,7.357,10.4,13.44,17.4,17.95,19.07
+France,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,3.184,3.244,3.273,4.435,4.975,5.364,7.63,9.924,12.93,13.34,14.18
+France,Oils & Fats,Revenue,Total,million USD (US$),Statista,38.43,42.49,46.95,69.75,85.67,99.91,152.1,209.4,288.1,314.5,352.4
+France,Oils & Fats,Revenue,Butter,million USD (US$),Statista,16.18,17.9,19.77,29.43,36.19,42.36,64.71,89.42,123.5,134.8,151.1
+France,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,12.49,13.81,15.25,22.62,27.75,32.25,48.91,67.09,91.97,100.4,112.4
+France,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,6.333,7.003,7.738,11.47,14.08,16.36,24.81,34.03,46.65,50.93,57.03
+France,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,3.423,3.785,4.182,6.222,7.65,8.945,13.65,18.85,26,28.38,31.81
+France,Oils & Fats,Revenue Change,Total,percent,Statista,,10.584,10.486,48.558,22.831,16.623,52.209,37.688,37.609,9.157,12.03
+France,Oils & Fats,Revenue Change,Butter,percent,Statista,,10.584,10.486,48.823,22.972,17.047,52.765,38.193,38.118,9.151,12.078
+France,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,10.584,10.486,48.289,22.688,16.199,51.651,37.177,37.09,9.163,11.981
+France,Oils & Fats,Revenue Change,Margarine,percent,Statista,,10.584,10.486,48.289,22.688,16.199,51.651,37.177,37.09,9.163,11.981
+France,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,10.584,10.486,48.78,22.949,16.931,52.612,38.054,37.976,9.157,12.068
+France,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.052,98.957,98.854,98.438,98.033,97.286,96.31,95.036,93.306,,
+France,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.948,1.043,1.146,1.562,1.967,2.714,3.69,4.964,6.694,,
+France,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Oils & Fats,Users by Segment,Total,million users,Statista,1.792,1.945,2.13,2.338,2.563,2.779,2.982,3.165,3.351,3.546,3.738
+France,Oils & Fats,Users by Segment,Butter,million users,Statista,1.433,1.556,1.704,1.87,2.05,2.223,2.385,2.532,2.681,2.837,2.99
+France,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,1.433,1.556,1.704,1.87,2.05,2.223,2.385,2.532,2.681,2.837,2.99
+France,Oils & Fats,Users by Segment,Margarine,million users,Statista,1.433,1.556,1.704,1.87,2.05,2.223,2.385,2.532,2.681,2.837,2.99
+France,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,1.075,1.167,1.278,1.403,1.538,1.668,1.789,1.899,2.011,2.128,2.243
+France,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,2.21,2.394,2.616,2.865,3.134,3.39,3.628,3.842,4.059,4.286,4.509
+France,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,2.21,2.394,2.616,2.865,3.134,3.39,3.628,3.842,4.059,4.286,4.509
+France,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,2.21,2.394,2.616,2.865,3.134,3.39,3.628,3.842,4.059,4.286,4.509
+France,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.763,2.993,3.27,3.582,3.917,4.238,4.535,4.802,5.074,5.358,5.636
+France,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.658,1.796,1.962,2.149,2.35,2.543,2.721,2.881,3.044,3.215,3.382
+France,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,5.801,5.909,5.962,7.343,7.753,8.459,12.17,16.03,21.14,21.73,23.1
+France,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,4.859,4.949,4.994,6.151,6.495,7.088,10.21,13.44,17.73,18.23,19.38
+France,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,3.19,3.249,3.279,4.037,4.262,4.647,6.684,8.791,11.59,11.91,12.66
+France,Sauces & Spices,Revenue,Total,million USD (US$),Statista,18.29,20.23,22.35,30.22,34.97,41.38,63.89,89.26,124.7,135.6,152
+France,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,12.26,13.55,14.97,20.25,23.44,27.74,42.85,59.88,83.66,91.03,102
+France,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,6.035,6.674,7.373,9.968,11.54,13.64,21.05,29.38,41,44.61,49.98
+France,Sauces & Spices,Revenue Change,Total,percent,Statista,,10.584,10.486,35.215,15.738,18.311,54.424,39.707,39.647,8.813,12.037
+France,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,10.584,10.486,35.227,15.745,18.353,54.478,39.756,39.698,8.813,12.042
+France,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,10.584,10.486,35.189,15.725,18.226,54.313,39.605,39.545,8.814,12.027
+France,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.948,1.044,1.147,1.477,1.718,2.377,3.264,4.457,6.1,,
+France,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Sauces & Spices,Users by Segment,Total,million users,Statista,3.153,3.423,3.748,4.115,4.511,4.892,5.248,5.57,5.898,6.241,6.579
+France,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,2.522,2.738,2.998,3.292,3.609,3.913,4.198,4.456,4.718,4.993,5.263
+France,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,1.892,2.054,2.249,2.469,2.706,2.935,3.149,3.342,3.539,3.745,3.947
+France,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,4.863,5.267,5.755,6.304,6.894,7.458,7.982,8.452,8.929,9.43,9.92
+France,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.89,4.214,4.604,5.043,5.515,5.967,6.386,6.762,7.144,7.544,7.936
+France,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.918,3.16,3.453,3.782,4.137,4.475,4.789,5.071,5.358,5.658,5.952
+France,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,15.8,16.1,16.24,19.96,21.04,22.62,32.09,41.63,54.11,55.65,59.04
+France,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,9.311,9.484,9.57,11.74,12.37,13.48,19.37,25.46,33.52,34.46,36.62
+France,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,17.41,17.73,17.89,22,23.21,24.66,34.57,44.3,56.87,58.49,61.97
+France,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,37.37,41.33,45.66,61.59,71.17,82.98,126.3,173.9,239.4,260.5,291.3
+France,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,17.61,19.48,21.52,28.99,33.48,39.55,60.98,85.07,118.6,129.1,144.6
+France,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,19.76,21.85,24.14,32.6,37.69,43.43,65.31,88.84,120.8,131.4,146.8
+France,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,10.584,10.486,34.87,15.555,16.6,52.201,37.701,37.642,8.823,11.841
+France,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,10.584,10.486,34.714,15.472,18.138,54.197,39.5,39.438,8.803,12.011
+France,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,10.584,10.486,35.009,15.629,15.233,50.383,36.021,35.922,8.843,11.675
+France,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.043,98.909,98.757,98.349,98.021,97.251,96.21,94.733,92.666,,
+France,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.957,1.091,1.243,1.651,1.979,2.749,3.79,5.267,7.334,,
+France,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,2.365,2.567,2.811,3.086,3.383,3.669,3.936,4.178,4.423,4.681,4.934
+France,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,1.892,2.054,2.249,2.469,2.706,2.935,3.149,3.342,3.539,3.745,3.947
+France,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,1.135,1.232,1.349,1.481,1.624,1.761,1.889,2.005,2.123,2.247,2.369
+France,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.918,3.16,3.453,3.782,4.137,4.475,4.789,5.071,5.358,5.658,5.952
+France,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.647,3.95,4.316,4.728,5.171,5.594,5.987,6.339,6.697,7.072,7.44
+France,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.751,1.896,2.072,2.269,2.482,2.685,2.874,3.043,3.215,3.395,3.571
+France,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,42.9,43.7,44.1,62.33,71.85,76.71,108.1,139.2,179.5,182.9,192.3
+France,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,49.71,50.63,51.09,72.27,83.35,89.08,125.6,161.9,209.1,212.4,222.8
+France,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,16.21,16.52,16.67,23.48,27.01,28.71,40.26,51.61,66.26,68.45,72.7
+France,Vegetables,Revenue,Total,million USD (US$),Statista,150.6,166.6,184.1,285.6,360.9,417.9,631.5,863.2,"1,179","1,272","1,409"
+France,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,122.2,135.1,149.3,231.8,293.1,339.7,513.9,703.1,961.5,"1,034","1,143"
+France,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,28.47,31.48,34.78,53.81,67.84,78.2,117.6,160.1,217.6,237.9,266.3
+France,Vegetables,Revenue Change,Total,percent,Statista,,10.584,10.486,55.187,26.355,15.79,51.115,36.69,36.598,7.837,10.83
+France,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,10.584,10.486,55.303,26.416,15.912,51.274,36.833,36.743,7.501,10.571
+France,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,10.584,10.486,54.691,26.091,15.267,50.427,36.061,35.962,9.321,11.954
+France,Vegetables,Online & Offline Split,Offline,percent,Statista,99.052,98.956,98.852,98.392,97.895,97.096,96.066,94.74,92.952,,
+France,Vegetables,Online & Offline Split,Online,percent,Statista,0.948,1.044,1.148,1.608,2.105,2.904,3.934,5.26,7.048,,
+France,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,70.642,66.771,63.609,61.482,59.878,59.11,58.244,57.383,56.508,,
+France,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,29.358,33.229,36.391,38.518,40.122,40.89,41.756,42.617,43.492,,
+France,Vegetables,Users by Segment,Total,million users,Statista,3.511,3.812,4.174,4.583,5.023,5.447,5.844,6.203,6.568,6.951,7.327
+France,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,2.458,2.668,2.922,3.208,3.516,3.813,4.091,4.342,4.598,4.866,5.129
+France,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,1.756,1.906,2.087,2.291,2.512,2.724,2.922,3.101,3.284,3.475,3.663
+France,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.791,4.106,4.486,4.914,5.374,5.814,6.223,6.589,6.961,7.351,7.733
+France,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.708,2.933,3.204,3.51,3.839,4.153,4.445,4.706,4.972,5.251,5.523
+France,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,5.415,5.865,6.409,7.02,7.678,8.306,8.889,9.412,9.944,10.501,11.047

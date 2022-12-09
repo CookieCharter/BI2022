@@ -1,0 +1,746 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Italy,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.05,,,,,,
+Italy,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,19.731,,,,,,
+Italy,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.993,,,,,,
+Italy,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.359,,,,,,
+Italy,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.866,,,,,,
+Italy,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,49.819,,,,,,
+Italy,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,50.181,,,,,,
+Italy,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,32.852,,,,,,
+Italy,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.618,,,,,,
+Italy,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,36.531,,,,,,
+Italy,eCommerce,Revenue,Total,billion USD (US$),Statista,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,1.98,2.518,3.199,4.6,5.981,5.943,7.742,9.157,10.86,11.73,12.75
+Italy,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.322,0.407,0.511,0.735,1.02,0.937,1.128,1.232,1.35,1.446,1.543
+Italy,eCommerce,Revenue,Electronics,billion USD (US$),Statista,4.309,5.187,6.217,9.141,11.73,9.983,13.52,15.1,16.83,18.08,19.38
+Italy,eCommerce,Revenue,Fashion,billion USD (US$),Statista,5.973,7.132,8.541,12.38,15.78,16.51,22.56,27.87,34.35,37.18,40.73
+Italy,eCommerce,Revenue,Food,billion USD (US$),Statista,0.781,0.972,1.21,2.097,3.048,2.817,3.398,3.707,4.037,4.39,4.722
+Italy,eCommerce,Revenue,Furniture,billion USD (US$),Statista,1.173,1.436,1.758,2.606,3.392,2.914,4.285,5.013,5.835,6.364,6.95
+Italy,eCommerce,Revenue,Media,billion USD (US$),Statista,0.806,0.931,1.084,1.542,1.812,1.678,1.982,2.08,2.15,2.26,2.349
+Italy,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,1.981,2.256,2.596,3.719,4.61,4.408,5.525,6.293,7.196,7.749,8.366
+Italy,eCommerce,Revenue Change,Total,percent,Statista,,20.323,20.537,46.576,28.653,-4.602,33.083,17.143,17.246,7.99,8.509
+Italy,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,27.172,27.045,43.795,30.022,-0.635,30.271,18.277,18.598,8.011,8.696
+Italy,eCommerce,Revenue Change,Beverages,percent,Statista,,26.249,25.657,43.751,38.776,-8.127,20.371,9.22,9.578,7.111,6.708
+Italy,eCommerce,Revenue Change,Electronics,percent,Statista,,20.376,19.857,47.032,28.323,-14.893,35.43,11.686,11.457,7.427,7.19
+Italy,eCommerce,Revenue Change,Fashion,percent,Statista,,19.404,19.756,44.948,27.464,4.626,36.644,23.537,23.251,8.239,9.548
+Italy,eCommerce,Revenue Change,Food,percent,Statista,,24.468,24.537,73.306,45.351,-7.579,20.625,9.094,8.902,8.744,7.563
+Italy,eCommerce,Revenue Change,Furniture,percent,Statista,,22.421,22.423,48.237,30.161,-14.092,47.049,16.989,16.397,9.066,9.208
+Italy,eCommerce,Revenue Change,Media,percent,Statista,,15.513,16.459,42.251,17.51,-7.395,18.117,4.945,3.365,5.116,3.938
+Italy,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,13.882,15.071,43.259,23.958,-4.382,25.34,13.9,14.349,7.685,7.962
+Italy,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,0.643,0.71,0.791,1.105,1.33,1.212,1.497,1.749,2.044,2.153,2.299
+Italy,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.198,0.223,0.251,0.322,0.377,0.339,0.409,0.456,0.511,0.521,0.537
+Italy,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.06,0.066,0.073,0.092,0.112,0.093,0.103,0.106,0.11,0.11,0.111
+Italy,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.288,0.306,0.322,0.415,0.469,0.357,0.444,0.468,0.493,0.497,0.503
+Italy,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.407,0.428,0.452,0.581,0.663,0.634,0.809,0.95,1.114,1.146,1.201
+Italy,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.153,0.169,0.184,0.28,0.357,0.297,0.33,0.339,0.348,0.355,0.361
+Italy,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,0.173,0.185,0.199,0.261,0.298,0.23,0.315,0.347,0.381,0.392,0.405
+Italy,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.075,0.077,0.079,0.1,0.107,0.091,0.101,0.101,0.099,0.1,0.099
+Italy,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.165,0.166,0.169,0.215,0.237,0.203,0.234,0.251,0.271,0.273,0.278
+Italy,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,8.87,8.975,9.355,9.683,9.999,10.257,10.365,10.347,10.33,,
+Italy,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,49.43,48.827,47.525,46.215,41.692,37.779,34.208,30.807,27.406,,
+Italy,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,10.592,10.719,10.171,9.683,9.255,8.871,8.48,8.039,7.599,,
+Italy,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,3.677,3.72,3.792,3.961,4.09,4.196,4.24,4.233,4.226,,
+Italy,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,2.061,2.086,2.191,2.289,3.102,4.099,5.261,6.986,8.712,,
+Italy,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,19.424,19.655,20.646,21.567,25.045,27.804,30.379,32.532,34.684,,
+Italy,eCommerce,Revenue Share Payment Types,Other,percent,Statista,5.946,6.017,6.32,6.602,6.817,6.994,7.067,7.055,7.043,,
+Italy,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,6.951,7.222,7.504,7.742,7.946,8.115,8.253,8.363,8.45,,
+Italy,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,93.049,92.778,92.496,92.258,92.054,91.885,91.747,91.637,91.55,,
+Italy,eCommerce,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,eCommerce,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,eCommerce,Online & Offline Split,Offline,percent,Statista,95.911,95.176,94.215,91.247,88.887,87.653,86.02,84.024,81.701,,
+Italy,eCommerce,Online & Offline Split,Online,percent,Statista,4.089,4.824,5.785,8.753,11.113,12.347,13.98,15.976,18.299,,
+Italy,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,70.924,67.341,64.803,62.826,61.672,60.609,60.027,59.444,58.857,,
+Italy,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,29.076,32.659,35.197,37.174,38.328,39.391,39.973,40.556,41.143,,
+Italy,eCommerce,Users,Total,million users,Statista,26.957,29.351,31.732,33.308,35.619,37.298,40.159,40.29,40.413,41.425,42.104
+Italy,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,9.989,11.29,12.748,14.296,15.873,17.547,18.928,20.074,21.243,22.537,23.761
+Italy,eCommerce,Users,Beverages,million users,Statista,5.408,6.129,6.98,7.982,9.078,10.089,10.958,11.634,12.322,13.133,13.892
+Italy,eCommerce,Users,Electronics,million users,Statista,14.939,16.926,19.338,22.039,25.013,27.969,30.462,32.283,34.134,36.398,38.502
+Italy,eCommerce,Users,Fashion,million users,Statista,14.667,16.67,18.919,21.324,23.811,26.025,27.896,29.348,30.823,32.439,33.915
+Italy,eCommerce,Users,Food,million users,Statista,5.086,5.763,6.563,7.505,8.536,9.487,10.303,10.94,11.586,12.349,13.063
+Italy,eCommerce,Users,Furniture,million users,Statista,6.768,7.754,8.83,10.007,11.382,12.649,13.609,14.45,15.304,16.255,17.145
+Italy,eCommerce,Users,Media,million users,Statista,10.721,12.15,13.685,15.368,17.007,18.38,19.589,20.6,21.628,22.671,23.631
+Italy,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,12.044,13.598,15.34,17.274,19.481,21.67,23.596,25.083,26.594,28.391,30.096
+Italy,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,16.463,18.622,21.054,23.644,26.293,29.118,31.47,33.446,35.477,37.736,39.897
+Italy,eCommerce,Penetration Rate,Beverages,percent,Statista,8.914,10.11,11.527,13.201,15.038,16.741,18.218,19.384,20.579,21.991,23.326
+Italy,eCommerce,Penetration Rate,eCommerce,percent,Statista,44.429,48.412,52.407,55.09,59.004,61.893,66.767,67.129,67.493,69.364,70.696
+Italy,eCommerce,Penetration Rate,Electronics,percent,Statista,24.622,27.919,31.937,36.451,41.434,46.412,50.646,53.788,57.007,60.947,64.649
+Italy,eCommerce,Penetration Rate,Fashion,percent,Statista,24.174,27.496,31.245,35.269,39.443,43.185,46.38,48.897,51.477,54.318,56.946
+Italy,eCommerce,Penetration Rate,Food,percent,Statista,8.382,9.506,10.839,12.413,14.141,15.742,17.13,18.227,19.351,20.678,21.933
+Italy,eCommerce,Penetration Rate,Furniture,percent,Statista,11.155,12.79,14.583,16.551,18.854,20.989,22.627,24.075,25.56,27.218,28.788
+Italy,eCommerce,Penetration Rate,Media,percent,Statista,17.67,20.04,22.601,25.417,28.172,30.499,32.569,34.323,36.121,37.962,39.679
+Italy,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,19.85,22.429,25.335,28.57,32.27,35.959,39.23,41.791,44.415,47.54,50.534
+Italy,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.763,,,,,,
+Italy,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,20.207,,,,,,
+Italy,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,21.082,,,,,,
+Italy,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.969,,,,,,
+Italy,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.979,,,,,,
+Italy,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,43.039,,,,,,
+Italy,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,56.961,,,,,,
+Italy,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,33.466,,,,,,
+Italy,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.103,,,,,,
+Italy,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,38.431,,,,,,
+Italy,Electronics,Revenue,Total,billion USD (US$),Statista,4.309,5.187,6.217,9.141,11.73,9.983,13.52,15.1,16.83,18.08,19.38
+Italy,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,3.236,3.844,4.541,6.747,8.663,7.095,9.95,11.11,12.37,13.26,14.19
+Italy,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,1.073,1.342,1.676,2.394,3.063,2.888,3.565,3.989,4.464,4.821,5.192
+Italy,Electronics,Revenue Change,Total,percent,Statista,,20.376,19.857,47.032,28.323,-14.893,35.43,11.686,11.457,7.427,7.19
+Italy,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,18.789,18.132,48.58,28.398,-18.1,40.24,11.658,11.341,7.195,7.014
+Italy,Electronics,Revenue Change,Household Appliances,percent,Statista,,25.07,24.888,42.84,27.945,-5.713,23.442,11.893,11.908,7.997,7.695
+Italy,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,288.4,306.4,321.5,414.8,468.8,356.9,443.7,467.7,493.1,496.7,503.3
+Italy,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,236,247.4,256.6,336.4,379.8,279.9,361.4,383.7,406.8,411.2,418.3
+Italy,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,104.7,115.6,125.3,155.2,174.5,145.4,163.8,170.9,179.1,179.9,181.6
+Italy,Electronics,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,Electronics,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,Electronics,Online & Offline Split,Offline,percent,Statista,81.915,78.506,74.516,64.085,57.548,51.45,47.125,41.721,36.757,,
+Italy,Electronics,Online & Offline Split,Online,percent,Statista,18.085,21.494,25.484,35.915,42.452,48.55,52.875,58.279,63.243,,
+Italy,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Electronics,Users by Segment,Total,million users,Statista,14.939,16.926,19.338,22.039,25.013,27.969,30.462,32.283,34.134,36.398,38.502
+Italy,Electronics,Users by Segment,Consumer Electronics,million users,Statista,13.713,15.541,17.697,20.055,22.811,25.35,27.533,28.954,30.399,32.246,33.914
+Italy,Electronics,Users by Segment,Household Appliances,million users,Statista,10.246,11.612,13.37,15.427,17.547,19.858,21.769,23.334,24.925,26.795,28.587
+Italy,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,22.602,25.634,29.227,33.17,37.787,42.066,45.776,48.242,50.769,53.994,56.946
+Italy,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,24.622,27.919,31.937,36.451,41.434,46.412,50.646,53.788,57.007,60.947,64.649
+Italy,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,16.888,19.153,22.081,25.516,29.067,32.952,36.193,38.877,41.628,44.867,48
+Italy,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.457,,,,,,
+Italy,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,19.377,,,,,,
+Italy,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,21.107,,,,,,
+Italy,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,27.797,,,,,,
+Italy,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,19.262,,,,,,
+Italy,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,35.179,,,,,,
+Italy,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,64.821,,,,,,
+Italy,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.659,,,,,,
+Italy,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,26.136,,,,,,
+Italy,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,39.205,,,,,,
+Italy,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,3.236,3.844,4.541,6.747,8.663,7.095,9.95,11.11,12.37,13.26,14.19
+Italy,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,0.732,0.887,1.05,1.45,1.738,1.451,2.073,2.358,2.668,2.897,3.143
+Italy,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,1.001,1.189,1.405,2.087,2.68,2.195,3.078,3.437,3.825,4.147,4.477
+Italy,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,0.93,1.092,1.288,2.022,2.708,2.213,3.097,3.446,3.816,4.035,4.261
+Italy,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,0.552,0.651,0.77,1.144,1.482,1.202,1.669,1.847,2.035,2.158,2.284
+Italy,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.021,0.025,0.029,0.043,0.056,0.034,0.033,0.022,0.022,0.02,0.019
+Italy,Consumer Electronics,Revenue Change,Total,percent,Statista,,18.789,18.132,48.58,28.398,-18.1,40.24,11.658,11.341,7.195,7.014
+Italy,Consumer Electronics,Revenue Change,Computing,percent,Statista,,21.227,18.39,38.095,19.862,-16.513,42.867,13.748,13.147,8.583,8.492
+Italy,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,18.781,18.167,48.541,28.414,-18.097,40.228,11.663,11.289,8.418,7.958
+Italy,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,17.47,17.949,56.988,33.927,-18.279,39.946,11.269,10.737,5.739,5.601
+Italy,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,17.871,18.218,48.649,29.545,-18.893,38.852,10.665,10.179,6.044,5.839
+Italy,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,17.528,17.873,47.422,28.325,-38.533,-4.551,-32.029,-2.023,-6.241,-6.118
+Italy,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,236,247.4,256.6,336.4,379.8,279.9,361.4,383.7,406.8,411.2,418.3
+Italy,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,76.21,81.53,84.75,103.3,108.8,81.75,107.6,116.3,125.4,128.3,132.4
+Italy,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,91.24,95.65,99.23,130.1,146.8,108.2,139.7,148.4,157.3,160.8,165
+Italy,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,84.74,87.86,90.95,126.1,148.4,109.1,140.6,148.8,156.9,156.4,157
+Italy,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,100.7,104.7,108.7,142.6,162.4,118.5,151.6,159.4,167.3,167.3,168.4
+Italy,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,5.174,5.364,5.553,7.224,8.149,4.508,3.962,2.561,2.389,2.111,1.885
+Italy,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Italy,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Italy,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,81.426,78.109,74.24,61.909,55.059,49.375,44.942,39.109,33.786,,
+Italy,Consumer Electronics,Online & Offline Split,Online,percent,Statista,18.574,21.891,25.76,38.091,44.941,50.625,55.058,60.891,66.214,,
+Italy,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Consumer Electronics,Users,Total,million users,Statista,13.713,15.541,17.697,20.055,22.811,25.35,27.533,28.954,30.399,32.246,33.914
+Italy,Consumer Electronics,Users,Computing,million users,Statista,9.599,10.879,12.388,14.039,15.968,17.745,19.273,20.268,21.279,22.572,23.74
+Italy,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,10.971,12.433,14.157,16.044,18.249,20.28,22.026,23.164,24.319,25.796,27.131
+Italy,Consumer Electronics,Users,Telephony,million users,Statista,10.971,12.433,14.157,16.044,18.249,20.28,22.026,23.164,24.319,25.796,27.131
+Italy,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,5.485,6.216,7.079,8.022,9.124,10.14,11.013,11.582,12.16,12.898,13.566
+Italy,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,4.114,4.662,5.309,6.017,6.843,7.605,8.26,8.686,9.12,9.674,10.174
+Italy,Consumer Electronics,Penetration Rate,Computing,percent,Statista,15.821,17.944,20.459,23.219,26.451,29.446,32.043,33.769,35.538,37.796,39.861
+Italy,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,22.602,25.634,29.227,33.17,37.787,42.066,45.776,48.242,50.769,53.994,56.946
+Italy,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,18.081,20.507,23.381,26.536,30.23,33.653,36.621,38.594,40.615,43.195,45.556
+Italy,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,18.081,20.507,23.381,26.536,30.23,33.653,36.621,38.594,40.615,43.195,45.556
+Italy,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,9.041,10.253,11.691,13.268,15.115,16.826,18.31,19.297,20.308,21.598,22.778
+Italy,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,6.78,7.69,8.768,9.951,11.336,12.62,13.733,14.473,15.231,16.198,17.083
+Italy,Household Appliances,Revenue,Total,billion USD (US$),Statista,1.073,1.342,1.676,2.394,3.063,2.888,3.565,3.989,4.464,4.821,5.192
+Italy,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.518,0.649,0.81,1.157,1.48,1.397,1.725,1.931,2.162,2.359,2.562
+Italy,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.196,0.246,0.307,0.438,0.56,0.528,0.652,0.73,0.817,0.892,0.969
+Italy,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.358,0.448,0.559,0.799,1.022,0.963,1.188,1.328,1.485,1.571,1.661
+Italy,Household Appliances,Revenue Change,Total,percent,Statista,,25.07,24.888,42.84,27.945,-5.713,23.442,11.893,11.908,7.997,7.695
+Italy,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,25.092,24.838,42.892,27.917,-5.608,23.479,11.942,11.963,9.112,8.605
+Italy,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,25.051,24.837,42.89,27.916,-5.692,23.425,11.881,11.921,9.17,8.646
+Italy,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,25.091,24.833,42.86,27.862,-5.753,23.339,11.785,11.822,5.791,5.729
+Italy,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,104.7,115.6,125.3,155.2,174.5,145.4,163.8,170.9,179.1,179.9,181.6
+Italy,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,126.5,139.6,151.4,187.5,210.9,175.8,198.1,206.9,216.9,220.1,224
+Italy,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,95.81,105.8,114.7,142,159.7,133.1,149.8,156.4,163.8,166.4,169.5
+Italy,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,43.71,48.24,52.31,64.76,72.82,60.63,68.22,71.15,74.48,73.29,72.64
+Italy,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Italy,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Italy,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Italy,Household Appliances,Online & Offline Split,Offline,percent,Statista,83.248,79.568,75.234,69.066,63.298,56.487,52.433,47.96,43.754,,
+Italy,Household Appliances,Online & Offline Split,Online,percent,Statista,16.752,20.432,24.766,30.934,36.702,43.513,47.567,52.04,56.246,,
+Italy,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Household Appliances,Users,Total,million users,Statista,10.246,11.612,13.37,15.427,17.547,19.858,21.769,23.334,24.925,26.795,28.587
+Italy,Household Appliances,Users,Major Appliances,million users,Statista,4.099,4.645,5.348,6.171,7.019,7.943,8.708,9.333,9.97,10.718,11.435
+Italy,Household Appliances,Users,Other Household Appliances,million users,Statista,2.049,2.322,2.674,3.085,3.509,3.972,4.354,4.667,4.985,5.359,5.717
+Italy,Household Appliances,Users,Small Appliances,million users,Statista,8.197,9.29,10.696,12.342,14.038,15.886,17.416,18.667,19.94,21.436,22.87
+Italy,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,16.888,19.153,22.081,25.516,29.067,32.952,36.193,38.877,41.628,44.867,48
+Italy,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,6.755,7.661,8.832,10.206,11.627,13.181,14.477,15.551,16.651,17.947,19.2
+Italy,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,3.378,3.831,4.416,5.103,5.813,6.59,7.239,7.775,8.326,8.973,9.6
+Italy,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,13.51,15.323,17.664,20.413,23.254,26.362,28.955,31.101,33.302,35.894,38.4
+Italy,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.512,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,20.42,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.423,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,27.127,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.518,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,59.96,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,40.04,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.898,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.792,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,37.31,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,1.98,2.518,3.199,4.6,5.981,5.943,7.742,9.157,10.86,11.73,12.75
+Italy,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.278,0.351,0.441,0.622,0.792,0.786,1.022,1.202,1.414,1.522,1.648
+Italy,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.165,0.236,0.334,0.571,0.861,0.868,1.146,1.373,1.645,1.821,2.017
+Italy,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.202,0.259,0.33,0.477,0.621,0.677,0.969,1.261,1.648,1.794,1.991
+Italy,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,1.336,1.673,2.093,2.93,3.708,3.612,4.605,5.321,6.15,6.595,7.095
+Italy,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,27.172,27.045,43.795,30.022,-0.635,30.271,18.277,18.598,8.011,8.696
+Italy,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,26.333,25.663,41.048,27.365,-0.682,29.976,17.613,17.637,7.638,8.279
+Italy,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,43.256,41.815,70.873,50.613,0.848,32.043,19.808,19.811,10.699,10.763
+Italy,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,28.288,27.776,44.475,30.071,9.054,43.138,30.148,30.69,8.859,10.981
+Italy,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,25.225,25.105,39.99,26.553,-2.589,27.492,15.548,15.58,7.236,7.582
+Italy,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,198.2,223,250.9,321.8,376.8,338.7,409,456.2,511.2,520.6,536.6
+Italy,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,39.7,44.37,49.39,62.12,71.25,64.01,77.1,85.55,95.11,96.51,99.09
+Italy,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,25.74,32.64,40.99,62.45,84.72,77.28,94.61,106.8,121,126.2,132.6
+Italy,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,53.09,60.25,68.18,87.85,102.9,101.5,134.7,165.3,204.2,209.5,220.5
+Italy,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,215.8,239,264.8,330.6,376.8,332,392.4,427.5,467,472,481.6
+Italy,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,91.431,89.381,86.908,80.819,76.923,74.565,71.69,68.098,64.093,,
+Italy,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,8.569,10.619,13.092,19.181,23.077,25.435,28.31,31.902,35.907,,
+Italy,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,9.989,11.29,12.748,14.296,15.873,17.547,18.928,20.074,21.243,22.537,23.761
+Italy,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,6.992,7.903,8.924,10.007,11.111,12.283,13.25,14.052,14.87,15.776,16.633
+Italy,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,6.393,7.226,8.159,9.149,10.158,11.23,12.114,12.847,13.595,14.423,15.207
+Italy,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,3.796,4.29,4.844,5.432,6.032,6.668,7.193,7.628,8.072,8.564,9.029
+Italy,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,6.193,7,7.904,8.863,9.841,10.879,11.735,12.446,13.17,13.973,14.732
+Italy,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,16.463,18.622,21.054,23.644,26.293,29.118,31.47,33.446,35.477,37.736,39.897
+Italy,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,11.524,13.036,14.738,16.551,18.405,20.383,22.029,23.412,24.834,26.415,27.928
+Italy,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,10.537,11.918,13.475,15.132,16.828,18.636,20.141,21.406,22.706,24.151,25.534
+Italy,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,6.256,7.077,8.001,8.985,9.991,11.065,11.958,12.71,13.481,14.34,15.161
+Italy,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,10.207,11.546,13.053,14.659,16.302,18.053,19.511,20.737,21.996,23.397,24.736
+Italy,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.87,,,,,,
+Italy,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,20.325,,,,,,
+Italy,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.114,,,,,,
+Italy,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,30.081,,,,,,
+Italy,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,15.61,,,,,,
+Italy,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,68.293,,,,,,
+Italy,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,31.707,,,,,,
+Italy,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.591,,,,,,
+Italy,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.14,,,,,,
+Italy,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,36.268,,,,,,
+Italy,Personal Care,Revenue,Total,billion USD (US$),Statista,1.336,1.673,2.093,2.93,3.708,3.612,4.605,5.321,6.15,6.595,7.095
+Italy,Personal Care,Revenue,Body Care,billion USD (US$),Statista,0.201,0.257,0.326,0.457,0.582,0.567,0.724,0.837,0.967,1.035,1.111
+Italy,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,0.139,0.159,0.183,0.248,0.297,0.281,0.349,0.392,0.44,0.476,0.514
+Italy,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,0.125,0.16,0.203,0.286,0.365,0.355,0.452,0.522,0.602,0.658,0.72
+Italy,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,0.124,0.158,0.201,0.283,0.362,0.353,0.452,0.523,0.607,0.664,0.727
+Italy,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,0.48,0.601,0.751,1.052,1.331,1.296,1.653,1.91,2.207,2.337,2.487
+Italy,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,0.267,0.339,0.429,0.604,0.771,0.758,0.976,1.138,1.328,1.424,1.535
+Italy,Personal Care,Revenue Change,Total,percent,Statista,,25.225,25.105,39.99,26.553,-2.589,27.492,15.548,15.58,7.236,7.582
+Italy,Personal Care,Revenue Change,Body Care,percent,Statista,,27.571,27.025,40.221,27.263,-2.525,27.564,15.584,15.599,7.021,7.343
+Italy,Personal Care,Revenue Change,Eye Care,percent,Statista,,14.286,15.075,35.153,20.073,-5.314,23.872,12.274,12.286,8.235,8.134
+Italy,Personal Care,Revenue Change,Hair Care,percent,Statista,,27.614,27.017,40.817,27.587,-2.686,27.316,15.373,15.395,9.404,9.355
+Italy,Personal Care,Revenue Change,Oral Care,percent,Statista,,27.522,27.089,40.986,27.729,-2.295,27.88,15.87,15.893,9.428,9.459
+Italy,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,25.209,25.112,40.024,26.521,-2.63,27.546,15.547,15.55,5.89,6.418
+Italy,Personal Care,Revenue Change,Skin Care,percent,Statista,,27.034,26.505,41.017,27.565,-1.66,28.713,16.61,16.696,7.229,7.795
+Italy,Personal Care,Average Revenue per User,Total,USD (US$),Statista,215.8,239,264.8,330.6,376.8,332,392.4,427.5,467,472,481.6
+Italy,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,47.81,53.94,60.7,75.9,86.99,76.7,90.7,98.85,108,108.9,110.9
+Italy,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,44.99,45.48,46.36,55.87,60.42,51.75,59.43,62.92,66.76,68.1,69.85
+Italy,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,38.92,43.92,49.42,62.05,71.31,62.76,74.08,80.59,87.88,90.63,94.01
+Italy,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,40.83,46.07,51.84,65.2,74.98,66.28,78.57,85.84,94.01,96.97,100.7
+Italy,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,172.1,190.7,211.2,263.7,300.5,264.8,313,341,372.5,371.7,375.2
+Italy,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,97.88,110,123.2,155,178.1,158.4,189,207.8,229.1,231.7,236.8
+Italy,Personal Care,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,Personal Care,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,Personal Care,Online & Offline Split,Offline,percent,Statista,87.554,84.895,81.789,73.426,69.472,67.299,64.688,61.182,57.415,,
+Italy,Personal Care,Online & Offline Split,Online,percent,Statista,12.446,15.105,18.211,26.574,30.528,32.701,35.312,38.818,42.585,,
+Italy,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Personal Care,Users,Total,million users,Statista,6.193,7,7.904,8.863,9.841,10.879,11.735,12.446,13.17,13.973,14.732
+Italy,Personal Care,Users,Body Care,million users,Statista,4.211,4.76,5.375,6.027,6.692,7.398,7.98,8.463,8.956,9.501,10.018
+Italy,Personal Care,Users,Eye Care,million users,Statista,3.097,3.5,3.952,4.432,4.92,5.44,5.868,6.223,6.585,6.986,7.366
+Italy,Personal Care,Users,Hair Care,million users,Statista,3.22,3.64,4.11,4.609,5.117,5.657,6.102,6.472,6.849,7.266,7.661
+Italy,Personal Care,Users,Oral Care,million users,Statista,3.035,3.43,3.873,4.343,4.822,5.331,5.75,6.099,6.454,6.847,7.219
+Italy,Personal Care,Users,Other Personal Care,million users,Statista,2.787,3.15,3.557,3.988,4.428,4.896,5.281,5.601,5.927,6.288,6.629
+Italy,Personal Care,Users,Skin Care,million users,Statista,2.725,3.08,3.478,3.9,4.33,4.787,5.164,5.476,5.795,6.148,6.482
+Italy,Personal Care,Penetration Rate,Body Care,percent,Statista,6.941,7.851,8.876,9.968,11.085,12.276,13.268,14.101,14.957,15.91,16.821
+Italy,Personal Care,Penetration Rate,Eye Care,percent,Statista,5.104,5.773,6.527,7.33,8.151,9.027,9.756,10.368,10.998,11.698,12.368
+Italy,Personal Care,Penetration Rate,Hair Care,percent,Statista,5.308,6.004,6.788,7.623,8.477,9.388,10.146,10.783,11.438,12.166,12.863
+Italy,Personal Care,Penetration Rate,Oral Care,percent,Statista,5.002,5.657,6.396,7.183,7.988,8.846,9.56,10.161,10.778,11.464,12.121
+Italy,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,4.593,5.196,5.874,6.597,7.336,8.124,8.78,9.332,9.898,10.528,11.131
+Italy,Personal Care,Penetration Rate,Personal Care,percent,Statista,10.207,11.546,13.053,14.659,16.302,18.053,19.511,20.737,21.996,23.397,24.736
+Italy,Personal Care,Penetration Rate,Skin Care,percent,Statista,4.491,5.08,5.744,6.45,7.173,7.943,8.585,9.124,9.678,10.294,10.884
+Italy,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,39.7,44.37,49.39,62.12,71.25,64.01,77.1,85.55,95.11,96.51,99.09
+Italy,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,39.11,43.85,48.99,61.59,70.7,63.4,76.23,84.47,93.79,94.45,96.34
+Italy,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,3.902,4.199,4.468,5.638,6.409,5.895,7.248,8.185,9.235,9.525,9.937
+Italy,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,39.93,44.63,49.68,62.48,71.67,64.38,77.54,86.05,95.66,98.71,102.7
+Italy,Beauty Care,Revenue,Total,million USD (US$),Statista,277.6,350.7,440.7,621.6,791.7,786.3,"1,022","1,202","1,414","1,522","1,648"
+Italy,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,191.4,242.6,306,431.4,549.9,545.1,707,830.9,976.3,"1,043","1,122"
+Italy,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,16.37,19.91,23.92,33.85,42.73,43.45,57.62,69.01,82.39,90.16,99.17
+Italy,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,69.8,88.18,110.8,156.3,199.1,197.7,256.9,302.3,355.6,389.3,427.2
+Italy,Beauty Care,Revenue Change,Total,percent,Statista,,26.333,25.663,41.048,27.365,-0.682,29.976,17.613,17.637,7.638,8.279
+Italy,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,26.75,26.134,40.98,27.469,-0.873,29.701,17.525,17.499,6.832,7.574
+Italy,Beauty Care,Revenue Change,Fragrances,percent,Statista,,21.625,20.141,41.513,26.233,1.685,32.612,19.767,19.388,9.431,9.993
+Italy,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,26.332,25.652,41.065,27.383,-0.703,29.944,17.672,17.631,9.477,9.735
+Italy,Beauty Care,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,Beauty Care,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,Beauty Care,Online & Offline Split,Offline,percent,Statista,90.516,88.591,86.35,79.148,76.39,74.645,72.312,69.065,65.472,,
+Italy,Beauty Care,Online & Offline Split,Online,percent,Statista,9.484,11.409,13.65,20.852,23.61,25.355,27.688,30.935,34.528,,
+Italy,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Beauty Care,Users by Segment,Total,million users,Statista,6.992,7.903,8.924,10.007,11.111,12.283,13.25,14.052,14.87,15.776,16.633
+Italy,Beauty Care,Users by Segment,Cosmetics,million users,Statista,4.895,5.532,6.247,7.005,7.778,8.598,9.275,9.836,10.409,11.043,11.643
+Italy,Beauty Care,Users by Segment,Fragrances,million users,Statista,4.195,4.742,5.354,6.004,6.666,7.37,7.95,8.431,8.922,9.465,9.98
+Italy,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,1.748,1.976,2.231,2.502,2.778,3.071,3.312,3.513,3.717,3.944,4.158
+Italy,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,11.524,13.036,14.738,16.551,18.405,20.383,22.029,23.412,24.834,26.415,27.928
+Italy,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,8.067,9.125,10.316,11.585,12.884,14.268,15.42,16.389,17.384,18.491,19.55
+Italy,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,6.915,7.821,8.843,9.93,11.043,12.23,13.217,14.047,14.901,15.849,16.757
+Italy,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.881,3.259,3.684,4.138,4.601,5.096,5.507,5.853,6.209,6.604,6.982
+Italy,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,25.74,32.64,40.99,62.45,84.72,77.28,94.61,106.8,121,126.2,132.6
+Italy,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,23.76,30.27,38.17,58.1,77.92,71.6,88.24,100.2,114.1,119,125.2
+Italy,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,16.64,21.2,26.74,40.39,53.95,49.26,60.33,68.1,77.04,80.37,84.43
+Italy,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,13.3,16.94,21.37,32.25,43.05,39.13,47.7,53.59,60.34,62.95,66.08
+Italy,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.698,0.889,1.121,3.682,8.193,6.881,7.752,8.049,8.378,8.81,9.152
+Italy,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,4.635,5.317,6.082,7.442,8.473,8.676,11.92,15.09,19.16,19.78,20.99
+Italy,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,28.14,35.68,44.81,68.27,92.62,84.49,103.4,116.8,132.3,138.1,145.1
+Italy,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,4.921,6.269,7.906,11.95,15.96,14.48,17.62,19.76,22.22,23.18,24.32
+Italy,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,1.391,1.772,2.234,3.11,3.968,3.608,4.399,4.943,5.567,5.795,6.076
+Italy,Health Care,Revenue,Total,million USD (US$),Statista,164.6,235.8,334.4,571.4,860.6,867.9,"1,146","1,373","1,645","1,821","2,017"
+Italy,Health Care,Revenue,Analgesics,million USD (US$),Statista,30.38,43.74,62.29,106.3,158.3,160.8,213.8,257.5,310.2,343.4,380.7
+Italy,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,42.56,61.28,87.26,147.8,219.2,221.3,292.3,350,419,463.7,513.6
+Italy,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,25.5,36.73,52.29,88.52,131.2,131.8,173.4,206.5,246.1,272.4,301.5
+Italy,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,1.785,2.57,3.66,13.47,33.29,30.91,37.56,41.37,45.56,50.83,55.67
+Italy,Health Care,Revenue,Incontinence,million USD (US$),Statista,5.927,7.684,9.924,13.62,17.21,19.49,28.87,38.78,52.11,57.06,63.84
+Italy,Health Care,Revenue,Other Health Care,million USD (US$),Statista,41.38,59.3,84.1,143.7,216.4,218.2,288.2,345.1,413.7,458,507.3
+Italy,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,12.58,18.12,25.8,43.72,64.83,65.04,85.38,101.6,120.8,133.7,148
+Italy,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,4.445,6.401,9.114,14.23,20.16,20.26,26.64,31.75,37.84,41.79,46.2
+Italy,Health Care,Revenue Change,Total,percent,Statista,,43.256,41.815,70.873,50.613,0.848,32.043,19.808,19.811,10.699,10.763
+Italy,Health Care,Revenue Change,Analgesics,percent,Statista,,43.976,42.41,70.653,48.918,1.579,32.96,20.44,20.466,10.703,10.862
+Italy,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,43.985,42.396,69.379,48.309,0.958,32.083,19.74,19.714,10.668,10.761
+Italy,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,44.039,42.363,69.287,48.215,0.457,31.563,19.089,19.177,10.687,10.683
+Italy,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,43.978,42.412,268.033,147.142,-7.149,21.514,10.144,10.128,11.567,9.522
+Italy,Health Care,Revenue Change,Incontinence,percent,Statista,,29.644,29.151,37.243,26.358,13.248,48.127,34.326,34.373,9.499,11.882
+Italy,Health Care,Revenue Change,Other Health Care,percent,Statista,,43.306,41.821,70.868,50.592,0.832,32.081,19.743,19.878,10.708,10.764
+Italy,Health Care,Revenue Change,Skin Treatment,percent,Statista,,44.038,42.384,69.457,48.285,0.324,31.273,18.997,18.898,10.679,10.696
+Italy,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,44.004,42.384,56.133,41.673,0.496,31.491,19.182,19.181,10.439,10.553
+Italy,Health Care,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,Health Care,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,Health Care,Online & Offline Split,Offline,percent,Statista,93.803,91.311,88.006,79.645,71.75,68.145,63.826,58.844,53.292,,
+Italy,Health Care,Online & Offline Split,Online,percent,Statista,6.197,8.689,11.994,20.355,28.25,31.855,36.174,41.156,46.708,,
+Italy,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Health Care,Users by Segment,Total,million users,Statista,6.393,7.226,8.159,9.149,10.158,11.23,12.114,12.847,13.595,14.423,15.207
+Italy,Health Care,Users by Segment,Analgesics,million users,Statista,1.279,1.445,1.632,1.83,2.032,2.246,2.423,2.569,2.719,2.885,3.041
+Italy,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,2.557,2.89,3.264,3.66,4.063,4.492,4.846,5.139,5.438,5.769,6.083
+Italy,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,1.918,2.168,2.448,2.745,3.048,3.369,3.634,3.854,4.079,4.327,4.562
+Italy,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,2.557,2.89,3.264,3.66,4.063,4.492,4.846,5.139,5.438,5.769,6.083
+Italy,Health Care,Users by Segment,Incontinence,million users,Statista,1.279,1.445,1.632,1.83,2.032,2.246,2.423,2.569,2.719,2.885,3.041
+Italy,Health Care,Users by Segment,Other Health Care,million users,Statista,1.47,1.662,1.877,2.104,2.336,2.583,2.786,2.955,3.127,3.317,3.498
+Italy,Health Care,Users by Segment,Skin Treatment,million users,Statista,2.557,2.89,3.264,3.66,4.063,4.492,4.846,5.139,5.438,5.769,6.083
+Italy,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,3.196,3.613,4.079,4.575,5.079,5.615,6.057,6.424,6.798,7.212,7.604
+Italy,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.107,2.384,2.695,3.026,3.366,3.727,4.028,4.281,4.541,4.83,5.107
+Italy,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,4.215,4.767,5.39,6.053,6.731,7.454,8.056,8.562,9.082,9.661,10.214
+Italy,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,3.161,3.576,4.042,4.54,5.048,5.591,6.042,6.422,6.812,7.245,7.66
+Italy,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,4.215,4.767,5.39,6.053,6.731,7.454,8.056,8.562,9.082,9.661,10.214
+Italy,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,10.537,11.918,13.475,15.132,16.828,18.636,20.141,21.406,22.706,24.151,25.534
+Italy,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.107,2.384,2.695,3.026,3.366,3.727,4.028,4.281,4.541,4.83,5.107
+Italy,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,2.423,2.741,3.099,3.48,3.87,4.286,4.632,4.923,5.222,5.555,5.873
+Italy,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,4.215,4.767,5.39,6.053,6.731,7.454,8.056,8.562,9.082,9.661,10.214
+Italy,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,5.268,5.959,6.737,7.566,8.414,9.318,10.07,10.703,11.353,12.076,12.767
+Italy,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,53.09,60.25,68.18,87.85,102.9,101.5,134.7,165.3,204.2,209.5,220.5
+Italy,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,7.15,8.06,9.061,12.49,15.19,14.62,18.93,22.71,27.44,28.41,29.99
+Italy,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,8.958,10.1,11.35,16.1,19.95,19.14,24.72,29.57,35.63,36.92,38.98
+Italy,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,22.92,26.29,30.07,36.8,41.91,42.93,58.98,74.72,94.9,97.95,103.9
+Italy,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,24.34,27.44,30.85,39.11,45.19,43.81,57.19,69.13,84.24,86.96,91.77
+Italy,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,96.97,110,124.5,160.5,188,185.4,246,302,373,378.8,395.4
+Italy,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,3.641,4.177,4.777,6.003,6.943,7.1,9.74,12.32,15.62,16.13,17.12
+Italy,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,9.598,10.82,12.16,15.27,17.54,17,22.18,26.81,32.66,33.7,35.56
+Italy,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,16.19,18.57,21.25,26.99,31.44,31.99,43.66,54.94,69.32,71.63,76
+Italy,Household Care,Revenue,Total,million USD (US$),Statista,201.5,258.5,330.3,477.2,620.7,676.9,968.9,"1,261","1,648","1,794","1,991"
+Italy,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,11.4,14.52,18.44,28.49,38.48,40.94,57.19,72.75,93.05,102.2,113.7
+Italy,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,15.3,19.5,24.75,39.36,54.14,57.43,80.02,101.5,129.4,142.3,158.4
+Italy,Household Care,Revenue,Household Paper,million USD (US$),Statista,20.01,25.94,33.5,45.98,58.13,65.83,97.57,131.1,176.2,192.9,215.9
+Italy,Household Care,Revenue,Laundry Care,million USD (US$),Statista,36.96,47.09,59.77,84.98,109,116.9,164.5,210.9,272,297.9,331.4
+Italy,Household Care,Revenue,Other Household Care,million USD (US$),Statista,80.98,103.9,132.7,191.8,249.4,272,389.3,506.8,662.4,713.7,785.3
+Italy,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,4.423,5.734,7.406,10.44,13.4,15.15,22.42,30.07,40.35,44.21,49.48
+Italy,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,10.93,13.93,17.68,24.88,31.73,34,47.86,61.35,79.08,86.59,96.32
+Italy,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,21.51,27.89,36.02,51.32,66.38,74.66,109.9,146.7,195.8,214.7,240.2
+Italy,Household Care,Revenue Change,Total,percent,Statista,,28.288,27.776,44.475,30.071,9.054,43.138,30.148,30.69,8.859,10.981
+Italy,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,27.368,26.997,54.501,35.065,6.393,39.692,27.208,27.904,9.833,11.252
+Italy,Household Care,Revenue Change,Household Cleaners,percent,Statista,,27.451,26.923,59.03,37.551,6.077,39.335,26.843,27.488,9.969,11.314
+Italy,Household Care,Revenue Change,Household Paper,percent,Statista,,29.635,29.144,37.254,26.425,13.246,48.215,34.365,34.401,9.478,11.923
+Italy,Household Care,Revenue Change,Laundry Care,percent,Statista,,27.408,26.927,42.178,28.265,7.248,40.719,28.207,28.971,9.522,11.245
+Italy,Household Care,Revenue Change,Other Household Care,percent,Statista,,28.303,27.719,44.537,30.031,9.062,43.125,30.182,30.702,7.745,10.032
+Italy,Household Care,Revenue Change,Paper Tissues,percent,Statista,,29.641,29.159,40.967,28.352,13.06,47.987,34.121,34.187,9.566,11.92
+Italy,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,27.447,26.92,40.724,27.532,7.154,40.765,28.186,28.9,9.497,11.237
+Italy,Household Care,Revenue Change,Toilet Paper,percent,Statista,,29.661,29.15,42.476,29.345,12.474,47.201,33.485,33.47,9.653,11.877
+Italy,Household Care,Comparable Estimates - eCommerce (Italy),*Statista,billion USD (US$),,17.32,20.84,25.12,36.82,47.37,45.19,60.14,70.45,82.6,89.2,96.79
+Italy,Household Care,Comparable Estimates - eCommerce (Italy),UNCTAD,billion USD (US$),,,,35,,,,,,,,
+Italy,Household Care,Online & Offline Split,Offline,percent,Statista,97.031,96.226,95.228,93.344,91.579,89.577,86.99,83.778,79.846,,
+Italy,Household Care,Online & Offline Split,Online,percent,Statista,2.969,3.774,4.772,6.656,8.421,10.423,13.01,16.222,20.154,,
+Italy,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Household Care,Users by Segment,Total,million users,Statista,3.796,4.29,4.844,5.432,6.032,6.668,7.193,7.628,8.072,8.564,9.029
+Italy,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,1.594,1.802,2.035,2.282,2.533,2.801,3.021,3.204,3.39,3.597,3.792
+Italy,Household Care,Users by Segment,Household Cleaners,million users,Statista,1.708,1.931,2.18,2.445,2.714,3.001,3.237,3.433,3.632,3.854,4.063
+Italy,Household Care,Users by Segment,Household Paper,million users,Statista,0.873,0.987,1.114,1.249,1.387,1.534,1.654,1.754,1.857,1.97,2.077
+Italy,Household Care,Users by Segment,Laundry Care,million users,Statista,1.518,1.716,1.938,2.173,2.413,2.667,2.877,3.051,3.229,3.426,3.612
+Italy,Household Care,Users by Segment,Other Household Care,million users,Statista,0.835,0.944,1.066,1.195,1.327,1.467,1.582,1.678,1.776,1.884,1.986
+Italy,Household Care,Users by Segment,Paper Tissues,million users,Statista,1.215,1.373,1.55,1.738,1.93,2.134,2.302,2.441,2.583,2.74,2.889
+Italy,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,1.139,1.287,1.453,1.63,1.809,2,2.158,2.288,2.422,2.569,2.709
+Italy,Household Care,Users by Segment,Toilet Paper,million users,Statista,1.329,1.502,1.696,1.901,2.111,2.334,2.517,2.67,2.825,2.997,3.16
+Italy,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.628,2.972,3.36,3.774,4.196,4.647,5.023,5.338,5.662,6.023,6.368
+Italy,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,6.256,7.077,8.001,8.985,9.991,11.065,11.958,12.71,13.481,14.34,15.161
+Italy,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.815,3.184,3.6,4.043,4.496,4.979,5.381,5.719,6.067,6.453,6.822
+Italy,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.439,1.628,1.84,2.066,2.298,2.545,2.75,2.923,3.101,3.298,3.487
+Italy,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,2.502,2.831,3.2,3.594,3.997,4.426,4.783,5.084,5.393,5.736,6.064
+Italy,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.376,1.557,1.76,1.977,2.198,2.434,2.631,2.796,2.966,3.154,3.335
+Italy,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.002,2.264,2.56,2.875,3.197,3.541,3.827,4.067,4.314,4.589,4.851
+Italy,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.877,2.123,2.4,2.695,2.997,3.319,3.588,3.813,4.044,4.302,4.548
+Italy,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.19,2.477,2.8,3.145,3.497,3.873,4.185,4.448,4.718,5.019,5.306
+Italy,Food,Revenue,Total,million USD (US$),Statista,780.6,971.6,"1,210","2,097","3,048","2,817","3,398","3,707","4,037","4,390","4,722"
+Italy,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,92.27,114.8,143.1,295.6,482.8,434.3,509.9,541.2,573,615.4,651.1
+Italy,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,109.3,136,169.4,306.9,457,420.1,503.9,546.5,591.4,640.9,686.3
+Italy,Food,Revenue,Convenience Food,million USD (US$),Statista,23.36,29.07,36.22,72.72,116.2,105.4,124.7,133.4,142.4,153.6,163.3
+Italy,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,99.44,123.8,154.2,246.5,338,316.3,386.4,426.8,470.6,514.6,557.6
+Italy,Food,Revenue,Fish & Seafood,million USD (US$),Statista,66.82,83.17,103.6,173.1,244.3,227.8,277.2,305,335,365.9,395.7
+Italy,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,73.6,91.61,114.1,190.7,269.1,250.8,305.1,335.5,368.3,402.1,434.6
+Italy,Food,Revenue,Meat,million USD (US$),Statista,173.8,216.3,269.5,449.5,633.6,589.1,715,784.6,859.3,936.3,"1,010"
+Italy,Food,Revenue,Oils & Fats,million USD (US$),Statista,25.68,31.96,39.82,63.72,87.45,82.14,100.7,111.6,123.5,135.5,147.3
+Italy,Food,Revenue,Sauces & Spices,million USD (US$),Statista,3.822,4.757,5.926,8.567,11.02,10.49,13.04,14.65,16.44,17.97,19.55
+Italy,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,2.821,3.511,4.374,6.091,7.656,7.287,9.055,10.18,11.42,12.46,13.54
+Italy,Food,Revenue,Vegetables,million USD (US$),Statista,109.7,136.5,170.1,284,400.6,372.9,453.1,497.7,545.6,595.1,642.5
+Italy,Food,Revenue Change,Total,percent,Statista,,24.468,24.537,73.306,45.351,-7.579,20.625,9.094,8.902,8.744,7.563
+Italy,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,24.417,24.652,106.569,63.329,-10.046,17.407,6.138,5.876,7.4,5.801
+Italy,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,24.428,24.559,81.169,48.908,-8.074,19.948,8.454,8.216,8.37,7.084
+Italy,Food,Revenue Change,Convenience Food,percent,Statista,,24.443,24.596,100.773,59.791,-9.294,18.311,6.977,6.747,7.865,6.315
+Italy,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,24.497,24.556,59.857,37.12,-6.42,22.163,10.455,10.262,9.35,8.356
+Italy,Food,Revenue Change,Fish & Seafood,percent,Statista,,24.469,24.564,67.085,41.132,-6.754,21.686,10.029,9.836,9.224,8.144
+Italy,Food,Revenue Change,Fruits & Nuts,percent,Statista,,24.47,24.55,67.134,41.112,-6.8,21.651,9.964,9.776,9.177,8.083
+Italy,Food,Revenue Change,Meat,percent,Statista,,24.453,24.595,66.79,40.957,-7.023,21.372,9.734,9.521,8.961,7.871
+Italy,Food,Revenue Change,Oils & Fats,percent,Statista,,24.455,24.593,60.02,37.241,-6.072,22.596,10.824,10.663,9.717,8.708
+Italy,Food,Revenue Change,Sauces & Spices,percent,Statista,,24.464,24.574,44.566,28.633,-4.809,24.309,12.347,12.218,9.307,8.792
+Italy,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,24.459,24.58,39.255,25.694,-4.82,24.262,12.424,12.181,9.107,8.668
+Italy,Food,Revenue Change,Vegetables,percent,Statista,,24.43,24.615,66.961,41.056,-6.915,21.507,9.843,9.624,9.073,7.965
+Italy,Food,Average Revenue per User,Total,USD (US$),Statista,153.5,168.6,184.4,279.5,357,296.9,329.8,338.9,348.4,355.5,361.5
+Italy,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,38.6,42.4,46.38,83.81,120.3,97.42,105.3,105.3,105.2,106,106.1
+Italy,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,43.85,48.15,52.68,83.44,109.3,90.37,99.82,102,104.2,105.9,107.2
+Italy,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,8.202,9.008,9.855,17.3,24.31,19.84,21.62,21.78,21.95,22.21,22.33
+Italy,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,85.02,93.37,102.2,142.8,172.1,145,163.1,169.6,176.6,181.2,185.6
+Italy,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,69.16,75.95,83.1,121.4,150.6,126.4,141.6,146.7,152.2,155.9,159.4
+Italy,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,27.83,30.57,33.44,48.86,60.62,50.84,56.94,58.98,61.13,62.62,63.99
+Italy,Food,Average Revenue per User,Meat,USD (US$),Statista,113.9,125.1,136.9,199.6,247.4,207,231.3,239.1,247.2,252.7,257.8
+Italy,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,20.2,22.18,24.27,33.96,40.98,34.63,39.1,40.82,42.65,43.89,45.11
+Italy,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,1.708,1.876,2.052,2.594,2.934,2.514,2.876,3.044,3.225,3.308,3.402
+Italy,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,1.681,1.846,2.02,2.459,2.718,2.328,2.663,2.819,2.986,3.057,3.14
+Italy,Food,Average Revenue per User,Vegetables,USD (US$),Statista,44.02,48.34,52.89,77.22,95.78,80.23,89.74,92.85,96.11,98.34,100.4
+Italy,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Food,Online & Offline Split,Offline,percent,Statista,99.489,99.366,99.212,98.783,98.131,97.912,97.723,97.552,97.366,,
+Italy,Food,Online & Offline Split,Online,percent,Statista,0.511,0.634,0.788,1.217,1.869,2.088,2.277,2.448,2.634,,
+Italy,Food,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Food,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Food,Users,Total,million users,Statista,5.086,5.763,6.563,7.505,8.536,9.487,10.303,10.94,11.586,12.349,13.063
+Italy,Food,Users,Bread & Cereal Products,million users,Statista,2.39,2.709,3.085,3.527,4.012,4.459,4.843,5.142,5.446,5.804,6.139
+Italy,Food,Users,Confectionery & Snacks,million users,Statista,2.492,2.824,3.216,3.678,4.183,4.648,5.049,5.36,5.677,6.051,6.401
+Italy,Food,Users,Convenience Food,million users,Statista,2.848,3.227,3.675,4.203,4.78,5.312,5.77,6.126,6.488,6.915,7.315
+Italy,Food,Users,Dairy Products & Eggs,million users,Statista,1.17,1.326,1.509,1.726,1.963,2.182,2.37,2.516,2.665,2.84,3.004
+Italy,Food,Users,Fish & Seafood,million users,Statista,0.966,1.095,1.247,1.426,1.622,1.802,1.958,2.079,2.201,2.346,2.482
+Italy,Food,Users,Fruits & Nuts,million users,Statista,2.644,2.997,3.413,3.903,4.439,4.933,5.358,5.689,6.025,6.421,6.792
+Italy,Food,Users,Meat,million users,Statista,1.526,1.729,1.969,2.252,2.561,2.846,3.091,3.282,3.476,3.705,3.919
+Italy,Food,Users,Oils & Fats,million users,Statista,1.271,1.441,1.641,1.876,2.134,2.372,2.576,2.735,2.897,3.087,3.266
+Italy,Food,Users,Sauces & Spices,million users,Statista,2.238,2.536,2.888,3.302,3.756,4.174,4.533,4.813,5.098,5.433,5.747
+Italy,Food,Users,Spreads & Sweeteners,million users,Statista,1.678,1.902,2.166,2.477,2.817,3.131,3.4,3.61,3.824,4.075,4.311
+Italy,Food,Users,Vegetables,million users,Statista,2.492,2.824,3.216,3.678,4.183,4.648,5.049,5.36,5.677,6.051,6.401
+Italy,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,3.939,4.468,5.094,5.834,6.646,7.399,8.051,8.567,9.095,9.718,10.308
+Italy,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,4.107,4.658,5.311,6.082,6.929,7.714,8.394,8.931,9.482,10.132,10.747
+Italy,Food,Penetration Rate,Convenience Food,percent,Statista,4.694,5.323,6.07,6.951,7.919,8.816,9.593,10.207,10.836,11.579,12.282
+Italy,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.928,2.186,2.493,2.855,3.252,3.621,3.94,4.192,4.451,4.756,5.045
+Italy,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.593,1.806,2.059,2.358,2.687,2.991,3.255,3.463,3.677,3.929,4.167
+Italy,Food,Penetration Rate,Food,percent,Statista,8.382,9.506,10.839,12.413,14.141,15.742,17.13,18.227,19.351,20.678,21.933
+Italy,Food,Penetration Rate,Fruits & Nuts,percent,Statista,4.359,4.943,5.636,6.455,7.353,8.186,8.908,9.478,10.062,10.752,11.405
+Italy,Food,Penetration Rate,Meat,percent,Statista,2.515,2.852,3.252,3.724,4.242,4.723,5.139,5.468,5.805,6.203,6.58
+Italy,Food,Penetration Rate,Oils & Fats,percent,Statista,2.095,2.377,2.71,3.103,3.535,3.936,4.283,4.557,4.838,5.17,5.484
+Italy,Food,Penetration Rate,Sauces & Spices,percent,Statista,3.688,4.183,4.769,5.462,6.222,6.926,7.537,8.02,8.514,9.098,9.65
+Italy,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,2.766,3.137,3.577,4.096,4.666,5.195,5.653,6.015,6.386,6.824,7.238
+Italy,Food,Penetration Rate,Vegetables,percent,Statista,4.107,4.658,5.311,6.082,6.929,7.714,8.394,8.931,9.482,10.132,10.747
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,38.6,42.4,46.38,83.81,120.3,97.42,105.3,105.3,105.2,106,106.1
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,30.35,33.34,36.47,66.63,96.25,77.8,83.97,83.79,83.63,84.2,84.14
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,2.177,2.391,2.615,3.82,4.74,3.975,4.451,4.609,4.776,4.892,4.998
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,12.34,13.55,14.82,26.78,38.45,31.13,33.65,33.64,33.63,33.88,33.88
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,10.09,11.08,12.13,22.16,32.02,25.9,27.96,27.91,27.87,28.07,28.05
+Italy,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,3.415,3.751,4.103,7.494,10.82,8.747,9.438,9.415,9.394,9.456,9.448
+Italy,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,92.27,114.8,143.1,295.6,482.8,434.3,509.9,541.2,573,615.4,651.1
+Italy,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,45.71,56.89,70.87,148.1,243.3,218.5,256.2,271.4,286.9,307.9,325.4
+Italy,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,4.318,5.375,6.696,11.19,15.78,14.71,17.89,19.67,21.59,23.57,25.47
+Italy,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,13.27,16.51,20.57,42.51,69.43,62.46,73.33,77.82,82.4,88.48,93.6
+Italy,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,21.71,27.02,33.66,70.35,115.6,103.9,121.9,129.2,136.6,146.6,155
+Italy,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,7.265,9.042,11.26,23.53,38.65,34.71,40.68,43.08,45.53,48.85,51.62
+Italy,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,24.417,24.652,106.569,63.329,-10.046,17.407,6.138,5.876,7.4,5.801
+Italy,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,24.459,24.574,108.974,64.281,-10.193,17.254,5.933,5.711,7.32,5.684
+Italy,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,24.479,24.577,67.115,41.019,-6.781,21.618,9.95,9.761,9.171,8.061
+Italy,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,24.416,24.591,106.66,63.326,-10.039,17.403,6.123,5.885,7.379,5.787
+Italy,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,24.459,24.574,109.002,64.321,-10.121,17.324,5.989,5.728,7.321,5.73
+Italy,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,24.46,24.53,108.97,64.258,-10.194,17.2,5.9,5.687,7.292,5.67
+Italy,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Italy,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Italy,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.416,99.273,99.096,98.463,97.235,96.905,96.673,96.512,96.341,,
+Italy,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.584,0.727,0.904,1.537,2.765,3.095,3.327,3.488,3.659,,
+Italy,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Bread & Cereal Products,Users by Segment,Total,million users,Statista,2.39,2.709,3.085,3.527,4.012,4.459,4.843,5.142,5.446,5.804,6.139
+Italy,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,1.506,1.707,1.943,2.222,2.528,2.809,3.051,3.239,3.431,3.656,3.868
+Italy,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,1.984,2.248,2.56,2.928,3.33,3.701,4.019,4.268,4.52,4.817,5.096
+Italy,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,1.076,1.219,1.388,1.587,1.805,2.006,2.179,2.314,2.451,2.612,2.763
+Italy,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,2.151,2.438,2.776,3.175,3.611,4.013,4.358,4.627,4.901,5.224,5.525
+Italy,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,2.127,2.411,2.745,3.139,3.571,3.968,4.31,4.576,4.847,5.165,5.464
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,2.482,2.815,3.209,3.675,4.187,4.661,5.072,5.397,5.73,6.123,6.494
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,3.939,4.468,5.094,5.834,6.646,7.399,8.051,8.567,9.095,9.718,10.308
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,3.27,3.708,4.228,4.842,5.516,6.141,6.683,7.11,7.549,8.066,8.556
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.773,2.011,2.292,2.625,2.991,3.329,3.623,3.855,4.093,4.373,4.639
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,3.545,4.021,4.585,5.251,5.981,6.659,7.246,7.71,8.185,8.747,9.278
+Italy,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,3.506,3.976,4.534,5.192,5.915,6.585,7.166,7.624,8.094,8.649,9.175
+Italy,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,43.85,48.15,52.68,83.44,109.3,90.37,99.82,102,104.2,105.9,107.2
+Italy,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,41.93,46.05,50.38,79.46,103.7,85.91,95.02,97.18,99.44,101.2,102.5
+Italy,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.883,0.97,1.061,1.68,2.2,1.819,2.01,2.053,2.097,2.132,2.158
+Italy,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,9.651,10.6,11.6,18.67,24.72,20.34,22.36,22.72,23.1,23.41,23.62
+Italy,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,109.3,136,169.4,306.9,457,420.1,503.9,546.5,591.4,640.9,686.3
+Italy,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,85.68,106.6,132.9,239.6,355.8,327.5,393.4,427.2,462.9,502,538.1
+Italy,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,1.21,1.506,1.876,3.398,5.061,4.652,5.58,6.051,6.549,7.097,7.599
+Italy,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,22.36,27.84,34.68,63.86,96.16,87.95,105,113.3,122,131.8,140.6
+Italy,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,24.428,24.559,81.169,48.908,-8.074,19.948,8.454,8.216,8.37,7.084
+Italy,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,24.416,24.672,80.286,48.497,-7.954,20.122,8.592,8.357,8.447,7.191
+Italy,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,24.463,24.568,81.13,48.941,-8.081,19.948,8.441,8.23,8.368,7.073
+Italy,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,24.508,24.569,84.141,50.579,-8.538,19.386,7.905,7.679,8.033,6.677
+Italy,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Italy,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Italy,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.493,99.371,99.218,98.763,98.031,97.796,97.604,97.451,97.289,,
+Italy,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.507,0.629,0.782,1.237,1.969,2.204,2.396,2.549,2.711,,
+Italy,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Confectionery & Snacks,Users by Segment,Total,million users,Statista,2.492,2.824,3.216,3.678,4.183,4.648,5.049,5.36,5.677,6.051,6.401
+Italy,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,2.043,2.316,2.637,3.016,3.43,3.812,4.14,4.395,4.655,4.962,5.248
+Italy,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,1.371,1.553,1.769,2.023,2.301,2.557,2.777,2.948,3.123,3.328,3.52
+Italy,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,2.317,2.626,2.991,3.42,3.89,4.323,4.695,4.985,5.28,5.627,5.953
+Italy,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,3.368,3.82,4.355,4.988,5.682,6.325,6.883,7.323,7.775,8.308,8.813
+Italy,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,4.107,4.658,5.311,6.082,6.929,7.714,8.394,8.931,9.482,10.132,10.747
+Italy,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.259,2.562,2.921,3.345,3.811,4.242,4.617,4.912,5.215,5.573,5.911
+Italy,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,3.82,4.332,4.939,5.657,6.444,7.174,7.806,8.306,8.818,9.423,9.995
+Italy,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,8.202,9.008,9.855,17.3,24.31,19.84,21.62,21.78,21.95,22.21,22.33
+Italy,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,10.63,11.67,12.77,22.47,31.62,25.72,27.93,28.05,28.17,28.44,28.51
+Italy,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,1.447,1.589,1.738,2.998,4.161,3.488,3.905,4.043,4.188,4.316,4.426
+Italy,Convenience Food,Revenue,Total,million USD (US$),Statista,23.36,29.07,36.22,72.72,116.2,105.4,124.7,133.4,142.4,153.6,163.3
+Italy,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,20.89,26,32.39,65.16,104.3,94.27,111.2,118.6,126.1,135.7,143.9
+Italy,Convenience Food,Revenue,Soups,million USD (US$),Statista,2.472,3.077,3.833,7.561,11.94,11.12,13.52,14.86,16.3,17.91,19.43
+Italy,Convenience Food,Revenue Change,Total,percent,Statista,,24.443,24.596,100.773,59.791,-9.294,18.311,6.977,6.747,7.865,6.315
+Italy,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,24.461,24.577,101.173,60.068,-9.616,17.959,6.655,6.324,7.613,6.043
+Italy,Convenience Food,Revenue Change,Soups,percent,Statista,,24.474,24.569,97.261,57.916,-6.868,21.583,9.911,9.69,9.877,8.487
+Italy,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.499,99.381,99.236,98.73,97.789,97.536,97.354,97.225,97.087,,
+Italy,Convenience Food,Online & Offline Split,Online,percent,Statista,0.501,0.619,0.764,1.27,2.211,2.464,2.646,2.775,2.913,,
+Italy,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Convenience Food,Users by Segment,Total,million users,Statista,2.848,3.227,3.675,4.203,4.78,5.312,5.77,6.126,6.488,6.915,7.315
+Italy,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,1.965,2.227,2.536,2.9,3.298,3.666,3.981,4.227,4.477,4.772,5.047
+Italy,Convenience Food,Users by Segment,Soups,million users,Statista,1.709,1.936,2.205,2.522,2.868,3.187,3.462,3.676,3.893,4.149,4.389
+Italy,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,4.694,5.323,6.07,6.951,7.919,8.816,9.593,10.207,10.836,11.579,12.282
+Italy,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,3.239,3.673,4.188,4.796,5.464,6.083,6.619,7.043,7.477,7.99,8.475
+Italy,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,2.816,3.194,3.642,4.171,4.751,5.289,5.756,6.124,6.502,6.948,7.369
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,85.02,93.37,102.2,142.8,172.1,145,163.1,169.6,176.6,181.2,185.6
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,55.4,60.85,66.57,93.07,112.2,94.54,106.4,110.7,115.3,118.3,121.2
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,18.55,20.37,22.29,31.16,37.56,31.64,35.6,37.04,38.56,39.58,40.56
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,24.47,26.87,29.4,41.08,49.51,41.65,46.81,48.64,50.59,51.86,53.08
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,17.8,19.54,21.38,29.91,36.07,30.41,34.25,35.68,37.19,38.2,39.18
+Italy,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,18.5,20.32,22.23,31.07,37.45,31.52,35.43,36.84,38.33,39.31,40.25
+Italy,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,99.44,123.8,154.2,246.5,338,316.3,386.4,426.8,470.6,514.6,557.6
+Italy,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,48.6,60.49,75.36,120.5,165.2,154.7,189.1,208.9,230.4,252,273.2
+Italy,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,9.328,11.61,14.46,23.13,31.71,29.69,36.27,40.07,44.19,48.33,52.39
+Italy,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,22.32,27.78,34.61,55.31,75.82,70.89,86.52,95.47,105.1,114.9,124.4
+Italy,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,7.285,9.068,11.3,18.07,24.78,23.23,28.41,31.42,34.68,37.97,41.2
+Italy,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,11.9,14.81,18.45,29.49,40.44,37.83,46.18,50.98,56.17,61.4,66.51
+Italy,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,24.497,24.556,59.857,37.12,-6.42,22.163,10.455,10.262,9.35,8.356
+Italy,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,24.465,24.583,59.899,37.095,-6.356,22.237,10.471,10.292,9.375,8.413
+Italy,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,24.464,24.548,59.959,37.095,-6.37,22.162,10.477,10.282,9.369,8.401
+Italy,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,24.462,24.586,59.809,37.082,-6.502,22.048,10.344,10.087,9.324,8.268
+Italy,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,24.475,24.614,59.912,37.133,-6.255,22.299,10.595,10.376,9.487,8.507
+Italy,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,24.454,24.578,59.837,37.131,-6.454,22.072,10.394,10.18,9.311,8.322
+Italy,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Italy,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Italy,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.499,99.376,99.223,98.852,98.36,98.159,97.97,97.783,97.576,,
+Italy,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.501,0.624,0.777,1.148,1.64,1.841,2.03,2.217,2.424,,
+Italy,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,1.17,1.326,1.509,1.726,1.963,2.182,2.37,2.516,2.665,2.84,3.004
+Italy,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.877,0.994,1.132,1.295,1.473,1.636,1.777,1.887,1.999,2.13,2.253
+Italy,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.503,0.57,0.649,0.742,0.844,0.938,1.019,1.082,1.146,1.221,1.292
+Italy,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.912,1.034,1.177,1.346,1.531,1.702,1.848,1.963,2.079,2.215,2.343
+Italy,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.409,0.464,0.528,0.604,0.687,0.764,0.829,0.881,0.933,0.994,1.052
+Italy,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.643,0.729,0.83,0.949,1.08,1.2,1.303,1.384,1.466,1.562,1.652
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.446,1.64,1.87,2.141,2.439,2.715,2.955,3.144,3.338,3.567,3.783
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.928,2.186,2.493,2.855,3.252,3.621,3.94,4.192,4.451,4.756,5.045
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.829,0.94,1.072,1.228,1.399,1.557,1.694,1.803,1.914,2.045,2.169
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.504,1.705,1.944,2.227,2.537,2.824,3.073,3.27,3.472,3.71,3.935
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.675,0.765,0.873,0.999,1.138,1.267,1.379,1.467,1.558,1.665,1.766
+Italy,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.06,1.203,1.371,1.57,1.789,1.991,2.167,2.306,2.448,2.616,2.774
+Italy,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,69.16,75.95,83.1,121.4,150.6,126.4,141.6,146.7,152.2,155.9,159.4
+Italy,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,109.3,120,131.3,191.6,237.5,198.8,222.1,229.5,237.3,242.6,247.3
+Italy,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,50.45,55.41,60.62,88.74,110.3,93.03,104.8,109.3,114,117.4,120.6
+Italy,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,16.03,17.61,19.26,28.18,35,29.47,33.13,34.45,35.85,36.85,37.79
+Italy,Fish & Seafood,Revenue,Total,million USD (US$),Statista,66.82,83.17,103.6,173.1,244.3,227.8,277.2,305,335,365.9,395.7
+Italy,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,41.18,51.26,63.86,106.6,150.3,139.7,169.6,186,203.7,222,239.4
+Italy,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,11.7,14.56,18.14,30.37,42.92,40.25,49.26,54.52,60.23,66.1,71.85
+Italy,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,13.94,17.35,21.62,36.17,51.09,47.8,58.37,64.45,71.03,77.81,84.4
+Italy,Fish & Seafood,Revenue Change,Total,percent,Statista,,24.469,24.564,67.085,41.132,-6.754,21.686,10.029,9.836,9.224,8.144
+Italy,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,24.478,24.581,66.928,40.994,-7.053,21.403,9.67,9.516,8.984,7.838
+Italy,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,24.444,24.588,67.42,41.324,-6.221,22.385,10.678,10.473,9.746,8.699
+Italy,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,24.462,24.611,67.299,41.25,-6.44,22.113,10.416,10.209,9.545,8.469
+Italy,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.499,99.38,99.234,98.848,98.302,98.103,97.927,97.76,97.578,,
+Italy,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.501,0.62,0.766,1.152,1.698,1.897,2.073,2.24,2.422,,
+Italy,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Fish & Seafood,Users by Segment,Total,million users,Statista,0.966,1.095,1.247,1.426,1.622,1.802,1.958,2.079,2.201,2.346,2.482
+Italy,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.377,0.427,0.486,0.556,0.633,0.703,0.763,0.811,0.859,0.915,0.968
+Italy,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.232,0.263,0.299,0.342,0.389,0.433,0.47,0.499,0.528,0.563,0.596
+Italy,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.87,0.986,1.122,1.283,1.46,1.622,1.762,1.871,1.981,2.112,2.234
+Italy,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.593,1.806,2.059,2.358,2.687,2.991,3.255,3.463,3.677,3.929,4.167
+Italy,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.621,0.704,0.803,0.92,1.048,1.166,1.269,1.351,1.434,1.532,1.625
+Italy,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.382,0.433,0.494,0.566,0.645,0.718,0.781,0.831,0.882,0.943,1
+Italy,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.433,1.626,1.853,2.123,2.418,2.692,2.929,3.117,3.309,3.536,3.751
+Italy,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,27.83,30.57,33.44,48.86,60.62,50.84,56.94,58.98,61.13,62.62,63.99
+Italy,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,34.12,37.47,40.99,59.87,74.28,62.26,69.69,72.14,74.72,76.5,78.13
+Italy,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,2.231,2.45,2.68,3.922,4.871,4.098,4.605,4.785,4.976,5.111,5.237
+Italy,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,5.672,6.229,6.815,9.973,12.39,10.43,11.72,12.18,12.67,13.02,13.35
+Italy,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,73.6,91.61,114.1,190.7,269.1,250.8,305.1,335.5,368.3,402.1,434.6
+Italy,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,63.16,78.61,97.93,163.6,230.8,215,261.4,287.3,315.1,343.9,371.5
+Italy,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,2.949,3.671,4.573,7.653,10.81,10.11,12.34,13.61,14.99,16.41,17.79
+Italy,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,7.499,9.334,11.63,19.46,27.5,25.72,31.4,34.66,38.18,41.81,45.34
+Italy,Fruits & Nuts,Revenue Change,Total,percent,Statista,,24.47,24.55,67.134,41.112,-6.8,21.651,9.964,9.776,9.177,8.083
+Italy,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,24.462,24.577,67.058,41.076,-6.846,21.581,9.908,9.676,9.14,8.026
+Italy,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,24.483,24.571,67.352,41.252,-6.475,22.057,10.292,10.14,9.473,8.41
+Italy,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,24.47,24.598,67.326,41.316,-6.473,22.084,10.382,10.156,9.508,8.443
+Italy,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.499,99.38,99.232,98.843,98.293,98.092,97.913,97.744,97.559,,
+Italy,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.501,0.62,0.768,1.157,1.707,1.908,2.087,2.256,2.441,,
+Italy,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Fruits & Nuts,Users by Segment,Total,million users,Statista,2.644,2.997,3.413,3.903,4.439,4.933,5.358,5.689,6.025,6.421,6.792
+Italy,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,1.851,2.098,2.389,2.732,3.107,3.453,3.75,3.982,4.217,4.495,4.755
+Italy,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,1.322,1.498,1.706,1.951,2.219,2.467,2.679,2.844,3.012,3.211,3.397
+Italy,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,1.322,1.498,1.706,1.951,2.219,2.467,2.679,2.844,3.012,3.211,3.397
+Italy,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,3.051,3.46,3.945,4.518,5.147,5.73,6.235,6.635,7.044,7.527,7.984
+Italy,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,4.359,4.943,5.636,6.455,7.353,8.186,8.908,9.478,10.062,10.752,11.405
+Italy,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.179,2.472,2.818,3.227,3.677,4.093,4.454,4.739,5.031,5.377,5.703
+Italy,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.179,2.472,2.818,3.227,3.677,4.093,4.454,4.739,5.031,5.377,5.703
+Italy,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,113.9,125.1,136.9,199.6,247.4,207,231.3,239.1,247.2,252.7,257.8
+Italy,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,123.4,135.5,148.2,216.6,268.7,225.4,252.5,261.6,271.2,277.8,283.9
+Italy,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,33.11,36.36,39.78,57.69,71.24,59.17,65.63,67.32,69.08,70.17,71.09
+Italy,Meat,Revenue,Total,million USD (US$),Statista,173.8,216.3,269.5,449.5,633.6,589.1,715,784.6,859.3,936.3,"1,010"
+Italy,Meat,Revenue,Fresh Meat,million USD (US$),Statista,129.9,161.7,201.4,336.5,474.8,442.6,538.5,592.4,650.4,710.1,767.7
+Italy,Meat,Revenue,Processed Meat,million USD (US$),Statista,43.94,54.7,68.14,113,158.7,146.5,176.5,192.2,208.9,226.2,242.4
+Italy,Meat,Revenue Change,Total,percent,Statista,,24.453,24.595,66.79,40.957,-7.023,21.372,9.734,9.521,8.961,7.871
+Italy,Meat,Revenue Change,Fresh Meat,percent,Statista,,24.48,24.552,67.08,41.1,-6.782,21.667,10.009,9.791,9.179,8.112
+Italy,Meat,Revenue Change,Processed Meat,percent,Statista,,24.488,24.57,65.835,40.442,-7.687,20.478,8.895,8.689,8.281,7.162
+Italy,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Italy,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Italy,Meat,Online & Offline Split,Offline,percent,Statista,99.499,99.376,99.223,98.824,98.257,98.044,97.853,97.67,97.469,,
+Italy,Meat,Online & Offline Split,Online,percent,Statista,0.501,0.624,0.777,1.176,1.743,1.956,2.147,2.33,2.531,,
+Italy,Meat,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Meat,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Meat,Users by Segment,Total,million users,Statista,1.526,1.729,1.969,2.252,2.561,2.846,3.091,3.282,3.476,3.705,3.919
+Italy,Meat,Users by Segment,Fresh Meat,million users,Statista,1.053,1.193,1.359,1.554,1.767,1.964,2.133,2.264,2.398,2.556,2.704
+Italy,Meat,Users by Segment,Processed Meat,million users,Statista,1.327,1.504,1.713,1.959,2.228,2.476,2.689,2.855,3.024,3.223,3.41
+Italy,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.735,1.968,2.244,2.569,2.927,3.259,3.546,3.773,4.006,4.28,4.54
+Italy,Meat,Penetration Rate by Segment,Meat,percent,Statista,2.515,2.852,3.252,3.724,4.242,4.723,5.139,5.468,5.805,6.203,6.58
+Italy,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.188,2.481,2.829,3.24,3.691,4.109,4.471,4.757,5.051,5.397,5.725
+Italy,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,20.2,22.18,24.27,33.96,40.98,34.63,39.1,40.82,42.65,43.89,45.11
+Italy,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,4.063,4.462,4.881,6.833,8.245,6.966,7.861,8.205,8.569,8.818,9.062
+Italy,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,17.73,19.47,21.3,29.84,36.03,30.5,34.49,36.07,37.75,38.9,40.04
+Italy,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.681,0.748,0.818,1.143,1.377,1.158,1.302,1.353,1.408,1.443,1.478
+Italy,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,3.701,4.065,4.447,6.181,7.424,6.219,6.956,7.196,7.449,7.604,7.751
+Italy,Oils & Fats,Revenue,Total,million USD (US$),Statista,25.68,31.96,39.82,63.72,87.45,82.14,100.7,111.6,123.5,135.5,147.3
+Italy,Oils & Fats,Revenue,Butter,million USD (US$),Statista,4.132,5.143,6.407,10.26,14.08,13.22,16.2,17.95,19.86,21.78,23.67
+Italy,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,18.03,22.44,27.96,44.8,61.51,57.88,71.07,78.92,87.47,96.08,104.6
+Italy,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.693,0.862,1.074,1.715,2.35,2.198,2.683,2.961,3.262,3.564,3.86
+Italy,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,2.823,3.514,4.377,6.958,9.507,8.849,10.75,11.81,12.95,14.09,15.19
+Italy,Oils & Fats,Revenue Change,Total,percent,Statista,,24.455,24.593,60.02,37.241,-6.072,22.596,10.824,10.663,9.717,8.708
+Italy,Oils & Fats,Revenue Change,Butter,percent,Statista,,24.468,24.577,60.137,37.232,-6.108,22.542,10.802,10.641,9.668,8.678
+Italy,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,24.459,24.599,60.229,37.299,-5.901,22.789,11.045,10.834,9.843,8.868
+Italy,Oils & Fats,Revenue Change,Margarine,percent,Statista,,24.466,24.551,59.683,37.026,-6.468,22.066,10.362,10.165,9.258,8.305
+Italy,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,24.478,24.559,58.967,36.634,-6.921,21.483,9.86,9.653,8.803,7.807
+Italy,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.499,99.382,99.237,98.882,98.417,98.232,98.061,97.893,97.709,,
+Italy,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.501,0.618,0.763,1.118,1.583,1.768,1.939,2.107,2.291,,
+Italy,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Oils & Fats,Users by Segment,Total,million users,Statista,1.271,1.441,1.641,1.876,2.134,2.372,2.576,2.735,2.897,3.087,3.266
+Italy,Oils & Fats,Users by Segment,Butter,million users,Statista,1.017,1.153,1.313,1.501,1.707,1.897,2.061,2.188,2.317,2.47,2.613
+Italy,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,1.017,1.153,1.313,1.501,1.707,1.897,2.061,2.188,2.317,2.47,2.613
+Italy,Oils & Fats,Users by Segment,Margarine,million users,Statista,1.017,1.153,1.313,1.501,1.707,1.897,2.061,2.188,2.317,2.47,2.613
+Italy,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.763,0.865,0.984,1.126,1.28,1.423,1.546,1.641,1.738,1.852,1.959
+Italy,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.676,1.901,2.168,2.483,2.828,3.148,3.426,3.645,3.87,4.136,4.387
+Italy,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.676,1.901,2.168,2.483,2.828,3.148,3.426,3.645,3.87,4.136,4.387
+Italy,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.676,1.901,2.168,2.483,2.828,3.148,3.426,3.645,3.87,4.136,4.387
+Italy,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.095,2.377,2.71,3.103,3.535,3.936,4.283,4.557,4.838,5.17,5.484
+Italy,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.257,1.426,1.626,1.862,2.121,2.361,2.57,2.734,2.903,3.102,3.29
+Italy,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,1.708,1.876,2.052,2.594,2.934,2.514,2.876,3.044,3.225,3.308,3.402
+Italy,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,1.624,1.783,1.951,2.466,2.789,2.388,2.732,2.89,3.061,3.139,3.229
+Italy,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.682,0.749,0.819,1.036,1.172,1.005,1.151,1.22,1.294,1.327,1.365
+Italy,Sauces & Spices,Revenue,Total,million USD (US$),Statista,3.822,4.757,5.926,8.567,11.02,10.49,13.04,14.65,16.44,17.97,19.55
+Italy,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,2.906,3.617,4.506,6.514,8.379,7.975,9.907,11.13,12.48,13.65,14.85
+Italy,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.915,1.139,1.42,2.053,2.641,2.517,3.131,3.523,3.957,4.326,4.708
+Italy,Sauces & Spices,Revenue Change,Total,percent,Statista,,24.464,24.574,44.566,28.633,-4.809,24.309,12.347,12.218,9.307,8.792
+Italy,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,24.467,24.578,44.563,28.631,-4.822,24.226,12.345,12.129,9.375,8.791
+Italy,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,24.413,24.671,44.577,28.641,-4.695,24.394,12.52,12.319,9.325,8.83
+Italy,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.501,0.621,0.771,1.067,1.393,1.563,1.736,1.922,2.129,,
+Italy,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Sauces & Spices,Users by Segment,Total,million users,Statista,2.238,2.536,2.888,3.302,3.756,4.174,4.533,4.813,5.098,5.433,5.747
+Italy,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,1.79,2.029,2.31,2.642,3.005,3.339,3.627,3.851,4.078,4.347,4.598
+Italy,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,1.343,1.522,1.733,1.981,2.254,2.504,2.72,2.888,3.059,3.26,3.449
+Italy,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,3.688,4.183,4.769,5.462,6.222,6.926,7.537,8.02,8.514,9.098,9.65
+Italy,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.95,3.346,3.815,4.369,4.978,5.541,6.03,6.416,6.811,7.278,7.72
+Italy,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.213,2.51,2.861,3.277,3.733,4.156,4.522,4.812,5.109,5.459,5.791
+Italy,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,1.681,1.846,2.02,2.459,2.718,2.328,2.663,2.819,2.986,3.057,3.14
+Italy,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,1.147,1.26,1.378,1.676,1.85,1.601,1.851,1.98,2.12,2.171,2.235
+Italy,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,1.59,1.747,1.911,2.331,2.579,2.181,2.462,2.572,2.688,2.749,2.816
+Italy,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,2.821,3.511,4.374,6.091,7.656,7.287,9.055,10.18,11.42,12.46,13.54
+Italy,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,1.54,1.917,2.388,3.32,4.169,4.011,5.036,5.719,6.485,7.079,7.71
+Italy,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,1.281,1.595,1.986,2.771,3.487,3.277,4.019,4.457,4.934,5.378,5.826
+Italy,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,24.459,24.58,39.255,25.694,-4.82,24.262,12.424,12.181,9.107,8.668
+Italy,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,24.481,24.57,39.028,25.572,-3.79,25.555,13.562,13.394,9.16,8.914
+Italy,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,24.512,24.514,39.527,25.839,-6.022,22.643,10.898,10.702,8.999,8.33
+Italy,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Italy,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Italy,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.493,99.366,99.204,98.915,98.597,98.401,98.188,97.955,97.691,,
+Italy,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.507,0.634,0.796,1.085,1.403,1.599,1.812,2.045,2.309,,
+Italy,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,1.678,1.902,2.166,2.477,2.817,3.131,3.4,3.61,3.824,4.075,4.311
+Italy,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,1.343,1.522,1.733,1.981,2.254,2.504,2.72,2.888,3.059,3.26,3.449
+Italy,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.806,0.913,1.04,1.189,1.352,1.503,1.632,1.733,1.835,1.956,2.069
+Italy,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.213,2.51,2.861,3.277,3.733,4.156,4.522,4.812,5.109,5.459,5.791
+Italy,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,2.766,3.137,3.577,4.096,4.666,5.195,5.653,6.015,6.386,6.824,7.238
+Italy,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.328,1.506,1.717,1.966,2.24,2.494,2.713,2.887,3.065,3.275,3.474
+Italy,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,44.02,48.34,52.89,77.22,95.78,80.23,89.74,92.85,96.11,98.34,100.4
+Italy,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,43.69,47.99,52.5,76.63,95.02,79.55,88.94,91.96,95.13,97.3,99.26
+Italy,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,26.86,29.5,32.27,47.16,58.52,49.08,54.97,56.95,59.03,60.47,61.79
+Italy,Vegetables,Revenue,Total,million USD (US$),Statista,109.7,136.5,170.1,284,400.6,372.9,453.1,497.7,545.6,595.1,642.5
+Italy,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,76.22,94.86,118.2,197.3,278.2,258.9,314.3,345.1,378.1,412.1,444.7
+Italy,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,33.47,41.66,51.89,86.71,122.4,114.1,138.8,152.6,167.6,182.9,197.7
+Italy,Vegetables,Revenue Change,Total,percent,Statista,,24.43,24.615,66.961,41.056,-6.915,21.507,9.843,9.624,9.073,7.965
+Italy,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,24.456,24.605,66.92,41.004,-6.937,21.398,9.8,9.562,8.992,7.911
+Italy,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,24.47,24.556,67.103,41.16,-6.781,21.648,9.942,9.83,9.129,8.092
+Italy,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Italy,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Italy,Vegetables,Online & Offline Split,Offline,percent,Statista,99.499,99.378,99.227,98.833,98.273,98.066,97.881,97.704,97.512,,
+Italy,Vegetables,Online & Offline Split,Online,percent,Statista,0.501,0.622,0.773,1.167,1.727,1.934,2.119,2.296,2.488,,
+Italy,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,70.203,66.332,63.594,61.375,60.091,59.02,58.473,57.932,57.388,,
+Italy,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,29.797,33.668,36.406,38.625,39.909,40.98,41.527,42.068,42.612,,
+Italy,Vegetables,Users by Segment,Total,million users,Statista,2.492,2.824,3.216,3.678,4.183,4.648,5.049,5.36,5.677,6.051,6.401
+Italy,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,1.744,1.977,2.251,2.574,2.928,3.254,3.534,3.752,3.974,4.236,4.48
+Italy,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,1.246,1.412,1.608,1.839,2.091,2.324,2.524,2.68,2.839,3.026,3.2
+Italy,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,2.875,3.261,3.718,4.258,4.85,5.4,5.876,6.252,6.637,7.092,7.523
+Italy,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.054,2.329,2.655,3.041,3.464,3.857,4.197,4.466,4.741,5.066,5.374
+Italy,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,4.107,4.658,5.311,6.082,6.929,7.714,8.394,8.931,9.482,10.132,10.747

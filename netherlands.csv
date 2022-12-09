@@ -1,0 +1,746 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Netherlands,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.604,,,,,,
+Netherlands,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.041,,,,,,
+Netherlands,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,19.87,,,,,,
+Netherlands,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.91,,,,,,
+Netherlands,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,20.575,,,,,,
+Netherlands,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,50.923,,,,,,
+Netherlands,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,49.077,,,,,,
+Netherlands,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.409,,,,,,
+Netherlands,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.399,,,,,,
+Netherlands,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,35.192,,,,,,
+Netherlands,eCommerce,Revenue,Total,billion USD (US$),Statista,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,1.283,1.456,1.664,2.22,2.575,2.585,3.208,3.704,4.278,4.623,5.017
+Netherlands,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.511,0.581,0.673,1.025,1.291,1.305,1.634,1.909,2.239,2.426,2.641
+Netherlands,eCommerce,Revenue,Electronics,billion USD (US$),Statista,4.249,4.758,5.336,6.892,7.823,6.58,8.127,8.625,9.159,9.639,10.11
+Netherlands,eCommerce,Revenue,Fashion,billion USD (US$),Statista,5.725,6.175,6.712,8.527,9.426,9.273,11.23,12.62,14.12,14.97,15.94
+Netherlands,eCommerce,Revenue,Food,billion USD (US$),Statista,0.467,0.525,0.601,0.953,1.228,1.427,2.041,2.71,3.593,3.935,4.394
+Netherlands,eCommerce,Revenue,Furniture,billion USD (US$),Statista,1.817,2.011,2.258,3.235,3.882,3.445,4.928,5.753,6.668,7.199,7.804
+Netherlands,eCommerce,Revenue,Media,billion USD (US$),Statista,0.332,0.359,0.393,0.537,0.613,0.573,0.652,0.681,0.702,0.732,0.758
+Netherlands,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,1.889,2.062,2.278,3.152,3.651,3.595,4.359,4.908,5.527,5.901,6.319
+Netherlands,eCommerce,Revenue Change,Total,percent,Statista,,10.203,11.099,33.233,14.883,-5.608,25.712,13.074,13.151,6.783,7.202
+Netherlands,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,13.484,14.286,33.413,15.991,0.388,24.101,15.461,15.497,8.065,8.523
+Netherlands,eCommerce,Revenue Change,Beverages,percent,Statista,,13.49,15.935,52.303,25.951,1.084,25.211,16.83,17.287,8.352,8.862
+Netherlands,eCommerce,Revenue Change,Electronics,percent,Statista,,11.979,12.148,29.16,13.508,-15.889,23.511,6.128,6.191,5.241,4.886
+Netherlands,eCommerce,Revenue Change,Fashion,percent,Statista,,7.86,8.696,27.041,10.543,-1.623,21.104,12.378,11.886,6.02,6.48
+Netherlands,eCommerce,Revenue Change,Food,percent,Statista,,12.302,14.441,58.632,28.87,16.205,43.027,32.778,32.583,9.519,11.665
+Netherlands,eCommerce,Revenue Change,Furniture,percent,Statista,,10.677,12.282,43.268,20,-11.257,43.048,16.741,15.905,7.963,8.404
+Netherlands,eCommerce,Revenue Change,Media,percent,Statista,,8.072,9.532,36.743,13.975,-6.4,13.78,4.338,3.086,4.361,3.469
+Netherlands,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,9.158,10.475,38.367,15.831,-1.534,21.252,12.595,12.612,6.767,7.084
+Netherlands,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,1.546,1.608,1.689,2.157,2.352,2.134,2.652,3.027,3.459,3.657,3.905
+Netherlands,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.302,0.313,0.324,0.4,0.428,0.397,0.467,0.519,0.578,0.6,0.629
+Netherlands,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.216,0.226,0.239,0.331,0.379,0.352,0.413,0.459,0.512,0.526,0.545
+Netherlands,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.72,0.719,0.708,0.805,0.809,0.608,0.691,0.691,0.695,0.685,0.679
+Netherlands,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.891,0.889,0.886,1.03,1.041,0.942,1.075,1.154,1.238,1.249,1.272
+Netherlands,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.21,0.217,0.227,0.327,0.383,0.409,0.548,0.692,0.874,0.907,0.965
+Netherlands,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,0.652,0.65,0.652,0.833,0.884,0.707,0.94,1.023,1.111,1.124,1.148
+Netherlands,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.078,0.076,0.074,0.09,0.091,0.077,0.081,0.08,0.079,0.078,0.076
+Netherlands,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.392,0.384,0.379,0.47,0.487,0.43,0.481,0.509,0.541,0.541,0.546
+Netherlands,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,54.135,53.379,52.289,51.018,49.925,49.085,47.915,46.729,45.543,,
+Netherlands,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,23.799,24.053,23.699,23.278,22.941,22.706,22.624,22.49,22.356,,
+Netherlands,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,3.522,3.473,3.177,2.91,2.662,2.46,2.302,2.161,2.019,,
+Netherlands,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,7.975,7.864,7.963,8.002,7.83,7.699,7.515,7.329,7.143,,
+Netherlands,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,3.607,4.366,5.153,6.062,6.738,7.51,8.437,9.47,10.503,,
+Netherlands,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,6.43,6.34,7.189,8.002,9.192,9.839,10.524,11.156,11.788,,
+Netherlands,eCommerce,Revenue Share Payment Types,Other,percent,Statista,0.532,0.524,0.531,0.727,0.712,0.7,0.683,0.666,0.649,,
+Netherlands,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,6.493,6.611,6.731,6.846,6.955,7.061,7.089,7.089,7.089,,
+Netherlands,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,93.507,93.389,93.269,93.154,93.045,92.939,92.911,92.911,92.911,,
+Netherlands,eCommerce,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,eCommerce,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,eCommerce,Online & Offline Split,Offline,percent,Statista,88.562,87.728,86.78,82.22,80.248,78.986,77.265,75.202,72.862,,
+Netherlands,eCommerce,Online & Offline Split,Online,percent,Statista,11.438,12.272,13.22,17.78,19.752,21.014,22.735,24.798,27.138,,
+Netherlands,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,69.366,67.872,66.187,64.998,63.88,63.382,63.076,62.769,62.455,,
+Netherlands,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,30.634,32.128,33.813,35.002,36.12,36.618,36.924,37.231,37.545,,
+Netherlands,eCommerce,Users,Total,million users,Statista,10.527,11.151,11.791,12.303,12.962,13.49,13.641,13.512,13.382,13.516,13.568
+Netherlands,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,4.251,4.648,5.133,5.55,6.016,6.512,6.865,7.134,7.397,7.704,7.978
+Netherlands,eCommerce,Users,Beverages,million users,Statista,2.363,2.567,2.815,3.099,3.408,3.71,3.957,4.164,4.371,4.613,4.842
+Netherlands,eCommerce,Users,Electronics,million users,Statista,5.902,6.62,7.532,8.557,9.668,10.824,11.768,12.476,13.185,14.066,14.888
+Netherlands,eCommerce,Users,Fashion,million users,Statista,6.428,6.944,7.576,8.279,9.054,9.841,10.449,10.932,11.411,11.992,12.532
+Netherlands,eCommerce,Users,Food,million users,Statista,2.222,2.414,2.647,2.914,3.205,3.489,3.721,3.915,4.11,4.338,4.553
+Netherlands,eCommerce,Users,Furniture,million users,Statista,2.786,3.092,3.466,3.885,4.392,4.871,5.243,5.622,6.002,6.406,6.8
+Netherlands,eCommerce,Users,Media,million users,Statista,4.278,4.748,5.322,5.967,6.744,7.48,8.052,8.472,8.895,9.43,9.92
+Netherlands,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,4.819,5.363,6.008,6.707,7.502,8.358,9.055,9.637,10.221,10.908,11.566
+Netherlands,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,24.972,27.245,30.023,32.392,35.034,37.833,39.798,41.273,42.71,44.4,45.901
+Netherlands,eCommerce,Penetration Rate,Beverages,percent,Statista,13.883,15.046,16.467,18.085,19.846,21.558,22.94,24.087,25.238,26.588,27.861
+Netherlands,eCommerce,Penetration Rate,eCommerce,percent,Statista,61.845,65.365,68.968,71.799,75.477,78.377,79.081,78.168,77.266,77.897,78.067
+Netherlands,eCommerce,Penetration Rate,Electronics,percent,Statista,34.672,38.808,44.056,49.938,56.295,62.886,68.226,72.177,76.129,81.069,85.661
+Netherlands,eCommerce,Penetration Rate,Fashion,percent,Statista,37.762,40.706,44.309,48.318,52.719,57.179,60.579,63.242,65.883,69.115,72.107
+Netherlands,eCommerce,Penetration Rate,Food,percent,Statista,13.054,14.148,15.484,17.006,18.661,20.271,21.571,22.649,23.731,25,26.198
+Netherlands,eCommerce,Penetration Rate,Furniture,percent,Statista,16.365,18.122,20.27,22.674,25.573,28.298,30.397,32.524,34.657,36.917,39.128
+Netherlands,eCommerce,Penetration Rate,Media,percent,Statista,25.133,27.83,31.128,34.821,39.273,43.458,46.681,49.015,51.355,54.346,57.077
+Netherlands,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,28.312,31.436,35.141,39.14,43.684,48.559,52.495,55.752,59.012,62.864,66.549
+Netherlands,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.952,,,,,,
+Netherlands,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.527,,,,,,
+Netherlands,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,20.785,,,,,,
+Netherlands,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.966,,,,,,
+Netherlands,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.77,,,,,,
+Netherlands,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,45.705,,,,,,
+Netherlands,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,54.295,,,,,,
+Netherlands,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.239,,,,,,
+Netherlands,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,26.685,,,,,,
+Netherlands,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,35.076,,,,,,
+Netherlands,Electronics,Revenue,Total,billion USD (US$),Statista,4.249,4.758,5.336,6.892,7.823,6.58,8.127,8.625,9.159,9.639,10.11
+Netherlands,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,3.085,3.416,3.772,4.661,5.12,4.042,5.189,5.464,5.765,6.033,6.3
+Netherlands,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,1.164,1.343,1.565,2.231,2.703,2.537,2.938,3.161,3.394,3.606,3.807
+Netherlands,Electronics,Revenue Change,Total,percent,Statista,,11.979,12.148,29.16,13.508,-15.889,23.511,6.128,6.191,5.241,4.886
+Netherlands,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,10.729,10.422,23.568,9.848,-21.055,28.377,5.3,5.509,4.649,4.426
+Netherlands,Electronics,Revenue Change,Household Appliances,percent,Statista,,15.378,16.53,42.556,21.156,-6.141,15.806,7.59,7.371,6.246,5.574
+Netherlands,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.72,0.719,0.708,0.805,0.809,0.608,0.691,0.691,0.695,0.685,0.679
+Netherlands,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.588,0.574,0.553,0.599,0.582,0.41,0.485,0.481,0.479,0.47,0.464
+Netherlands,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.279,0.29,0.298,0.372,0.396,0.329,0.347,0.352,0.357,0.353,0.35
+Netherlands,Electronics,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,Electronics,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,Electronics,Online & Offline Split,Offline,percent,Statista,59.157,55.4,50.847,40.726,37.38,31.988,29.582,26.303,23.694,,
+Netherlands,Electronics,Online & Offline Split,Online,percent,Statista,40.843,44.6,49.153,59.274,62.62,68.012,70.418,73.697,76.306,,
+Netherlands,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Electronics,Users by Segment,Total,million users,Statista,5.902,6.62,7.532,8.557,9.668,10.824,11.768,12.476,13.185,14.066,14.888
+Netherlands,Electronics,Users by Segment,Consumer Electronics,million users,Statista,5.246,5.952,6.821,7.787,8.802,9.851,10.704,11.37,12.039,12.837,13.583
+Netherlands,Electronics,Users by Segment,Household Appliances,million users,Statista,4.171,4.63,5.247,5.99,6.831,7.715,8.461,8.988,9.516,10.211,10.863
+Netherlands,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,30.821,34.887,39.898,45.443,51.252,57.235,62.053,65.777,69.509,73.984,78.151
+Netherlands,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,34.672,38.808,44.056,49.938,56.295,62.886,68.226,72.177,76.129,81.069,85.661
+Netherlands,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,24.507,27.138,30.691,34.956,39.78,44.827,49.051,51.994,54.945,58.85,62.504
+Netherlands,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,16.291,,,,,,
+Netherlands,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.01,,,,,,
+Netherlands,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,21.317,,,,,,
+Netherlands,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.09,,,,,,
+Netherlands,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.291,,,,,,
+Netherlands,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,37.435,,,,,,
+Netherlands,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,62.565,,,,,,
+Netherlands,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.253,,,,,,
+Netherlands,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,25.27,,,,,,
+Netherlands,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.477,,,,,,
+Netherlands,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,3.085,3.416,3.772,4.661,5.12,4.042,5.189,5.464,5.765,6.033,6.3
+Netherlands,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,0.886,0.996,1.1,1.352,1.478,1.118,1.388,1.419,1.468,1.532,1.593
+Netherlands,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,0.881,0.976,1.078,1.332,1.463,1.155,1.483,1.561,1.647,1.701,1.755
+Netherlands,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,0.735,0.806,0.89,1.055,1.124,0.92,1.216,1.312,1.406,1.488,1.575
+Netherlands,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,0.558,0.613,0.679,0.896,1.03,0.829,1.078,1.148,1.219,1.287,1.352
+Netherlands,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.025,0.025,0.025,0.026,0.025,0.02,0.024,0.024,0.026,0.026,0.026
+Netherlands,Consumer Electronics,Revenue Change,Total,percent,Statista,,10.729,10.422,23.568,9.848,-21.055,28.377,5.3,5.509,4.649,4.426
+Netherlands,Consumer Electronics,Revenue Change,Computing,percent,Statista,,12.417,10.453,22.909,9.32,-24.357,24.15,2.233,3.453,4.36,3.982
+Netherlands,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,10.722,10.462,23.562,9.835,-21.053,28.398,5.26,5.509,3.279,3.175
+Netherlands,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,9.688,10.47,18.473,6.54,-18.123,32.131,7.895,7.165,5.832,5.847
+Netherlands,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,9.858,10.72,31.978,15.007,-19.515,30.036,6.494,6.185,5.578,5.051
+Netherlands,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,0.242,0.04,5.62,-3.079,-22.941,21.832,-0.752,8.207,-0.583,0.861
+Netherlands,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,588.1,573.9,552.9,598.6,581.7,410.3,484.8,480.6,478.9,470,463.8
+Netherlands,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,241.3,239,230.3,248.1,239.8,162.2,185.3,178.3,174.2,170.5,167.5
+Netherlands,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,210,205,197.5,213.8,207.8,146.6,173.1,171.6,171,165.6,161.5
+Netherlands,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,175.1,169.3,163.2,169.4,159.6,116.8,142,144.2,146,144.9,144.9
+Netherlands,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,265.9,257.5,248.7,287.5,292.7,210.4,251.9,252.5,253,250.6,248.9
+Netherlands,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,15.79,13.95,12.17,11.26,9.656,6.648,7.455,6.964,7.118,6.638,6.327
+Netherlands,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Netherlands,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Netherlands,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,54.737,51.213,46.84,35.284,33.957,30.769,29.18,26.266,23.889,,
+Netherlands,Consumer Electronics,Online & Offline Split,Online,percent,Statista,45.263,48.787,53.16,64.716,66.043,69.231,70.82,73.734,76.111,,
+Netherlands,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Consumer Electronics,Users,Total,million users,Statista,5.246,5.952,6.821,7.787,8.802,9.851,10.704,11.37,12.039,12.837,13.583
+Netherlands,Consumer Electronics,Users,Computing,million users,Statista,3.672,4.166,4.775,5.451,6.161,6.896,7.493,7.959,8.427,8.986,9.508
+Netherlands,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,4.197,4.761,5.457,6.229,7.041,7.881,8.563,9.096,9.631,10.269,10.866
+Netherlands,Consumer Electronics,Users,Telephony,million users,Statista,4.197,4.761,5.457,6.229,7.041,7.881,8.563,9.096,9.631,10.269,10.866
+Netherlands,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,2.098,2.381,2.729,3.115,3.521,3.94,4.282,4.548,4.815,5.135,5.433
+Netherlands,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.574,1.785,2.046,2.336,2.64,2.955,3.211,3.411,3.612,3.851,4.075
+Netherlands,Consumer Electronics,Penetration Rate,Computing,percent,Statista,21.574,24.421,27.929,31.81,35.877,40.064,43.437,46.044,48.656,51.788,54.705
+Netherlands,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,30.821,34.887,39.898,45.443,51.252,57.235,62.053,65.777,69.509,73.984,78.151
+Netherlands,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,24.656,27.91,31.919,36.355,41.002,45.788,49.643,52.621,55.607,59.186,62.52
+Netherlands,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,24.656,27.91,31.919,36.355,41.002,45.788,49.643,52.621,55.607,59.186,62.52
+Netherlands,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,12.328,13.955,15.959,18.177,20.501,22.894,24.821,26.311,27.804,29.593,31.26
+Netherlands,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,9.246,10.466,11.97,13.633,15.376,17.17,18.616,19.733,20.853,22.195,23.445
+Netherlands,Household Appliances,Revenue,Total,billion USD (US$),Statista,1.164,1.343,1.565,2.231,2.703,2.537,2.938,3.161,3.394,3.606,3.807
+Netherlands,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.581,0.67,0.78,1.112,1.348,1.265,1.464,1.573,1.688,1.793,1.892
+Netherlands,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.194,0.224,0.261,0.372,0.451,0.423,0.49,0.527,0.566,0.601,0.634
+Netherlands,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.39,0.449,0.523,0.746,0.904,0.85,0.985,1.061,1.14,1.212,1.281
+Netherlands,Household Appliances,Revenue Change,Total,percent,Statista,,15.378,16.53,42.556,21.156,-6.141,15.806,7.59,7.371,6.246,5.574
+Netherlands,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,15.329,16.517,42.528,21.223,-6.157,15.731,7.445,7.311,6.22,5.521
+Netherlands,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,15.361,16.533,42.561,21.167,-6.127,15.796,7.576,7.384,6.24,5.574
+Netherlands,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,15.323,16.515,42.56,21.171,-6.027,15.91,7.716,7.446,6.316,5.693
+Netherlands,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,279.1,290,298.2,372.4,395.6,328.9,347.3,351.7,356.7,353.1,350.5
+Netherlands,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,347.9,361.6,371.7,464.3,493.3,409.8,432.5,437.6,443.6,438.9,435.3
+Netherlands,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,232.6,241.7,248.5,310.3,329.7,274.1,289.4,293.1,297.2,294.3,292.1
+Netherlands,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,116.7,121.3,124.7,155.8,165.5,137.7,145.5,147.5,149.8,148.4,147.4
+Netherlands,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Netherlands,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Netherlands,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Netherlands,Household Appliances,Online & Offline Split,Offline,percent,Statista,67.553,63.393,58.405,49.584,42.977,34.113,30.286,26.369,23.362,,
+Netherlands,Household Appliances,Online & Offline Split,Online,percent,Statista,32.447,36.607,41.595,50.416,57.023,65.887,69.714,73.631,76.638,,
+Netherlands,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Household Appliances,Users,Total,million users,Statista,4.171,4.63,5.247,5.99,6.831,7.715,8.461,8.988,9.516,10.211,10.863
+Netherlands,Household Appliances,Users,Major Appliances,million users,Statista,1.669,1.852,2.099,2.396,2.733,3.086,3.384,3.595,3.806,4.084,4.345
+Netherlands,Household Appliances,Users,Other Household Appliances,million users,Statista,0.834,0.926,1.049,1.198,1.366,1.543,1.692,1.798,1.903,2.042,2.173
+Netherlands,Household Appliances,Users,Small Appliances,million users,Statista,3.337,3.704,4.198,4.792,5.465,6.172,6.769,7.19,7.613,8.169,8.691
+Netherlands,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,24.507,27.138,30.691,34.956,39.78,44.827,49.051,51.994,54.945,58.85,62.504
+Netherlands,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,9.803,10.855,12.276,13.983,15.912,17.931,19.621,20.798,21.978,23.54,25.002
+Netherlands,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,4.901,5.428,6.138,6.991,7.956,8.965,9.81,10.399,10.989,11.77,12.501
+Netherlands,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,19.606,21.71,24.553,27.965,31.824,35.862,39.241,41.596,43.956,47.08,50.003
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.554,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.888,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.712,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.249,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.597,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,59.442,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,40.558,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.102,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.037,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.861,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,1.283,1.456,1.664,2.22,2.575,2.585,3.208,3.704,4.278,4.623,5.017
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.192,0.219,0.251,0.334,0.388,0.389,0.481,0.552,0.633,0.685,0.744
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.169,0.193,0.223,0.323,0.396,0.376,0.44,0.479,0.522,0.559,0.596
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.104,0.119,0.138,0.187,0.219,0.243,0.335,0.428,0.549,0.598,0.663
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,0.819,0.925,1.053,1.376,1.572,1.577,1.952,2.244,2.575,2.781,3.014
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,13.484,14.286,33.413,15.991,0.388,24.101,15.461,15.497,8.065,8.523
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,14.092,14.684,33.307,15.949,0.387,23.676,14.82,14.537,8.282,8.553
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,14.54,15.337,45.013,22.615,-5.104,17.146,8.932,8.867,7.206,6.614
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,15.14,15.913,34.971,17.345,11.086,37.372,28.012,28.164,8.929,10.84
+Netherlands,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,12.92,13.875,30.674,14.244,0.318,23.779,14.959,14.75,8,8.378
+Netherlands,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,301.8,313.2,324.2,399.9,428,397.1,467.3,519.1,578.3,600.1,628.9
+Netherlands,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,64.4,67.19,69.78,86.02,92.02,85.34,100.1,110.6,122.2,127.1,133.2
+Netherlands,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,61.93,64.88,67.76,90.88,102.8,90.13,100.1,105,110.2,113.5,116.8
+Netherlands,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,64.23,67.6,70.95,88.57,95.89,98.4,128.2,158,195.2,204.2,218.5
+Netherlands,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,310.7,320.9,330.8,399.8,421.5,390.7,458.6,507.2,561.4,582.2,609.5
+Netherlands,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,83.541,81.855,79.894,72.94,70.722,68.556,65.96,62.812,59.474,,
+Netherlands,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,16.459,18.145,20.106,27.06,29.278,31.444,34.04,37.188,40.526,,
+Netherlands,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,4.251,4.648,5.133,5.55,6.016,6.512,6.865,7.134,7.397,7.704,7.978
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,2.975,3.253,3.593,3.885,4.211,4.558,4.805,4.994,5.178,5.393,5.584
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,2.72,2.975,3.285,3.552,3.85,4.167,4.393,4.566,4.734,4.93,5.106
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,1.615,1.766,1.951,2.109,2.286,2.474,2.609,2.711,2.811,2.928,3.032
+Netherlands,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,2.635,2.882,3.183,3.441,3.73,4.037,4.256,4.423,4.586,4.776,4.946
+Netherlands,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,24.972,27.245,30.023,32.392,35.034,37.833,39.798,41.273,42.71,44.4,45.901
+Netherlands,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,17.48,19.071,21.016,22.674,24.524,26.483,27.858,28.891,29.897,31.08,32.131
+Netherlands,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,15.982,17.437,19.215,20.731,22.422,24.213,25.47,26.415,27.335,28.416,29.377
+Netherlands,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,9.489,10.353,11.409,12.309,13.313,14.376,15.123,15.684,16.23,16.873,17.445
+Netherlands,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,15.482,16.892,18.614,20.083,21.721,23.456,24.674,25.589,26.48,27.528,28.459
+Netherlands,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.99,,,,,,
+Netherlands,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.68,,,,,,
+Netherlands,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.711,,,,,,
+Netherlands,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.093,,,,,,
+Netherlands,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.526,,,,,,
+Netherlands,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,67.629,,,,,,
+Netherlands,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,32.371,,,,,,
+Netherlands,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.889,,,,,,
+Netherlands,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.167,,,,,,
+Netherlands,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.944,,,,,,
+Netherlands,Personal Care,Revenue,Total,billion USD (US$),Statista,0.819,0.925,1.053,1.376,1.572,1.577,1.952,2.244,2.575,2.781,3.014
+Netherlands,Personal Care,Revenue,Body Care,billion USD (US$),Statista,0.12,0.138,0.159,0.207,0.238,0.239,0.297,0.343,0.394,0.427,0.463
+Netherlands,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,0.121,0.131,0.143,0.183,0.203,0.203,0.25,0.286,0.326,0.35,0.378
+Netherlands,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,0.104,0.118,0.137,0.179,0.206,0.207,0.256,0.294,0.338,0.365,0.396
+Netherlands,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,0.067,0.076,0.088,0.115,0.133,0.133,0.165,0.19,0.219,0.237,0.257
+Netherlands,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,0.273,0.308,0.351,0.459,0.524,0.526,0.651,0.748,0.858,0.926,1.003
+Netherlands,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,0.134,0.153,0.176,0.232,0.268,0.269,0.333,0.383,0.44,0.476,0.516
+Netherlands,Personal Care,Revenue Change,Total,percent,Statista,,12.92,13.875,30.674,14.244,0.318,23.779,14.959,14.75,8,8.378
+Netherlands,Personal Care,Revenue Change,Body Care,percent,Statista,,14.357,15.239,30.668,14.747,0.588,24.134,15.271,15.086,8.19,8.577
+Netherlands,Personal Care,Revenue Change,Eye Care,percent,Statista,,7.984,9.07,28.022,11.026,-0.197,23.103,14.326,14.106,7.454,7.965
+Netherlands,Personal Care,Revenue Change,Hair Care,percent,Statista,,14.382,15.19,31.209,15.02,0.34,23.754,14.934,14.796,8.178,8.546
+Netherlands,Personal Care,Revenue Change,Oral Care,percent,Statista,,14.38,15.21,31.222,15.017,0.528,24.024,15.194,14.976,8.181,8.576
+Netherlands,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,12.894,13.855,30.693,14.283,0.324,23.754,14.938,14.748,7.912,8.304
+Netherlands,Personal Care,Revenue Change,Skin Care,percent,Statista,,14.286,14.921,32.232,15.461,0.41,23.774,14.976,14.748,8.235,8.533
+Netherlands,Personal Care,Average Revenue per User,Total,USD (US$),Statista,310.7,320.9,330.8,399.8,421.5,390.7,458.6,507.2,561.4,582.2,609.5
+Netherlands,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,67.23,70.33,73.36,88.69,93.87,87.25,102.7,113.9,126.5,131.4,137.8
+Netherlands,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,92.22,91.06,89.91,106.5,109.1,100.6,117.4,129.2,142.2,146.7,152.9
+Netherlands,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,75.59,79.07,82.49,100.1,106.2,98.44,115.6,127.8,141.5,147,154.1
+Netherlands,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,51.59,53.97,56.3,68.34,72.5,67.34,79.2,87.78,97.36,101.2,106
+Netherlands,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,230.2,237.7,245,296.2,312.2,289.4,339.7,375.7,415.8,430.9,450.7
+Netherlands,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,115.3,120.5,125.4,153.4,163.3,151.5,177.9,196.8,217.8,226.4,237.3
+Netherlands,Personal Care,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,Personal Care,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,Personal Care,Online & Offline Split,Offline,percent,Statista,79.408,77.454,75.2,66.717,64.873,62.664,60.108,56.866,53.539,,
+Netherlands,Personal Care,Online & Offline Split,Online,percent,Statista,20.592,22.546,24.8,33.283,35.127,37.336,39.892,43.134,46.461,,
+Netherlands,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Personal Care,Users,Total,million users,Statista,2.635,2.882,3.183,3.441,3.73,4.037,4.256,4.423,4.586,4.776,4.946
+Netherlands,Personal Care,Users,Body Care,million users,Statista,1.792,1.96,2.164,2.34,2.536,2.745,2.894,3.008,3.119,3.248,3.363
+Netherlands,Personal Care,Users,Eye Care,million users,Statista,1.318,1.441,1.591,1.721,1.865,2.019,2.128,2.212,2.293,2.388,2.473
+Netherlands,Personal Care,Users,Hair Care,million users,Statista,1.37,1.498,1.655,1.789,1.94,2.099,2.213,2.3,2.385,2.484,2.572
+Netherlands,Personal Care,Users,Oral Care,million users,Statista,1.291,1.412,1.559,1.686,1.828,1.978,2.086,2.167,2.247,2.341,2.424
+Netherlands,Personal Care,Users,Other Personal Care,million users,Statista,1.186,1.297,1.432,1.549,1.679,1.817,1.915,1.99,2.064,2.149,2.226
+Netherlands,Personal Care,Users,Skin Care,million users,Statista,1.16,1.268,1.4,1.514,1.641,1.776,1.873,1.946,2.018,2.102,2.176
+Netherlands,Personal Care,Penetration Rate,Body Care,percent,Statista,10.528,11.486,12.658,13.656,14.77,15.95,16.779,17.401,18.007,18.719,19.352
+Netherlands,Personal Care,Penetration Rate,Eye Care,percent,Statista,7.741,8.446,9.307,10.041,10.86,11.728,12.337,12.795,13.24,13.764,14.23
+Netherlands,Personal Care,Penetration Rate,Hair Care,percent,Statista,8.051,8.784,9.679,10.443,11.295,12.197,12.831,13.306,13.77,14.315,14.8
+Netherlands,Personal Care,Penetration Rate,Oral Care,percent,Statista,7.586,8.277,9.121,9.841,10.643,11.494,12.091,12.539,12.975,13.489,13.946
+Netherlands,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,6.967,7.601,8.376,9.037,9.774,10.555,11.104,11.515,11.916,12.388,12.808
+Netherlands,Personal Care,Penetration Rate,Personal Care,percent,Statista,15.482,16.892,18.614,20.083,21.721,23.456,24.674,25.589,26.48,27.528,28.459
+Netherlands,Personal Care,Penetration Rate,Skin Care,percent,Statista,6.812,7.432,8.19,8.837,9.557,10.321,10.857,11.259,11.651,12.113,12.523
+Netherlands,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,64.4,67.19,69.78,86.02,92.02,85.34,100.1,110.6,122.2,127.1,133.2
+Netherlands,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,60.84,63.52,66.06,80.97,86.34,80.38,94.71,105.1,116.6,121.3,127.2
+Netherlands,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,11.6,12.03,12.38,15.81,17.25,15.63,17.87,19.2,20.58,21.39,22.3
+Netherlands,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,59.45,62.02,64.41,79.4,84.94,78.77,92.42,102.1,112.8,117.3,122.9
+Netherlands,Beauty Care,Revenue,Total,million USD (US$),Statista,191.6,218.6,250.7,334.2,387.5,389,481.1,552.4,632.7,685.1,743.7
+Netherlands,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,126.7,144.7,166.2,220.2,254.5,256.5,318.6,367.4,422.8,457.8,497.4
+Netherlands,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,20.7,23.49,26.69,36.87,43.58,42.73,51.53,57.54,63.94,69.22,74.73
+Netherlands,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,44.22,50.45,57.86,77.12,89.43,89.76,111,127.5,146,158.1,171.6
+Netherlands,Beauty Care,Revenue Change,Total,percent,Statista,,14.092,14.684,33.307,15.949,0.387,23.676,14.82,14.537,8.282,8.553
+Netherlands,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,14.207,14.858,32.491,15.577,0.786,24.211,15.317,15.079,8.278,8.65
+Netherlands,Beauty Care,Revenue Change,Fragrances,percent,Statista,,13.478,13.623,38.142,18.199,-1.95,20.594,11.663,11.123,8.258,7.96
+Netherlands,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,14.089,14.688,33.287,15.962,0.369,23.663,14.865,14.51,8.288,8.539
+Netherlands,Beauty Care,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,Beauty Care,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,Beauty Care,Online & Offline Split,Offline,percent,Statista,81.261,79.676,77.848,68.817,67.432,65.69,63.4,60.296,57.043,,
+Netherlands,Beauty Care,Online & Offline Split,Online,percent,Statista,18.739,20.324,22.152,31.183,32.568,34.31,36.6,39.704,42.957,,
+Netherlands,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Beauty Care,Users by Segment,Total,million users,Statista,2.975,3.253,3.593,3.885,4.211,4.558,4.805,4.994,5.178,5.393,5.584
+Netherlands,Beauty Care,Users by Segment,Cosmetics,million users,Statista,2.083,2.277,2.515,2.72,2.948,3.191,3.364,3.496,3.625,3.775,3.909
+Netherlands,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.785,1.952,2.156,2.331,2.527,2.735,2.883,2.996,3.107,3.236,3.351
+Netherlands,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.744,0.813,0.898,0.971,1.053,1.14,1.201,1.249,1.295,1.348,1.396
+Netherlands,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,17.48,19.071,21.016,22.674,24.524,26.483,27.858,28.891,29.897,31.08,32.131
+Netherlands,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,12.236,13.35,14.711,15.872,17.166,18.538,19.501,20.224,20.928,21.756,22.492
+Netherlands,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,10.488,11.443,12.61,13.605,14.714,15.89,16.715,17.335,17.938,18.648,19.278
+Netherlands,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,4.37,4.768,5.254,5.669,6.131,6.621,6.965,7.223,7.474,7.77,8.032
+Netherlands,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,61.93,64.88,67.76,90.88,102.8,90.13,100.1,105,110.2,113.5,116.8
+Netherlands,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,58.19,60.94,63.62,85.05,95.63,83.66,92.66,96.69,101,103.9,106.8
+Netherlands,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,32.28,33.8,35.29,47.32,53.32,46.72,51.82,54.17,56.65,58.38,60.12
+Netherlands,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,15.98,16.73,17.47,23.38,26.3,22.89,25.23,26.2,27.23,27.89,28.56
+Netherlands,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.138,2.238,2.337,4.058,5.915,5.289,5.987,6.386,6.815,7.227,7.62
+Netherlands,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,6.29,6.688,7.091,8.456,8.936,9.398,12.52,15.72,19.75,20.65,22.14
+Netherlands,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,62.14,65.1,67.99,91.19,103.1,90.43,100.5,105.3,110.6,114.2,118
+Netherlands,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,13.2,13.82,14.43,19.28,21.68,18.78,20.59,21.28,21.99,22.43,22.86
+Netherlands,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,21.81,22.84,23.84,31.86,35.82,31.08,34.14,35.34,36.59,37.38,38.15
+Netherlands,Health Care,Revenue,Total,million USD (US$),Statista,168.5,193,222.6,322.8,395.8,375.6,440,479.3,521.8,559.4,596.4
+Netherlands,Health Care,Revenue,Analgesics,million USD (US$),Statista,31.66,36.25,41.8,60.42,73.64,69.72,81.42,88.3,95.6,102.4,109.1
+Netherlands,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,35.12,40.22,46.37,67.24,82.12,77.87,91.07,98.93,107.3,115.1,122.8
+Netherlands,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,13.04,14.93,17.22,24.91,30.38,28.62,33.26,35.89,38.67,41.26,43.74
+Netherlands,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,2.326,2.663,3.071,5.766,9.111,8.816,10.52,11.66,12.91,14.25,15.56
+Netherlands,Health Care,Revenue,Incontinence,million USD (US$),Statista,3.422,3.979,4.659,6.007,6.882,7.833,11,14.35,18.7,20.36,22.61
+Netherlands,Health Care,Revenue,Other Health Care,million USD (US$),Statista,38.88,44.54,51.37,74.5,91.35,86.68,101.5,110.6,120.4,129.6,138.6
+Netherlands,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,14.36,16.45,18.96,27.4,33.39,31.3,36.19,38.86,41.65,44.24,46.69
+Netherlands,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,29.66,33.96,39.16,56.59,68.96,64.76,75,80.67,86.62,92.15,97.4
+Netherlands,Health Care,Revenue Change,Total,percent,Statista,,14.54,15.337,45.013,22.615,-5.104,17.146,8.932,8.867,7.206,6.614
+Netherlands,Health Care,Revenue Change,Analgesics,percent,Statista,,14.498,15.31,44.545,21.88,-5.323,16.781,8.45,8.267,7.113,6.543
+Netherlands,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,14.522,15.291,45.008,22.13,-5.175,16.951,8.631,8.461,7.269,6.69
+Netherlands,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,14.494,15.338,44.657,21.959,-5.793,16.212,7.907,7.746,6.698,6.011
+Netherlands,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,14.488,15.321,87.756,58.012,-3.238,19.328,10.837,10.72,10.38,9.193
+Netherlands,Health Care,Revenue Change,Incontinence,percent,Statista,,16.277,17.09,28.933,14.566,13.819,40.432,30.455,30.314,8.877,11.051
+Netherlands,Health Care,Revenue Change,Other Health Care,percent,Statista,,14.558,15.335,45.026,22.617,-5.112,17.097,8.966,8.861,7.641,6.944
+Netherlands,Health Care,Revenue Change,Skin Treatment,percent,Statista,,14.554,15.258,44.515,21.861,-6.259,15.623,7.378,7.18,6.218,5.538
+Netherlands,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,14.498,15.312,44.51,21.859,-6.09,15.812,7.56,7.376,6.384,5.697
+Netherlands,Health Care,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,Health Care,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,Health Care,Online & Offline Split,Offline,percent,Statista,79.732,77.413,74.707,64.206,59.145,57.741,55.973,54.019,52.008,,
+Netherlands,Health Care,Online & Offline Split,Online,percent,Statista,20.268,22.587,25.293,35.794,40.855,42.259,44.027,45.981,47.992,,
+Netherlands,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Health Care,Users by Segment,Total,million users,Statista,2.72,2.975,3.285,3.552,3.85,4.167,4.393,4.566,4.734,4.93,5.106
+Netherlands,Health Care,Users by Segment,Analgesics,million users,Statista,0.544,0.595,0.657,0.71,0.77,0.833,0.879,0.913,0.947,0.986,1.021
+Netherlands,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,1.088,1.19,1.314,1.421,1.54,1.667,1.757,1.826,1.894,1.972,2.042
+Netherlands,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.816,0.892,0.986,1.066,1.155,1.25,1.318,1.37,1.42,1.479,1.532
+Netherlands,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,1.088,1.19,1.314,1.421,1.54,1.667,1.757,1.826,1.894,1.972,2.042
+Netherlands,Health Care,Users by Segment,Incontinence,million users,Statista,0.544,0.595,0.657,0.71,0.77,0.833,0.879,0.913,0.947,0.986,1.021
+Netherlands,Health Care,Users by Segment,Other Health Care,million users,Statista,0.626,0.684,0.756,0.817,0.886,0.958,1.01,1.05,1.089,1.134,1.174
+Netherlands,Health Care,Users by Segment,Skin Treatment,million users,Statista,1.088,1.19,1.314,1.421,1.54,1.667,1.757,1.826,1.894,1.972,2.042
+Netherlands,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,1.36,1.487,1.643,1.776,1.925,2.084,2.197,2.283,2.367,2.465,2.553
+Netherlands,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,3.196,3.487,3.843,4.146,4.484,4.843,5.094,5.283,5.467,5.683,5.876
+Netherlands,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,6.393,6.975,7.686,8.292,8.969,9.685,10.188,10.566,10.934,11.367,11.751
+Netherlands,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,4.795,5.231,5.764,6.219,6.726,7.264,7.641,7.924,8.2,8.525,8.813
+Netherlands,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,6.393,6.975,7.686,8.292,8.969,9.685,10.188,10.566,10.934,11.367,11.751
+Netherlands,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,15.982,17.437,19.215,20.731,22.422,24.213,25.47,26.415,27.335,28.416,29.377
+Netherlands,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,3.196,3.487,3.843,4.146,4.484,4.843,5.094,5.283,5.467,5.683,5.876
+Netherlands,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,3.676,4.01,4.419,4.768,5.157,5.569,5.858,6.075,6.287,6.536,6.757
+Netherlands,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,6.393,6.975,7.686,8.292,8.969,9.685,10.188,10.566,10.934,11.367,11.751
+Netherlands,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,7.991,8.718,9.607,10.365,11.211,12.106,12.735,13.207,13.667,14.208,14.69
+Netherlands,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,64.23,67.6,70.95,88.57,95.89,98.4,128.2,158,195.2,204.2,218.5
+Netherlands,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,7.933,8.285,8.63,11.47,12.84,12.95,16.6,20.14,24.56,25.73,27.51
+Netherlands,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,11.69,12.21,12.72,17.37,19.77,19.85,25.34,30.62,37.18,39,41.69
+Netherlands,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,29.42,31.29,33.17,39.55,41.8,43.96,58.54,73.48,92.33,96.51,103.5
+Netherlands,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,30.95,32.32,33.67,41.31,44.08,44.75,57.77,70.61,86.77,90.6,96.79
+Netherlands,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,109.5,115.2,120.9,151,163.4,167.7,218.6,269.2,332.8,348,372.4
+Netherlands,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,4.701,4.999,5.301,6.486,6.958,7.286,9.664,12.08,15.12,15.82,16.96
+Netherlands,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,7.347,7.673,7.992,9.731,10.34,10.47,13.5,16.47,20.2,21.09,22.52
+Netherlands,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,24.85,26.43,28.02,34.6,37.33,39,51.61,64.38,80.37,84.13,90.21
+Netherlands,Household Care,Revenue,Total,million USD (US$),Statista,103.7,119.4,138.4,186.8,219.2,243.5,334.5,428.2,548.8,597.8,662.6
+Netherlands,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,5.381,6.146,7.07,10.16,12.33,13.45,18.18,22.93,29,31.64,35.03
+Netherlands,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,8.498,9.705,11.16,16.48,20.34,22.1,29.74,37.35,47.03,51.37,56.88
+Netherlands,Household Care,Revenue,Household Paper,million USD (US$),Statista,10.93,12.71,14.88,19.19,21.98,25.02,35.12,45.82,59.69,64.99,72.17
+Netherlands,Household Care,Revenue,Laundry Care,million USD (US$),Statista,20,22.84,26.27,34.85,40.31,44.29,60.28,76.58,97.56,106.1,117.4
+Netherlands,Household Care,Revenue,Other Household Care,million USD (US$),Statista,38.91,44.77,51.9,70.05,82.21,91.31,125.5,160.6,205.8,224.2,248.5
+Netherlands,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,2.43,2.826,3.309,4.378,5.09,5.769,8.067,10.48,13.6,14.82,16.46
+Netherlands,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,3.56,4.066,4.677,6.157,7.09,7.776,10.57,13.4,17.04,18.52,20.48
+Netherlands,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,14.05,16.34,19.13,25.54,29.87,33.78,47.12,61.09,79.07,86.2,95.72
+Netherlands,Household Care,Revenue Change,Total,percent,Statista,,15.14,15.913,34.971,17.345,11.086,37.372,28.012,28.164,8.929,10.84
+Netherlands,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,14.217,15.034,43.706,21.358,9.084,35.167,26.128,26.472,9.103,10.714
+Netherlands,Household Care,Revenue Change,Household Cleaners,percent,Statista,,14.203,14.992,47.67,23.422,8.653,34.57,25.588,25.917,9.228,10.726
+Netherlands,Household Care,Revenue Change,Household Paper,percent,Statista,,16.285,17.073,28.965,14.539,13.831,40.368,30.467,30.271,8.879,11.048
+Netherlands,Household Care,Revenue Change,Laundry Care,percent,Statista,,14.2,15.018,32.661,15.667,9.873,36.103,27.04,27.396,8.754,10.65
+Netherlands,Household Care,Revenue Change,Other Household Care,percent,Statista,,15.06,15.926,34.971,17.359,11.069,37.444,27.968,28.144,8.941,10.839
+Netherlands,Household Care,Revenue Change,Paper Tissues,percent,Statista,,16.296,17.091,32.306,16.263,13.34,39.834,29.912,29.771,8.971,11.066
+Netherlands,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,14.213,15.027,31.644,15.153,9.676,35.931,26.774,27.164,8.685,10.583
+Netherlands,Household Care,Revenue Change,Toilet Paper,percent,Statista,,16.299,17.075,33.508,16.954,13.09,39.491,29.648,29.432,9.017,11.044
+Netherlands,Household Care,Comparable Estimates - eCommerce (Netherlands),*Statista,billion USD (US$),,16.27,17.93,19.92,26.54,30.49,28.78,36.18,40.91,46.29,49.43,52.99
+Netherlands,Household Care,Comparable Estimates - eCommerce (Netherlands),UNCTAD,billion USD (US$),,,,29,,,,,,,,
+Netherlands,Household Care,Online & Offline Split,Offline,percent,Statista,94.715,94.004,93.154,91.086,89.85,87.671,84.904,81.573,77.641,,
+Netherlands,Household Care,Online & Offline Split,Online,percent,Statista,5.285,5.996,6.846,8.914,10.15,12.329,15.096,18.427,22.359,,
+Netherlands,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Household Care,Users by Segment,Total,million users,Statista,1.615,1.766,1.951,2.109,2.286,2.474,2.609,2.711,2.811,2.928,3.032
+Netherlands,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.678,0.742,0.819,0.886,0.96,1.039,1.096,1.139,1.181,1.23,1.273
+Netherlands,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.727,0.795,0.878,0.949,1.029,1.113,1.174,1.22,1.265,1.317,1.364
+Netherlands,Household Care,Users by Segment,Household Paper,million users,Statista,0.371,0.406,0.449,0.485,0.526,0.569,0.6,0.624,0.647,0.673,0.697
+Netherlands,Household Care,Users by Segment,Laundry Care,million users,Statista,0.646,0.706,0.78,0.844,0.914,0.99,1.043,1.084,1.124,1.171,1.213
+Netherlands,Household Care,Users by Segment,Other Household Care,million users,Statista,0.355,0.389,0.429,0.464,0.503,0.544,0.574,0.596,0.618,0.644,0.667
+Netherlands,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.517,0.565,0.624,0.675,0.732,0.792,0.835,0.868,0.9,0.937,0.97
+Netherlands,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.485,0.53,0.585,0.633,0.686,0.742,0.783,0.813,0.843,0.878,0.91
+Netherlands,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.565,0.618,0.683,0.738,0.8,0.866,0.913,0.949,0.984,1.025,1.061
+Netherlands,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,3.985,4.348,4.792,5.17,5.591,6.038,6.352,6.587,6.817,7.086,7.326
+Netherlands,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,9.489,10.353,11.409,12.309,13.313,14.376,15.123,15.684,16.23,16.873,17.445
+Netherlands,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,4.27,4.659,5.134,5.539,5.991,6.469,6.805,7.058,7.303,7.592,7.849
+Netherlands,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,2.183,2.381,2.624,2.831,3.062,3.307,3.478,3.607,3.733,3.881,4.013
+Netherlands,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,3.796,4.141,4.564,4.924,5.325,5.751,6.049,6.274,6.492,6.749,6.977
+Netherlands,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,2.088,2.278,2.51,2.708,2.929,3.163,3.327,3.45,3.571,3.712,3.839
+Netherlands,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,3.037,3.313,3.651,3.939,4.26,4.6,4.839,5.019,5.194,5.399,5.582
+Netherlands,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.847,3.106,3.423,3.693,3.994,4.313,4.537,4.705,4.869,5.062,5.233
+Netherlands,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,3.321,3.624,3.993,4.308,4.659,5.032,5.293,5.489,5.68,5.905,6.105
+Netherlands,Food,Revenue,Total,million USD (US$),Statista,467.4,524.9,600.7,952.9,"1,228","1,427","2,041","2,710","3,593","3,935","4,394"
+Netherlands,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,63.02,70.78,81,150,213,241.6,337.3,437,565.1,621.6,693.6
+Netherlands,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,43.06,48.36,55.34,90.94,119.3,137.3,194.6,255.9,335.9,368.4,411.3
+Netherlands,Food,Revenue,Convenience Food,million USD (US$),Statista,22.22,24.95,28.55,51.26,71.2,81.48,114.8,150.1,195.9,215.4,240.6
+Netherlands,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,78.02,87.63,100.3,148.4,182.3,214.4,310.4,417.2,559.7,611.7,683.5
+Netherlands,Food,Revenue,Fish & Seafood,million USD (US$),Statista,21.31,23.93,27.39,42.09,52.94,61.91,89.15,119.1,159,173.9,194.3
+Netherlands,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,54.57,61.28,70.13,107.8,135.6,158.7,228.7,305.9,408.5,447,499.5
+Netherlands,Food,Revenue,Meat,million USD (US$),Statista,100.4,112.7,129,198.5,250,292.1,420.2,561.2,748.2,818,913
+Netherlands,Food,Revenue,Oils & Fats,million USD (US$),Statista,11.28,12.66,14.49,21.43,26.34,31.01,44.96,60.52,81.32,88.87,99.32
+Netherlands,Food,Revenue,Sauces & Spices,million USD (US$),Statista,7.35,8.255,9.447,12.56,14.49,17.34,25.57,35.01,47.87,52.12,58.26
+Netherlands,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,3.089,3.469,3.97,5.311,6.147,7.324,10.75,14.65,19.93,21.7,24.25
+Netherlands,Food,Revenue,Vegetables,million USD (US$),Statista,63.08,70.85,81.08,124.6,156.8,183.5,264.4,353.6,472.1,516.3,576.7
+Netherlands,Food,Revenue Change,Total,percent,Statista,,12.302,14.441,58.632,28.87,16.205,43.027,32.778,32.583,9.519,11.665
+Netherlands,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,12.314,14.439,85.185,42,13.427,39.611,29.558,29.314,9.998,11.583
+Netherlands,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,12.308,14.433,64.33,31.185,15.088,41.733,31.501,31.262,9.675,11.645
+Netherlands,Food,Revenue Change,Convenience Food,percent,Statista,,12.286,14.429,79.545,38.9,14.438,40.893,30.749,30.513,9.954,11.699
+Netherlands,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,12.317,14.459,47.956,22.844,17.608,44.776,34.407,34.156,9.291,11.738
+Netherlands,Food,Revenue Change,Fish & Seafood,percent,Statista,,12.295,14.459,53.669,25.778,16.944,43.999,33.595,33.501,9.371,11.731
+Netherlands,Food,Revenue Change,Fruits & Nuts,percent,Statista,,12.296,14.442,53.715,25.788,17.035,44.108,33.756,33.54,9.425,11.745
+Netherlands,Food,Revenue Change,Meat,percent,Statista,,12.251,14.463,53.876,25.945,16.84,43.855,33.555,33.321,9.329,11.614
+Netherlands,Food,Revenue Change,Oils & Fats,percent,Statista,,12.234,14.455,47.895,22.912,17.73,44.985,34.609,34.369,9.284,11.759
+Netherlands,Food,Revenue Change,Sauces & Spices,percent,Statista,,12.313,14.44,32.952,15.366,19.669,47.463,36.918,36.732,8.878,11.781
+Netherlands,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,12.302,14.442,33.778,15.741,19.148,46.778,36.279,36.041,8.881,11.751
+Netherlands,Food,Revenue Change,Vegetables,percent,Statista,,12.318,14.439,53.675,25.843,17.028,44.087,33.737,33.512,9.362,11.699
+Netherlands,Food,Average Revenue per User,Total,USD (US$),Statista,210.3,217.5,226.9,327,383.2,408.9,548.5,692.2,874.3,907.1,965.1
+Netherlands,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,60.35,62.4,65.1,109.5,141.4,147.3,192.9,237.5,292.5,304.9,324.1
+Netherlands,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,39.55,40.89,42.66,63.69,75.99,80.33,106.7,133.4,166.8,173.3,184.3
+Netherlands,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,17.85,18.46,19.26,31.41,39.67,41.7,55.1,68.46,85.11,88.66,94.36
+Netherlands,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,152.7,157.9,164.7,221.4,247.4,267.2,362.7,463.3,592.1,613.1,652.6
+Netherlands,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,50.48,52.19,54.45,76.02,86.95,93.39,126.1,160.2,203.5,211,224.6
+Netherlands,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,47.23,48.83,50.95,71.14,81.39,87.49,118.2,150.3,191.1,198.1,210.9
+Netherlands,Food,Average Revenue per User,Meat,USD (US$),Statista,150.6,155.7,162.5,227.1,260,279,376.5,477.8,606.8,628.6,668.4
+Netherlands,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,20.3,20.99,21.9,29.42,32.87,35.55,48.34,61.83,79.14,81.95,87.25
+Netherlands,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,7.518,7.773,8.11,9.798,10.27,11.3,15.62,20.32,26.47,27.31,29.08
+Netherlands,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,4.212,4.355,4.544,5.523,5.812,6.362,8.755,11.34,14.69,15.16,16.14
+Netherlands,Food,Average Revenue per User,Vegetables,USD (US$),Statista,57.94,59.91,62.51,87.28,99.85,107.3,145,184.3,234.4,242.9,258.5
+Netherlands,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Food,Online & Offline Split,Offline,percent,Statista,98.635,98.505,98.321,97.617,96.815,95.714,94.358,92.693,90.497,,
+Netherlands,Food,Online & Offline Split,Online,percent,Statista,1.365,1.495,1.679,2.383,3.185,4.286,5.642,7.307,9.503,,
+Netherlands,Food,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Food,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Food,Users,Total,million users,Statista,2.222,2.414,2.647,2.914,3.205,3.489,3.721,3.915,4.11,4.338,4.553
+Netherlands,Food,Users,Bread & Cereal Products,million users,Statista,1.044,1.134,1.244,1.37,1.506,1.64,1.749,1.84,1.932,2.039,2.14
+Netherlands,Food,Users,Confectionery & Snacks,million users,Statista,1.089,1.183,1.297,1.428,1.57,1.71,1.823,1.918,2.014,2.126,2.231
+Netherlands,Food,Users,Convenience Food,million users,Statista,1.244,1.352,1.482,1.632,1.795,1.954,2.084,2.192,2.302,2.429,2.55
+Netherlands,Food,Users,Dairy Products & Eggs,million users,Statista,0.511,0.555,0.609,0.67,0.737,0.802,0.856,0.9,0.945,0.998,1.047
+Netherlands,Food,Users,Fish & Seafood,million users,Statista,0.422,0.459,0.503,0.554,0.609,0.663,0.707,0.744,0.781,0.824,0.865
+Netherlands,Food,Users,Fruits & Nuts,million users,Statista,1.155,1.255,1.377,1.515,1.666,1.814,1.935,2.036,2.137,2.256,2.368
+Netherlands,Food,Users,Meat,million users,Statista,0.667,0.724,0.794,0.874,0.961,1.047,1.116,1.175,1.233,1.301,1.366
+Netherlands,Food,Users,Oils & Fats,million users,Statista,0.555,0.603,0.662,0.728,0.801,0.872,0.93,0.979,1.028,1.084,1.138
+Netherlands,Food,Users,Sauces & Spices,million users,Statista,0.978,1.062,1.165,1.282,1.41,1.535,1.637,1.723,1.808,1.909,2.004
+Netherlands,Food,Users,Spreads & Sweeteners,million users,Statista,0.733,0.796,0.874,0.962,1.058,1.151,1.228,1.292,1.356,1.432,1.503
+Netherlands,Food,Users,Vegetables,million users,Statista,1.089,1.183,1.297,1.428,1.57,1.71,1.823,1.918,2.014,2.126,2.231
+Netherlands,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,6.135,6.649,7.277,7.993,8.771,9.527,10.138,10.645,11.154,11.75,12.314
+Netherlands,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,6.396,6.932,7.587,8.333,9.144,9.933,10.57,11.098,11.628,12.25,12.838
+Netherlands,Food,Penetration Rate,Convenience Food,percent,Statista,7.31,7.923,8.671,9.523,10.45,11.352,12.08,12.684,13.289,14.001,14.673
+Netherlands,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,3.002,3.254,3.561,3.911,4.292,4.662,4.961,5.209,5.458,5.75,6.026
+Netherlands,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.48,2.688,2.942,3.231,3.546,3.852,4.098,4.303,4.509,4.75,4.978
+Netherlands,Food,Penetration Rate,Food,percent,Statista,13.054,14.148,15.484,17.006,18.661,20.271,21.571,22.649,23.731,25,26.198
+Netherlands,Food,Penetration Rate,Fruits & Nuts,percent,Statista,6.788,7.357,8.052,8.843,9.704,10.541,11.217,11.778,12.34,13.001,13.624
+Netherlands,Food,Penetration Rate,Meat,percent,Statista,3.916,4.244,4.645,5.102,5.598,6.081,6.471,6.795,7.119,7.5,7.86
+Netherlands,Food,Penetration Rate,Oils & Fats,percent,Statista,3.263,3.537,3.871,4.251,4.665,5.068,5.393,5.662,5.933,6.25,6.55
+Netherlands,Food,Penetration Rate,Sauces & Spices,percent,Statista,5.744,6.225,6.813,7.483,8.211,8.919,9.491,9.966,10.442,11,11.528
+Netherlands,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,4.308,4.669,5.11,5.612,6.158,6.689,7.118,7.474,7.831,8.25,8.646
+Netherlands,Food,Penetration Rate,Vegetables,percent,Statista,6.396,6.932,7.587,8.333,9.144,9.933,10.57,11.098,11.628,12.25,12.838
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,60.35,62.4,65.1,109.5,141.4,147.3,192.9,237.5,292.5,304.9,324.1
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,67.26,69.54,72.56,123.7,160.9,167.3,218.6,268.6,330.2,344.2,365.7
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,4.596,4.753,4.959,6.921,7.915,8.496,11.47,14.55,18.48,19.16,20.4
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,17.49,18.09,18.87,31.75,40.99,42.7,55.9,68.84,84.79,88.44,94.06
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,4.238,4.382,4.572,7.802,10.15,10.57,13.83,17.01,20.93,21.84,23.23
+Netherlands,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,2.78,2.875,2.999,5.115,6.654,6.922,9.05,11.13,13.69,14.28,15.19
+Netherlands,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,63.02,70.78,81,150,213,241.6,337.3,437,565.1,621.6,693.6
+Netherlands,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,44.25,49.7,56.87,106.7,152.6,172.8,240.8,311.4,401.8,442.1,493.1
+Netherlands,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,3.984,4.475,5.121,7.867,9.895,11.56,16.64,22.23,29.63,32.43,36.23
+Netherlands,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,8.22,9.232,10.57,19.57,27.78,31.51,43.99,57,73.71,81.14,90.59
+Netherlands,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,3.983,4.474,5.12,9.617,13.76,15.6,21.76,28.17,36.39,40.07,44.74
+Netherlands,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,2.584,2.902,3.321,6.235,8.92,10.1,14.09,18.22,23.53,25.91,28.93
+Netherlands,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,12.314,14.439,85.185,42,13.427,39.611,29.558,29.314,9.998,11.583
+Netherlands,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,12.316,14.427,87.621,43.018,13.237,39.352,29.319,29.03,10.03,11.536
+Netherlands,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,12.324,14.436,53.622,25.779,16.827,43.945,33.594,33.288,9.45,11.718
+Netherlands,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,12.311,14.493,85.147,41.952,13.427,39.606,29.575,29.316,10.08,11.647
+Netherlands,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,12.327,14.439,87.832,43.08,13.372,39.487,29.458,29.18,10.113,11.655
+Netherlands,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,12.307,14.438,87.745,43.063,13.229,39.505,29.312,29.144,10.115,11.656
+Netherlands,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Netherlands,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Netherlands,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,98.465,98.315,98.103,97.056,95.513,93.984,92.217,90.196,87.627,,
+Netherlands,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,1.535,1.685,1.897,2.944,4.487,6.016,7.783,9.804,12.373,,
+Netherlands,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Bread & Cereal Products,Users by Segment,Total,million users,Statista,1.044,1.134,1.244,1.37,1.506,1.64,1.749,1.84,1.932,2.039,2.14
+Netherlands,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.658,0.715,0.784,0.863,0.949,1.033,1.102,1.159,1.217,1.284,1.348
+Netherlands,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.867,0.942,1.033,1.137,1.25,1.361,1.451,1.527,1.603,1.692,1.776
+Netherlands,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.47,0.51,0.56,0.616,0.678,0.738,0.787,0.828,0.869,0.917,0.963
+Netherlands,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.94,1.021,1.12,1.233,1.356,1.476,1.574,1.656,1.739,1.835,1.926
+Netherlands,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.929,1.01,1.107,1.219,1.341,1.459,1.556,1.638,1.719,1.815,1.905
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,3.865,4.189,4.585,5.035,5.526,6.002,6.387,6.706,7.027,7.403,7.758
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,6.135,6.649,7.277,7.993,8.771,9.527,10.138,10.645,11.154,11.75,12.314
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,5.092,5.519,6.04,6.634,7.28,7.908,8.415,8.836,9.257,9.753,10.22
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,2.761,2.992,3.275,3.597,3.947,4.287,4.562,4.79,5.019,5.288,5.541
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,5.522,5.984,6.55,7.193,7.894,8.575,9.124,9.581,10.038,10.575,11.082
+Netherlands,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,5.46,5.918,6.477,7.114,7.806,8.479,9.023,9.474,9.927,10.458,10.959
+Netherlands,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,39.55,40.89,42.66,63.69,75.99,80.33,106.7,133.4,166.8,173.3,184.3
+Netherlands,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,34.37,35.54,37.08,55.19,65.72,69.62,92.7,116.1,145.5,151.1,160.8
+Netherlands,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.712,0.736,0.768,1.147,1.368,1.446,1.921,2.401,3.002,3.12,3.318
+Netherlands,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,11.8,12.2,12.73,19.14,22.95,24.13,31.9,39.65,49.3,51.25,54.48
+Netherlands,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,43.06,48.36,55.34,90.94,119.3,137.3,194.6,255.9,335.9,368.4,411.3
+Netherlands,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,30.69,34.46,39.44,64.62,84.63,97.6,138.6,182.6,240.2,263.4,294.1
+Netherlands,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.426,0.479,0.548,0.9,1.181,1.36,1.927,2.534,3.326,3.647,4.072
+Netherlands,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,11.94,13.41,15.35,25.42,33.52,38.37,54.08,70.74,92.34,101.3,113
+Netherlands,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,12.308,14.433,64.33,31.185,15.088,41.733,31.501,31.262,9.675,11.645
+Netherlands,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,12.284,14.452,63.844,30.966,15.326,42.008,31.746,31.544,9.659,11.655
+Netherlands,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,12.315,14.432,64.337,31.164,15.157,41.691,31.5,31.255,9.651,11.653
+Netherlands,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,12.312,14.467,65.603,31.865,14.469,40.943,30.806,30.534,9.703,11.55
+Netherlands,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Netherlands,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Netherlands,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,98.646,98.5,98.294,97.504,96.526,95.278,93.741,91.881,89.428,,
+Netherlands,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,1.354,1.5,1.706,2.496,3.474,4.722,6.259,8.119,10.572,,
+Netherlands,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Confectionery & Snacks,Users by Segment,Total,million users,Statista,1.089,1.183,1.297,1.428,1.57,1.71,1.823,1.918,2.014,2.126,2.231
+Netherlands,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.893,0.97,1.064,1.171,1.288,1.402,1.495,1.573,1.651,1.743,1.83
+Netherlands,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.599,0.65,0.713,0.785,0.864,0.94,1.003,1.055,1.108,1.169,1.227
+Netherlands,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,1.013,1.1,1.206,1.328,1.46,1.59,1.696,1.784,1.873,1.977,2.075
+Netherlands,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,5.245,5.684,6.221,6.833,7.498,8.145,8.667,9.101,9.535,10.045,10.527
+Netherlands,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,6.396,6.932,7.587,8.333,9.144,9.933,10.57,11.098,11.628,12.25,12.838
+Netherlands,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,3.518,3.813,4.173,4.583,5.029,5.463,5.813,6.104,6.396,6.738,7.061
+Netherlands,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,5.949,6.447,7.056,7.75,8.504,9.238,9.83,10.321,10.814,11.393,11.939
+Netherlands,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,17.85,18.46,19.26,31.41,39.67,41.7,55.1,68.46,85.11,88.66,94.36
+Netherlands,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,18.44,19.06,19.89,32.41,40.91,43.16,57.22,71.36,89.03,92.74,98.74
+Netherlands,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,8.553,8.844,9.227,15.08,19.07,19.87,26.02,32.04,39.46,41.13,43.72
+Netherlands,Convenience Food,Revenue,Total,million USD (US$),Statista,22.22,24.95,28.55,51.26,71.2,81.48,114.8,150.1,195.9,215.4,240.6
+Netherlands,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,15.83,17.78,20.35,36.49,50.66,58.18,82.27,108,141.4,155.4,173.7
+Netherlands,Convenience Food,Revenue,Soups,million USD (US$),Statista,6.386,7.172,8.207,14.76,20.54,23.29,32.53,42.15,54.5,59.95,66.9
+Netherlands,Convenience Food,Revenue Change,Total,percent,Statista,,12.286,14.429,79.545,38.9,14.438,40.893,30.749,30.513,9.954,11.699
+Netherlands,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,12.318,14.454,79.312,38.833,14.844,41.406,31.275,30.926,9.901,11.776
+Netherlands,Convenience Food,Revenue Change,Soups,percent,Statista,,12.308,14.431,79.846,39.16,13.389,39.674,29.573,29.3,10,11.593
+Netherlands,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Convenience Food,Online & Offline Split,Offline,percent,Statista,98.659,98.542,98.373,97.535,96.371,95.135,93.685,91.989,89.799,,
+Netherlands,Convenience Food,Online & Offline Split,Online,percent,Statista,1.341,1.458,1.627,2.465,3.629,4.865,6.315,8.011,10.201,,
+Netherlands,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Convenience Food,Users by Segment,Total,million users,Statista,1.244,1.352,1.482,1.632,1.795,1.954,2.084,2.192,2.302,2.429,2.55
+Netherlands,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.859,0.933,1.023,1.126,1.238,1.348,1.438,1.513,1.588,1.676,1.759
+Netherlands,Convenience Food,Users by Segment,Soups,million users,Statista,0.747,0.811,0.889,0.979,1.077,1.172,1.25,1.315,1.381,1.458,1.53
+Netherlands,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,7.31,7.923,8.671,9.523,10.45,11.352,12.08,12.684,13.289,14.001,14.673
+Netherlands,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,5.044,5.467,5.983,6.571,7.211,7.833,8.335,8.752,9.17,9.66,10.123
+Netherlands,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,4.386,4.754,5.203,5.714,6.27,6.811,7.248,7.61,7.974,8.4,8.803
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,152.7,157.9,164.7,221.4,247.4,267.2,362.7,463.3,592.1,613.1,652.6
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,93.2,96.37,100.5,135.2,151.1,163.2,221.7,283.2,362.1,375,399.1
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,26.61,27.51,28.71,38.61,43.16,46.71,63.55,81.34,104.2,107.7,114.4
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,25.49,26.36,27.5,36.94,41.27,44.52,60.38,77.02,98.32,101.8,108.4
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,92.35,95.49,99.63,133.9,149.6,161.5,219.2,279.8,357.4,369.4,392.5
+Netherlands,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,34.76,35.94,37.5,50.39,56.31,60.77,82.46,105.2,134.4,138.9,147.6
+Netherlands,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,78.02,87.63,100.3,148.4,182.3,214.4,310.4,417.2,559.7,611.7,683.5
+Netherlands,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,35.72,40.12,45.92,67.94,83.51,98.22,142.3,191.3,256.7,280.6,313.5
+Netherlands,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,5.847,6.567,7.516,11.13,13.68,16.12,23.39,31.5,42.35,46.28,51.73
+Netherlands,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,10.16,11.41,13.06,19.31,23.73,27.87,40.3,54.1,72.49,79.23,88.51
+Netherlands,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,16.52,18.55,21.23,31.41,38.59,45.36,65.64,88.17,118.2,129.2,144.4
+Netherlands,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,9.771,10.97,12.56,18.57,22.83,26.82,38.81,52.12,69.89,76.38,85.34
+Netherlands,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,12.317,14.459,47.956,22.844,17.608,44.776,34.407,34.156,9.291,11.738
+Netherlands,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,12.318,14.457,47.953,22.917,17.615,44.879,34.434,34.187,9.31,11.725
+Netherlands,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,12.314,14.451,48.084,22.911,17.836,45.099,34.673,34.444,9.28,11.776
+Netherlands,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,12.303,14.461,47.856,22.89,17.446,44.6,34.243,33.993,9.298,11.713
+Netherlands,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,12.288,14.447,47.951,22.859,17.543,44.709,34.324,34.059,9.306,11.765
+Netherlands,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,12.271,14.494,47.85,22.94,17.477,44.705,34.295,34.094,9.286,11.731
+Netherlands,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Netherlands,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Netherlands,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,98.659,98.532,98.352,97.762,97.188,96.201,94.955,93.383,91.284,,
+Netherlands,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,1.341,1.468,1.648,2.238,2.812,3.799,5.045,6.617,8.716,,
+Netherlands,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.511,0.555,0.609,0.67,0.737,0.802,0.856,0.9,0.945,0.998,1.047
+Netherlands,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.383,0.416,0.457,0.503,0.553,0.602,0.642,0.675,0.709,0.748,0.786
+Netherlands,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.22,0.239,0.262,0.288,0.317,0.345,0.368,0.387,0.406,0.43,0.452
+Netherlands,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.399,0.433,0.475,0.523,0.575,0.626,0.668,0.702,0.737,0.778,0.817
+Netherlands,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.179,0.194,0.213,0.235,0.258,0.281,0.3,0.315,0.331,0.35,0.368
+Netherlands,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.281,0.305,0.335,0.369,0.405,0.441,0.471,0.495,0.52,0.55,0.578
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,2.252,2.44,2.671,2.933,3.219,3.497,3.721,3.907,4.094,4.313,4.52
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,3.002,3.254,3.561,3.911,4.292,4.662,4.961,5.209,5.458,5.75,6.026
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.291,1.399,1.531,1.682,1.846,2.005,2.133,2.24,2.347,2.477,2.601
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,2.342,2.538,2.778,3.051,3.348,3.637,3.87,4.063,4.257,4.485,4.7
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,1.051,1.139,1.246,1.369,1.502,1.632,1.736,1.823,1.91,2.016,2.116
+Netherlands,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.651,1.79,1.959,2.151,2.361,2.564,2.729,2.865,3.002,3.169,3.327
+Netherlands,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,50.48,52.19,54.45,76.02,86.95,93.39,126.1,160.2,203.5,211,224.6
+Netherlands,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,85.48,88.38,92.22,128.8,147.4,158.5,214.2,272.3,346.5,358.6,381.1
+Netherlands,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,21.85,22.6,23.58,32.83,37.49,40.12,53.97,68.28,86.45,89.49,95.07
+Netherlands,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,13.22,13.67,14.26,19.89,22.74,24.4,32.9,41.74,52.98,54.92,58.45
+Netherlands,Fish & Seafood,Revenue,Total,million USD (US$),Statista,21.31,23.93,27.39,42.09,52.94,61.91,89.15,119.1,159,173.9,194.3
+Netherlands,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,14.07,15.81,18.09,27.81,35,40.97,59.06,79.01,105.5,115.5,129
+Netherlands,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,2.214,2.487,2.846,4.362,5.478,6.382,9.156,12.19,16.2,17.73,19.8
+Netherlands,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,5.022,5.64,6.455,9.911,12.46,14.56,20.93,27.94,37.23,40.74,45.52
+Netherlands,Fish & Seafood,Revenue Change,Total,percent,Statista,,12.295,14.459,53.669,25.778,16.944,43.999,33.595,33.501,9.371,11.731
+Netherlands,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,12.367,14.421,53.731,25.854,17.057,44.154,33.779,33.527,9.479,11.688
+Netherlands,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,12.331,14.435,53.268,25.585,16.502,43.466,33.137,32.896,9.444,11.675
+Netherlands,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,12.306,14.45,53.54,25.719,16.854,43.75,33.493,33.25,9.428,11.733
+Netherlands,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,98.659,98.533,98.355,97.714,97.038,96.005,94.718,93.115,90.988,,
+Netherlands,Fish & Seafood,Online & Offline Split,Online,percent,Statista,1.341,1.467,1.645,2.286,2.962,3.995,5.282,6.885,9.012,,
+Netherlands,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Fish & Seafood,Users by Segment,Total,million users,Statista,0.422,0.459,0.503,0.554,0.609,0.663,0.707,0.744,0.781,0.824,0.865
+Netherlands,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.165,0.179,0.196,0.216,0.237,0.259,0.276,0.29,0.305,0.322,0.339
+Netherlands,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.101,0.11,0.121,0.133,0.146,0.159,0.17,0.179,0.187,0.198,0.208
+Netherlands,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.38,0.413,0.453,0.498,0.548,0.597,0.636,0.669,0.703,0.742,0.779
+Netherlands,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.48,2.688,2.942,3.231,3.546,3.852,4.098,4.303,4.509,4.75,4.978
+Netherlands,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.967,1.048,1.147,1.26,1.383,1.502,1.598,1.678,1.758,1.856,1.948
+Netherlands,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.595,0.645,0.706,0.775,0.851,0.924,0.984,1.033,1.082,1.142,1.198
+Netherlands,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,2.232,2.419,2.648,2.908,3.191,3.466,3.689,3.873,4.058,4.275,4.48
+Netherlands,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,47.23,48.83,50.95,71.14,81.39,87.49,118.2,150.3,191.1,198.1,210.9
+Netherlands,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,50.54,52.26,54.52,76.15,87.13,93.66,126.6,160.9,204.6,212.1,225.8
+Netherlands,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,6.542,6.764,7.058,9.813,11.2,11.96,16.06,20.28,25.62,26.56,28.26
+Netherlands,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,17.15,17.74,18.51,25.87,29.61,31.9,43.2,55.03,70.15,72.72,77.44
+Netherlands,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,54.57,61.28,70.13,107.8,135.6,158.7,228.7,305.9,408.5,447,499.5
+Netherlands,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,40.88,45.91,52.54,80.77,101.6,118.9,171.4,229.3,306.1,335,374.3
+Netherlands,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,3.779,4.245,4.858,7.435,9.33,10.85,15.53,20.64,27.38,29.96,33.45
+Netherlands,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,9.91,11.13,12.74,19.6,24.67,28.94,41.79,56.02,74.96,82.02,91.68
+Netherlands,Fruits & Nuts,Revenue Change,Total,percent,Statista,,12.296,14.442,53.715,25.788,17.035,44.108,33.756,33.54,9.425,11.745
+Netherlands,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,12.304,14.441,53.73,25.789,17.028,44.155,33.781,33.493,9.441,11.731
+Netherlands,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,12.331,14.441,53.047,25.488,16.292,43.134,32.904,32.655,9.423,11.649
+Netherlands,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,12.311,14.465,53.846,25.867,17.308,44.402,34.051,33.809,9.418,11.778
+Netherlands,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,98.659,98.536,98.361,97.727,97.059,96.038,94.767,93.187,91.093,,
+Netherlands,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,1.341,1.464,1.639,2.273,2.941,3.962,5.233,6.813,8.907,,
+Netherlands,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Fruits & Nuts,Users by Segment,Total,million users,Statista,1.155,1.255,1.377,1.515,1.666,1.814,1.935,2.036,2.137,2.256,2.368
+Netherlands,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.809,0.879,0.964,1.061,1.167,1.27,1.354,1.425,1.496,1.579,1.657
+Netherlands,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.578,0.628,0.688,0.758,0.833,0.907,0.967,1.018,1.069,1.128,1.184
+Netherlands,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.578,0.628,0.688,0.758,0.833,0.907,0.967,1.018,1.069,1.128,1.184
+Netherlands,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,4.752,5.15,5.636,6.19,6.793,7.379,7.852,8.244,8.638,9.1,9.536
+Netherlands,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,6.788,7.357,8.052,8.843,9.704,10.541,11.217,11.778,12.34,13.001,13.624
+Netherlands,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,3.394,3.678,4.026,4.421,4.852,5.271,5.608,5.889,6.17,6.5,6.812
+Netherlands,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,3.394,3.678,4.026,4.421,4.852,5.271,5.608,5.889,6.17,6.5,6.812
+Netherlands,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,150.6,155.7,162.5,227.1,260,279,376.5,477.8,606.8,628.6,668.4
+Netherlands,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,134.3,138.9,144.9,202.6,232,250.4,339.8,433.8,554.1,573.6,610.1
+Netherlands,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,66.56,68.82,71.81,100.4,114.9,122.1,163.2,205.2,258,267.5,284.4
+Netherlands,Meat,Revenue,Total,million USD (US$),Statista,100.4,112.7,129,198.5,250,292.1,420.2,561.2,748.2,818,913
+Netherlands,Meat,Revenue,Fresh Meat,million USD (US$),Statista,61.79,69.39,79.42,122.2,153.9,180.8,261.7,351.5,471.4,515.1,575
+Netherlands,Meat,Revenue,Processed Meat,million USD (US$),Statista,38.6,43.35,49.61,76.32,96.08,111.2,158.5,209.6,276.8,302.9,338
+Netherlands,Meat,Revenue Change,Total,percent,Statista,,12.251,14.463,53.876,25.945,16.84,43.855,33.555,33.321,9.329,11.614
+Netherlands,Meat,Revenue Change,Fresh Meat,percent,Statista,,12.3,14.455,53.866,25.941,17.479,44.746,34.314,34.111,9.27,11.629
+Netherlands,Meat,Revenue Change,Processed Meat,percent,Statista,,12.306,14.441,53.84,25.891,15.737,42.536,32.24,32.061,9.429,11.588
+Netherlands,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Netherlands,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Netherlands,Meat,Online & Offline Split,Offline,percent,Statista,98.659,98.531,98.35,97.704,97.021,95.982,94.687,93.074,90.935,,
+Netherlands,Meat,Online & Offline Split,Online,percent,Statista,1.341,1.469,1.65,2.296,2.979,4.018,5.313,6.926,9.065,,
+Netherlands,Meat,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Meat,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Meat,Users by Segment,Total,million users,Statista,0.667,0.724,0.794,0.874,0.961,1.047,1.116,1.175,1.233,1.301,1.366
+Netherlands,Meat,Users by Segment,Fresh Meat,million users,Statista,0.46,0.5,0.548,0.603,0.663,0.722,0.77,0.81,0.851,0.898,0.943
+Netherlands,Meat,Users by Segment,Processed Meat,million users,Statista,0.58,0.63,0.691,0.761,0.836,0.911,0.971,1.022,1.073,1.132,1.188
+Netherlands,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,2.702,2.929,3.205,3.52,3.863,4.196,4.465,4.688,4.912,5.175,5.423
+Netherlands,Meat,Penetration Rate by Segment,Meat,percent,Statista,3.916,4.244,4.645,5.102,5.598,6.081,6.471,6.795,7.119,7.5,7.86
+Netherlands,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,3.407,3.693,4.041,4.439,4.871,5.291,5.63,5.911,6.194,6.525,6.838
+Netherlands,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,20.3,20.99,21.9,29.42,32.87,35.55,48.34,61.83,79.14,81.95,87.25
+Netherlands,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,6.862,7.096,7.403,9.962,11.14,12.07,16.44,21.07,27.02,27.98,29.8
+Netherlands,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,8.082,8.357,8.719,11.7,13.07,14.08,19.07,24.3,30.99,32.09,34.14
+Netherlands,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,8.144,8.421,8.786,11.8,13.18,14.22,19.29,24.61,31.42,32.54,34.63
+Netherlands,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,3.048,3.151,3.288,4.414,4.929,5.417,7.485,9.73,12.66,13.1,13.97
+Netherlands,Oils & Fats,Revenue,Total,million USD (US$),Statista,11.28,12.66,14.49,21.43,26.34,31.01,44.96,60.52,81.32,88.87,99.32
+Netherlands,Oils & Fats,Revenue,Butter,million USD (US$),Statista,3.05,3.425,3.92,5.805,7.14,8.423,12.24,16.5,22.21,24.28,27.14
+Netherlands,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,3.592,4.034,4.616,6.82,8.376,9.826,14.19,19.03,25.47,27.84,31.1
+Netherlands,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,3.619,4.065,4.652,6.877,8.45,9.925,14.36,19.27,25.83,28.23,31.54
+Netherlands,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,1.016,1.141,1.306,1.929,2.37,2.835,4.178,5.714,7.805,8.526,9.547
+Netherlands,Oils & Fats,Revenue Change,Total,percent,Statista,,12.234,14.455,47.895,22.912,17.73,44.985,34.609,34.369,9.284,11.759
+Netherlands,Oils & Fats,Revenue Change,Butter,percent,Statista,,12.295,14.453,48.087,22.997,17.969,45.316,34.804,34.606,9.32,11.779
+Netherlands,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,12.305,14.427,47.747,22.815,17.311,44.413,34.109,33.841,9.305,11.71
+Netherlands,Oils & Fats,Revenue Change,Margarine,percent,Statista,,12.324,14.44,47.829,22.873,17.456,44.685,34.192,34.043,9.292,11.725
+Netherlands,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,12.303,14.461,47.703,22.862,19.62,47.372,36.764,36.594,9.238,11.975
+Netherlands,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Oils & Fats,Online & Offline Split,Offline,percent,Statista,98.659,98.538,98.364,97.786,97.228,96.264,95.049,93.519,91.48,,
+Netherlands,Oils & Fats,Online & Offline Split,Online,percent,Statista,1.341,1.462,1.636,2.214,2.772,3.736,4.951,6.481,8.52,,
+Netherlands,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Oils & Fats,Users by Segment,Total,million users,Statista,0.555,0.603,0.662,0.728,0.801,0.872,0.93,0.979,1.028,1.084,1.138
+Netherlands,Oils & Fats,Users by Segment,Butter,million users,Statista,0.444,0.483,0.529,0.583,0.641,0.698,0.744,0.783,0.822,0.868,0.911
+Netherlands,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.444,0.483,0.529,0.583,0.641,0.698,0.744,0.783,0.822,0.868,0.911
+Netherlands,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.444,0.483,0.529,0.583,0.641,0.698,0.744,0.783,0.822,0.868,0.911
+Netherlands,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.333,0.362,0.397,0.437,0.481,0.523,0.558,0.587,0.617,0.651,0.683
+Netherlands,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,2.611,2.83,3.097,3.401,3.732,4.054,4.314,4.53,4.746,5,5.24
+Netherlands,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,2.611,2.83,3.097,3.401,3.732,4.054,4.314,4.53,4.746,5,5.24
+Netherlands,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,2.611,2.83,3.097,3.401,3.732,4.054,4.314,4.53,4.746,5,5.24
+Netherlands,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,3.263,3.537,3.871,4.251,4.665,5.068,5.393,5.662,5.933,6.25,6.55
+Netherlands,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.958,2.122,2.323,2.551,2.799,3.041,3.236,3.397,3.56,3.751,3.931
+Netherlands,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,7.518,7.773,8.11,9.798,10.27,11.3,15.62,20.32,26.47,27.31,29.08
+Netherlands,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,8.14,8.417,8.782,10.65,11.19,12.36,17.16,22.43,29.32,30.26,32.24
+Netherlands,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,1.676,1.732,1.808,2.13,2.201,2.348,3.149,3.972,5.013,5.168,5.479
+Netherlands,Sauces & Spices,Revenue,Total,million USD (US$),Statista,7.35,8.255,9.447,12.56,14.49,17.34,25.57,35.01,47.87,52.12,58.26
+Netherlands,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,6.367,7.151,8.183,10.92,12.63,15.18,22.48,30.9,42.43,46.2,51.67
+Netherlands,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.983,1.104,1.263,1.638,1.862,2.163,3.093,4.105,5.44,5.919,6.586
+Netherlands,Sauces & Spices,Revenue Change,Total,percent,Statista,,12.313,14.44,32.952,15.366,19.669,47.463,36.918,36.732,8.878,11.781
+Netherlands,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,12.313,14.432,33.447,15.659,20.19,48.09,37.456,37.314,8.885,11.84
+Netherlands,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,12.332,14.402,29.691,13.675,16.165,42.996,32.719,32.521,8.805,11.269
+Netherlands,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Sauces & Spices,Online & Offline Split,Online,percent,Statista,1.341,1.459,1.63,2.055,2.362,3.193,4.276,5.685,7.595,,
+Netherlands,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Sauces & Spices,Users by Segment,Total,million users,Statista,0.978,1.062,1.165,1.282,1.41,1.535,1.637,1.723,1.808,1.909,2.004
+Netherlands,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.782,0.85,0.932,1.026,1.128,1.228,1.31,1.378,1.447,1.527,1.603
+Netherlands,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.587,0.637,0.699,0.769,0.846,0.921,0.982,1.034,1.085,1.145,1.202
+Netherlands,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,5.744,6.225,6.813,7.483,8.211,8.919,9.491,9.966,10.442,11,11.528
+Netherlands,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,4.595,4.98,5.45,5.986,6.569,7.135,7.593,7.973,8.353,8.8,9.222
+Netherlands,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,3.446,3.735,4.088,4.49,4.927,5.352,5.695,5.979,6.265,6.6,6.917
+Netherlands,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,4.212,4.355,4.544,5.523,5.812,6.362,8.755,11.34,14.69,15.16,16.14
+Netherlands,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,3.215,3.324,3.468,4.212,4.43,4.89,6.785,8.859,11.58,11.95,12.73
+Netherlands,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,3.418,3.534,3.687,4.487,4.725,5.104,6.93,8.852,11.31,11.68,12.41
+Netherlands,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,3.089,3.469,3.97,5.311,6.147,7.324,10.75,14.65,19.93,21.7,24.25
+Netherlands,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,1.886,2.118,2.424,3.24,3.748,4.504,6.665,9.156,12.56,13.68,15.3
+Netherlands,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,1.203,1.351,1.546,2.071,2.399,2.821,4.085,5.49,7.366,8.025,8.95
+Netherlands,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,12.302,14.442,33.778,15.741,19.148,46.778,36.279,36.041,8.881,11.751
+Netherlands,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,12.301,14.448,33.663,15.679,20.171,47.98,37.374,37.178,8.917,11.842
+Netherlands,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,12.303,14.434,33.959,15.838,17.591,44.807,34.394,34.171,8.947,11.526
+Netherlands,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Netherlands,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Netherlands,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,98.646,98.512,98.323,97.856,97.507,96.62,95.459,93.952,91.91,,
+Netherlands,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,1.354,1.488,1.677,2.144,2.493,3.38,4.541,6.048,8.09,,
+Netherlands,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.733,0.796,0.874,0.962,1.058,1.151,1.228,1.292,1.356,1.432,1.503
+Netherlands,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.587,0.637,0.699,0.769,0.846,0.921,0.982,1.034,1.085,1.145,1.202
+Netherlands,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.352,0.382,0.419,0.462,0.508,0.553,0.589,0.62,0.651,0.687,0.721
+Netherlands,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,3.446,3.735,4.088,4.49,4.927,5.352,5.695,5.979,6.265,6.6,6.917
+Netherlands,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,4.308,4.669,5.11,5.612,6.158,6.689,7.118,7.474,7.831,8.25,8.646
+Netherlands,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,2.068,2.241,2.453,2.694,2.956,3.211,3.417,3.588,3.759,3.96,4.15
+Netherlands,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,57.94,59.91,62.51,87.28,99.85,107.3,145,184.3,234.4,242.9,258.5
+Netherlands,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,72.16,74.61,77.84,108.7,124.4,133.8,181,230.2,292.9,303.5,323
+Netherlands,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,14.86,15.36,16.03,22.32,25.49,27.28,36.68,46.4,58.73,60.89,64.78
+Netherlands,Vegetables,Revenue,Total,million USD (US$),Statista,63.08,70.85,81.08,124.6,156.8,183.5,264.4,353.6,472.1,516.3,576.7
+Netherlands,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,54.99,61.76,70.68,108.7,136.8,160.2,231,309.1,412.9,451.5,504.4
+Netherlands,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,8.089,9.085,10.4,15.94,20.02,23.31,33.44,44.51,59.14,64.72,72.27
+Netherlands,Vegetables,Revenue Change,Total,percent,Statista,,12.318,14.439,53.675,25.843,17.028,44.087,33.737,33.512,9.362,11.699
+Netherlands,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,12.311,14.443,53.792,25.851,17.105,44.195,33.81,33.581,9.349,11.717
+Netherlands,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,12.313,14.474,53.269,25.596,16.434,43.458,33.104,32.869,9.435,11.666
+Netherlands,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Netherlands,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Netherlands,Vegetables,Online & Offline Split,Offline,percent,Statista,98.659,98.536,98.36,97.725,97.057,96.035,94.762,93.18,91.083,,
+Netherlands,Vegetables,Online & Offline Split,Online,percent,Statista,1.341,1.464,1.64,2.275,2.943,3.965,5.238,6.82,8.917,,
+Netherlands,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,67.95,66.347,64.53,63.142,61.864,61.322,60.992,60.665,60.338,,
+Netherlands,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,32.05,33.653,35.47,36.858,38.136,38.678,39.008,39.335,39.662,,
+Netherlands,Vegetables,Users by Segment,Total,million users,Statista,1.089,1.183,1.297,1.428,1.57,1.71,1.823,1.918,2.014,2.126,2.231
+Netherlands,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.762,0.828,0.908,0.999,1.099,1.197,1.276,1.343,1.41,1.488,1.562
+Netherlands,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.544,0.591,0.649,0.714,0.785,0.855,0.912,0.959,1.007,1.063,1.116
+Netherlands,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,4.477,4.853,5.311,5.833,6.401,6.953,7.399,7.769,8.14,8.575,8.986
+Netherlands,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,3.198,3.466,3.794,4.166,4.572,4.966,5.285,5.549,5.814,6.125,6.419
+Netherlands,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,6.396,6.932,7.587,8.333,9.144,9.933,10.57,11.098,11.628,12.25,12.838

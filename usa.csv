@@ -1,0 +1,703 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+United States,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.829,,,,,,
+United States,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.575,,,,,,
+United States,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.079,,,,,,
+United States,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.635,,,,,,
+United States,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.882,,,,,,
+United States,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,50.584,,,,,,
+United States,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,49.416,,,,,,
+United States,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.509,,,,,,
+United States,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.132,,,,,,
+United States,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.36,,,,,,
+United States,eCommerce,Revenue,Total,billion USD (US$),Statista,458.8,502.6,552.1,706.4,862.4,904.9,"1,111","1,281","1,479","1,581","1,703"
+United States,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,38.95,44.53,51.11,65.91,87.44,94.72,113.4,129.8,148.5,160.1,173
+United States,eCommerce,Revenue,Beverages,billion USD (US$),Statista,23.21,26.78,30.99,44.62,59.14,68.87,88.77,109.4,134.7,145.3,158.9
+United States,eCommerce,Revenue,Electronics,billion USD (US$),Statista,87.57,95.15,103.3,120.1,137.6,126.5,150.1,160.5,170.8,178.1,185.6
+United States,eCommerce,Revenue,Fashion,billion USD (US$),Statista,89.54,102,115.8,144.8,180.7,197.3,236.7,269.7,305,328,353.5
+United States,eCommerce,Revenue,Food,billion USD (US$),Statista,19.49,22.31,25.53,35.41,41.52,56.78,85.33,121.7,172.2,185.8,207.2
+United States,eCommerce,Revenue,Furniture,billion USD (US$),Statista,89.95,93.37,97.72,119.7,133.1,123.5,157.4,176.2,195.7,207.1,220.3
+United States,eCommerce,Revenue,Media,billion USD (US$),Statista,19.28,21.4,23.26,29.97,31.7,31.62,34.49,35.6,35.96,38.07,39.79
+United States,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,90.75,97.04,104.4,146,191.2,205.6,244.5,277.9,316,338.9,364.7
+United States,eCommerce,Revenue Change,Total,percent,Statista,,9.548,9.851,27.963,22.081,4.931,22.732,15.316,15.474,6.922,7.689
+United States,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,14.328,14.78,28.938,32.675,8.326,19.703,14.452,14.448,7.808,8.017
+United States,eCommerce,Revenue Change,Beverages,percent,Statista,,15.368,15.744,43.96,32.557,16.455,28.89,23.257,23.122,7.84,9.365
+United States,eCommerce,Revenue Change,Electronics,percent,Statista,,8.653,8.568,16.246,14.614,-8.119,18.701,6.909,6.424,4.287,4.197
+United States,eCommerce,Revenue Change,Fashion,percent,Statista,,13.886,13.531,25.034,24.824,9.207,19.949,13.924,13.123,7.539,7.767
+United States,eCommerce,Revenue Change,Food,percent,Statista,,14.463,14.428,38.685,17.24,36.776,50.266,42.659,41.474,7.872,11.522
+United States,eCommerce,Revenue Change,Furniture,percent,Statista,,3.802,4.66,22.475,11.204,-7.193,27.432,11.918,11.068,5.825,6.384
+United States,eCommerce,Revenue Change,Media,percent,Statista,,10.976,8.696,28.889,5.756,-0.254,9.082,3.208,1.018,5.873,4.507
+United States,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,6.925,7.553,39.89,30.961,7.549,18.886,13.694,13.708,7.221,7.631
+United States,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,2.129,2.14,2.266,2.796,3.26,3.374,4.043,4.575,5.196,5.501,5.874
+United States,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.546,0.545,0.574,0.688,0.849,0.864,0.985,1.084,1.195,1.248,1.312
+United States,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.588,0.596,0.633,0.834,1.013,1.093,1.317,1.534,1.789,1.833,1.912
+United States,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.83,0.785,0.773,0.813,0.844,0.713,0.789,0.791,0.792,0.781,0.772
+United States,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.825,0.832,0.879,1.013,1.172,1.193,1.352,1.479,1.609,1.665,1.734
+United States,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.525,0.528,0.555,0.704,0.757,0.958,1.347,1.815,2.432,2.493,2.652
+United States,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,1.934,1.724,1.621,1.785,1.77,1.493,1.763,1.829,1.892,1.876,1.878
+United States,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.236,0.235,0.24,0.291,0.293,0.278,0.292,0.291,0.283,0.292,0.298
+United States,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,1.127,1.033,0.999,1.261,1.524,1.532,1.737,1.902,2.084,2.167,2.271
+United States,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,6.938,6.878,6.691,7.407,6.992,6.685,6.39,6.114,5.837,,
+United States,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,35.252,35.818,35.434,39.942,38.405,37.393,36.391,35.403,34.414,,
+United States,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,4.554,4.514,4.146,4.357,3.889,3.536,3.232,2.968,2.705,,
+United States,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,12.33,12.222,12.481,14.524,13.709,13.109,12.53,11.988,11.446,,
+United States,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,5.936,5.884,5.983,6.899,8.732,10.07,11.439,12.816,14.194,,
+United States,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,17.808,17.652,17.948,20.697,22.447,23.636,24.693,25.616,26.54,,
+United States,eCommerce,Revenue Share Payment Types,Other,percent,Statista,17.183,17.033,17.318,6.173,5.826,5.571,5.325,5.095,4.865,,
+United States,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,2.675,2.693,2.711,2.726,2.738,2.748,2.756,2.763,2.769,,
+United States,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,97.325,97.307,97.289,97.274,97.262,97.252,97.244,97.237,97.231,,
+United States,eCommerce,Online & Offline Split,Offline,percent,Statista,85.848,85.051,84.029,79.873,77.322,75.125,72.604,69.601,66.189,,
+United States,eCommerce,Online & Offline Split,Online,percent,Statista,14.152,14.949,15.971,20.127,22.678,24.875,27.396,30.399,33.811,,
+United States,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,66.75,62.543,59.972,57.522,55.623,53.237,50.807,48.482,46.017,,
+United States,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,33.25,37.457,40.028,42.478,44.377,46.763,49.193,51.518,53.983,,
+United States,eCommerce,Users,Total,million users,Statista,215.467,234.825,243.642,252.665,264.531,268.203,274.723,279.947,284.629,287.436,289.907
+United States,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,71.313,81.643,89.006,95.789,102.968,109.653,115.13,119.755,124.279,128.252,131.832
+United States,eCommerce,Users,Beverages,million users,Statista,39.46,44.967,48.964,53.482,58.355,63.026,67.384,71.321,75.314,79.26,83.075
+United States,eCommerce,Users,Electronics,million users,Statista,105.472,121.193,133.579,147.675,163.083,177.408,190.343,202.891,215.585,228.163,240.438
+United States,eCommerce,Users,Fashion,million users,Statista,108.538,122.511,131.734,142.885,154.224,165.401,175.102,182.298,189.546,197.061,203.894
+United States,eCommerce,Users,Food,million users,Statista,37.104,42.283,46.041,50.289,54.871,59.263,63.361,67.063,70.817,74.528,78.115
+United States,eCommerce,Users,Furniture,million users,Statista,46.517,54.161,60.272,67.052,75.194,82.73,89.286,96.302,103.422,110.362,117.291
+United States,eCommerce,Users,Media,million users,Statista,81.525,90.968,96.968,102.973,108.194,113.577,117.995,122.51,127.085,130.414,133.574
+United States,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,80.489,93.962,104.477,115.745,125.447,134.194,140.772,146.17,151.632,156.401,160.573
+United States,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,21.937,24.96,27.048,28.939,30.929,32.751,34.196,35.374,36.51,37.473,38.312
+United States,eCommerce,Penetration Rate,Beverages,percent,Statista,12.138,13.747,14.88,16.158,17.529,18.825,20.014,21.067,22.125,23.158,24.143
+United States,eCommerce,Penetration Rate,eCommerce,percent,Statista,66.28,71.791,74.041,76.333,79.459,80.107,81.598,82.692,83.616,83.984,84.251
+United States,eCommerce,Penetration Rate,Electronics,percent,Statista,32.444,37.051,40.593,44.614,48.986,52.988,56.535,59.931,63.333,66.665,69.874
+United States,eCommerce,Penetration Rate,Fashion,percent,Statista,33.388,37.454,40.033,43.167,46.325,49.402,52.008,53.848,55.683,57.578,59.254
+United States,eCommerce,Penetration Rate,Food,percent,Statista,11.414,12.927,13.991,15.193,16.482,17.701,18.819,19.809,20.804,21.776,22.701
+United States,eCommerce,Penetration Rate,Furniture,percent,Statista,14.309,16.558,18.316,20.257,22.586,24.71,26.52,28.446,30.382,32.246,34.086
+United States,eCommerce,Penetration Rate,Media,percent,Statista,25.078,27.811,29.468,31.11,32.499,33.923,35.047,36.187,37.334,38.105,38.818
+United States,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,24.759,28.726,31.75,34.968,37.681,40.081,41.812,43.176,44.545,45.698,46.664
+United States,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.709,,,,,,
+United States,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.831,,,,,,
+United States,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.598,,,,,,
+United States,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,20.209,,,,,,
+United States,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.652,,,,,,
+United States,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,46.118,,,,,,
+United States,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,53.882,,,,,,
+United States,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.868,,,,,,
+United States,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.208,,,,,,
+United States,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.924,,,,,,
+United States,Electronics,Revenue,Total,billion USD (US$),Statista,87.57,95.15,103.3,120.1,137.6,126.5,150.1,160.5,170.8,178.1,185.6
+United States,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,70.33,76.07,82.04,92.92,100.3,88.28,107.1,114.2,121.3,125.7,130.5
+United States,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,17.24,19.08,21.26,27.16,37.29,38.18,43.05,46.25,49.53,52.38,55.06
+United States,Electronics,Revenue Change,Total,percent,Statista,,8.653,8.568,16.246,14.614,-8.119,18.701,6.909,6.424,4.287,4.197
+United States,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,8.158,7.85,13.264,7.988,-12.024,21.276,6.697,6.154,3.686,3.813
+United States,Electronics,Revenue Change,Household Appliances,percent,Statista,,10.674,11.427,27.75,37.282,2.387,12.747,7.436,7.091,5.76,5.119
+United States,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.83,0.785,0.773,0.813,0.844,0.713,0.789,0.791,0.792,0.781,0.772
+United States,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.709,0.673,0.667,0.692,0.684,0.563,0.644,0.643,0.641,0.631,0.624
+United States,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.247,0.235,0.233,0.263,0.319,0.291,0.299,0.3,0.302,0.298,0.294
+United States,Electronics,Online & Offline Split,Offline,percent,Statista,57.703,55.907,53.129,48.669,46.189,40.557,37.75,34.207,31.647,,
+United States,Electronics,Online & Offline Split,Online,percent,Statista,42.297,44.093,46.871,51.331,53.811,59.443,62.25,65.793,68.353,,
+United States,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Electronics,Users by Segment,Total,million users,Statista,105.472,121.193,133.579,147.675,163.083,177.408,190.343,202.891,215.585,228.163,240.438
+United States,Electronics,Users by Segment,Consumer Electronics,million users,Statista,99.151,112.989,123.031,134.384,146.628,156.884,166.15,177.532,189.079,199.109,209.229
+United States,Electronics,Users by Segment,Household Appliances,million users,Statista,69.659,81.107,91.259,103.372,116.968,131.053,144.081,153.951,163.964,175.804,187.116
+United States,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,30.5,34.543,37.388,40.599,44.044,46.858,49.35,52.44,55.546,58.176,60.804
+United States,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,32.444,37.051,40.593,44.614,48.986,52.988,56.535,59.931,63.333,66.665,69.874
+United States,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,21.428,24.796,27.733,31.23,35.135,39.143,42.795,45.475,48.168,51.367,54.378
+United States,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.605,,,,,,
+United States,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.705,,,,,,
+United States,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.636,,,,,,
+United States,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.388,,,,,,
+United States,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.667,,,,,,
+United States,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,39.65,,,,,,
+United States,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,60.35,,,,,,
+United States,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.922,,,,,,
+United States,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.961,,,,,,
+United States,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.117,,,,,,
+United States,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,70.33,76.07,82.04,92.92,100.3,88.28,107.1,114.2,121.3,125.7,130.5
+United States,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,19.37,21.22,22.88,26.99,30.01,25.74,30.61,32.04,33.39,34.27,35.12
+United States,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,11.59,12.54,13.52,15.32,16.54,14.55,17.65,18.83,19.99,20.69,21.43
+United States,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,24.26,26.26,28.43,31.04,31.62,28.29,34.74,37.48,40.19,41.71,43.46
+United States,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,14.39,15.31,16.44,18.77,21.14,18.78,22.94,24.68,26.42,27.72,29.09
+United States,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.726,0.746,0.763,0.797,1.029,0.92,1.118,1.196,1.272,1.345,1.419
+United States,Consumer Electronics,Revenue Change,Total,percent,Statista,,8.158,7.85,13.264,7.988,-12.024,21.276,6.697,6.154,3.686,3.813
+United States,Consumer Electronics,Revenue Change,Computing,percent,Statista,,9.549,7.849,17.964,11.183,-14.223,18.917,4.663,4.206,2.642,2.479
+United States,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,8.158,7.85,13.264,7.988,-12.024,21.276,6.697,6.154,3.505,3.598
+United States,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,8.244,8.281,9.192,1.848,-10.54,22.811,7.906,7.216,3.779,4.205
+United States,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,6.414,7.381,14.173,12.652,-11.189,22.186,7.567,7.061,4.901,4.95
+United States,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,2.749,2.329,4.495,29.082,-10.615,21.526,6.983,6.359,5.722,5.521
+United States,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,709.3,673.2,666.8,691.5,684.3,562.7,644.4,643.4,641.3,631.5,623.8
+United States,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,279.1,268.3,265.7,287,292.4,234.4,263.2,257.8,252.3,245.9,239.8
+United States,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,151.8,144.1,142.7,148,146.5,120.5,137.9,137.7,137.3,134.9,133
+United States,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,305.8,290.5,288.9,288.8,269.5,225.4,261.3,263.9,265.7,261.8,259.7
+United States,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,362.7,338.7,334,349.1,360.5,299.2,345.2,347.5,349.3,348,347.6
+United States,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,24.4,22,20.68,19.78,23.4,19.55,22.43,22.46,22.43,22.52,22.61
+United States,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,54.945,53.46,50.732,45.485,45.424,41.357,38.907,35.535,33.099,,
+United States,Consumer Electronics,Online & Offline Split,Online,percent,Statista,45.055,46.54,49.268,54.515,54.576,58.643,61.093,64.465,66.901,,
+United States,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Consumer Electronics,Users,Total,million users,Statista,99.151,112.989,123.031,134.384,146.628,156.884,166.15,177.532,189.079,199.109,209.229
+United States,Consumer Electronics,Users,Computing,million users,Statista,69.405,79.092,86.122,94.069,102.64,109.819,116.305,124.273,132.355,139.377,146.46
+United States,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,76.346,87.001,94.734,103.476,112.904,120.801,127.936,136.7,145.591,153.314,161.106
+United States,Consumer Electronics,Users,Telephony,million users,Statista,79.32,90.391,98.425,107.507,117.302,125.507,132.92,142.026,151.263,159.288,167.383
+United States,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,39.66,45.195,49.212,53.754,58.651,62.754,66.46,71.013,75.632,79.643,83.691
+United States,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,29.745,33.897,36.909,40.315,43.988,47.065,49.845,53.26,56.724,59.733,62.768
+United States,Consumer Electronics,Penetration Rate,Computing,percent,Statista,21.35,24.18,26.172,28.419,30.831,32.801,34.545,36.708,38.882,40.723,42.563
+United States,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,30.5,34.543,37.388,40.599,44.044,46.858,49.35,52.44,55.546,58.176,60.804
+United States,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,23.485,26.598,28.789,31.261,33.914,36.081,37.999,40.379,42.771,44.796,46.819
+United States,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,24.4,27.634,29.911,32.479,35.235,37.487,39.48,41.952,44.437,46.541,48.644
+United States,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,12.2,13.817,14.955,16.24,17.617,18.743,19.74,20.976,22.219,23.27,24.322
+United States,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,9.15,10.363,11.216,12.18,13.213,14.057,14.805,15.732,16.664,17.453,18.241
+United States,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.144,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.549,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.623,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.44,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,17.243,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,55.612,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,44.388,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.323,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.834,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.843,,,,,,
+United States,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,38.95,44.53,51.11,65.91,87.44,94.72,113.4,129.8,148.5,160.1,173
+United States,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,6.022,6.913,7.939,9.813,13.22,14.1,16.56,18.54,20.66,21.98,23.36
+United States,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,4.888,5.443,6.098,8.701,12.97,14.45,17.74,20.75,24.18,26.35,28.77
+United States,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,4.385,4.798,5.278,6.324,7.522,9.521,13.28,17.64,23.3,25.12,27.75
+United States,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,23.66,27.38,31.8,41.07,53.73,56.65,65.8,72.85,80.39,86.67,93.08
+United States,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,14.328,14.78,28.938,32.675,8.326,19.703,14.452,14.448,7.808,8.017
+United States,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,14.795,14.841,23.602,34.737,6.654,17.466,11.902,11.46,6.368,6.281
+United States,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,11.357,12.024,42.694,49.047,11.442,22.739,16.948,16.536,8.996,9.177
+United States,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,9.428,10,19.815,18.94,26.58,39.499,32.823,32.048,7.841,10.464
+United States,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,15.731,16.151,29.146,30.828,5.431,16.158,10.713,10.352,7.812,7.396
+United States,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.546,0.545,0.574,0.688,0.849,0.864,0.985,1.084,1.195,1.248,1.312
+United States,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,thousand USD (US$),Statista,0.106,0.106,0.112,0.128,0.161,0.161,0.18,0.194,0.208,0.214,0.222
+United States,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,thousand USD (US$),Statista,0.107,0.104,0.107,0.142,0.197,0.206,0.241,0.271,0.304,0.321,0.341
+United States,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,thousand USD (US$),Statista,0.162,0.155,0.156,0.174,0.192,0.229,0.304,0.388,0.493,0.515,0.554
+United States,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,thousand USD (US$),Statista,0.535,0.541,0.576,0.692,0.842,0.833,0.922,0.981,1.043,1.09,1.139
+United States,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,80.697,78.812,76.744,70.028,64.552,62.336,59.787,56.935,53.688,,
+United States,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,19.303,21.188,23.256,29.972,35.448,37.664,40.213,43.065,46.312,,
+United States,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,71.313,81.643,89.006,95.789,102.968,109.653,115.13,119.755,124.279,128.252,131.832
+United States,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,57.051,65.314,71.205,76.631,82.375,87.723,92.104,95.804,99.423,102.602,105.466
+United States,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,45.64,52.252,56.964,61.305,65.9,70.178,73.683,76.643,79.538,82.081,84.373
+United States,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,27.099,31.024,33.822,36.4,39.128,41.668,43.749,45.507,47.226,48.736,50.096
+United States,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,44.214,50.619,55.184,59.389,63.84,67.985,71.381,74.248,77.053,79.516,81.736
+United States,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,21.937,24.96,27.048,28.939,30.929,32.751,34.196,35.374,36.51,37.473,38.312
+United States,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,17.549,19.968,21.639,23.151,24.743,26.201,27.357,28.299,29.208,29.978,30.65
+United States,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,14.04,15.974,17.311,18.521,19.795,20.961,21.885,22.639,23.366,23.983,24.52
+United States,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,8.336,9.485,10.278,10.997,11.753,12.446,12.994,13.442,13.874,14.24,14.559
+United States,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,13.601,15.475,16.77,17.942,19.176,20.306,21.201,21.932,22.636,23.233,23.753
+United States,Household Appliances,Revenue,Total,billion USD (US$),Statista,17.24,19.08,21.26,27.16,37.29,38.18,43.05,46.25,49.53,52.38,55.06
+United States,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,7.068,7.819,8.71,11.09,15.13,15.48,17.44,18.73,20.04,21.24,22.37
+United States,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,3.412,3.776,4.208,5.375,7.379,7.555,8.518,9.152,9.801,10.47,11.1
+United States,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,6.761,7.487,8.344,10.7,14.78,15.14,17.08,18.37,19.69,20.67,21.59
+United States,Household Appliances,Revenue Change,Total,percent,Statista,,10.674,11.427,27.75,37.282,2.387,12.747,7.436,7.091,5.76,5.119
+United States,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,10.617,11.403,27.338,36.436,2.311,12.664,7.357,7.015,5.998,5.326
+United States,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,10.674,11.427,27.75,37.282,2.387,12.747,7.436,7.091,6.837,5.983
+United States,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,10.735,11.453,28.18,38.16,2.465,12.832,7.516,7.17,4.981,4.467
+United States,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,247.5,235.3,233,262.8,318.8,291.3,298.8,300.4,302.1,297.9,294.3
+United States,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,253.7,241,238.6,268.2,323.4,295.3,302.7,304.1,305.6,302.1,298.9
+United States,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,244.9,232.8,230.5,260,315.4,288.3,295.6,297.2,298.9,297.8,296.5
+United States,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,121.3,115.4,114.3,129.3,157.9,144.4,148.2,149.1,150.1,146.9,144.2
+United States,Household Appliances,Online & Offline Split,Offline,percent,Statista,66.154,63.548,60.538,57.217,48.147,38.32,34.484,30.476,27.595,,
+United States,Household Appliances,Online & Offline Split,Online,percent,Statista,33.846,36.452,39.462,42.783,51.853,61.68,65.516,69.524,72.405,,
+United States,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Household Appliances,Users,Total,million users,Statista,69.659,81.107,91.259,103.372,116.968,131.053,144.081,153.951,163.964,175.804,187.116
+United States,Household Appliances,Users,Major Appliances,million users,Statista,27.864,32.443,36.504,41.349,46.787,52.421,57.632,61.58,65.586,70.322,74.846
+United States,Household Appliances,Users,Other Household Appliances,million users,Statista,13.932,16.221,18.252,20.674,23.394,26.211,28.816,30.79,32.793,35.161,37.423
+United States,Household Appliances,Users,Small Appliances,million users,Statista,55.727,64.885,73.008,82.698,93.575,104.842,115.265,123.161,131.171,140.643,149.693
+United States,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,21.428,24.796,27.733,31.23,35.135,39.143,42.795,45.475,48.168,51.367,54.378
+United States,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,8.571,9.918,11.093,12.492,14.054,15.657,17.118,18.19,19.267,20.547,21.751
+United States,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,4.286,4.959,5.547,6.246,7.027,7.829,8.559,9.095,9.634,10.273,10.876
+United States,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,17.142,19.837,22.186,24.984,28.108,31.314,34.236,36.38,38.535,41.093,43.503
+United States,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,105.6,105.8,111.5,128.1,160.5,160.7,179.8,193.5,207.8,214.2,221.5
+United States,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,100.9,100.7,106,122,154.3,154,171.7,184.2,197.2,203.7,210.8
+United States,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,10.64,11.3,12.02,13.44,15.22,15.86,18.41,20.5,22.71,23.71,24.91
+United States,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,114,114.4,120.5,138.4,173.4,173.7,194.3,209,224.5,229.6,235.8
+United States,Beauty Care,Revenue,Total,billion USD (US$),Statista,6.022,6.913,7.939,9.813,13.22,14.1,16.56,18.54,20.66,21.98,23.36
+United States,Beauty Care,Revenue,Cosmetics,billion USD (US$),Statista,4.031,4.603,5.281,6.544,8.898,9.458,11.07,12.35,13.73,14.63,15.56
+United States,Beauty Care,Revenue,Fragrances,billion USD (US$),Statista,0.364,0.443,0.513,0.618,0.752,0.835,1.018,1.178,1.355,1.46,1.576
+United States,Beauty Care,Revenue,Other Beauty Care,billion USD (US$),Statista,1.627,1.867,2.144,2.651,3.571,3.809,4.474,5.007,5.58,5.889,6.217
+United States,Beauty Care,Revenue Change,Total,percent,Statista,,14.795,14.841,23.602,34.737,6.654,17.466,11.902,11.46,6.368,6.281
+United States,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,14.174,14.737,23.914,35.972,6.287,17.074,11.545,11.126,6.571,6.396
+United States,Beauty Care,Revenue Change,Fragrances,percent,Statista,,21.676,15.915,20.396,21.666,10.989,21.902,15.783,14.965,7.767,7.975
+United States,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,14.795,14.841,23.602,34.737,6.654,17.466,11.902,11.46,5.531,5.575
+United States,Beauty Care,Online & Offline Split,Offline,percent,Statista,78.126,75.687,73.301,65.777,59.367,57.836,55.82,53.599,50.923,,
+United States,Beauty Care,Online & Offline Split,Online,percent,Statista,21.874,24.313,26.699,34.223,40.633,42.164,44.18,46.401,49.077,,
+United States,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Beauty Care,Users by Segment,Total,million users,Statista,57.051,65.314,71.205,76.631,82.375,87.723,92.104,95.804,99.423,102.602,105.466
+United States,Beauty Care,Users by Segment,Cosmetics,million users,Statista,39.935,45.72,49.843,53.642,57.662,61.406,64.473,67.063,69.596,71.821,73.826
+United States,Beauty Care,Users by Segment,Fragrances,million users,Statista,34.23,39.189,42.723,45.979,49.425,52.634,55.262,57.482,59.654,61.561,63.28
+United States,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,14.263,16.329,17.801,19.158,20.594,21.931,23.026,23.951,24.856,25.65,26.366
+United States,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,17.549,19.968,21.639,23.151,24.743,26.201,27.357,28.299,29.208,29.978,30.65
+United States,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,12.285,13.978,15.147,16.206,17.32,18.341,19.15,19.809,20.445,20.985,21.455
+United States,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,10.53,11.981,12.983,13.891,14.846,15.721,16.414,16.979,17.525,17.987,18.39
+United States,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,4.387,4.992,5.41,5.788,6.186,6.55,6.839,7.075,7.302,7.495,7.662
+United States,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.572,,,,,,
+United States,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.135,,,,,,
+United States,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.023,,,,,,
+United States,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,19.377,,,,,,
+United States,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,15.892,,,,,,
+United States,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,67.107,,,,,,
+United States,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,32.893,,,,,,
+United States,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.494,,,,,,
+United States,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.976,,,,,,
+United States,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.53,,,,,,
+United States,Personal Care,Revenue,Total,billion USD (US$),Statista,23.66,27.38,31.8,41.07,53.73,56.65,65.8,72.85,80.39,86.67,93.08
+United States,Personal Care,Revenue,Body Care,billion USD (US$),Statista,3.678,4.288,5.023,6.425,8.162,8.555,9.876,10.86,11.91,12.97,14.01
+United States,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,2.239,2.473,2.78,3.797,5.437,5.797,6.814,7.639,8.541,9.235,9.952
+United States,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,3.283,3.843,4.48,5.681,6.229,6.492,7.451,8.147,8.877,9.389,9.91
+United States,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,1.781,2.089,2.44,3.104,4.158,4.367,5.054,5.572,6.121,6.505,6.888
+United States,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,9.025,10.44,12.13,15.67,20.5,21.61,25.1,27.79,30.67,32.99,35.41
+United States,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,3.651,4.241,4.945,6.395,9.246,9.825,11.5,12.84,14.28,15.59,16.91
+United States,Personal Care,Revenue Change,Total,percent,Statista,,15.731,16.151,29.146,30.828,5.431,16.158,10.713,10.352,7.812,7.396
+United States,Personal Care,Revenue Change,Body Care,percent,Statista,,16.602,17.144,27.908,27.036,4.81,15.442,9.998,9.607,8.888,8.073
+United States,Personal Care,Revenue Change,Eye Care,percent,Statista,,10.419,12.446,36.564,43.198,6.616,17.541,12.107,11.814,8.123,7.765
+United States,Personal Care,Revenue Change,Hair Care,percent,Statista,,17.05,16.584,26.801,9.655,4.223,14.768,9.344,8.963,5.767,5.548
+United States,Personal Care,Revenue Change,Oral Care,percent,Statista,,17.31,16.778,27.216,33.955,5.046,15.712,10.257,9.858,6.277,5.882
+United States,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,15.731,16.151,29.146,30.828,5.431,16.158,10.713,10.352,7.565,7.347
+United States,Personal Care,Revenue Change,Skin Care,percent,Statista,,16.155,16.606,29.312,44.585,6.269,17.083,11.588,11.207,9.188,8.463
+United States,Personal Care,Average Revenue per User,Total,USD (US$),Statista,535,540.9,576.2,691.5,841.6,833.2,921.8,981.2,"1,043","1,090","1,139"
+United States,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,122.3,124.6,133.9,159.1,188,185,203.5,215.2,227.2,239.8,252.1
+United States,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,101.3,97.69,100.8,127.9,170.3,170.5,190.9,205.8,221.7,232.3,243.5
+United States,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,142.8,146,156.1,183.9,187.6,183.6,200.7,211,221.6,227.1,233.2
+United States,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,82.2,84.23,90.23,106.7,132.9,131.1,144.5,153.2,162.1,167,172
+United States,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,453.6,458.5,488.5,586.2,713.5,706.4,781.5,831.8,884.5,921.9,962.7
+United States,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,187.7,190.4,203.7,244.7,329.1,328.5,366.3,392.9,421.1,445.5,470.1
+United States,Personal Care,Online & Offline Split,Offline,percent,Statista,75.094,72.528,69.718,59.914,54.681,53.554,51.915,50.028,47.68,,
+United States,Personal Care,Online & Offline Split,Online,percent,Statista,24.906,27.472,30.282,40.086,45.319,46.446,48.085,49.972,52.32,,
+United States,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Personal Care,Users,Total,million users,Statista,44.214,50.619,55.184,59.389,63.84,67.985,71.381,74.248,77.053,79.516,81.736
+United States,Personal Care,Users,Body Care,million users,Statista,30.066,34.421,37.525,40.385,43.411,46.23,48.539,50.489,52.396,54.071,55.581
+United States,Personal Care,Users,Eye Care,million users,Statista,22.107,25.309,27.592,29.695,31.92,33.993,35.69,37.124,38.526,39.758,40.868
+United States,Personal Care,Users,Hair Care,million users,Statista,22.991,26.322,28.696,30.882,33.197,35.352,37.118,38.609,40.067,41.349,42.503
+United States,Personal Care,Users,Oral Care,million users,Statista,21.665,24.803,27.04,29.101,31.282,33.313,34.976,36.382,37.756,38.963,40.051
+United States,Personal Care,Users,Other Personal Care,million users,Statista,19.896,22.778,24.833,26.725,28.728,30.593,32.121,33.412,34.674,35.782,36.781
+United States,Personal Care,Users,Skin Care,million users,Statista,19.454,22.272,24.281,26.131,28.09,29.913,31.407,32.669,33.903,34.987,35.964
+United States,Personal Care,Penetration Rate,Body Care,percent,Statista,9.249,10.523,11.404,12.201,13.04,13.808,14.417,14.914,15.392,15.799,16.152
+United States,Personal Care,Penetration Rate,Eye Care,percent,Statista,6.8,7.738,8.385,8.971,9.588,10.153,10.601,10.966,11.318,11.617,11.877
+United States,Personal Care,Penetration Rate,Hair Care,percent,Statista,7.072,8.047,8.72,9.33,9.972,10.559,11.025,11.404,11.771,12.081,12.352
+United States,Personal Care,Penetration Rate,Oral Care,percent,Statista,6.664,7.583,8.217,8.792,9.396,9.95,10.389,10.747,11.092,11.384,11.639
+United States,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,6.12,6.964,7.546,8.074,8.629,9.138,9.541,9.869,10.186,10.455,10.689
+United States,Personal Care,Penetration Rate,Personal Care,percent,Statista,13.601,15.475,16.77,17.942,19.176,20.306,21.201,21.932,22.636,23.233,23.753
+United States,Personal Care,Penetration Rate,Skin Care,percent,Statista,5.984,6.809,7.379,7.895,8.438,8.935,9.329,9.65,9.96,10.223,10.452
+United States,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,107.1,104.2,107,141.9,196.8,206,240.8,270.7,304,321,341
+United States,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,81.34,79.21,81.49,107.1,147,153.4,178.6,199.7,222.7,235,248.9
+United States,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,74.33,72.39,74.47,100.7,141.6,149.2,175.4,197.9,222.8,236.2,251.7
+United States,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,17.21,16.76,17.24,22.54,30.79,31.8,36.63,40.52,44.72,46.59,48.8
+United States,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,1.498,1.459,1.501,3.436,7.659,7.506,8.213,8.643,9.084,9.83,10.47
+United States,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,12.16,11.38,11.25,11.61,11.73,15.18,21.94,30.46,42.06,43.83,47.5
+United States,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,125.8,122.3,125.7,166.7,231.1,241.9,282.7,317.9,357,377.9,402.2
+United States,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,21.71,21.14,21.75,28.43,38.83,39.88,45.68,50.26,55.17,57.38,59.93
+United States,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,28.49,27.74,28.54,37.2,50.7,52.51,60.69,67.39,74.65,78.93,83.77
+United States,Health Care,Revenue,Total,billion USD (US$),Statista,4.888,5.443,6.098,8.701,12.97,14.45,17.74,20.75,24.18,26.35,28.77
+United States,Health Care,Revenue,Analgesics,billion USD (US$),Statista,0.742,0.828,0.928,1.313,1.938,2.153,2.631,3.061,3.543,3.857,4.2
+United States,Health Care,Revenue,Cold & Cough Remedies,billion USD (US$),Statista,1.425,1.589,1.782,2.594,3.92,4.398,5.427,6.371,7.442,8.141,8.918
+United States,Health Care,Revenue,Digestives & Intestinal Remedies,billion USD (US$),Statista,0.236,0.263,0.295,0.414,0.609,0.669,0.81,0.932,1.067,1.147,1.235
+United States,Health Care,Revenue,Hand Sanitizer,billion USD (US$),Statista,0.027,0.03,0.034,0.084,0.202,0.211,0.242,0.265,0.289,0.323,0.353
+United States,Health Care,Revenue,Incontinence,billion USD (US$),Statista,0.111,0.119,0.128,0.142,0.155,0.213,0.323,0.467,0.669,0.72,0.801
+United States,Health Care,Revenue,Other Health Care,billion USD (US$),Statista,1.32,1.47,1.647,2.35,3.503,3.904,4.792,5.604,6.53,7.134,7.806
+United States,Health Care,Revenue,Skin Treatment,billion USD (US$),Statista,0.377,0.42,0.471,0.662,0.973,1.063,1.279,1.464,1.667,1.79,1.921
+United States,Health Care,Revenue,Vitamins & Minerals,billion USD (US$),Statista,0.65,0.725,0.813,1.14,1.671,1.842,2.236,2.583,2.969,3.239,3.534
+United States,Health Care,Revenue Change,Total,percent,Statista,,11.357,12.024,42.694,49.047,11.442,22.739,16.948,16.536,8.996,9.177
+United States,Health Care,Revenue Change,Analgesics,percent,Statista,,11.493,12.156,41.463,47.533,11.102,22.24,16.328,15.75,8.861,8.895
+United States,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,11.493,12.156,45.588,51.135,12.173,23.4,17.41,16.804,9.396,9.546
+United States,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,11.493,12.156,40.681,46.849,9.982,20.949,15.076,14.519,7.527,7.648
+United States,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,11.493,12.156,146.4,139.578,4.367,14.893,9.455,9.082,11.663,9.528
+United States,Health Care,Revenue Change,Incontinence,percent,Statista,,7.129,7.715,11.147,8.582,37.748,51.802,44.405,43.292,7.531,11.404
+United States,Health Care,Revenue Change,Other Health Care,percent,Statista,,11.357,12.024,42.694,49.047,11.442,22.739,16.948,16.536,9.248,9.409
+United States,Health Care,Revenue Change,Skin Treatment,percent,Statista,,11.493,12.156,40.661,46.832,9.355,20.274,14.447,13.908,7.344,7.354
+United States,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,11.493,12.156,40.273,46.493,10.287,21.358,15.504,14.948,9.123,9.092
+United States,Health Care,Online & Offline Split,Offline,percent,Statista,83.106,82.191,81.115,73.693,65.805,63.171,60.02,56.481,52.809,,
+United States,Health Care,Online & Offline Split,Online,percent,Statista,16.894,17.809,18.885,26.307,34.195,36.829,39.98,43.519,47.191,,
+United States,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Health Care,Users by Segment,Total,million users,Statista,45.64,52.252,56.964,61.305,65.9,70.178,73.683,76.643,79.538,82.081,84.373
+United States,Health Care,Users by Segment,Analgesics,million users,Statista,9.128,10.45,11.393,12.261,13.18,14.036,14.737,15.329,15.908,16.416,16.874
+United States,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,19.169,21.946,23.925,25.748,27.678,29.475,30.947,32.19,33.406,34.474,35.437
+United States,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,13.692,15.675,17.089,18.392,19.77,21.053,22.105,22.993,23.862,24.624,25.312
+United States,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,18.256,20.901,22.786,24.522,26.36,28.071,29.473,30.657,31.815,32.833,33.749
+United States,Health Care,Users by Segment,Incontinence,million users,Statista,9.128,10.45,11.393,12.261,13.18,14.036,14.737,15.329,15.908,16.416,16.874
+United States,Health Care,Users by Segment,Other Health Care,million users,Statista,10.497,12.018,13.102,14.1,15.157,16.141,16.947,17.628,18.294,18.879,19.405
+United States,Health Care,Users by Segment,Skin Treatment,million users,Statista,17.343,19.856,21.646,23.296,25.042,26.668,28,29.124,30.225,31.191,32.062
+United States,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,22.82,26.126,28.482,30.653,32.95,35.089,36.842,38.322,39.769,41.041,42.186
+United States,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.808,3.195,3.462,3.704,3.959,4.192,4.377,4.528,4.673,4.797,4.904
+United States,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,5.897,6.709,7.271,7.779,8.314,8.804,9.192,9.508,9.814,10.073,10.298
+United States,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,4.212,4.792,5.193,5.556,5.938,6.288,6.566,6.792,7.01,7.195,7.356
+United States,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,5.616,6.39,6.924,7.408,7.918,8.384,8.754,9.056,9.346,9.593,9.808
+United States,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,14.04,15.974,17.311,18.521,19.795,20.961,21.885,22.639,23.366,23.983,24.52
+United States,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.808,3.195,3.462,3.704,3.959,4.192,4.377,4.528,4.673,4.797,4.904
+United States,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,3.229,3.674,3.981,4.26,4.553,4.821,5.034,5.207,5.374,5.516,5.639
+United States,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,5.335,6.07,6.578,7.038,7.522,7.965,8.316,8.603,8.879,9.113,9.318
+United States,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,7.02,7.987,8.655,9.261,9.897,10.48,10.943,11.32,11.683,11.991,12.26
+United States,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,161.8,154.7,156.1,173.7,192.2,228.5,303.6,387.7,493.3,515.5,554
+United States,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,15.54,15.03,15.34,17.17,19.26,21.96,27.93,34.08,41.39,43.6,46.81
+United States,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,30.88,29.87,30.49,34.1,38.25,43.77,55.84,68.35,83.28,86.58,92.07
+United States,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,50.94,47.67,47.1,55.23,62.84,78.99,110.7,148.8,198.4,206.3,222.1
+United States,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,76.2,73.71,75.23,82.36,90.63,103.8,132.6,162.5,198.1,205.8,218.8
+United States,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,312.8,299,301.7,335.9,371.7,441.8,587,749.5,953.7,"1,001","1,080"
+United States,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,9.339,8.739,8.635,8.801,8.781,11.51,16.85,23.7,33.14,34.7,37.83
+United States,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,27.34,26.44,26.99,28.51,30.41,35.49,46.17,57.62,71.54,75.09,80.71
+United States,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,54.8,51.28,50.66,57.92,64.38,81.07,113.9,153.3,204.7,213.1,229.6
+United States,Household Care,Revenue,Total,billion USD (US$),Statista,4.385,4.798,5.278,6.324,7.522,9.521,13.28,17.64,23.3,25.12,27.75
+United States,Household Care,Revenue,Dishwashing Detergents,billion USD (US$),Statista,0.177,0.196,0.218,0.263,0.317,0.384,0.513,0.651,0.821,0.892,0.985
+United States,Household Care,Revenue,Household Cleaners,billion USD (US$),Statista,0.377,0.417,0.464,0.559,0.674,0.821,1.099,1.4,1.77,1.899,2.076
+United States,Household Care,Revenue,Household Paper,billion USD (US$),Statista,0.318,0.34,0.366,0.462,0.566,0.757,1.114,1.557,2.155,2.313,2.559
+United States,Household Care,Revenue,Laundry Care,billion USD (US$),Statista,0.826,0.915,1.018,1.199,1.418,1.73,2.32,2.957,3.743,4.012,4.385
+United States,Household Care,Revenue,Other Household Care,billion USD (US$),Statista,1.865,2.041,2.245,2.69,3.199,4.05,5.649,7.504,9.908,10.73,11.9
+United States,Household Care,Revenue,Paper Tissues,billion USD (US$),Statista,0.081,0.087,0.093,0.102,0.11,0.153,0.236,0.345,0.501,0.541,0.606
+United States,Household Care,Revenue,"Polishes, Room Scents & Insecticides",billion USD (US$),Statista,0.222,0.246,0.274,0.311,0.357,0.444,0.606,0.787,1.014,1.098,1.213
+United States,Household Care,Revenue,Toilet Paper,billion USD (US$),Statista,0.52,0.557,0.6,0.738,0.882,1.182,1.744,2.441,3.384,3.635,4.025
+United States,Household Care,Revenue Change,Total,percent,Statista,,9.428,10,19.815,18.94,26.58,39.499,32.823,32.048,7.841,10.464
+United States,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,10.745,11.267,20.418,20.606,21.434,33.515,26.901,26.04,8.722,10.353
+United States,Household Care,Revenue Change,Household Cleaners,percent,Statista,,10.745,11.267,20.389,20.58,21.842,33.959,27.316,26.444,7.284,9.31
+United States,Household Care,Revenue Change,Household Paper,percent,Statista,,7.129,7.715,26.194,22.315,33.857,47.212,39.747,38.389,7.31,10.651
+United States,Household Care,Revenue Change,Laundry Care,percent,Statista,,10.745,11.267,17.81,18.29,21.976,34.104,27.452,26.577,7.192,9.278
+United States,Household Care,Revenue Change,Other Household Care,percent,Statista,,9.428,10,19.815,18.94,26.58,39.499,32.823,32.048,8.312,10.906
+United States,Household Care,Revenue Change,Paper Tissues,percent,Statista,,7.129,7.715,9.692,7.254,39.546,53.779,46.27,45.116,8.068,12.04
+United States,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,10.745,11.267,13.697,14.639,24.283,36.61,29.796,28.859,8.317,10.477
+United States,Household Care,Revenue Change,Toilet Paper,percent,Statista,,7.129,7.715,23.03,19.485,34.099,47.475,39.994,38.628,7.418,10.738
+United States,Household Care,Online & Offline Split,Offline,percent,Statista,91.29,90.687,89.996,88.645,86.953,83.249,79.003,74.035,68.401,,
+United States,Household Care,Online & Offline Split,Online,percent,Statista,8.71,9.313,10.004,11.355,13.047,16.751,20.997,25.965,31.599,,
+United States,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Household Care,Users by Segment,Total,million users,Statista,27.099,31.024,33.822,36.4,39.128,41.668,43.749,45.507,47.226,48.736,50.096
+United States,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,11.382,13.03,14.205,15.288,16.434,17.501,18.375,19.113,19.835,20.469,21.04
+United States,Household Care,Users by Segment,Household Cleaners,million users,Statista,12.195,13.961,15.22,16.38,17.608,18.751,19.687,20.478,21.252,21.931,22.543
+United States,Household Care,Users by Segment,Household Paper,million users,Statista,6.233,7.136,7.779,8.372,8.999,9.584,10.062,10.467,10.862,11.209,11.522
+United States,Household Care,Users by Segment,Laundry Care,million users,Statista,10.84,12.41,13.529,14.56,15.651,16.667,17.5,18.203,18.89,19.494,20.038
+United States,Household Care,Users by Segment,Other Household Care,million users,Statista,5.962,6.825,7.441,8.008,8.608,9.167,9.625,10.012,10.39,10.722,11.021
+United States,Household Care,Users by Segment,Paper Tissues,million users,Statista,8.672,9.928,10.823,11.648,12.521,13.334,14,14.562,15.112,15.595,16.031
+United States,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,8.13,9.307,10.147,10.92,11.738,12.5,13.125,13.652,14.168,14.621,15.029
+United States,Household Care,Users by Segment,Toilet Paper,million users,Statista,9.485,10.859,11.838,12.74,13.695,14.584,15.312,15.927,16.529,17.057,17.534
+United States,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,3.501,3.984,4.317,4.619,4.936,5.227,5.458,5.646,5.827,5.981,6.115
+United States,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,8.336,9.485,10.278,10.997,11.753,12.446,12.994,13.442,13.874,14.24,14.559
+United States,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,3.751,4.268,4.625,4.949,5.289,5.6,5.847,6.049,6.243,6.408,6.551
+United States,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.917,2.182,2.364,2.529,2.703,2.862,2.989,3.092,3.191,3.275,3.348
+United States,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,3.334,3.794,4.111,4.399,4.701,4.978,5.198,5.377,5.549,5.696,5.823
+United States,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.834,2.087,2.261,2.419,2.586,2.738,2.859,2.957,3.052,3.133,3.203
+United States,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.668,3.035,3.289,3.519,3.761,3.983,4.158,4.301,4.44,4.557,4.659
+United States,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.501,2.845,3.083,3.299,3.526,3.734,3.898,4.033,4.162,4.272,4.368
+United States,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.918,3.32,3.597,3.849,4.114,4.356,4.548,4.705,4.856,4.984,5.095
+United States,Food,Revenue,Total,billion USD (US$),Statista,19.49,22.31,25.53,35.41,41.52,56.78,85.33,121.7,172.2,185.8,207.2
+United States,Food,Revenue,Bread & Cereal Products,billion USD (US$),Statista,1.38,1.589,1.827,2.716,3.719,5.034,7.483,10.56,14.77,16.06,17.95
+United States,Food,Revenue,Confectionery & Snacks,billion USD (US$),Statista,7.225,8.286,9.421,13.32,14.35,19.65,29.51,42.01,59.21,63.62,70.83
+United States,Food,Revenue,Convenience Food,billion USD (US$),Statista,0.891,0.962,1.103,1.979,3.474,4.573,6.603,9.041,12.26,13.28,14.74
+United States,Food,Revenue,Dairy Products & Eggs,billion USD (US$),Statista,1.784,2.045,2.352,3.05,3.577,4.932,7.488,10.81,15.52,16.75,18.7
+United States,Food,Revenue,Fish & Seafood,billion USD (US$),Statista,0.532,0.607,0.696,0.926,1.167,1.614,2.453,3.541,5.07,5.512,6.188
+United States,Food,Revenue,Fruits & Nuts,billion USD (US$),Statista,2.069,2.348,2.719,3.584,3.655,5.036,7.613,10.91,15.49,16.6,18.41
+United States,Food,Revenue,Meat,billion USD (US$),Statista,3.241,3.736,4.28,5.78,6.616,9.103,13.77,19.81,28.28,30.45,33.99
+United States,Food,Revenue,Oils & Fats,billion USD (US$),Statista,0.309,0.356,0.407,0.528,0.64,0.883,1.342,1.939,2.783,2.995,3.337
+United States,Food,Revenue,Sauces & Spices,billion USD (US$),Statista,0.304,0.345,0.396,0.463,0.508,0.715,1.108,1.634,2.394,2.569,2.863
+United States,Food,Revenue,Spreads & Sweeteners,billion USD (US$),Statista,0.214,0.238,0.272,0.314,0.344,0.484,0.752,1.11,1.628,1.749,1.954
+United States,Food,Revenue,Vegetables,billion USD (US$),Statista,1.545,1.802,2.062,2.751,3.465,4.76,7.2,10.36,14.81,16.18,18.21
+United States,Food,Revenue Change,Total,percent,Statista,,14.463,14.428,38.685,17.24,36.776,50.266,42.659,41.474,7.872,11.522
+United States,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,15.17,14.95,48.685,36.94,35.354,48.648,41.078,39.87,8.736,11.825
+United States,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,14.675,13.702,41.384,7.746,36.918,50.182,42.355,40.948,7.451,11.321
+United States,Food,Revenue Change,Convenience Food,percent,Statista,,7.997,14.597,79.49,75.526,31.625,44.402,36.919,35.627,8.332,10.928
+United States,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,14.65,14.983,29.687,17.258,37.896,51.825,44.429,43.503,7.903,11.672
+United States,Food,Revenue Change,Fish & Seafood,percent,Statista,,14.127,14.668,33.067,25.949,38.307,52.003,44.35,43.184,8.707,12.27
+United States,Food,Revenue Change,Fruits & Nuts,percent,Statista,,13.473,15.802,31.832,1.984,37.766,51.172,43.346,41.976,7.132,10.905
+United States,Food,Revenue Change,Meat,percent,Statista,,15.245,14.563,35.052,14.472,37.587,51.323,43.805,42.743,7.699,11.63
+United States,Food,Revenue Change,Oils & Fats,percent,Statista,,15.08,14.179,29.766,21.242,38.083,51.956,44.485,43.491,7.632,11.398
+United States,Food,Revenue Change,Sauces & Spices,percent,Statista,,13.387,14.844,16.916,9.654,40.774,55.004,47.452,46.494,7.338,11.443
+United States,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,11.537,14.321,15.425,9.315,40.948,55.204,47.649,46.697,7.451,11.697
+United States,Food,Revenue Change,Vegetables,percent,Statista,,16.651,14.419,33.426,25.977,37.376,51.247,43.877,42.953,9.281,12.533
+United States,Food,Average Revenue per User,Total,USD (US$),Statista,525.4,527.7,554.6,704.2,756.6,958.2,"1,347","1,815","2,432","2,493","2,652"
+United States,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,79.12,79.96,84.41,114.9,144.2,180.7,251.3,334.9,443.6,458.4,489
+United States,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,397.4,399.9,417.6,540.5,533.8,676.7,950.5,"1,278","1,706","1,742","1,850"
+United States,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,42.88,40.64,42.77,70.28,113.1,137.8,186.1,240.7,309.2,318.3,336.9
+United States,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,209.1,210.3,222.1,263.7,283.4,361.8,513.8,701.1,952.8,976.9,"1,041"
+United States,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,75.46,75.58,79.59,96.96,111.9,143.3,203.8,277.9,376.8,389.2,416.9
+United States,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,107.2,106.8,113.6,137.1,128.1,163.4,231.1,312.9,420.7,428.3,453.2
+United States,Food,Average Revenue per User,Meat,USD (US$),Statista,291.2,294.5,309.8,383.1,401.9,512,724.7,984.6,"1,331","1,362","1,451"
+United States,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,33.36,33.69,35.32,41.97,46.63,59.62,84.74,115.7,157.2,160.8,170.9
+United States,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,18.63,18.54,19.55,20.93,21.04,27.42,39.75,55.38,76.82,78.35,83.31
+United States,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,17.44,17.07,17.92,18.94,18.97,24.76,35.95,50.15,69.66,71.13,75.8
+United States,Food,Average Revenue per User,Vegetables,USD (US$),Statista,84.96,86.97,91.38,111.6,128.9,163.9,231.9,315.2,426.8,443.1,475.8
+United States,Food,Online & Offline Split,Offline,percent,Statista,97.402,97.154,96.835,96.072,95.351,93.335,90.557,86.847,81.94,,
+United States,Food,Online & Offline Split,Online,percent,Statista,2.598,2.846,3.165,3.928,4.649,6.665,9.443,13.153,18.06,,
+United States,Food,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Food,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Food,Users,Total,million users,Statista,37.104,42.283,46.041,50.289,54.871,59.263,63.361,67.063,70.817,74.528,78.115
+United States,Food,Users,Bread & Cereal Products,million users,Statista,17.439,19.873,21.639,23.636,25.789,27.854,29.78,31.52,33.284,35.028,36.714
+United States,Food,Users,Confectionery & Snacks,million users,Statista,18.181,20.718,22.56,24.642,26.887,29.039,31.047,32.861,34.701,36.519,38.276
+United States,Food,Users,Convenience Food,million users,Statista,20.778,23.678,25.783,28.162,30.728,33.187,35.482,37.555,39.658,41.736,43.744
+United States,Food,Users,Dairy Products & Eggs,million users,Statista,8.534,9.725,10.589,11.567,12.62,13.63,14.573,15.424,16.288,17.141,17.966
+United States,Food,Users,Fish & Seafood,million users,Statista,7.05,8.034,8.748,9.555,10.426,11.26,12.039,12.742,13.455,14.16,14.842
+United States,Food,Users,Fruits & Nuts,million users,Statista,19.294,21.987,23.941,26.15,28.533,30.817,32.948,34.873,36.825,38.755,40.62
+United States,Food,Users,Meat,million users,Statista,11.131,12.685,13.812,15.087,16.461,17.779,19.008,20.119,21.245,22.358,23.434
+United States,Food,Users,Oils & Fats,million users,Statista,9.276,10.571,11.51,12.572,13.718,14.816,15.84,16.766,17.704,18.632,19.529
+United States,Food,Users,Sauces & Spices,million users,Statista,16.326,18.604,20.258,22.127,24.143,26.076,27.879,29.508,31.16,32.792,34.371
+United States,Food,Users,Spreads & Sweeteners,million users,Statista,12.244,13.953,15.193,16.595,18.107,19.557,20.909,22.131,23.37,24.594,25.778
+United States,Food,Users,Vegetables,million users,Statista,18.181,20.718,22.56,24.642,26.887,29.039,31.047,32.861,34.701,36.519,38.276
+United States,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,5.364,6.076,6.576,7.141,7.747,8.319,8.845,9.31,9.778,10.235,10.67
+United States,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,5.593,6.334,6.856,7.445,8.076,8.673,9.222,9.707,10.194,10.67,11.124
+United States,Food,Penetration Rate,Convenience Food,percent,Statista,6.392,7.239,7.835,8.508,9.23,9.912,10.539,11.093,11.65,12.194,12.713
+United States,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.625,2.973,3.218,3.494,3.791,4.071,4.328,4.556,4.785,5.008,5.221
+United States,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.169,2.456,2.658,2.887,3.132,3.363,3.576,3.764,3.953,4.137,4.313
+United States,Food,Penetration Rate,Food,percent,Statista,11.414,12.927,13.991,15.193,16.482,17.701,18.819,19.809,20.804,21.776,22.701
+United States,Food,Penetration Rate,Fruits & Nuts,percent,Statista,5.935,6.722,7.276,7.9,8.571,9.204,9.786,10.301,10.818,11.323,11.805
+United States,Food,Penetration Rate,Meat,percent,Statista,3.424,3.878,4.197,4.558,4.945,5.31,5.646,5.943,6.241,6.533,6.81
+United States,Food,Penetration Rate,Oils & Fats,percent,Statista,2.853,3.232,3.498,3.798,4.121,4.425,4.705,4.952,5.201,5.444,5.675
+United States,Food,Penetration Rate,Sauces & Spices,percent,Statista,5.022,5.688,6.156,6.685,7.252,7.788,8.281,8.716,9.154,9.581,9.989
+United States,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.767,4.266,4.617,5.014,5.439,5.841,6.21,6.537,6.865,7.186,7.491
+United States,Food,Penetration Rate,Vegetables,percent,Statista,5.593,6.334,6.856,7.445,8.076,8.673,9.222,9.707,10.194,10.67,11.124
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,79.12,79.96,84.41,114.9,144.2,180.7,251.3,334.9,443.6,458.4,489
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,45.62,46.54,49.59,70.33,85.65,106.7,147.3,194.8,255.7,265,283.4
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,25.69,25.68,27.24,33.2,41.91,53.16,75.01,101.7,137.3,140.6,149.3
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,27.45,27.74,29.29,39.87,50.04,62.71,87.19,116.2,153.9,157.6,167
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,9.638,9.808,10.12,14.71,20.57,25.76,35.75,47.52,62.68,65.34,70.09
+United States,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,9.021,9,9.286,13.32,16.22,20.19,27.83,36.76,48.18,50.51,54.35
+United States,Bread & Cereal Products,Revenue,Total,billion USD (US$),Statista,1.38,1.589,1.827,2.716,3.719,5.034,7.483,10.56,14.77,16.06,17.95
+United States,Bread & Cereal Products,Revenue,Bread,billion USD (US$),Statista,0.501,0.583,0.676,1.047,1.392,1.873,2.764,3.869,5.362,5.849,6.554
+United States,Bread & Cereal Products,Revenue,Breakfast Cereals,billion USD (US$),Statista,0.372,0.424,0.489,0.651,0.897,1.229,1.854,2.66,3.793,4.087,4.549
+United States,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,billion USD (US$),Statista,0.215,0.248,0.285,0.424,0.581,0.786,1.168,1.648,2.306,2.484,2.759
+United States,Bread & Cereal Products,Revenue,Pasta,billion USD (US$),Statista,0.151,0.175,0.197,0.313,0.477,0.646,0.958,1.348,1.878,2.06,2.316
+United States,Bread & Cereal Products,Revenue,Rice,billion USD (US$),Statista,0.14,0.159,0.179,0.28,0.372,0.5,0.738,1.031,1.427,1.575,1.776
+United States,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,15.17,14.95,48.685,36.94,35.354,48.648,41.078,39.87,8.736,11.825
+United States,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,16.271,16.027,54.885,32.892,34.568,47.619,39.948,38.594,9.082,12.056
+United States,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,13.915,15.519,33.121,37.715,37.014,50.848,43.497,42.576,7.76,11.295
+United States,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,15.17,14.95,48.685,36.94,35.354,48.648,41.078,39.87,7.762,11.043
+United States,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,15.971,12.364,58.779,52.527,35.274,48.388,40.67,39.3,9.706,12.428
+United States,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,13.693,12.349,56.705,32.859,34.393,47.428,39.768,38.419,10.328,12.785
+United States,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,97.386,97.107,96.756,95.777,94.101,91.597,88.226,83.874,78.355,,
+United States,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,2.614,2.893,3.244,4.223,5.899,8.403,11.774,16.126,21.645,,
+United States,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Bread & Cereal Products,Users by Segment,Total,million users,Statista,17.439,19.873,21.639,23.636,25.789,27.854,29.78,31.52,33.284,35.028,36.714
+United States,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,10.987,12.52,13.633,14.891,16.247,17.548,18.761,19.857,20.969,22.068,23.13
+United States,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,14.474,16.494,17.961,19.618,21.405,23.118,24.717,26.161,27.626,29.073,30.473
+United States,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,7.848,8.943,9.738,10.636,11.605,12.534,13.401,14.184,14.978,15.763,16.521
+United States,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,15.695,17.886,19.475,21.272,23.211,25.068,26.802,28.368,29.956,31.525,33.043
+United States,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,15.521,17.687,19.259,21.036,22.953,24.79,26.504,28.052,29.623,31.175,32.675
+United States,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,3.38,3.828,4.143,4.499,4.88,5.241,5.572,5.866,6.16,6.448,6.722
+United States,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,5.364,6.076,6.576,7.141,7.747,8.319,8.845,9.31,9.778,10.235,10.67
+United States,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,4.452,5.043,5.458,5.927,6.43,6.905,7.341,7.728,8.116,8.495,8.856
+United States,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,2.414,2.734,2.959,3.213,3.486,3.744,3.98,4.19,4.4,4.606,4.801
+United States,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,4.828,5.468,5.918,6.427,6.972,7.487,7.961,8.379,8.8,9.211,9.603
+United States,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,4.774,5.407,5.853,6.355,6.894,7.404,7.872,8.286,8.702,9.109,9.496
+United States,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,397.4,399.9,417.6,540.5,533.8,676.7,950.5,"1,278","1,706","1,742","1,850"
+United States,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,314.2,316.2,330.2,425.2,400.8,509.6,717.8,968.1,"1,296","1,322","1,404"
+United States,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,8.805,8.86,9.252,11.98,11.83,14.99,21.06,28.32,37.8,39.12,41.89
+United States,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,145,146,152.4,199.2,213.6,269.5,376.7,504.3,669.9,684.8,727.4
+United States,Confectionery & Snacks,Revenue,Total,billion USD (US$),Statista,7.225,8.286,9.421,13.32,14.35,19.65,29.51,42.01,59.21,63.62,70.83
+United States,Confectionery & Snacks,Revenue,Confectionery,billion USD (US$),Statista,4.685,5.372,6.109,8.593,8.836,12.13,18.27,26.09,36.87,39.58,44.05
+United States,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,billion USD (US$),Statista,0.088,0.101,0.115,0.162,0.175,0.239,0.36,0.512,0.722,0.786,0.882
+United States,Confectionery & Snacks,Revenue,Snack Food,billion USD (US$),Statista,2.452,2.812,3.198,4.565,5.34,7.277,10.88,15.41,21.62,23.26,25.89
+United States,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,14.675,13.702,41.384,7.746,36.918,50.182,42.355,40.948,7.451,11.321
+United States,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,14.675,13.702,40.662,2.837,37.313,50.611,42.756,41.338,7.348,11.297
+United States,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,14.675,13.702,41.384,7.746,36.918,50.182,42.355,40.948,8.896,12.226
+United States,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,14.675,13.702,42.763,16.986,36.263,49.466,41.682,40.288,7.579,11.33
+United States,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,97.105,96.818,96.479,95.567,95.156,93.022,90.086,86.2,81.103,,
+United States,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,2.895,3.182,3.521,4.433,4.844,6.978,9.914,13.8,18.897,,
+United States,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Confectionery & Snacks,Users by Segment,Total,million users,Statista,18.181,20.718,22.56,24.642,26.887,29.039,31.047,32.861,34.701,36.519,38.276
+United States,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,14.908,16.989,18.499,20.206,22.047,23.812,25.459,26.946,28.454,29.945,31.387
+United States,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,10,11.395,12.408,13.553,14.788,15.971,17.076,18.073,19.085,20.085,21.052
+United States,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,16.908,19.268,20.981,22.917,25.005,27.006,28.874,30.561,32.272,33.962,35.597
+United States,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,4.586,5.194,5.622,6.105,6.622,7.112,7.562,7.959,8.359,8.75,9.121
+United States,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,5.593,6.334,6.856,7.445,8.076,8.673,9.222,9.707,10.194,10.67,11.124
+United States,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,3.076,3.484,3.771,4.095,4.442,4.77,5.072,5.339,5.607,5.869,6.118
+United States,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,5.201,5.891,6.376,6.923,7.511,8.066,8.576,9.027,9.48,9.923,10.345
+United States,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,42.88,40.64,42.77,70.28,113.1,137.8,186.1,240.7,309.2,318.3,336.9
+United States,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,57.24,53.61,56.42,92.71,150.4,183.4,248,321.2,413.1,425.2,450.1
+United States,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,5.64,6.085,6.404,10.52,15.53,18.7,24.94,31.83,40.31,41.51,43.87
+United States,Convenience Food,Revenue,Total,billion USD (US$),Statista,0.891,0.962,1.103,1.979,3.474,4.573,6.603,9.041,12.26,13.28,14.74
+United States,Convenience Food,Revenue,Ready-to-Eat Meals,billion USD (US$),Statista,0.821,0.876,1.004,1.802,3.188,4.2,6.072,8.324,11.3,12.24,13.58
+United States,Convenience Food,Revenue,Soups,billion USD (US$),Statista,0.07,0.086,0.099,0.178,0.286,0.372,0.531,0.717,0.959,1.04,1.151
+United States,Convenience Food,Revenue Change,Total,percent,Statista,,7.997,14.597,79.49,75.526,31.625,44.402,36.919,35.627,8.332,10.928
+United States,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,6.715,14.597,79.494,76.954,31.764,44.563,37.08,35.793,8.326,10.942
+United States,Convenience Food,Revenue Change,Soups,percent,Statista,,22.955,14.597,79.446,61.059,30.071,42.576,35.079,33.707,8.392,10.766
+United States,Convenience Food,Online & Offline Split,Offline,percent,Statista,97.812,97.741,97.488,96.382,93.29,90.474,86.747,82.109,76.435,,
+United States,Convenience Food,Online & Offline Split,Online,percent,Statista,2.188,2.259,2.512,3.618,6.71,9.526,13.253,17.891,23.565,,
+United States,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Convenience Food,Users by Segment,Total,million users,Statista,20.778,23.678,25.783,28.162,30.728,33.187,35.482,37.555,39.658,41.736,43.744
+United States,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,14.337,16.338,17.79,19.432,21.202,22.899,24.483,25.913,27.364,28.798,30.184
+United States,Convenience Food,Users by Segment,Soups,million users,Statista,12.467,14.207,15.47,16.897,18.437,19.912,21.289,22.533,23.795,25.042,26.247
+United States,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,6.392,7.239,7.835,8.508,9.23,9.912,10.539,11.093,11.65,12.194,12.713
+United States,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,4.41,4.995,5.406,5.871,6.369,6.84,7.272,7.654,8.039,8.414,8.772
+United States,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.835,4.343,4.701,5.105,5.538,5.947,6.323,6.656,6.99,7.317,7.628
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,209.1,210.3,222.1,263.7,283.4,361.8,513.8,701.1,952.8,976.9,"1,041"
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,92.83,93.93,101.2,119.2,121.7,155.4,220.8,301.4,409.7,421.7,450.9
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,63.38,62.94,66.16,78.6,95.19,121.6,172.8,236,321,331.3,354.7
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,93.6,94.09,97.89,117.2,121.3,154.3,218.1,296.3,400.8,408.4,432.6
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,52.52,52.37,54.36,64.45,68.21,88.09,126.5,174.6,240,247,264.4
+United States,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,37.81,38.35,40.64,48.14,59.44,76.05,108.2,148,201.6,205.8,218.5
+United States,Dairy Products & Eggs,Revenue,Total,billion USD (US$),Statista,1.784,2.045,2.352,3.05,3.577,4.932,7.488,10.81,15.52,16.75,18.7
+United States,Dairy Products & Eggs,Revenue,Cheese,billion USD (US$),Statista,0.594,0.685,0.804,1.034,1.152,1.589,2.413,3.486,5.005,5.422,6.076
+United States,Dairy Products & Eggs,Revenue,Eggs,billion USD (US$),Statista,0.233,0.263,0.301,0.391,0.517,0.713,1.083,1.565,2.248,2.442,2.74
+United States,Dairy Products & Eggs,Revenue,Milk,billion USD (US$),Statista,0.623,0.714,0.808,1.058,1.195,1.64,2.479,3.564,5.092,5.46,6.062
+United States,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,billion USD (US$),Statista,0.157,0.178,0.202,0.261,0.301,0.42,0.645,0.943,1.368,1.482,1.663
+United States,Dairy Products & Eggs,Revenue,Yogurt,billion USD (US$),Statista,0.177,0.205,0.237,0.306,0.413,0.57,0.868,1.256,1.806,1.941,2.159
+United States,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,14.65,14.983,29.687,17.258,37.896,51.825,44.429,43.503,7.903,11.672
+United States,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,15.315,17.337,28.662,11.337,37.952,51.885,44.483,43.554,8.333,12.074
+United States,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,13.17,14.462,29.757,32.143,37.998,51.936,44.532,43.602,8.615,12.239
+United States,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,14.557,13.283,30.816,12.933,37.293,51.156,43.789,42.866,7.217,11.028
+United States,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,13.624,13.041,29.499,15.482,39.477,53.57,46.087,45.142,8.3,12.2
+United States,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,15.596,15.391,29.381,34.709,38.201,52.159,44.745,43.813,7.462,11.246
+United States,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,97.657,97.43,97.128,96.59,96.005,94.258,91.814,88.463,83.904,,
+United States,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,2.343,2.57,2.872,3.41,3.995,5.742,8.186,11.537,16.096,,
+United States,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,8.534,9.725,10.589,11.567,12.62,13.63,14.573,15.424,16.288,17.141,17.966
+United States,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,6.4,7.294,7.942,8.675,9.465,10.223,10.93,11.568,12.216,12.856,13.475
+United States,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,3.67,4.182,4.553,4.974,5.427,5.861,6.266,6.633,7.004,7.371,7.725
+United States,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,6.656,7.586,8.26,9.022,9.844,10.632,11.367,12.031,12.705,13.37,14.014
+United States,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,2.987,3.404,3.706,4.048,4.417,4.771,5.101,5.399,5.701,5.999,6.288
+United States,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,4.694,5.349,5.824,6.362,6.941,7.497,8.015,8.483,8.958,9.428,9.881
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.969,2.23,2.414,2.621,2.843,3.053,3.246,3.417,3.589,3.756,3.916
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.625,2.973,3.218,3.494,3.791,4.071,4.328,4.556,4.785,5.008,5.221
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.129,1.278,1.384,1.503,1.63,1.751,1.861,1.959,2.058,2.154,2.245
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,2.048,2.319,2.51,2.726,2.957,3.176,3.376,3.554,3.732,3.907,4.073
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.919,1.041,1.126,1.223,1.327,1.425,1.515,1.595,1.675,1.753,1.827
+United States,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.444,1.635,1.77,1.922,2.085,2.239,2.381,2.506,2.632,2.755,2.872
+United States,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,75.46,75.58,79.59,96.96,111.9,143.3,203.8,277.9,376.8,389.2,416.9
+United States,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,87.47,86.98,91.98,111.8,135.7,173.5,245.9,333.7,449.2,464,496.6
+United States,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,123.7,124.4,130.7,159.5,168.7,215.9,307.4,420.5,572.8,590,631.2
+United States,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,12.95,13.12,13.72,16.73,20.59,26.48,37.88,52.07,71.27,74.06,79.72
+United States,Fish & Seafood,Revenue,Total,billion USD (US$),Statista,0.532,0.607,0.696,0.926,1.167,1.614,2.453,3.541,5.07,5.512,6.188
+United States,Fish & Seafood,Revenue,Fresh Fish,billion USD (US$),Statista,0.24,0.273,0.314,0.417,0.552,0.762,1.155,1.658,2.357,2.563,2.875
+United States,Fish & Seafood,Revenue,Fresh Seafood,billion USD (US$),Statista,0.209,0.24,0.274,0.366,0.422,0.584,0.888,1.286,1.85,2.005,2.248
+United States,Fish & Seafood,Revenue,Processed Fish & Seafood,billion USD (US$),Statista,0.082,0.095,0.108,0.144,0.193,0.268,0.41,0.597,0.863,0.944,1.065
+United States,Fish & Seafood,Revenue Change,Total,percent,Statista,,14.127,14.668,33.067,25.949,38.307,52.003,44.35,43.184,8.707,12.27
+United States,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,13.323,15.146,32.805,32.356,38.147,51.519,43.609,42.171,8.711,12.171
+United States,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,14.53,14.438,33.302,15.378,38.244,52.207,44.79,43.857,8.397,12.138
+United States,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,15.455,13.874,33.233,34.268,38.903,52.936,45.484,44.545,9.362,12.816
+United States,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,97.766,97.565,97.292,96.739,95.887,94.068,91.532,88.088,83.45,,
+United States,Fish & Seafood,Online & Offline Split,Online,percent,Statista,2.234,2.435,2.708,3.261,4.113,5.932,8.468,11.912,16.55,,
+United States,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Fish & Seafood,Users by Segment,Total,million users,Statista,7.05,8.034,8.748,9.555,10.426,11.26,12.039,12.742,13.455,14.16,14.842
+United States,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,2.749,3.133,3.412,3.726,4.066,4.391,4.695,4.969,5.248,5.523,5.788
+United States,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,1.692,1.928,2.099,2.293,2.502,2.702,2.889,3.058,3.229,3.398,3.562
+United States,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,6.345,7.23,7.873,8.599,9.383,10.134,10.835,11.468,12.11,12.744,13.358
+United States,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.169,2.456,2.658,2.887,3.132,3.363,3.576,3.764,3.953,4.137,4.313
+United States,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.846,0.958,1.037,1.126,1.221,1.312,1.395,1.468,1.542,1.614,1.682
+United States,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.52,0.589,0.638,0.693,0.752,0.807,0.858,0.903,0.949,0.993,1.035
+United States,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.952,2.21,2.393,2.598,2.818,3.027,3.218,3.387,3.558,3.724,3.882
+United States,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,107.2,106.8,113.6,137.1,128.1,163.4,231.1,312.9,420.7,428.3,453.2
+United States,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,121.6,121.1,128.7,155.4,142.4,181.6,256.7,347.3,466.2,474.5,501.9
+United States,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,24.02,23.91,25.4,30.69,30.72,39.02,55.12,74.81,101.1,103,109.1
+United States,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,19.49,19.41,20.66,24.89,25.11,32.23,45.84,62.4,84.29,85.91,91.01
+United States,Fruits & Nuts,Revenue,Total,billion USD (US$),Statista,2.069,2.348,2.719,3.584,3.655,5.036,7.613,10.91,15.49,16.6,18.41
+United States,Fruits & Nuts,Revenue,Fresh Fruits,billion USD (US$),Statista,1.642,1.863,2.158,2.845,2.845,3.918,5.92,8.477,12.02,12.87,14.27
+United States,Fruits & Nuts,Revenue,Nuts,billion USD (US$),Statista,0.232,0.263,0.304,0.401,0.438,0.601,0.908,1.304,1.862,1.996,2.215
+United States,Fruits & Nuts,Revenue,Processed & Frozen Fruits,billion USD (US$),Statista,0.196,0.222,0.257,0.339,0.373,0.516,0.785,1.132,1.614,1.731,1.922
+United States,Fruits & Nuts,Revenue Change,Total,percent,Statista,,13.473,15.802,31.832,1.984,37.766,51.172,43.346,41.976,7.132,10.905
+United States,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,13.473,15.806,31.837,0,37.745,51.081,43.198,41.769,7.107,10.873
+United States,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,13.469,15.641,32.015,9.211,37.175,51.025,43.665,42.744,7.183,10.993
+United States,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,13.477,15.95,31.575,10.085,38.619,52.034,44.092,42.643,7.254,11.034
+United States,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,96.979,96.726,96.323,95.613,95.519,93.562,90.861,87.231,82.409,,
+United States,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,3.021,3.274,3.677,4.387,4.481,6.438,9.139,12.769,17.591,,
+United States,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Fruits & Nuts,Users by Segment,Total,million users,Statista,19.294,21.987,23.941,26.15,28.533,30.817,32.948,34.873,36.825,38.755,40.62
+United States,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,13.506,15.391,16.759,18.305,19.973,21.572,23.063,24.411,25.778,27.128,28.434
+United States,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,9.647,10.993,11.971,13.075,14.267,15.408,16.474,17.436,18.413,19.377,20.31
+United States,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,10.033,11.433,12.449,13.598,14.837,16.025,17.133,18.134,19.149,20.152,21.122
+United States,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,4.155,4.705,5.093,5.53,5.999,6.443,6.85,7.211,7.573,7.926,8.263
+United States,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,5.935,6.722,7.276,7.9,8.571,9.204,9.786,10.301,10.818,11.323,11.805
+United States,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.968,3.361,3.638,3.95,4.285,4.602,4.893,5.15,5.409,5.662,5.902
+United States,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,3.086,3.495,3.783,4.108,4.457,4.786,5.089,5.356,5.625,5.888,6.138
+United States,Meat,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.291,0.294,0.31,0.383,0.402,0.512,0.725,0.985,1.331,1.362,1.451
+United States,Meat,Average Revenue per User by Segment,Fresh Meat,thousand USD (US$),Statista,0.316,0.319,0.336,0.416,0.423,0.538,0.762,1.037,1.405,1.433,1.523
+United States,Meat,Average Revenue per User by Segment,Processed Meat,thousand USD (US$),Statista,0.084,0.085,0.09,0.111,0.127,0.162,0.229,0.31,0.416,0.429,0.459
+United States,Meat,Revenue,Total,billion USD (US$),Statista,3.241,3.736,4.28,5.78,6.616,9.103,13.77,19.81,28.28,30.45,33.99
+United States,Meat,Revenue,Fresh Meat,billion USD (US$),Statista,2.425,2.795,3.202,4.327,4.801,6.601,9.993,14.39,20.59,22.1,24.63
+United States,Meat,Revenue,Processed Meat,billion USD (US$),Statista,0.816,0.941,1.078,1.452,1.816,2.502,3.782,5.419,7.686,8.352,9.364
+United States,Meat,Revenue Change,Total,percent,Statista,,15.245,14.563,35.052,14.472,37.587,51.323,43.805,42.743,7.699,11.63
+United States,Meat,Revenue Change,Fresh Meat,percent,Statista,,15.245,14.563,35.14,10.938,37.5,51.385,44.008,43.083,7.337,11.447
+United States,Meat,Revenue Change,Processed Meat,percent,Statista,,15.245,14.563,34.792,25.002,37.815,51.157,43.269,41.839,8.668,12.115
+United States,Meat,Online & Offline Split,Offline,percent,Statista,97.552,97.302,97,96.33,95.789,93.952,91.399,87.934,83.272,,
+United States,Meat,Online & Offline Split,Online,percent,Statista,2.448,2.698,3,3.67,4.211,6.048,8.601,12.066,16.728,,
+United States,Meat,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Meat,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Meat,Users by Segment,Total,million users,Statista,11.131,12.685,13.812,15.087,16.461,17.779,19.008,20.119,21.245,22.358,23.434
+United States,Meat,Users by Segment,Fresh Meat,million users,Statista,7.681,8.753,9.53,10.41,11.358,12.267,13.116,13.882,14.659,15.427,16.17
+United States,Meat,Users by Segment,Processed Meat,million users,Statista,9.684,11.036,12.017,13.126,14.321,15.468,16.537,17.503,18.483,19.452,20.388
+United States,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,2.363,2.676,2.896,3.145,3.412,3.664,3.896,4.101,4.306,4.508,4.699
+United States,Meat,Penetration Rate by Segment,Meat,percent,Statista,3.424,3.878,4.197,4.558,4.945,5.31,5.646,5.943,6.241,6.533,6.81
+United States,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.979,3.374,3.652,3.965,4.302,4.62,4.912,5.17,5.43,5.683,5.925
+United States,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,33.36,33.69,35.32,41.97,46.63,59.62,84.74,115.7,157.2,160.8,170.9
+United States,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,14.66,15.09,15.89,18.84,19.16,24.53,34.92,47.76,65.07,66.27,70.26
+United States,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,19.91,20.26,21.14,25.21,28.94,36.96,52.49,71.63,97.34,99.31,105.3
+United States,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,5.117,4.68,4.937,5.831,7.162,9.198,13.09,17.83,24.1,25.02,26.88
+United States,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,2.43,2.523,2.657,3.126,3.755,4.767,6.731,9.132,12.34,12.81,13.76
+United States,Oils & Fats,Revenue,Total,million USD (US$),Statista,309.4,356.1,406.6,527.6,639.7,883.3,"1,342","1,939","2,783","2,995","3,337"
+United States,Oils & Fats,Revenue,Butter,million USD (US$),Statista,111.5,130.8,150,194.3,215.5,298,453.5,656.6,944.6,"1,013","1,125"
+United States,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,145.9,169.2,192.2,250.4,313.7,432.6,656.8,948.7,"1,361","1,462","1,625"
+United States,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,38.45,40.07,46.03,59.38,79.58,110.4,167.9,242.1,345.6,377.6,425.2
+United States,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,13.53,16,18.35,23.58,30.9,42.37,63.97,91.86,131.1,143.2,161.2
+United States,Oils & Fats,Revenue Change,Total,percent,Statista,,15.08,14.179,29.766,21.242,38.083,51.956,44.485,43.491,7.632,11.398
+United States,Oils & Fats,Revenue Change,Butter,percent,Statista,,17.266,14.678,29.513,10.951,38.242,52.205,44.788,43.855,7.193,11.111
+United States,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,15.971,13.585,30.266,25.275,37.91,51.838,44.438,43.509,7.369,11.171
+United States,Oils & Fats,Revenue Change,Margarine,percent,Statista,,4.225,14.863,29.012,34.006,38.711,52.134,44.186,42.735,9.256,12.601
+United States,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,18.302,14.673,28.506,31.066,37.119,50.963,43.606,42.685,9.248,12.581
+United States,Oils & Fats,Online & Offline Split,Offline,percent,Statista,97.739,97.505,97.226,96.697,95.991,94.219,91.733,88.32,83.672,,
+United States,Oils & Fats,Online & Offline Split,Online,percent,Statista,2.261,2.495,2.774,3.303,4.009,5.781,8.267,11.68,16.328,,
+United States,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Oils & Fats,Users by Segment,Total,million users,Statista,9.276,10.571,11.51,12.572,13.718,14.816,15.84,16.766,17.704,18.632,19.529
+United States,Oils & Fats,Users by Segment,Butter,million users,Statista,7.606,8.668,9.438,10.309,11.249,12.149,12.989,13.748,14.518,15.278,16.014
+United States,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,7.328,8.351,9.093,9.932,10.837,11.704,12.514,13.245,13.986,14.719,15.428
+United States,Oils & Fats,Users by Segment,Margarine,million users,Statista,7.514,8.562,9.323,10.184,11.111,12.001,12.831,13.58,14.341,15.092,15.818
+United States,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,5.566,6.342,6.906,7.543,8.231,8.889,9.504,10.059,10.623,11.179,11.717
+United States,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,2.34,2.65,2.868,3.115,3.379,3.629,3.858,4.061,4.265,4.464,4.654
+United States,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,2.254,2.553,2.763,3.001,3.255,3.496,3.717,3.912,4.109,4.301,4.483
+United States,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,2.311,2.618,2.833,3.077,3.338,3.584,3.811,4.011,4.213,4.41,4.597
+United States,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.853,3.232,3.498,3.798,4.121,4.425,4.705,4.952,5.201,5.444,5.675
+United States,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.712,1.939,2.099,2.279,2.472,2.655,2.823,2.971,3.121,3.266,3.405
+United States,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,18.63,18.54,19.55,20.93,21.04,27.42,39.75,55.38,76.82,78.35,83.31
+United States,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,16.25,16.18,17.06,18.26,17.16,22.36,32.41,45.14,62.62,63.73,67.67
+United States,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,9.929,9.872,10.41,11.15,12.76,16.63,24.12,33.61,46.64,47.74,50.88
+United States,Sauces & Spices,Revenue,Total,billion USD (US$),Statista,0.304,0.345,0.396,0.463,0.508,0.715,1.108,1.634,2.394,2.569,2.863
+United States,Sauces & Spices,Revenue,Spices & Culinary Herbs,billion USD (US$),Statista,0.207,0.235,0.27,0.315,0.323,0.455,0.705,1.039,1.522,1.63,1.814
+United States,Sauces & Spices,Revenue,Tomato Ketchup,billion USD (US$),Statista,0.097,0.11,0.127,0.148,0.185,0.26,0.403,0.595,0.872,0.939,1.049
+United States,Sauces & Spices,Revenue Change,Total,percent,Statista,,13.387,14.844,16.916,9.654,40.774,55.004,47.452,46.494,7.338,11.443
+United States,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,13.427,14.844,16.899,2.513,40.754,54.982,47.43,46.473,7.108,11.3
+United States,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,13.302,14.843,16.952,24.86,40.81,55.043,47.489,46.531,7.739,11.691
+United States,Sauces & Spices,Online & Offline Split,Online,percent,Statista,2.281,2.479,2.771,3.087,3.33,4.844,7.013,10.077,14.378,,
+United States,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Sauces & Spices,Users by Segment,Total,million users,Statista,16.326,18.604,20.258,22.127,24.143,26.076,27.879,29.508,31.16,32.792,34.371
+United States,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,12.734,14.511,15.801,17.259,18.832,20.339,21.746,23.016,24.305,25.578,26.809
+United States,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,9.795,11.163,12.155,13.276,14.486,15.645,16.727,17.705,18.696,19.675,20.622
+United States,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,5.022,5.688,6.156,6.685,7.252,7.788,8.281,8.716,9.154,9.581,9.989
+United States,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.917,4.436,4.802,5.214,5.657,6.075,6.459,6.799,7.14,7.473,7.791
+United States,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,3.013,3.413,3.694,4.011,4.351,4.673,4.968,5.23,5.492,5.749,5.993
+United States,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,17.44,17.07,17.92,18.94,18.97,24.76,35.95,50.15,69.66,71.13,75.8
+United States,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,13.43,11.68,12.26,12.94,13.77,17.86,25.77,35.74,49.35,50.53,53.92
+United States,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,13.95,16.1,16.91,17.89,16.59,21.82,31.93,44.9,62.87,63.96,68.04
+United States,Spreads & Sweeteners,Revenue,Total,billion USD (US$),Statista,0.214,0.238,0.272,0.314,0.344,0.484,0.752,1.11,1.628,1.749,1.954
+United States,Spreads & Sweeteners,Revenue,Spreads,billion USD (US$),Statista,0.132,0.13,0.149,0.172,0.199,0.279,0.431,0.633,0.923,0.994,1.112
+United States,Spreads & Sweeteners,Revenue,Sweeteners,billion USD (US$),Statista,0.082,0.108,0.123,0.142,0.144,0.205,0.321,0.477,0.705,0.755,0.842
+United States,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,11.537,14.321,15.425,9.315,40.948,55.204,47.649,46.697,7.451,11.697
+United States,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,-0.922,14.321,15.273,16.094,40.125,54.286,46.769,45.818,7.753,11.848
+United States,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,31.528,14.321,15.608,1.145,42.087,56.455,48.833,47.862,7.057,11.498
+United States,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,97.653,97.483,97.19,96.891,96.674,95.22,93.186,90.187,85.97,,
+United States,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,2.347,2.517,2.81,3.109,3.326,4.78,6.814,9.813,14.03,,
+United States,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,12.244,13.953,15.193,16.595,18.107,19.557,20.909,22.131,23.37,24.594,25.778
+United States,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,9.795,11.163,12.155,13.276,14.486,15.645,16.727,17.705,18.696,19.675,20.622
+United States,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,5.877,6.698,7.293,7.966,8.692,9.387,10.036,10.623,11.217,11.805,12.373
+United States,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,3.013,3.413,3.694,4.011,4.351,4.673,4.968,5.23,5.492,5.749,5.993
+United States,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.767,4.266,4.617,5.014,5.439,5.841,6.21,6.537,6.865,7.186,7.491
+United States,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.808,2.048,2.216,2.407,2.611,2.804,2.981,3.138,3.295,3.449,3.596
+United States,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,84.96,86.97,91.38,111.6,128.9,163.9,231.9,315.2,426.8,443.1,475.8
+United States,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,78.97,84.75,89.06,108.8,120.6,153.3,216.8,294.5,398.5,415.1,446.4
+United States,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,59.35,55.28,58.09,70.95,88.95,113.2,160.4,218.2,295.6,305.1,326.6
+United States,Vegetables,Revenue,Total,billion USD (US$),Statista,1.545,1.802,2.062,2.751,3.465,4.76,7.2,10.36,14.81,16.18,18.21
+United States,Vegetables,Revenue,Fresh Vegetables,billion USD (US$),Statista,1.005,1.229,1.406,1.877,2.269,3.116,4.711,6.774,9.679,10.61,11.96
+United States,Vegetables,Revenue,Processed & Frozen Vegetables,billion USD (US$),Statista,0.539,0.573,0.655,0.874,1.196,1.644,2.489,3.585,5.129,5.571,6.25
+United States,Vegetables,Revenue Change,Total,percent,Statista,,16.651,14.419,33.426,25.977,37.376,51.247,43.877,42.953,9.281,12.533
+United States,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,22.293,14.419,33.435,20.933,37.309,51.174,43.807,42.883,9.634,12.711
+United States,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,6.14,14.419,33.406,36.805,37.502,51.387,44.01,43.085,8.616,12.192
+United States,Vegetables,Online & Offline Split,Offline,percent,Statista,97.806,97.556,97.288,96.724,95.866,94.077,91.586,88.2,83.629,,
+United States,Vegetables,Online & Offline Split,Online,percent,Statista,2.194,2.444,2.712,3.276,4.134,5.923,8.414,11.8,16.371,,
+United States,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,64.182,59.591,56.847,53.957,51.913,49.418,46.92,44.582,42.143,,
+United States,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,35.818,40.409,43.153,46.043,48.087,50.582,53.08,55.418,57.857,,
+United States,Vegetables,Users by Segment,Total,million users,Statista,18.181,20.718,22.56,24.642,26.887,29.039,31.047,32.861,34.701,36.519,38.276
+United States,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,12.727,14.503,15.792,17.249,18.821,20.327,21.733,23.003,24.29,25.563,26.793
+United States,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,9.091,10.359,11.28,12.321,13.443,14.519,15.523,16.43,17.35,18.259,19.138
+United States,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.915,4.434,4.799,5.211,5.653,6.071,6.455,6.795,7.136,7.469,7.787
+United States,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.796,3.167,3.428,3.722,4.038,4.337,4.611,4.853,5.097,5.335,5.562
+United States,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,5.593,6.334,6.856,7.445,8.076,8.673,9.222,9.707,10.194,10.67,11.124

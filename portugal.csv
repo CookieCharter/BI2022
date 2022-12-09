@@ -1,0 +1,753 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Portugal,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.766,,,,,,
+Portugal,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.792,,,,,,
+Portugal,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.171,,,,,,
+Portugal,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.422,,,,,,
+Portugal,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.849,,,,,,
+Portugal,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,51.324,,,,,,
+Portugal,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,48.676,,,,,,
+Portugal,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,32.807,,,,,,
+Portugal,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,34.872,,,,,,
+Portugal,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.321,,,,,,
+Portugal,eCommerce,Revenue,Total,billion USD (US$),Statista,2.928,3.181,3.481,4.607,5.305,5.036,6.712,7.848,9.184,9.903,10.76
+Portugal,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.36,0.391,0.428,0.563,0.649,0.652,0.861,1.033,1.244,1.345,1.471
+Portugal,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.029,0.031,0.034,0.046,0.053,0.05,0.062,0.069,0.078,0.083,0.089
+Portugal,eCommerce,Revenue,Electronics,billion USD (US$),Statista,0.792,0.858,0.93,1.216,1.382,1.204,1.691,1.948,2.24,2.414,2.617
+Portugal,eCommerce,Revenue,Fashion,billion USD (US$),Statista,1.022,1.11,1.217,1.578,1.815,1.846,2.457,2.964,3.575,3.868,4.232
+Portugal,eCommerce,Revenue,Food,billion USD (US$),Statista,0.049,0.054,0.059,0.09,0.109,0.102,0.125,0.138,0.152,0.164,0.177
+Portugal,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.183,0.202,0.226,0.316,0.375,0.322,0.474,0.555,0.647,0.703,0.767
+Portugal,eCommerce,Revenue,Media,billion USD (US$),Statista,0.14,0.151,0.166,0.227,0.26,0.237,0.278,0.291,0.3,0.315,0.327
+Portugal,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.354,0.383,0.42,0.572,0.659,0.622,0.765,0.851,0.948,1.01,1.079
+Portugal,eCommerce,Revenue Change,Total,percent,Statista,,8.641,9.431,32.347,15.151,-5.071,33.28,16.925,17.023,7.829,8.654
+Portugal,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,8.646,9.545,31.418,15.428,0.462,31.928,20.019,20.426,8.119,9.368
+Portugal,eCommerce,Revenue Change,Beverages,percent,Statista,,9.312,9.313,33.44,16.518,-6.19,23.206,12.152,12.725,6.502,6.934
+Portugal,eCommerce,Revenue Change,Electronics,percent,Statista,,8.374,8.38,30.767,13.651,-12.88,40.449,15.198,14.99,7.768,8.409
+Portugal,eCommerce,Revenue Change,Fashion,percent,Statista,,8.611,9.64,29.663,15.019,1.708,33.099,20.635,20.614,8.196,9.411
+Portugal,eCommerce,Revenue Change,Food,percent,Statista,,9.348,9.834,53.298,21.018,-6.581,22.114,10.417,10.232,8.032,7.617
+Portugal,eCommerce,Revenue Change,Furniture,percent,Statista,,10.728,11.864,39.461,18.885,-14.099,47.13,17.081,16.517,8.672,9.175
+Portugal,eCommerce,Revenue Change,Media,percent,Statista,,8.071,9.782,36.905,14.336,-8.808,17.25,4.604,3.301,4.727,3.783
+Portugal,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,8.187,9.551,36.184,15.323,-5.673,22.994,11.269,11.338,6.585,6.832
+Portugal,eCommerce,Average Revenue per User,Total,USD (US$),Statista,684.7,694.9,717.5,901.6,994.2,929.5,"1,251","1,417","1,607","1,719","1,849"
+Portugal,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,190.2,187.1,185.1,217.9,225.9,208,256.7,292,334.1,341.9,356
+Portugal,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,28.74,27.95,27.05,31.83,32.86,27.93,31.87,33.83,36.17,36.31,36.88
+Portugal,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,285.7,275.8,264.1,305.3,308.1,241.7,313.7,342.6,374.4,380.2,391.2
+Portugal,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,370.2,361.1,355.1,409.7,419.9,391,487.7,557.6,638.9,654.8,682.8
+Portugal,eCommerce,Average Revenue per User,Food,USD (US$),Statista,52.15,50.73,49.33,66.67,71.5,60.54,68.43,71.51,74.8,76.17,77.83
+Portugal,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,145.8,142,140.7,174.6,183.9,143.2,196.9,218.2,241.1,247.9,257.8
+Portugal,eCommerce,Average Revenue per User,Media,USD (US$),Statista,70.52,67.82,66.65,81.9,85.3,72.46,80.19,80.16,79.23,79.54,79.55
+Portugal,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,158.7,153.4,150.3,183.2,188.7,161.2,183.2,192.7,203.3,203.9,206.4
+Portugal,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,4.239,4.225,4.501,4.702,4.864,5.005,5.103,5.186,5.269,,
+Portugal,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,12.951,13.232,13.906,14.524,15.078,15.62,16.108,16.537,16.967,,
+Portugal,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,71.488,71.257,69.532,67.34,64.896,62.777,60.795,58.926,57.057,,
+Portugal,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,1.072,1.068,1.138,1.189,1.23,1.265,1.29,1.311,1.332,,
+Portugal,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,0.751,0.749,0.809,0.86,0.906,0.95,0.991,1.027,1.063,,
+Portugal,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,7.397,7.373,7.965,9.151,10.715,12.004,13.289,14.549,15.809,,
+Portugal,eCommerce,Revenue Share Payment Types,Other,percent,Statista,2.103,2.096,2.149,2.234,2.311,2.378,2.424,2.464,2.503,,
+Portugal,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,10.826,11.169,11.524,11.809,12.04,12.224,12.368,12.479,12.564,,
+Portugal,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,89.174,88.831,88.476,88.191,87.96,87.776,87.632,87.521,87.436,,
+Portugal,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,eCommerce,Online & Offline Split,Offline,percent,Statista,95.195,94.949,94.584,92.724,91.746,90.867,89.745,88.406,86.858,,
+Portugal,eCommerce,Online & Offline Split,Online,percent,Statista,4.805,5.051,5.416,7.276,8.254,9.133,10.255,11.594,13.142,,
+Portugal,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,64.987,62.812,61.278,60.223,58.98,57.136,55.416,53.023,50.436,,
+Portugal,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,35.013,37.188,38.722,39.777,41.02,42.864,44.584,46.977,49.564,,
+Portugal,eCommerce,Users,Total,million users,Statista,4.276,4.577,4.851,5.11,5.335,5.418,5.364,5.54,5.717,5.762,5.818
+Portugal,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,1.891,2.088,2.313,2.582,2.874,3.137,3.354,3.537,3.724,3.934,4.132
+Portugal,eCommerce,Users,Beverages,million users,Statista,1.001,1.126,1.271,1.442,1.627,1.796,1.939,2.049,2.16,2.291,2.413
+Portugal,eCommerce,Users,Electronics,million users,Statista,2.771,3.111,3.521,3.981,4.487,4.981,5.391,5.686,5.984,6.351,6.688
+Portugal,eCommerce,Users,Fashion,million users,Statista,2.759,3.074,3.428,3.852,4.323,4.721,5.037,5.315,5.596,5.908,6.198
+Portugal,eCommerce,Users,Food,million users,Statista,0.942,1.058,1.195,1.356,1.53,1.689,1.823,1.927,2.031,2.155,2.269
+Portugal,eCommerce,Users,Furniture,million users,Statista,1.253,1.424,1.608,1.808,2.04,2.252,2.408,2.545,2.683,2.836,2.978
+Portugal,eCommerce,Users,Media,million users,Statista,1.985,2.231,2.493,2.776,3.048,3.272,3.467,3.628,3.791,3.955,4.104
+Portugal,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,2.232,2.498,2.794,3.121,3.493,3.858,4.176,4.418,4.662,4.953,5.227
+Portugal,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,18.375,20.361,22.619,25.327,28.269,30.934,33.157,35.064,37.013,39.214,41.307
+Portugal,eCommerce,Penetration Rate,Beverages,percent,Statista,9.732,10.975,12.432,14.141,16.003,17.71,19.173,20.313,21.471,22.839,24.121
+Portugal,eCommerce,Penetration Rate,eCommerce,percent,Statista,41.561,44.626,47.441,50.117,52.473,53.431,53.04,54.917,56.822,57.431,58.164
+Portugal,eCommerce,Penetration Rate,Electronics,percent,Statista,26.937,30.329,34.432,39.045,44.133,49.116,53.306,56.368,59.476,63.303,66.86
+Portugal,eCommerce,Penetration Rate,Fashion,percent,Statista,26.82,29.968,33.526,37.779,42.519,46.558,49.803,52.691,55.622,58.884,61.962
+Portugal,eCommerce,Penetration Rate,Food,percent,Statista,9.151,10.32,11.69,13.297,15.048,16.653,18.028,19.1,20.189,21.476,22.681
+Portugal,eCommerce,Penetration Rate,Furniture,percent,Statista,12.179,13.885,15.728,17.729,20.064,22.204,23.813,25.229,26.667,28.267,29.767
+Portugal,eCommerce,Penetration Rate,Media,percent,Statista,19.292,21.756,24.375,27.226,29.98,32.264,34.276,35.968,37.686,39.423,41.026
+Portugal,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,21.694,24.357,27.319,30.603,34.356,38.047,41.289,43.794,46.339,49.374,52.256
+Portugal,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.861,,,,,,
+Portugal,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.91,,,,,,
+Portugal,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.09,,,,,,
+Portugal,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.375,,,,,,
+Portugal,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,11.765,,,,,,
+Portugal,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,45.666,,,,,,
+Portugal,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,54.334,,,,,,
+Portugal,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.244,,,,,,
+Portugal,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,31.471,,,,,,
+Portugal,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.285,,,,,,
+Portugal,Electronics,Revenue,Total,billion USD (US$),Statista,0.792,0.858,0.93,1.216,1.382,1.204,1.691,1.948,2.24,2.414,2.617
+Portugal,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.647,0.693,0.741,0.97,1.091,0.919,1.326,1.524,1.748,1.881,2.036
+Portugal,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.145,0.165,0.189,0.246,0.292,0.285,0.365,0.424,0.492,0.533,0.58
+Portugal,Electronics,Revenue Change,Total,percent,Statista,,8.374,8.38,30.767,13.651,-12.88,40.449,15.198,14.99,7.768,8.409
+Portugal,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,7.124,6.881,30.868,12.521,-15.784,44.319,14.932,14.698,7.609,8.24
+Portugal,Electronics,Revenue Change,Household Appliances,percent,Statista,,13.9,14.754,30.106,18.625,-2.228,28.015,16.078,16.163,8.308,8.833
+Portugal,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,285.7,275.8,264.1,305.3,308.1,241.7,313.7,342.6,374.4,380.2,391.2
+Portugal,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,254.9,242.9,229.9,267.6,266.8,203.6,272.1,298.8,328,334.4,345.6
+Portugal,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,76.21,77.25,77.6,88.23,92.74,80.68,94.77,103.1,112.7,113.9,116.6
+Portugal,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,Electronics,Online & Offline Split,Offline,percent,Statista,79.112,77.602,76.122,70.202,67.103,61.007,56.247,50.212,44.689,,
+Portugal,Electronics,Online & Offline Split,Online,percent,Statista,20.888,22.398,23.878,29.798,32.897,38.993,43.753,49.788,55.311,,
+Portugal,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Electronics,Users by Segment,Total,million users,Statista,2.771,3.111,3.521,3.981,4.487,4.981,5.391,5.686,5.984,6.351,6.688
+Portugal,Electronics,Users by Segment,Consumer Electronics,million users,Statista,2.539,2.854,3.223,3.623,4.089,4.513,4.873,5.1,5.329,5.626,5.892
+Portugal,Electronics,Users by Segment,Household Appliances,million users,Statista,1.897,2.133,2.435,2.787,3.145,3.535,3.853,4.11,4.369,4.681,4.977
+Portugal,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,24.677,27.829,31.521,35.531,40.212,44.5,48.176,50.554,52.969,56.082,58.894
+Portugal,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,26.937,30.329,34.432,39.045,44.133,49.116,53.306,56.368,59.476,63.303,66.86
+Portugal,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,18.438,20.793,23.814,27.332,30.932,34.859,38.091,40.74,43.432,46.655,49.75
+Portugal,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.297,,,,,,
+Portugal,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.744,,,,,,
+Portugal,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.886,,,,,,
+Portugal,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.059,,,,,,
+Portugal,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.014,,,,,,
+Portugal,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,37.671,,,,,,
+Portugal,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,62.329,,,,,,
+Portugal,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,39.678,,,,,,
+Portugal,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.223,,,,,,
+Portugal,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.099,,,,,,
+Portugal,Consumer Electronics,Revenue,Total,million USD (US$),Statista,647.1,693.2,740.9,969.6,"1,091",918.8,"1,326","1,524","1,748","1,881","2,036"
+Portugal,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,130.4,142,151.1,185,199,171.7,253.6,298.1,348.7,374.5,406.3
+Portugal,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,203.6,218.1,233.2,305.1,343.2,289.1,417.2,479.6,550,591.9,640.7
+Portugal,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,165.1,175.2,187.2,263.6,304.5,253.6,361.8,410.6,463.8,500.8,541.8
+Portugal,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,143.7,153.2,164.5,209.4,236.8,200,289.4,333.6,382.9,411.9,445.9
+Portugal,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,4.383,4.652,4.971,6.455,7.286,4.37,3.896,2.155,2.341,2.011,1.784
+Portugal,Consumer Electronics,Revenue Change,Total,percent,Statista,,7.124,6.881,30.868,12.521,-15.784,44.319,14.932,14.698,7.609,8.24
+Portugal,Consumer Electronics,Revenue Change,Computing,percent,Statista,,8.896,6.408,22.435,7.568,-13.719,47.699,17.547,16.974,7.399,8.491
+Portugal,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,7.122,6.923,30.832,12.488,-15.763,44.31,14.957,14.679,7.618,8.245
+Portugal,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,6.118,6.849,40.812,15.516,-16.716,42.666,13.488,12.957,7.978,8.187
+Portugal,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,6.611,7.376,27.295,13.085,-15.541,44.7,15.273,14.778,7.574,8.254
+Portugal,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,6.137,6.857,29.853,12.874,-40.022,-10.847,-44.687,8.631,-14.097,-11.288
+Portugal,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,254.9,242.9,229.9,267.6,266.8,203.6,272.1,298.8,328,334.4,345.6
+Portugal,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,73.35,71.09,66.97,72.96,69.53,54.35,74.36,83.51,93.49,95.1,98.51
+Portugal,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,100.3,95.53,90.41,105.3,104.9,80.09,107,117.5,129,131.5,135.9
+Portugal,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,81.27,76.73,72.6,90.94,93.08,70.26,92.81,100.6,108.8,111.3,114.9
+Portugal,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,141.5,134.2,127.6,144.5,144.8,110.8,148.5,163.5,179.6,183,189.2
+Portugal,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,5.754,5.433,5.14,5.939,5.94,3.228,2.665,1.409,1.465,1.191,1.009
+Portugal,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Portugal,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Portugal,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,75.99,74.54,73.255,65.229,62.48,55.843,50.819,43.956,38.016,,
+Portugal,Consumer Electronics,Online & Offline Split,Online,percent,Statista,24.01,25.46,26.745,34.771,37.52,44.157,49.181,56.044,61.984,,
+Portugal,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Consumer Electronics,Users,Total,million users,Statista,2.539,2.854,3.223,3.623,4.089,4.513,4.873,5.1,5.329,5.626,5.892
+Portugal,Consumer Electronics,Users,Computing,million users,Statista,1.777,1.998,2.256,2.536,2.862,3.159,3.411,3.57,3.73,3.939,4.124
+Portugal,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,2.031,2.283,2.579,2.898,3.271,3.61,3.898,4.08,4.263,4.501,4.713
+Portugal,Consumer Electronics,Users,Telephony,million users,Statista,2.031,2.283,2.579,2.898,3.271,3.61,3.898,4.08,4.263,4.501,4.713
+Portugal,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,1.016,1.142,1.289,1.449,1.635,1.805,1.949,2.04,2.132,2.251,2.357
+Portugal,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.762,0.856,0.967,1.087,1.227,1.354,1.462,1.53,1.599,1.688,1.768
+Portugal,Consumer Electronics,Penetration Rate,Computing,percent,Statista,17.274,19.48,22.065,24.872,28.148,31.15,33.723,35.388,37.078,39.258,41.227
+Portugal,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,24.677,27.829,31.521,35.531,40.212,44.5,48.176,50.554,52.969,56.082,58.894
+Portugal,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,19.742,22.263,25.217,28.425,32.169,35.6,38.541,40.443,42.375,44.866,47.117
+Portugal,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,19.742,22.263,25.217,28.425,32.169,35.6,38.541,40.443,42.375,44.866,47.117
+Portugal,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,9.871,11.131,12.609,14.212,16.085,17.8,19.27,20.221,21.188,22.433,23.559
+Portugal,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,7.403,8.349,9.456,10.659,12.063,13.35,14.453,15.166,15.891,16.826,17.67
+Portugal,Household Appliances,Revenue,Total,million USD (US$),Statista,144.6,164.7,189,245.9,291.7,285.2,365.1,423.8,492.3,533.2,580.3
+Portugal,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,76.13,86.76,99.52,129.5,153.6,150.1,192,222.7,258.5,280,304.7
+Portugal,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,26.99,30.76,35.28,45.91,54.46,53.25,68.17,79.13,91.92,99.56,108.3
+Portugal,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,41.44,47.23,54.17,70.5,83.63,81.87,104.9,122,141.9,153.7,167.3
+Portugal,Household Appliances,Revenue Change,Total,percent,Statista,,13.9,14.754,30.106,18.625,-2.228,28.015,16.078,16.163,8.308,8.833
+Portugal,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,13.963,14.707,30.125,18.61,-2.279,27.915,15.99,16.075,8.317,8.821
+Portugal,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,13.968,14.694,30.13,18.623,-2.222,28.019,16.077,16.163,8.312,8.779
+Portugal,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,13.972,14.694,30.146,18.624,-2.105,28.13,16.301,16.311,8.316,8.848
+Portugal,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,76.21,77.25,77.6,88.23,92.74,80.68,94.77,103.1,112.7,113.9,116.6
+Portugal,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,100.3,101.7,102.2,116.2,122.1,106.1,124.6,135.5,147.9,149.6,153
+Portugal,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,71.14,72.12,72.44,82.37,86.58,75.32,88.48,96.28,105.2,106.4,108.9
+Portugal,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,27.31,27.68,27.81,31.62,33.24,28.95,34.05,37.1,40.58,41.04,42.01
+Portugal,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Portugal,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Portugal,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Portugal,Household Appliances,Online & Offline Split,Offline,percent,Statista,86.797,85.13,83.187,80.947,77.479,72.796,68.841,64.51,59.993,,
+Portugal,Household Appliances,Online & Offline Split,Online,percent,Statista,13.203,14.87,16.813,19.053,22.521,27.204,31.159,35.49,40.007,,
+Portugal,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Household Appliances,Users,Total,million users,Statista,1.897,2.133,2.435,2.787,3.145,3.535,3.853,4.11,4.369,4.681,4.977
+Portugal,Household Appliances,Users,Major Appliances,million users,Statista,0.759,0.853,0.974,1.115,1.258,1.414,1.541,1.644,1.748,1.872,1.991
+Portugal,Household Appliances,Users,Other Household Appliances,million users,Statista,0.379,0.427,0.487,0.557,0.629,0.707,0.771,0.822,0.874,0.936,0.995
+Portugal,Household Appliances,Users,Small Appliances,million users,Statista,1.518,1.706,1.948,2.23,2.516,2.828,3.082,3.288,3.496,3.745,3.981
+Portugal,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,18.438,20.793,23.814,27.332,30.932,34.859,38.091,40.74,43.432,46.655,49.75
+Portugal,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,7.375,8.317,9.526,10.933,12.373,13.944,15.236,16.296,17.373,18.662,19.899
+Portugal,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,3.688,4.159,4.763,5.466,6.186,6.972,7.618,8.148,8.686,9.329,9.946
+Portugal,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,14.751,16.635,19.051,21.865,24.746,27.887,30.473,32.592,34.746,37.324,39.8
+Portugal,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.321,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.786,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.673,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.851,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,12.369,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,58.91,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,41.09,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.085,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.08,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.835,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,359.7,390.8,428.1,562.6,649.4,652.4,860.7,"1,033","1,244","1,345","1,471"
+Portugal,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,30.9,34.15,37.85,49.65,57.52,58.39,77.58,93.42,112.5,122,133.5
+Portugal,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,71.07,73.98,77.67,108.1,124.1,119.5,150.9,172.9,198.5,213.7,231.1
+Portugal,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,29.77,32.85,36.57,45.21,51.88,57.74,84.46,112.5,150.6,163.4,181.7
+Portugal,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,227.9,249.8,276,359.6,415.9,416.7,547.7,653.9,782.3,846.2,924.5
+Portugal,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,8.646,9.545,31.418,15.428,0.462,31.928,20.019,20.426,8.119,9.368
+Portugal,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,10.518,10.835,31.176,15.851,1.513,32.865,20.418,20.424,8.444,9.426
+Portugal,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,4.095,4.988,39.179,14.801,-3.707,26.276,14.579,14.806,7.657,8.142
+Portugal,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,10.346,11.324,23.626,14.753,11.295,46.276,33.199,33.867,8.499,11.2
+Portugal,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,9.609,10.488,30.29,15.656,0.192,31.437,19.39,19.636,8.168,9.253
+Portugal,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,190.2,187.1,185.1,217.9,225.9,208,256.7,292,334.1,341.9,356
+Portugal,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,23.35,23.36,23.37,27.47,28.59,26.59,33.05,37.73,43.18,44.29,46.17
+Portugal,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,58.74,55.36,52.47,65.42,67.44,59.54,70.32,76.4,83.3,84.86,87.39
+Portugal,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,41.44,41.4,41.6,46.07,47.5,48.44,66.28,83.69,106.5,109.3,115.7
+Portugal,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,194.5,192.9,192.4,224.6,233.4,214.3,263.4,298.2,338.9,346.9,360.9
+Portugal,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,89.545,88.91,88.163,83.246,82.231,80.597,78.494,75.435,71.928,,
+Portugal,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,10.455,11.09,11.837,16.754,17.769,19.403,21.506,24.565,28.072,,
+Portugal,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,1.891,2.088,2.313,2.582,2.874,3.137,3.354,3.537,3.724,3.934,4.132
+Portugal,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,1.323,1.462,1.619,1.808,2.012,2.196,2.347,2.476,2.607,2.754,2.893
+Portugal,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,1.21,1.336,1.48,1.653,1.84,2.008,2.146,2.264,2.383,2.518,2.645
+Portugal,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.718,0.794,0.879,0.981,1.092,1.192,1.274,1.344,1.415,1.495,1.57
+Portugal,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,1.172,1.295,1.434,1.601,1.782,1.945,2.079,2.193,2.309,2.439,2.562
+Portugal,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,18.375,20.361,22.619,25.327,28.269,30.934,33.157,35.064,37.013,39.214,41.307
+Portugal,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,12.863,14.252,15.833,17.729,19.788,21.654,23.21,24.545,25.909,27.45,28.915
+Portugal,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,11.76,13.031,14.476,16.209,18.092,19.798,21.22,22.441,23.688,25.097,26.437
+Portugal,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,6.983,7.737,8.595,9.624,10.742,11.755,12.6,13.324,14.065,14.901,15.697
+Portugal,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,11.393,12.624,14.024,15.703,17.527,19.179,20.557,21.74,22.948,24.313,25.611
+Portugal,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.071,,,,,,
+Portugal,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.429,,,,,,
+Portugal,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.786,,,,,,
+Portugal,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.643,,,,,,
+Portugal,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,11.071,,,,,,
+Portugal,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,73.571,,,,,,
+Portugal,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,26.429,,,,,,
+Portugal,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,32.759,,,,,,
+Portugal,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,33.621,,,,,,
+Portugal,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.621,,,,,,
+Portugal,Personal Care,Revenue,Total,million USD (US$),Statista,227.9,249.8,276,359.6,415.9,416.7,547.7,653.9,782.3,846.2,924.5
+Portugal,Personal Care,Revenue,Body Care,million USD (US$),Statista,32.57,35.74,39.55,52.15,60.57,61.86,82.72,100.3,121.7,131.9,144.6
+Portugal,Personal Care,Revenue,Eye Care,million USD (US$),Statista,30.43,33.1,36.31,44.77,50.76,46.34,55.39,60.02,65.08,69.26,73.64
+Portugal,Personal Care,Revenue,Hair Care,million USD (US$),Statista,23.5,25.79,28.54,37.77,43.91,44.84,59.95,72.68,88.17,95.6,104.8
+Portugal,Personal Care,Revenue,Oral Care,million USD (US$),Statista,16.22,17.79,19.69,26.09,30.33,31.05,41.61,50.57,61.49,66.68,73.15
+Portugal,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,83.11,91.09,100.6,131.1,151.7,152,199.7,238.4,285.3,308.6,337.1
+Portugal,Personal Care,Revenue,Skin Care,million USD (US$),Statista,42.09,46.29,51.25,67.72,78.67,80.68,108.3,131.9,160.6,174.2,191.1
+Portugal,Personal Care,Revenue Change,Total,percent,Statista,,9.609,10.488,30.29,15.656,0.192,31.437,19.39,19.636,8.168,9.253
+Portugal,Personal Care,Revenue Change,Body Care,percent,Statista,,9.733,10.66,31.858,16.146,2.13,33.721,21.252,21.336,8.381,9.629
+Portugal,Personal Care,Revenue Change,Eye Care,percent,Statista,,8.774,9.698,23.299,13.379,-8.708,19.53,8.359,8.431,6.423,6.324
+Portugal,Personal Care,Revenue Change,Hair Care,percent,Statista,,9.745,10.663,32.341,16.256,2.118,33.698,21.234,21.313,8.427,9.623
+Portugal,Personal Care,Revenue Change,Oral Care,percent,Statista,,9.679,10.68,32.504,16.251,2.374,34.01,21.533,21.594,8.44,9.703
+Portugal,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,9.602,10.44,30.318,15.713,0.198,31.382,19.379,19.673,8.167,9.235
+Portugal,Personal Care,Revenue Change,Skin Care,percent,Statista,,9.979,10.715,32.137,16.17,2.555,34.234,21.791,21.759,8.468,9.701
+Portugal,Personal Care,Average Revenue per User,Total,USD (US$),Statista,194.5,192.9,192.4,224.6,233.4,214.3,263.4,298.2,338.9,346.9,360.9
+Portugal,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,40.86,40.59,40.55,47.9,49.98,46.78,58.51,67.26,77.52,79.54,83.03
+Portugal,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,51.92,51.14,50.64,55.92,56.97,47.66,53.28,54.74,56.38,56.79,57.48
+Portugal,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,38.56,38.31,38.27,45.36,47.38,44.34,55.45,63.73,73.44,75.37,78.68
+Portugal,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,28.24,28.05,28.02,33.25,34.74,32.58,40.85,47.06,54.36,55.79,58.27
+Portugal,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,157.6,156.4,155.9,182,189.1,173.6,213.5,241.6,274.6,281.1,292.4
+Portugal,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,81.62,81.26,81.22,96.13,100.3,94.28,118.4,136.7,158.1,162.3,169.5
+Portugal,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,Personal Care,Online & Offline Split,Offline,percent,Statista,86.648,85.717,84.655,77.023,76.213,74.666,72.67,69.097,65.105,,
+Portugal,Personal Care,Online & Offline Split,Online,percent,Statista,13.352,14.283,15.345,22.977,23.787,25.334,27.33,30.903,34.895,,
+Portugal,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Personal Care,Users,Total,million users,Statista,1.172,1.295,1.434,1.601,1.782,1.945,2.079,2.193,2.309,2.439,2.562
+Portugal,Personal Care,Users,Body Care,million users,Statista,0.797,0.88,0.975,1.089,1.212,1.322,1.414,1.491,1.57,1.659,1.742
+Portugal,Personal Care,Users,Eye Care,million users,Statista,0.586,0.647,0.717,0.801,0.891,0.972,1.04,1.097,1.154,1.22,1.281
+Portugal,Personal Care,Users,Hair Care,million users,Statista,0.61,0.673,0.746,0.833,0.927,1.011,1.081,1.14,1.2,1.268,1.332
+Portugal,Personal Care,Users,Oral Care,million users,Statista,0.574,0.634,0.703,0.785,0.873,0.953,1.019,1.075,1.131,1.195,1.255
+Portugal,Personal Care,Users,Other Personal Care,million users,Statista,0.527,0.583,0.645,0.721,0.802,0.875,0.936,0.987,1.039,1.098,1.153
+Portugal,Personal Care,Users,Skin Care,million users,Statista,0.516,0.57,0.631,0.705,0.784,0.856,0.915,0.965,1.016,1.073,1.127
+Portugal,Personal Care,Penetration Rate,Body Care,percent,Statista,7.747,8.584,9.536,10.678,11.918,13.042,13.979,14.783,15.605,16.532,17.414
+Portugal,Personal Care,Penetration Rate,Eye Care,percent,Statista,5.696,6.312,7.012,7.851,8.763,9.589,10.279,10.87,11.474,12.157,12.806
+Portugal,Personal Care,Penetration Rate,Hair Care,percent,Statista,5.924,6.564,7.292,8.165,9.114,9.973,10.69,11.305,11.933,12.643,13.319
+Portugal,Personal Care,Penetration Rate,Oral Care,percent,Statista,5.582,6.186,6.872,7.694,8.588,9.398,10.073,10.653,11.244,11.914,12.55
+Portugal,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,5.127,5.681,6.311,7.066,7.887,8.631,9.251,9.783,10.327,10.941,11.526
+Portugal,Personal Care,Penetration Rate,Personal Care,percent,Statista,11.393,12.624,14.024,15.703,17.527,19.179,20.557,21.74,22.948,24.313,25.611
+Portugal,Personal Care,Penetration Rate,Skin Care,percent,Statista,5.013,5.554,6.171,6.909,7.712,8.439,9.045,9.566,10.097,10.698,11.27
+Portugal,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,23.35,23.36,23.37,27.47,28.59,26.59,33.05,37.73,43.18,44.29,46.17
+Portugal,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,19.55,19.51,19.51,22.91,23.85,22.31,27.88,32.01,36.84,37.8,39.45
+Portugal,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,6.134,6.201,6.219,7.323,7.612,6.942,8.448,9.436,10.55,10.81,11.22
+Portugal,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,23.92,23.93,23.95,28.14,29.29,27.25,33.86,38.66,44.24,45.37,47.29
+Portugal,Beauty Care,Revenue,Total,million USD (US$),Statista,30.9,34.15,37.85,49.65,57.52,58.39,77.58,93.42,112.5,122,133.5
+Portugal,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,18.11,19.96,22.11,28.99,33.6,34.29,45.81,55.48,67.21,72.85,79.86
+Portugal,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,4.871,5.439,6.042,7.942,9.189,9.145,11.9,14.02,16.5,17.86,19.48
+Portugal,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,7.914,8.747,9.695,12.72,14.73,14.96,19.87,23.93,28.83,31.24,34.21
+Portugal,Beauty Care,Revenue Change,Total,percent,Statista,,10.518,10.835,31.176,15.851,1.513,32.865,20.418,20.424,8.444,9.426
+Portugal,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,10.215,10.772,31.117,15.902,2.054,33.596,21.109,21.143,8.392,9.623
+Portugal,Beauty Care,Revenue Change,Fragrances,percent,Statista,,11.661,11.087,31.447,15.701,-0.479,30.126,17.815,17.689,8.242,9.071
+Portugal,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,10.526,10.838,31.202,15.802,1.561,32.821,20.433,20.476,8.359,9.507
+Portugal,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,Beauty Care,Online & Offline Split,Offline,percent,Statista,90.23,89.676,89.033,82.299,82.587,81.498,79.694,76.684,73.25,,
+Portugal,Beauty Care,Online & Offline Split,Online,percent,Statista,9.77,10.324,10.967,17.701,17.413,18.502,20.306,23.316,26.75,,
+Portugal,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Beauty Care,Users by Segment,Total,million users,Statista,1.323,1.462,1.619,1.808,2.012,2.196,2.347,2.476,2.607,2.754,2.893
+Portugal,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.926,1.023,1.133,1.265,1.408,1.537,1.643,1.733,1.825,1.928,2.024
+Portugal,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.794,0.877,0.971,1.085,1.207,1.317,1.408,1.486,1.564,1.652,1.735
+Portugal,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.331,0.365,0.405,0.452,0.503,0.549,0.587,0.619,0.652,0.689,0.723
+Portugal,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,12.863,14.252,15.833,17.729,19.788,21.654,23.21,24.545,25.909,27.45,28.915
+Portugal,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,9.004,9.977,11.083,12.41,13.852,15.158,16.247,17.182,18.136,19.213,20.237
+Portugal,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,7.718,8.551,9.5,10.637,11.873,12.992,13.926,14.727,15.545,16.47,17.348
+Portugal,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,3.216,3.563,3.958,4.432,4.947,5.413,5.802,6.136,6.477,6.863,7.23
+Portugal,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,58.74,55.36,52.47,65.42,67.44,59.54,70.32,76.4,83.3,84.86,87.39
+Portugal,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,19.82,18.65,17.65,22.5,23.15,20.82,25.02,27.62,30.57,31.24,32.32
+Portugal,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,32.28,30.38,28.75,34.61,35.01,30.49,35.48,37.93,40.65,41.24,42.25
+Portugal,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,37.78,35.56,33.66,40.84,41.42,36.66,43.35,47.1,51.3,52.19,53.7
+Portugal,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.718,2.558,2.421,5.903,7.783,6.548,7.363,7.608,7.881,8.145,8.362
+Portugal,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,3.646,3.694,3.764,3.969,4.083,4.342,6.171,8.061,10.56,10.84,11.53
+Portugal,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,65.42,61.65,58.43,72.86,75.1,66.31,78.32,85.09,92.78,94.56,97.42
+Portugal,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,10.83,10.2,9.651,11.6,11.73,10.17,11.77,12.53,13.37,13.55,13.86
+Portugal,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,18.67,17.57,16.63,20.55,20.95,18.76,22.44,24.67,27.18,27.72,28.62
+Portugal,Health Care,Revenue,Total,million USD (US$),Statista,71.07,73.98,77.67,108.1,124.1,119.5,150.9,172.9,198.5,213.7,231.1
+Portugal,Health Care,Revenue,Analgesics,million USD (US$),Statista,4.796,4.986,5.227,7.436,8.519,8.36,10.74,12.51,14.57,15.73,17.1
+Portugal,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,15.62,16.24,17.03,22.88,25.76,24.48,30.46,34.35,38.75,41.54,44.7
+Portugal,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,13.71,14.26,14.95,20.25,22.86,22.08,27.91,31.99,36.68,39.42,42.61
+Portugal,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,1.315,1.367,1.434,3.902,5.727,5.258,6.321,6.889,7.512,8.204,8.847
+Portugal,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.882,0.988,1.114,1.312,1.502,1.743,2.649,3.65,5.032,5.461,6.099
+Portugal,Health Care,Revenue,Other Health Care,million USD (US$),Statista,18.21,18.95,19.9,27.7,31.78,30.62,38.66,44.3,50.85,54.76,59.26
+Portugal,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,5.243,5.451,5.715,7.668,8.631,8.163,10.11,11.34,12.74,13.65,14.66
+Portugal,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,11.3,11.74,12.31,16.98,19.27,18.83,24.08,27.92,32.39,34.9,37.85
+Portugal,Health Care,Revenue Change,Total,percent,Statista,,4.095,4.988,39.179,14.801,-3.707,26.276,14.579,14.806,7.657,8.142
+Portugal,Health Care,Revenue Change,Analgesics,percent,Statista,,3.962,4.834,42.261,14.564,-1.866,28.469,16.48,16.467,7.962,8.709
+Portugal,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,3.969,4.865,34.351,12.587,-4.969,24.428,12.771,12.809,7.2,7.607
+Portugal,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,4.012,4.839,35.452,12.889,-3.412,26.404,14.618,14.661,7.47,8.092
+Portugal,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,3.954,4.901,172.106,46.771,-8.189,20.217,8.986,9.043,9.212,7.838
+Portugal,Health Care,Revenue Change,Incontinence,percent,Statista,,11.923,12.81,17.774,14.482,16.045,51.979,37.788,37.863,8.525,11.683
+Portugal,Health Care,Revenue Change,Other Health Care,percent,Statista,,4.064,5.013,39.196,14.729,-3.65,26.257,14.589,14.786,7.689,8.218
+Portugal,Health Care,Revenue Change,Skin Treatment,percent,Statista,,3.967,4.843,34.173,12.559,-5.422,23.852,12.166,12.346,7.143,7.399
+Portugal,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,3.894,4.855,37.937,13.486,-2.283,27.881,15.947,16.01,7.749,8.453
+Portugal,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,Health Care,Online & Offline Split,Offline,percent,Statista,82.201,82.211,82.085,75.301,74.048,72.722,70.854,68.597,66.105,,
+Portugal,Health Care,Online & Offline Split,Online,percent,Statista,17.799,17.789,17.915,24.699,25.952,27.278,29.146,31.403,33.895,,
+Portugal,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Health Care,Users by Segment,Total,million users,Statista,1.21,1.336,1.48,1.653,1.84,2.008,2.146,2.264,2.383,2.518,2.645
+Portugal,Health Care,Users by Segment,Analgesics,million users,Statista,0.242,0.267,0.296,0.331,0.368,0.402,0.429,0.453,0.477,0.504,0.529
+Portugal,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.484,0.535,0.592,0.661,0.736,0.803,0.858,0.906,0.953,1.007,1.058
+Portugal,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.363,0.401,0.444,0.496,0.552,0.602,0.644,0.679,0.715,0.755,0.794
+Portugal,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.484,0.535,0.592,0.661,0.736,0.803,0.858,0.906,0.953,1.007,1.058
+Portugal,Health Care,Users by Segment,Incontinence,million users,Statista,0.242,0.267,0.296,0.331,0.368,0.402,0.429,0.453,0.477,0.504,0.529
+Portugal,Health Care,Users by Segment,Other Health Care,million users,Statista,0.278,0.307,0.34,0.38,0.423,0.462,0.494,0.521,0.548,0.579,0.608
+Portugal,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.484,0.535,0.592,0.661,0.736,0.803,0.858,0.906,0.953,1.007,1.058
+Portugal,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.605,0.668,0.74,0.826,0.92,1.004,1.073,1.132,1.192,1.259,1.322
+Portugal,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.352,2.606,2.895,3.242,3.618,3.96,4.244,4.488,4.738,5.02,5.288
+Portugal,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,4.704,5.212,5.791,6.484,7.237,7.919,8.488,8.976,9.475,10.04,10.576
+Portugal,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,3.528,3.909,4.343,4.863,5.428,5.939,6.366,6.732,7.106,7.53,7.933
+Portugal,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,4.704,5.212,5.791,6.484,7.237,7.919,8.488,8.976,9.475,10.04,10.576
+Portugal,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,11.76,13.031,14.476,16.209,18.092,19.798,21.22,22.441,23.688,25.097,26.437
+Portugal,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.352,2.606,2.895,3.242,3.618,3.96,4.244,4.488,4.738,5.02,5.288
+Portugal,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,2.705,2.997,3.33,3.728,4.161,4.553,4.881,5.161,5.448,5.773,6.081
+Portugal,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,4.704,5.212,5.791,6.484,7.237,7.919,8.488,8.976,9.475,10.04,10.576
+Portugal,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,5.88,6.515,7.238,8.105,9.046,9.899,10.61,11.221,11.844,12.549,13.219
+Portugal,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,41.44,41.4,41.6,46.07,47.5,48.44,66.28,83.69,106.5,109.3,115.7
+Portugal,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,5.883,5.826,5.802,6.855,7.139,7.069,9.401,11.56,14.35,14.73,15.54
+Portugal,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,6.516,6.453,6.427,7.841,8.237,8.168,10.88,13.4,16.65,17.12,18.09
+Portugal,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,17.53,17.77,18.1,19.08,19.62,20.85,29.6,38.63,50.54,51.68,54.73
+Portugal,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,19.07,18.88,18.81,20.47,20.87,20.81,27.86,34.5,43.12,44.18,46.61
+Portugal,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,76.82,76.75,77.13,85.4,88.05,89.8,122.9,155.2,197.3,201.7,212.8
+Portugal,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,2.785,2.822,2.876,3.112,3.221,3.421,4.855,6.332,8.281,8.511,9.051
+Portugal,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,6.823,6.757,6.73,7.221,7.335,7.312,9.79,12.12,15.15,15.51,16.36
+Portugal,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,12.96,13.13,13.38,14.66,15.23,16.1,22.74,29.52,38.43,39.51,42
+Portugal,Household Care,Revenue,Total,million USD (US$),Statista,29.77,32.85,36.57,45.21,51.88,57.74,84.46,112.5,150.6,163.4,181.7
+Portugal,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,1.775,1.942,2.142,2.825,3.275,3.539,5.032,6.525,8.526,9.253,10.26
+Portugal,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,2.107,2.304,2.542,3.463,4.048,4.381,6.239,8.102,10.6,11.52,12.78
+Portugal,Household Care,Revenue,Household Paper,million USD (US$),Statista,2.897,3.243,3.66,4.306,4.929,5.715,8.676,11.94,16.45,17.85,19.93
+Portugal,Household Care,Revenue,Laundry Care,million USD (US$),Statista,5.48,5.994,6.612,8.036,9.118,9.92,14.2,18.55,24.41,26.42,29.28
+Portugal,Household Care,Revenue,Other Household Care,million USD (US$),Statista,12.14,13.4,14.91,18.44,21.16,23.55,34.44,45.88,61.43,66.63,74.1
+Portugal,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.64,0.717,0.809,0.977,1.126,1.305,1.98,2.724,3.75,4.072,4.549
+Portugal,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,1.471,1.609,1.775,2.126,2.404,2.615,3.743,4.887,6.431,6.957,7.708
+Portugal,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,3.258,3.646,4.115,5.036,5.823,6.716,10.14,13.89,19.03,20.67,23.08
+Portugal,Household Care,Revenue Change,Total,percent,Statista,,10.346,11.324,23.626,14.753,11.295,46.276,33.199,33.867,8.499,11.2
+Portugal,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,9.408,10.299,31.886,15.929,8.061,42.187,29.67,30.667,8.527,10.883
+Portugal,Household Care,Revenue Change,Household Cleaners,percent,Statista,,9.35,10.33,36.231,16.893,8.226,42.41,29.861,30.832,8.679,10.937
+Portugal,Household Care,Revenue Change,Household Paper,percent,Statista,,11.943,12.858,17.65,14.468,15.946,51.811,37.621,37.772,8.511,11.653
+Portugal,Household Care,Revenue Change,Laundry Care,percent,Statista,,9.38,10.31,21.537,13.464,8.796,43.145,30.634,31.59,8.234,10.825
+Portugal,Household Care,Revenue Change,Other Household Care,percent,Statista,,10.379,11.269,23.675,14.751,11.295,46.242,33.217,33.893,8.465,11.211
+Portugal,Household Care,Revenue Change,Paper Tissues,percent,Statista,,11.932,12.851,20.833,15.215,15.897,51.724,37.576,37.665,8.587,11.714
+Portugal,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,9.381,10.317,19.775,13.076,8.777,43.136,30.564,31.594,8.179,10.795
+Portugal,Household Care,Revenue Change,Toilet Paper,percent,Statista,,11.909,12.863,22.382,15.627,15.336,50.983,36.982,37.005,8.618,11.659
+Portugal,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Portugal,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Portugal,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Portugal,Household Care,Online & Offline Split,Offline,percent,Statista,97.075,96.805,96.481,95.793,95.273,94.008,92.309,90.104,87.269,,
+Portugal,Household Care,Online & Offline Split,Online,percent,Statista,2.925,3.195,3.519,4.207,4.727,5.992,7.691,9.896,12.731,,
+Portugal,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Household Care,Users by Segment,Total,million users,Statista,0.718,0.794,0.879,0.981,1.092,1.192,1.274,1.344,1.415,1.495,1.57
+Portugal,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.302,0.333,0.369,0.412,0.459,0.501,0.535,0.565,0.594,0.628,0.66
+Portugal,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.323,0.357,0.396,0.442,0.492,0.536,0.573,0.605,0.637,0.673,0.707
+Portugal,Household Care,Users by Segment,Household Paper,million users,Statista,0.165,0.183,0.202,0.226,0.251,0.274,0.293,0.309,0.325,0.345,0.364
+Portugal,Household Care,Users by Segment,Laundry Care,million users,Statista,0.287,0.317,0.352,0.393,0.437,0.477,0.51,0.538,0.566,0.598,0.628
+Portugal,Household Care,Users by Segment,Other Household Care,million users,Statista,0.158,0.175,0.193,0.216,0.24,0.262,0.28,0.296,0.311,0.33,0.348
+Portugal,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.23,0.254,0.281,0.314,0.35,0.381,0.408,0.43,0.453,0.478,0.503
+Portugal,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.216,0.238,0.264,0.294,0.328,0.358,0.382,0.403,0.424,0.449,0.471
+Portugal,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.251,0.278,0.308,0.343,0.382,0.417,0.446,0.47,0.495,0.523,0.55
+Portugal,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.933,3.25,3.61,4.042,4.512,4.937,5.292,5.596,5.907,6.262,6.599
+Portugal,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,6.983,7.737,8.595,9.624,10.742,11.755,12.6,13.324,14.065,14.901,15.697
+Portugal,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,3.142,3.482,3.868,4.331,4.834,5.29,5.67,5.996,6.329,6.706,7.065
+Portugal,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.606,1.78,1.977,2.214,2.471,2.704,2.898,3.065,3.235,3.442,3.64
+Portugal,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,2.793,3.095,3.438,3.85,4.297,4.702,5.04,5.33,5.626,5.961,6.279
+Portugal,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.536,1.702,1.891,2.117,2.363,2.586,2.772,2.931,3.094,3.292,3.482
+Portugal,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.234,2.476,2.751,3.08,3.438,3.762,4.032,4.264,4.501,4.769,5.024
+Portugal,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.095,2.321,2.579,2.887,3.223,3.526,3.78,3.997,4.219,4.471,4.71
+Portugal,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.444,2.708,3.008,3.368,3.76,4.114,4.41,4.664,4.923,5.216,5.494
+Portugal,Food,Revenue,Total,million USD (US$),Statista,49.1,53.69,58.97,90.4,109.4,102.2,124.8,137.8,151.9,164.1,176.6
+Portugal,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,4.735,5.178,5.686,10.98,14.29,13.01,15.45,16.6,17.8,19.09,20.27
+Portugal,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,10.49,11.47,12.59,20.45,25.08,23.3,28.26,31,33.96,36.88,39.8
+Portugal,Food,Revenue,Convenience Food,million USD (US$),Statista,2.158,2.36,2.592,5.024,6.537,5.965,7.106,7.655,8.231,8.85,9.42
+Portugal,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,7.133,7.8,8.566,11.62,13.51,12.82,15.88,17.79,19.91,21.46,23.13
+Portugal,Food,Revenue,Fish & Seafood,million USD (US$),Statista,2.359,2.579,2.833,4.097,4.85,4.573,5.631,6.271,6.974,7.54,8.135
+Portugal,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,4.274,4.674,5.133,7.425,8.791,8.293,10.21,11.38,12.66,13.69,14.77
+Portugal,Food,Revenue,Meat,million USD (US$),Statista,10.47,11.45,12.58,18.21,21.57,20.31,24.96,27.76,30.82,33.32,35.93
+Portugal,Food,Revenue,Oils & Fats,million USD (US$),Statista,1.241,1.357,1.49,2.022,2.351,2.231,2.765,3.1,3.471,3.742,4.035
+Portugal,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.576,0.63,0.692,0.85,0.962,0.924,1.159,1.315,1.49,1.599,1.723
+Portugal,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.377,0.412,0.453,0.519,0.577,0.567,0.728,0.846,0.982,1.053,1.138
+Portugal,Food,Revenue,Vegetables,million USD (US$),Statista,5.292,5.787,6.355,9.19,10.88,10.26,12.63,14.06,15.63,16.9,18.23
+Portugal,Food,Revenue Change,Total,percent,Statista,,9.348,9.834,53.298,21.018,-6.581,22.114,10.417,10.232,8.032,7.617
+Portugal,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,9.356,9.811,93.106,30.146,-8.957,18.755,7.443,7.229,7.247,6.181
+Portugal,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,9.342,9.765,62.431,22.641,-7.097,21.288,9.696,9.548,8.598,7.918
+Portugal,Food,Revenue Change,Convenience Food,percent,Statista,,9.361,9.831,93.827,30.115,-8.75,19.128,7.726,7.524,7.52,6.441
+Portugal,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,9.351,9.821,35.653,16.265,-5.107,23.869,12.028,11.917,7.785,7.782
+Portugal,Food,Revenue Change,Fish & Seafood,percent,Statista,,9.326,9.849,44.617,18.379,-5.711,23.136,11.366,11.21,8.116,7.891
+Portugal,Food,Revenue Change,Fruits & Nuts,percent,Statista,,9.359,9.82,44.652,18.397,-5.665,23.116,11.459,11.248,8.136,7.889
+Portugal,Food,Revenue Change,Meat,percent,Statista,,9.36,9.869,44.754,18.451,-5.841,22.895,11.218,11.023,8.112,7.833
+Portugal,Food,Revenue Change,Oils & Fats,percent,Statista,,9.347,9.801,35.705,16.271,-5.104,23.935,12.116,11.968,7.808,7.83
+Portugal,Food,Revenue Change,Sauces & Spices,percent,Statista,,9.356,9.825,22.807,13.169,-3.941,25.474,13.46,13.308,7.315,7.755
+Portugal,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,9.337,9.825,14.579,11.201,-1.699,28.395,16.195,16.101,7.219,8.072
+Portugal,Food,Revenue Change,Vegetables,percent,Statista,,9.354,9.815,44.611,18.39,-5.699,23.099,11.322,11.166,8.125,7.87
+Portugal,Food,Average Revenue per User,Total,USD (US$),Statista,52.15,50.73,49.33,66.67,71.5,60.54,68.43,71.51,74.8,76.17,77.83
+Portugal,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,10.7,10.41,10.12,17.23,19.87,16.39,18.03,18.33,18.65,18.85,19
+Portugal,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,22.73,22.11,21.5,30.79,33.45,28.16,31.63,32.84,34.12,34.94,35.8
+Portugal,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,4.093,3.982,3.872,6.617,7.629,6.308,6.959,7.095,7.237,7.336,7.415
+Portugal,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,32.94,32.04,31.15,37.28,38.4,33,37.86,40.14,42.61,43.3,44.32
+Portugal,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,13.19,12.83,12.47,15.9,16.68,14.25,16.25,17.13,18.07,18.42,18.87
+Portugal,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,8.729,8.491,8.257,10.53,11.05,9.444,10.77,11.36,11.99,12.22,12.52
+Portugal,Food,Average Revenue per User,Meat,USD (US$),Statista,37.07,36.06,35.07,44.78,46.99,40.08,45.63,48.02,50.58,51.54,52.78
+Portugal,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,5.271,5.127,4.986,5.966,6.146,5.286,6.067,6.436,6.836,6.947,7.113
+Portugal,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,1.391,1.353,1.315,1.424,1.428,1.243,1.444,1.551,1.668,1.687,1.726
+Portugal,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,1.213,1.18,1.148,1.159,1.142,1.018,1.21,1.33,1.465,1.48,1.52
+Portugal,Food,Average Revenue per User,Vegetables,USD (US$),Statista,11.47,11.16,10.85,13.83,14.51,12.39,14.13,14.89,15.7,16,16.4
+Portugal,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Food,Online & Offline Split,Offline,percent,Statista,99.77,99.757,99.737,99.657,99.558,99.5,99.451,99.409,99.363,,
+Portugal,Food,Online & Offline Split,Online,percent,Statista,0.23,0.243,0.263,0.343,0.442,0.5,0.549,0.591,0.637,,
+Portugal,Food,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Food,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Food,Users,Total,million users,Statista,0.942,1.058,1.195,1.356,1.53,1.689,1.823,1.927,2.031,2.155,2.269
+Portugal,Food,Users,Bread & Cereal Products,million users,Statista,0.443,0.497,0.562,0.637,0.719,0.794,0.857,0.906,0.955,1.013,1.066
+Portugal,Food,Users,Confectionery & Snacks,million users,Statista,0.461,0.519,0.586,0.664,0.75,0.827,0.893,0.944,0.995,1.056,1.112
+Portugal,Food,Users,Convenience Food,million users,Statista,0.527,0.593,0.669,0.759,0.857,0.946,1.021,1.079,1.137,1.206,1.27
+Portugal,Food,Users,Dairy Products & Eggs,million users,Statista,0.217,0.243,0.275,0.312,0.352,0.388,0.419,0.443,0.467,0.496,0.522
+Portugal,Food,Users,Fish & Seafood,million users,Statista,0.179,0.201,0.227,0.258,0.291,0.321,0.346,0.366,0.386,0.409,0.431
+Portugal,Food,Users,Fruits & Nuts,million users,Statista,0.49,0.55,0.622,0.705,0.796,0.878,0.948,1.002,1.056,1.12,1.18
+Portugal,Food,Users,Meat,million users,Statista,0.282,0.318,0.359,0.407,0.459,0.507,0.547,0.578,0.609,0.646,0.681
+Portugal,Food,Users,Oils & Fats,million users,Statista,0.235,0.265,0.299,0.339,0.383,0.422,0.456,0.482,0.508,0.539,0.567
+Portugal,Food,Users,Sauces & Spices,million users,Statista,0.414,0.466,0.526,0.597,0.673,0.743,0.802,0.848,0.894,0.948,0.998
+Portugal,Food,Users,Spreads & Sweeteners,million users,Statista,0.311,0.349,0.394,0.447,0.505,0.557,0.602,0.636,0.67,0.711,0.749
+Portugal,Food,Users,Vegetables,million users,Statista,0.461,0.519,0.586,0.664,0.75,0.827,0.893,0.944,0.995,1.056,1.112
+Portugal,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,4.301,4.851,5.494,6.249,7.073,7.827,8.473,8.977,9.489,10.094,10.661
+Portugal,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,4.484,5.057,5.728,6.515,7.374,8.16,8.834,9.359,9.893,10.523,11.114
+Portugal,Food,Penetration Rate,Convenience Food,percent,Statista,5.125,5.779,6.546,7.446,8.427,9.326,10.096,10.696,11.306,12.026,12.7
+Portugal,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.105,2.374,2.689,3.058,3.461,3.83,4.147,4.393,4.644,4.94,5.217
+Portugal,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.739,1.961,2.221,2.526,2.859,3.164,3.425,3.629,3.836,4.081,4.31
+Portugal,Food,Penetration Rate,Food,percent,Statista,9.151,10.32,11.69,13.297,15.048,16.653,18.028,19.1,20.189,21.476,22.681
+Portugal,Food,Penetration Rate,Fruits & Nuts,percent,Statista,4.759,5.367,6.079,6.914,7.825,8.659,9.375,9.932,10.498,11.167,11.794
+Portugal,Food,Penetration Rate,Meat,percent,Statista,2.745,3.096,3.507,3.989,4.514,4.996,5.409,5.73,6.057,6.444,6.806
+Portugal,Food,Penetration Rate,Oils & Fats,percent,Statista,2.288,2.58,2.922,3.324,3.762,4.163,4.507,4.775,5.047,5.369,5.671
+Portugal,Food,Penetration Rate,Sauces & Spices,percent,Statista,4.027,4.541,5.143,5.85,6.621,7.327,7.932,8.404,8.883,9.45,9.981
+Portugal,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.02,3.406,3.858,4.388,4.966,5.495,5.949,6.303,6.662,7.088,7.487
+Portugal,Food,Penetration Rate,Vegetables,percent,Statista,4.484,5.057,5.728,6.515,7.374,8.16,8.834,9.359,9.893,10.523,11.114
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,10.7,10.41,10.12,17.23,19.87,16.39,18.03,18.33,18.65,18.85,19
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,10.99,10.69,10.39,18.08,20.98,17.26,18.94,19.21,19.5,19.69,19.82
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.889,0.865,0.841,1.073,1.126,0.964,1.101,1.162,1.228,1.251,1.283
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,3.493,3.397,3.304,5.624,6.488,5.349,5.886,5.984,6.088,6.158,6.21
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,1.123,1.092,1.062,1.848,2.144,1.764,1.936,1.964,1.993,2.013,2.026
+Portugal,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.514,0.5,0.486,0.847,0.983,0.809,0.889,0.903,0.917,0.927,0.934
+Portugal,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,4.735,5.178,5.686,10.98,14.29,13.01,15.45,16.6,17.8,19.09,20.27
+Portugal,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,3.063,3.35,3.679,7.259,9.505,8.63,10.23,10.96,11.73,12.56,13.32
+Portugal,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.327,0.357,0.392,0.568,0.672,0.635,0.783,0.873,0.973,1.052,1.135
+Portugal,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.696,0.76,0.835,1.613,2.099,1.911,2.27,2.439,2.615,2.806,2.981
+Portugal,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.447,0.489,0.537,1.06,1.388,1.26,1.493,1.6,1.712,1.834,1.945
+Portugal,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.202,0.221,0.243,0.48,0.629,0.572,0.678,0.727,0.779,0.836,0.887
+Portugal,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,9.356,9.811,93.106,30.146,-8.957,18.755,7.443,7.229,7.247,6.181
+Portugal,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,9.37,9.821,97.309,30.941,-9.206,18.54,7.136,7.026,7.076,6.051
+Portugal,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,9.339,9.829,44.722,18.411,-5.55,23.314,11.548,11.406,8.141,7.89
+Portugal,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,9.346,9.836,93.104,30.13,-8.957,18.786,7.445,7.216,7.304,6.237
+Portugal,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,9.347,9.836,97.356,30.943,-9.222,18.492,7.167,7,7.126,6.052
+Portugal,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,9.392,9.806,97.572,30.994,-9.111,18.632,7.27,7.08,7.267,6.14
+Portugal,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Portugal,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Portugal,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.735,99.72,99.696,99.55,99.34,99.244,99.177,99.136,99.092,,
+Portugal,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.265,0.28,0.304,0.45,0.66,0.756,0.823,0.864,0.908,,
+Portugal,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.443,0.497,0.562,0.637,0.719,0.794,0.857,0.906,0.955,1.013,1.066
+Portugal,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.279,0.313,0.354,0.401,0.453,0.5,0.54,0.571,0.601,0.638,0.672
+Portugal,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.367,0.413,0.466,0.529,0.597,0.659,0.711,0.752,0.792,0.841,0.885
+Portugal,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.199,0.224,0.253,0.287,0.324,0.357,0.386,0.408,0.43,0.456,0.48
+Portugal,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.398,0.448,0.506,0.574,0.647,0.714,0.771,0.815,0.859,0.911,0.96
+Portugal,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.394,0.443,0.5,0.567,0.64,0.706,0.763,0.806,0.85,0.901,0.949
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,2.71,3.056,3.461,3.937,4.456,4.931,5.338,5.656,5.978,6.36,6.718
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,4.301,4.851,5.494,6.249,7.073,7.827,8.473,8.977,9.489,10.094,10.661
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,3.57,4.026,4.56,5.187,5.87,6.496,7.033,7.451,7.876,8.378,8.849
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.936,2.183,2.472,2.812,3.183,3.522,3.813,4.04,4.27,4.542,4.798
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,3.871,4.365,4.945,5.624,6.365,7.044,7.626,8.079,8.54,9.085,9.595
+Portugal,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,3.828,4.317,4.89,5.562,6.295,6.966,7.541,7.99,8.445,8.984,9.489
+Portugal,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,22.73,22.11,21.5,30.79,33.45,28.16,31.63,32.84,34.12,34.94,35.8
+Portugal,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,20.43,19.87,19.32,27.41,29.69,25,28.09,29.17,30.31,31.02,31.77
+Portugal,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.469,0.456,0.444,0.635,0.69,0.581,0.653,0.678,0.704,0.721,0.739
+Portugal,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,6.152,5.985,5.82,8.564,9.386,7.895,8.863,9.194,9.546,9.787,10.04
+Portugal,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,10.49,11.47,12.59,20.45,25.08,23.3,28.26,31,33.96,36.88,39.8
+Portugal,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,7.727,8.45,9.28,14.93,18.25,16.96,20.58,22.58,24.74,26.86,28.97
+Portugal,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.119,0.13,0.143,0.232,0.285,0.264,0.321,0.352,0.385,0.419,0.452
+Portugal,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,2.64,2.887,3.17,5.291,6.544,6.076,7.364,8.073,8.835,9.61,10.38
+Portugal,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,9.342,9.765,62.431,22.641,-7.097,21.288,9.696,9.548,8.598,7.918
+Portugal,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,9.357,9.822,60.884,22.237,-7.068,21.344,9.718,9.566,8.569,7.856
+Portugal,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,9.328,9.839,62.421,22.62,-7.098,21.331,9.695,9.52,8.614,7.907
+Portugal,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,9.356,9.803,66.909,23.682,-7.152,21.198,9.628,9.439,8.772,8.012
+Portugal,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Portugal,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Portugal,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.772,99.758,99.737,99.645,99.53,99.467,99.415,99.374,99.329,,
+Portugal,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.228,0.242,0.263,0.355,0.47,0.533,0.585,0.626,0.671,,
+Portugal,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.461,0.519,0.586,0.664,0.75,0.827,0.893,0.944,0.995,1.056,1.112
+Portugal,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.378,0.425,0.48,0.545,0.615,0.679,0.733,0.774,0.816,0.866,0.912
+Portugal,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.254,0.285,0.322,0.365,0.412,0.455,0.491,0.519,0.547,0.581,0.612
+Portugal,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.429,0.482,0.545,0.618,0.697,0.77,0.831,0.878,0.926,0.982,1.034
+Portugal,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,3.677,4.147,4.697,5.343,6.046,6.691,7.244,7.674,8.112,8.63,9.115
+Portugal,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,4.484,5.057,5.728,6.515,7.374,8.16,8.834,9.359,9.893,10.523,11.114
+Portugal,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.466,2.781,3.15,3.583,4.055,4.488,4.859,5.147,5.441,5.789,6.114
+Portugal,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,4.17,4.703,5.327,6.059,6.857,7.589,8.216,8.704,9.2,9.787,10.337
+Portugal,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,4.093,3.982,3.872,6.617,7.629,6.308,6.959,7.095,7.237,7.336,7.415
+Portugal,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,5.095,4.956,4.819,8.236,9.495,7.848,8.655,8.82,8.992,9.111,9.205
+Portugal,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.963,0.937,0.911,1.557,1.795,1.488,1.646,1.682,1.72,1.747,1.769
+Portugal,Convenience Food,Revenue,Total,million USD (US$),Statista,2.158,2.36,2.592,5.024,6.537,5.965,7.106,7.655,8.231,8.85,9.42
+Portugal,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,1.853,2.027,2.226,4.314,5.614,5.121,6.098,6.566,7.057,7.586,8.072
+Portugal,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.305,0.333,0.366,0.709,0.923,0.844,1.008,1.089,1.174,1.265,1.349
+Portugal,Convenience Food,Revenue Change,Total,percent,Statista,,9.361,9.831,93.827,30.115,-8.75,19.128,7.726,7.524,7.52,6.441
+Portugal,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,9.39,9.817,93.801,30.134,-8.782,19.078,7.675,7.478,7.496,6.407
+Portugal,Convenience Food,Revenue Change,Soups,percent,Statista,,9.353,9.814,93.851,30.128,-8.527,19.389,8.036,7.805,7.751,6.64
+Portugal,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.774,99.762,99.744,99.622,99.449,99.371,99.317,99.286,99.252,,
+Portugal,Convenience Food,Online & Offline Split,Online,percent,Statista,0.226,0.238,0.256,0.378,0.551,0.629,0.683,0.714,0.748,,
+Portugal,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Convenience Food,Users by Segment,Total,million users,Statista,0.527,0.593,0.669,0.759,0.857,0.946,1.021,1.079,1.137,1.206,1.27
+Portugal,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.364,0.409,0.462,0.524,0.591,0.653,0.705,0.744,0.785,0.833,0.877
+Portugal,Convenience Food,Users by Segment,Soups,million users,Statista,0.316,0.356,0.402,0.456,0.514,0.567,0.613,0.647,0.682,0.724,0.763
+Portugal,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,5.125,5.779,6.546,7.446,8.427,9.326,10.096,10.696,11.306,12.026,12.7
+Portugal,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,3.536,3.988,4.517,5.138,5.815,6.435,6.966,7.38,7.801,8.299,8.766
+Portugal,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.075,3.468,3.928,4.468,5.056,5.595,6.058,6.418,6.784,7.217,7.623
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,32.94,32.04,31.15,37.28,38.4,33,37.86,40.14,42.61,43.3,44.32
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,17.03,16.56,16.11,19.27,19.85,17.06,19.57,20.76,22.04,22.39,22.92
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,7.369,7.168,6.97,8.343,8.595,7.392,8.486,9.005,9.566,9.665,9.846
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,8.559,8.326,8.096,9.684,9.974,8.567,9.82,10.41,11.04,11.21,11.48
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,18.49,17.99,17.49,20.93,21.56,18.53,21.26,22.54,23.93,24.18,24.62
+Portugal,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,6.996,6.805,6.618,7.919,8.158,7.014,8.049,8.538,9.066,9.159,9.328
+Portugal,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,7.133,7.8,8.566,11.62,13.51,12.82,15.88,17.79,19.91,21.46,23.13
+Portugal,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,2.766,3.024,3.321,4.507,5.24,4.97,6.157,6.899,7.721,8.322,8.972
+Portugal,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.686,0.75,0.824,1.119,1.301,1.235,1.53,1.716,1.922,2.072,2.234
+Portugal,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,1.446,1.581,1.736,2.355,2.738,2.595,3.212,3.597,4.022,4.334,4.672
+Portugal,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,1.402,1.533,1.683,2.285,2.656,2.519,3.121,3.496,3.913,4.217,4.547
+Portugal,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.833,0.911,1.001,1.358,1.579,1.498,1.857,2.081,2.329,2.511,2.707
+Portugal,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,9.351,9.821,35.653,16.265,-5.107,23.869,12.028,11.917,7.785,7.782
+Portugal,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,9.328,9.821,35.712,16.264,-5.153,23.883,12.051,11.915,7.784,7.811
+Portugal,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,9.356,9.821,35.784,16.265,-5.073,23.887,12.157,12.005,7.804,7.819
+Portugal,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,9.336,9.804,35.657,16.263,-5.223,23.776,11.986,11.815,7.757,7.799
+Portugal,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,9.344,9.785,35.769,16.236,-5.158,23.898,12.015,11.928,7.769,7.825
+Portugal,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,9.348,9.855,35.664,16.274,-5.13,23.965,12.062,11.917,7.815,7.806
+Portugal,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Portugal,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Portugal,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.774,99.761,99.741,99.685,99.62,99.57,99.523,99.478,99.429,,
+Portugal,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.226,0.239,0.259,0.315,0.38,0.43,0.477,0.522,0.571,,
+Portugal,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.217,0.243,0.275,0.312,0.352,0.388,0.419,0.443,0.467,0.496,0.522
+Portugal,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.162,0.183,0.206,0.234,0.264,0.291,0.315,0.332,0.35,0.372,0.391
+Portugal,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.093,0.105,0.118,0.134,0.151,0.167,0.18,0.191,0.201,0.214,0.227
+Portugal,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.169,0.19,0.214,0.243,0.274,0.303,0.327,0.346,0.364,0.387,0.407
+Portugal,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.076,0.085,0.096,0.109,0.123,0.136,0.147,0.155,0.164,0.174,0.185
+Portugal,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.119,0.134,0.151,0.172,0.194,0.214,0.231,0.244,0.257,0.274,0.29
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.579,1.78,2.016,2.294,2.596,2.873,3.11,3.295,3.483,3.705,3.913
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.105,2.374,2.689,3.058,3.461,3.83,4.147,4.393,4.644,4.94,5.217
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.905,1.021,1.156,1.315,1.488,1.647,1.783,1.889,1.997,2.136,2.268
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.642,1.851,2.097,2.385,2.7,2.988,3.234,3.427,3.622,3.853,4.07
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.737,0.831,0.941,1.07,1.211,1.341,1.451,1.538,1.625,1.739,1.846
+Portugal,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.158,1.306,1.479,1.682,1.904,2.107,2.281,2.416,2.554,2.733,2.901
+Portugal,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,13.19,12.83,12.47,15.9,16.68,14.25,16.25,17.13,18.07,18.42,18.87
+Portugal,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,18.29,17.79,17.3,22.07,23.15,19.8,22.59,23.82,25.15,25.49,25.99
+Portugal,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,8.667,8.43,8.198,10.45,10.96,9.355,10.66,11.22,11.83,11.99,12.22
+Portugal,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,4.415,4.294,4.176,5.322,5.582,4.765,5.429,5.716,6.025,6.139,6.288
+Portugal,Fish & Seafood,Revenue,Total,million USD (US$),Statista,2.359,2.579,2.833,4.097,4.85,4.573,5.631,6.271,6.974,7.54,8.135
+Portugal,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,1.276,1.395,1.532,2.217,2.625,2.477,3.052,3.401,3.786,4.093,4.417
+Portugal,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.372,0.407,0.447,0.646,0.765,0.72,0.886,0.986,1.096,1.185,1.278
+Portugal,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.711,0.777,0.854,1.234,1.46,1.376,1.693,1.883,2.093,2.262,2.44
+Portugal,Fish & Seafood,Revenue Change,Total,percent,Statista,,9.326,9.849,44.617,18.379,-5.711,23.136,11.366,11.21,8.116,7.891
+Portugal,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,9.326,9.821,44.713,18.403,-5.638,23.214,11.435,11.32,8.109,7.916
+Portugal,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,9.352,9.83,44.551,18.359,-5.781,23.015,11.273,11.145,8.12,7.848
+Portugal,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,9.356,9.816,44.564,18.314,-5.753,23.038,11.223,11.152,8.075,7.869
+Portugal,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.774,99.762,99.743,99.676,99.597,99.545,99.498,99.456,99.41,,
+Portugal,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.226,0.238,0.257,0.324,0.403,0.455,0.502,0.544,0.59,,
+Portugal,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Fish & Seafood,Users by Segment,Total,million users,Statista,0.179,0.201,0.227,0.258,0.291,0.321,0.346,0.366,0.386,0.409,0.431
+Portugal,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.07,0.078,0.089,0.1,0.113,0.125,0.135,0.143,0.151,0.161,0.17
+Portugal,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.043,0.048,0.055,0.062,0.07,0.077,0.083,0.088,0.093,0.099,0.105
+Portugal,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.161,0.181,0.204,0.232,0.262,0.289,0.312,0.329,0.347,0.368,0.388
+Portugal,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.739,1.961,2.221,2.526,2.859,3.164,3.425,3.629,3.836,4.081,4.31
+Portugal,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.678,0.765,0.866,0.985,1.115,1.234,1.336,1.415,1.496,1.601,1.699
+Portugal,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.417,0.471,0.533,0.606,0.686,0.759,0.822,0.871,0.921,0.985,1.045
+Portugal,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.565,1.765,1.999,2.274,2.573,2.848,3.083,3.266,3.452,3.673,3.879
+Portugal,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,8.729,8.491,8.257,10.53,11.05,9.444,10.77,11.36,11.99,12.22,12.52
+Portugal,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,10.07,9.795,9.525,12.15,12.74,10.89,12.42,13.1,13.82,14.08,14.43
+Portugal,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,1.501,1.46,1.42,1.812,1.901,1.627,1.859,1.963,2.075,2.114,2.167
+Portugal,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,1.86,1.809,1.759,2.244,2.354,2.012,2.296,2.421,2.555,2.603,2.667
+Portugal,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,4.274,4.674,5.133,7.425,8.791,8.293,10.21,11.38,12.66,13.69,14.77
+Portugal,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,3.451,3.774,4.145,5.996,7.098,6.695,8.245,9.185,10.22,11.05,11.92
+Portugal,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.367,0.402,0.441,0.639,0.756,0.715,0.881,0.983,1.096,1.185,1.279
+Portugal,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.455,0.498,0.547,0.791,0.936,0.883,1.088,1.213,1.349,1.459,1.574
+Portugal,Fruits & Nuts,Revenue Change,Total,percent,Statista,,9.359,9.82,44.652,18.397,-5.665,23.116,11.459,11.248,8.136,7.889
+Portugal,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,9.36,9.83,44.656,18.379,-5.678,23.152,11.401,11.268,8.121,7.873
+Portugal,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,9.363,9.806,44.787,18.41,-5.539,23.345,11.574,11.461,8.12,7.932
+Portugal,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,9.356,9.821,44.66,18.394,-5.659,23.147,11.489,11.212,8.154,7.882
+Portugal,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.774,99.762,99.743,99.677,99.599,99.547,99.501,99.459,99.414,,
+Portugal,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.226,0.238,0.257,0.323,0.401,0.453,0.499,0.541,0.586,,
+Portugal,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.49,0.55,0.622,0.705,0.796,0.878,0.948,1.002,1.056,1.12,1.18
+Portugal,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.343,0.385,0.435,0.494,0.557,0.615,0.664,0.701,0.739,0.784,0.826
+Portugal,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.245,0.275,0.311,0.353,0.398,0.439,0.474,0.501,0.528,0.56,0.59
+Portugal,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.245,0.275,0.311,0.353,0.398,0.439,0.474,0.501,0.528,0.56,0.59
+Portugal,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,3.331,3.757,4.255,4.84,5.477,6.062,6.562,6.952,7.349,7.818,8.258
+Portugal,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,4.759,5.367,6.079,6.914,7.825,8.659,9.375,9.932,10.498,11.167,11.794
+Portugal,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.379,2.683,3.039,3.457,3.912,4.33,4.687,4.966,5.249,5.586,5.901
+Portugal,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.379,2.683,3.039,3.457,3.912,4.33,4.687,4.966,5.249,5.586,5.901
+Portugal,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,37.07,36.06,35.07,44.78,46.99,40.08,45.63,48.02,50.58,51.54,52.78
+Portugal,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,32,31.13,30.27,38.68,40.59,34.84,39.91,42.26,44.79,45.68,46.85
+Portugal,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,17.23,16.76,16.3,20.79,21.82,18.44,20.8,21.68,22.62,23.01,23.5
+Portugal,Meat,Revenue,Total,million USD (US$),Statista,10.47,11.45,12.58,18.21,21.57,20.31,24.96,27.76,30.82,33.32,35.93
+Portugal,Meat,Revenue,Fresh Meat,million USD (US$),Statista,6.238,6.821,7.491,10.85,12.86,12.18,15.06,16.85,18.83,20.37,22.01
+Portugal,Meat,Revenue,Processed Meat,million USD (US$),Statista,4.234,4.63,5.084,7.359,8.713,8.127,9.897,10.9,11.99,12.94,13.93
+Portugal,Meat,Revenue Change,Total,percent,Statista,,9.36,9.869,44.754,18.451,-5.841,22.895,11.218,11.023,8.112,7.833
+Portugal,Meat,Revenue Change,Fresh Meat,percent,Statista,,9.346,9.823,44.84,18.525,-5.288,23.645,11.886,11.751,8.178,8.051
+Portugal,Meat,Revenue Change,Processed Meat,percent,Statista,,9.353,9.806,44.748,18.399,-6.726,21.779,10.134,10,7.923,7.651
+Portugal,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Portugal,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Portugal,Meat,Online & Offline Split,Offline,percent,Statista,99.774,99.761,99.741,99.673,99.592,99.538,99.49,99.447,99.399,,
+Portugal,Meat,Online & Offline Split,Online,percent,Statista,0.226,0.239,0.259,0.327,0.408,0.462,0.51,0.553,0.601,,
+Portugal,Meat,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Meat,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Meat,Users by Segment,Total,million users,Statista,0.282,0.318,0.359,0.407,0.459,0.507,0.547,0.578,0.609,0.646,0.681
+Portugal,Meat,Users by Segment,Fresh Meat,million users,Statista,0.195,0.219,0.247,0.281,0.317,0.35,0.377,0.399,0.42,0.446,0.47
+Portugal,Meat,Users by Segment,Processed Meat,million users,Statista,0.246,0.276,0.312,0.354,0.399,0.441,0.476,0.503,0.53,0.562,0.593
+Portugal,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.894,2.136,2.42,2.752,3.115,3.447,3.732,3.954,4.179,4.446,4.696
+Portugal,Meat,Penetration Rate by Segment,Meat,percent,Statista,2.745,3.096,3.507,3.989,4.514,4.996,5.409,5.73,6.057,6.444,6.806
+Portugal,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.389,2.694,3.051,3.47,3.928,4.346,4.705,4.985,5.269,5.607,5.923
+Portugal,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,5.271,5.127,4.986,5.966,6.146,5.286,6.067,6.436,6.836,6.947,7.113
+Portugal,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,2.061,2.004,1.949,2.333,2.404,2.069,2.377,2.523,2.682,2.726,2.791
+Portugal,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,1.817,1.767,1.719,2.057,2.12,1.824,2.095,2.224,2.364,2.402,2.46
+Portugal,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,1.147,1.116,1.085,1.296,1.335,1.144,1.308,1.383,1.464,1.487,1.521
+Portugal,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,2.085,2.029,1.973,2.362,2.433,2.094,2.405,2.553,2.714,2.758,2.824
+Portugal,Oils & Fats,Revenue,Total,million USD (US$),Statista,1.241,1.357,1.49,2.022,2.351,2.231,2.765,3.1,3.471,3.742,4.035
+Portugal,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.388,0.424,0.466,0.633,0.736,0.699,0.867,0.972,1.09,1.175,1.267
+Portugal,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.342,0.374,0.411,0.558,0.649,0.616,0.764,0.857,0.96,1.035,1.117
+Portugal,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.216,0.236,0.26,0.351,0.408,0.386,0.477,0.533,0.595,0.641,0.69
+Portugal,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.294,0.322,0.354,0.48,0.558,0.53,0.658,0.738,0.827,0.891,0.961
+Portugal,Oils & Fats,Revenue Change,Total,percent,Statista,,9.347,9.801,35.705,16.271,-5.104,23.935,12.116,11.968,7.808,7.83
+Portugal,Oils & Fats,Revenue Change,Butter,percent,Statista,,9.356,9.828,35.773,16.279,-5.016,24.027,12.196,12.094,7.798,7.83
+Portugal,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,9.354,9.837,35.775,16.257,-5.026,24.026,12.186,12.041,7.779,7.923
+Portugal,Oils & Fats,Revenue Change,Margarine,percent,Statista,,9.352,9.865,35.453,16.188,-5.411,23.505,11.696,11.578,7.753,7.726
+Portugal,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,9.372,9.811,35.793,16.261,-5.014,24.001,12.194,12.034,7.814,7.854
+Portugal,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.774,99.761,99.742,99.686,99.622,99.573,99.527,99.482,99.434,,
+Portugal,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.226,0.239,0.258,0.314,0.378,0.427,0.473,0.518,0.566,,
+Portugal,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Oils & Fats,Users by Segment,Total,million users,Statista,0.235,0.265,0.299,0.339,0.383,0.422,0.456,0.482,0.508,0.539,0.567
+Portugal,Oils & Fats,Users by Segment,Butter,million users,Statista,0.188,0.212,0.239,0.271,0.306,0.338,0.365,0.385,0.406,0.431,0.454
+Portugal,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.188,0.212,0.239,0.271,0.306,0.338,0.365,0.385,0.406,0.431,0.454
+Portugal,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.188,0.212,0.239,0.271,0.306,0.338,0.365,0.385,0.406,0.431,0.454
+Portugal,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.141,0.159,0.179,0.203,0.23,0.253,0.274,0.289,0.305,0.323,0.34
+Portugal,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.83,2.064,2.338,2.659,3.01,3.331,3.606,3.82,4.038,4.296,4.537
+Portugal,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.83,2.064,2.338,2.659,3.01,3.331,3.606,3.82,4.038,4.296,4.537
+Portugal,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.83,2.064,2.338,2.659,3.01,3.331,3.606,3.82,4.038,4.296,4.537
+Portugal,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.288,2.58,2.922,3.324,3.762,4.163,4.507,4.775,5.047,5.369,5.671
+Portugal,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.373,1.548,1.753,1.994,2.257,2.498,2.704,2.865,3.028,3.222,3.403
+Portugal,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,1.391,1.353,1.315,1.424,1.428,1.243,1.444,1.551,1.668,1.687,1.726
+Portugal,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,1.165,1.133,1.102,1.193,1.197,1.042,1.211,1.3,1.399,1.415,1.448
+Portugal,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.765,0.744,0.723,0.783,0.785,0.683,0.793,0.851,0.914,0.925,0.946
+Portugal,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.576,0.63,0.692,0.85,0.962,0.924,1.159,1.315,1.49,1.599,1.723
+Portugal,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.386,0.422,0.464,0.569,0.644,0.619,0.777,0.882,1,1.073,1.157
+Portugal,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.19,0.208,0.228,0.28,0.317,0.304,0.382,0.433,0.49,0.526,0.567
+Portugal,Sauces & Spices,Revenue Change,Total,percent,Statista,,9.356,9.825,22.807,13.169,-3.941,25.474,13.46,13.308,7.315,7.755
+Portugal,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,9.352,9.832,22.821,13.172,-3.911,25.468,13.515,13.392,7.3,7.829
+Portugal,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,9.311,9.865,22.777,13.164,-4.004,25.32,13.417,13.262,7.303,7.757
+Portugal,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.226,0.238,0.258,0.294,0.337,0.38,0.424,0.468,0.518,,
+Portugal,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Sauces & Spices,Users by Segment,Total,million users,Statista,0.414,0.466,0.526,0.597,0.673,0.743,0.802,0.848,0.894,0.948,0.998
+Portugal,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.331,0.373,0.421,0.477,0.539,0.594,0.642,0.678,0.715,0.758,0.799
+Portugal,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.249,0.279,0.316,0.358,0.404,0.446,0.481,0.509,0.536,0.569,0.599
+Portugal,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,4.027,4.541,5.143,5.85,6.621,7.327,7.932,8.404,8.883,9.45,9.981
+Portugal,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.221,3.633,4.115,4.68,5.297,5.862,6.346,6.723,7.107,7.56,7.985
+Portugal,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.416,2.725,3.086,3.51,3.973,4.396,4.759,5.042,5.33,5.671,5.99
+Portugal,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,1.213,1.18,1.148,1.159,1.142,1.018,1.21,1.33,1.465,1.48,1.52
+Portugal,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.979,0.952,0.926,0.935,0.921,0.824,0.985,1.088,1.203,1.217,1.25
+Portugal,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.897,0.872,0.848,0.857,0.845,0.746,0.88,0.959,1.047,1.056,1.082
+Portugal,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.377,0.412,0.453,0.519,0.577,0.567,0.728,0.846,0.982,1.053,1.138
+Portugal,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.243,0.266,0.292,0.335,0.372,0.367,0.474,0.553,0.645,0.692,0.749
+Portugal,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.134,0.146,0.161,0.184,0.205,0.2,0.254,0.293,0.337,0.36,0.389
+Portugal,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,9.337,9.825,14.579,11.201,-1.699,28.395,16.195,16.101,7.219,8.072
+Portugal,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,9.375,9.812,14.55,11.207,-1.263,29.015,16.709,16.649,7.252,8.25
+Portugal,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,9.349,9.85,14.633,11.244,-2.539,27.305,15.152,15.072,7.069,7.906
+Portugal,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Portugal,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Portugal,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.772,99.772,99.764,99.756,99.727,99.687,99.643,99.623,99.605,,
+Portugal,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.228,0.228,0.236,0.244,0.273,0.313,0.357,0.377,0.395,,
+Portugal,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.311,0.349,0.394,0.447,0.505,0.557,0.602,0.636,0.67,0.711,0.749
+Portugal,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.249,0.279,0.316,0.358,0.404,0.446,0.481,0.509,0.536,0.569,0.599
+Portugal,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.149,0.168,0.189,0.215,0.242,0.267,0.289,0.305,0.322,0.341,0.359
+Portugal,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.416,2.725,3.086,3.51,3.973,4.396,4.759,5.042,5.33,5.671,5.99
+Portugal,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.02,3.406,3.858,4.388,4.966,5.495,5.949,6.303,6.662,7.088,7.487
+Portugal,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.45,1.635,1.852,2.106,2.384,2.638,2.856,3.025,3.198,3.402,3.593
+Portugal,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,11.47,11.16,10.85,13.83,14.51,12.39,14.13,14.89,15.7,16,16.4
+Portugal,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,13.22,12.86,12.5,15.95,16.73,14.29,16.3,17.18,18.13,18.47,18.92
+Portugal,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,4.434,4.313,4.194,5.343,5.604,4.78,5.442,5.727,6.032,6.146,6.294
+Portugal,Vegetables,Revenue,Total,million USD (US$),Statista,5.292,5.787,6.355,9.19,10.88,10.26,12.63,14.06,15.63,16.9,18.23
+Portugal,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,4.269,4.668,5.127,7.415,8.779,8.279,10.19,11.35,12.63,13.65,14.73
+Portugal,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,1.023,1.119,1.228,1.775,2.101,1.978,2.431,2.703,3.002,3.244,3.499
+Portugal,Vegetables,Revenue Change,Total,percent,Statista,,9.354,9.815,44.611,18.39,-5.699,23.099,11.322,11.166,8.125,7.87
+Portugal,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,9.346,9.833,44.626,18.395,-5.695,23.082,11.384,11.278,8.076,7.912
+Portugal,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,9.384,9.741,44.544,18.366,-5.854,22.902,11.189,11.062,8.061,7.861
+Portugal,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Portugal,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Portugal,Vegetables,Online & Offline Split,Offline,percent,Statista,99.774,99.761,99.742,99.675,99.597,99.544,99.497,99.454,99.408,,
+Portugal,Vegetables,Online & Offline Split,Online,percent,Statista,0.226,0.239,0.258,0.325,0.403,0.456,0.503,0.546,0.592,,
+Portugal,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,66.679,64.362,62.735,61.659,60.321,58.165,56.195,53.466,50.557,,
+Portugal,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,33.321,35.638,37.265,38.341,39.679,41.835,43.805,46.534,49.443,,
+Portugal,Vegetables,Users by Segment,Total,million users,Statista,0.461,0.519,0.586,0.664,0.75,0.827,0.893,0.944,0.995,1.056,1.112
+Portugal,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.323,0.363,0.41,0.465,0.525,0.579,0.625,0.661,0.697,0.739,0.778
+Portugal,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.231,0.259,0.293,0.332,0.375,0.414,0.447,0.472,0.498,0.528,0.556
+Portugal,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.139,3.54,4.01,4.561,5.161,5.712,6.184,6.551,6.925,7.367,7.781
+Portugal,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.242,2.528,2.864,3.258,3.687,4.08,4.417,4.68,4.946,5.262,5.557
+Portugal,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,4.484,5.057,5.728,6.515,7.374,8.16,8.834,9.359,9.893,10.523,11.114

@@ -1,0 +1,737 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Hong Kong,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.579,,,,,,
+Hong Kong,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.848,,,,,,
+Hong Kong,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.602,,,,,,
+Hong Kong,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.199,,,,,,
+Hong Kong,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,8.772,,,,,,
+Hong Kong,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,52.749,,,,,,
+Hong Kong,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,47.251,,,,,,
+Hong Kong,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,33.019,,,,,,
+Hong Kong,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.48,,,,,,
+Hong Kong,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.501,,,,,,
+Hong Kong,eCommerce,Revenue,Total,billion USD (US$),Statista,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.669,0.732,0.8,0.967,1.106,1.149,1.493,1.773,2.069,2.238,2.436
+Hong Kong,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.194,0.218,0.256,0.335,0.402,0.447,0.604,0.744,0.912,0.994,1.095
+Hong Kong,eCommerce,Revenue,Electronics,billion USD (US$),Statista,1.901,2.016,2.12,2.714,2.837,2.369,2.909,3.038,3.153,3.249,3.343
+Hong Kong,eCommerce,Revenue,Fashion,billion USD (US$),Statista,6.63,7.331,7.846,9.633,11.08,11.83,15.35,17.96,20.81,22.48,24.39
+Hong Kong,eCommerce,Revenue,Food,billion USD (US$),Statista,0.883,0.983,1.049,1.56,1.931,1.801,2.066,2.128,2.192,2.299,2.384
+Hong Kong,eCommerce,Revenue,Furniture,billion USD (US$),Statista,1.464,1.582,1.707,2.337,2.402,2.181,3.053,3.617,4.291,4.613,5.014
+Hong Kong,eCommerce,Revenue,Media,billion USD (US$),Statista,0.174,0.209,0.227,0.306,0.35,0.335,0.388,0.41,0.428,0.45,0.469
+Hong Kong,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.9,1.106,1.3,1.761,2.103,2.216,2.823,3.24,3.7,4.015,4.356
+Hong Kong,eCommerce,Revenue Change,Total,percent,Statista,,10.608,7.969,28.086,13.259,0.54,28.437,14.749,14.129,7.375,7.835
+Hong Kong,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,9.382,9.273,20.91,14.327,3.888,29.939,18.754,16.695,8.168,8.847
+Hong Kong,eCommerce,Revenue Change,Beverages,percent,Statista,,12.693,17.125,30.923,20.006,11.247,35.115,23.092,22.62,9.026,10.15
+Hong Kong,eCommerce,Revenue Change,Electronics,percent,Statista,,6.049,5.159,28.019,4.532,-16.496,22.794,4.435,3.785,3.045,2.893
+Hong Kong,eCommerce,Revenue Change,Fashion,percent,Statista,,10.573,7.025,22.776,15.021,6.769,29.755,17.003,15.869,8.025,8.496
+Hong Kong,eCommerce,Revenue Change,Food,percent,Statista,,11.252,6.736,48.713,23.782,-6.732,14.714,3.001,3.008,4.881,3.697
+Hong Kong,eCommerce,Revenue Change,Furniture,percent,Statista,,8.06,7.901,36.907,2.781,-9.201,39.982,18.474,18.634,7.504,8.693
+Hong Kong,eCommerce,Revenue Change,Media,percent,Statista,,20.264,8.353,35.022,14.356,-4.394,15.816,5.54,4.59,5.089,4.22
+Hong Kong,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,22.821,17.541,35.462,19.421,5.373,27.392,14.772,14.198,8.514,8.493
+Hong Kong,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,2.975,2.924,2.605,3.255,3.438,3.828,4.731,5.242,5.781,6.158,6.572
+Hong Kong,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.596,0.524,0.501,0.535,0.53,0.562,0.658,0.719,0.776,0.799,0.83
+Hong Kong,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.439,0.349,0.319,0.332,0.326,0.361,0.426,0.47,0.521,0.53,0.546
+Hong Kong,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,1.284,1.051,0.915,0.974,0.862,0.732,0.805,0.768,0.732,0.716,0.7
+Hong Kong,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,5.203,4.117,3.548,3.574,3.405,3.647,4.203,4.462,4.729,4.82,4.953
+Hong Kong,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,2.127,1.669,1.391,1.645,1.668,1.545,1.55,1.43,1.333,1.303,1.264
+Hong Kong,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,4.173,2.454,1.813,1.848,1.464,1.274,1.54,1.615,1.717,1.703,1.719
+Hong Kong,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.149,0.147,0.136,0.158,0.156,0.154,0.163,0.157,0.152,0.152,0.152
+Hong Kong,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,1.605,1.008,0.808,0.807,0.744,0.75,0.818,0.832,0.852,0.853,0.86
+Hong Kong,eCommerce,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,eCommerce,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,eCommerce,Online & Offline Split,Offline,percent,Statista,85.264,84.541,83.843,78.994,77.328,75.674,73.423,70.772,67.914,,
+Hong Kong,eCommerce,Online & Offline Split,Online,percent,Statista,14.736,15.459,16.157,21.006,22.672,24.326,26.577,29.228,32.086,,
+Hong Kong,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,61.402,61.006,61.004,60.874,60.484,60.432,60.407,60.468,60.592,,
+Hong Kong,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,38.598,38.994,38.996,39.126,39.516,39.568,39.593,39.532,39.408,,
+Hong Kong,eCommerce,Users,Total,million users,Statista,4.308,4.849,5.876,6.026,6.461,5.834,6.062,6.279,6.497,6.55,6.618
+Hong Kong,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,1.123,1.398,1.598,1.807,2.085,2.046,2.269,2.466,2.666,2.8,2.937
+Hong Kong,eCommerce,Users,Beverages,million users,Statista,0.442,0.626,0.802,1.009,1.231,1.24,1.418,1.583,1.749,1.877,2.006
+Hong Kong,eCommerce,Users,Electronics,million users,Statista,1.48,1.919,2.318,2.786,3.292,3.236,3.611,3.956,4.305,4.539,4.777
+Hong Kong,eCommerce,Users,Fashion,million users,Statista,1.274,1.781,2.211,2.695,3.255,3.244,3.651,4.025,4.401,4.663,4.926
+Hong Kong,eCommerce,Users,Food,million users,Statista,0.415,0.589,0.754,0.949,1.158,1.166,1.333,1.488,1.645,1.765,1.886
+Hong Kong,eCommerce,Users,Furniture,million users,Statista,0.351,0.645,0.942,1.265,1.64,1.712,1.982,2.239,2.5,2.709,2.918
+Hong Kong,eCommerce,Users,Media,million users,Statista,1.171,1.428,1.664,1.942,2.253,2.171,2.389,2.603,2.82,2.952,3.09
+Hong Kong,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.561,1.097,1.61,2.183,2.828,2.957,3.449,3.893,4.341,4.706,5.067
+Hong Kong,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,15.372,18.97,21.492,24.101,27.604,26.907,29.641,32.017,34.381,35.84,37.322
+Hong Kong,eCommerce,Penetration Rate,Beverages,percent,Statista,6.045,8.497,10.788,13.456,16.3,16.307,18.522,20.544,22.558,24.028,25.494
+Hong Kong,eCommerce,Penetration Rate,eCommerce,percent,Statista,58.959,65.778,79.015,80.378,85.543,76.718,79.21,81.508,83.777,83.856,84.11
+Hong Kong,eCommerce,Penetration Rate,Electronics,percent,Statista,20.262,26.031,31.172,37.156,43.586,42.561,47.187,51.359,55.504,58.108,60.704
+Hong Kong,eCommerce,Penetration Rate,Fashion,percent,Statista,17.441,24.156,29.737,35.951,43.097,42.663,47.708,52.255,56.744,59.692,62.597
+Hong Kong,eCommerce,Penetration Rate,Food,percent,Statista,5.684,7.99,10.144,12.653,15.327,15.334,17.416,19.317,21.211,22.593,23.972
+Hong Kong,eCommerce,Penetration Rate,Furniture,percent,Statista,4.801,8.743,12.663,16.871,21.72,22.511,25.9,29.07,32.23,34.683,37.082
+Hong Kong,eCommerce,Penetration Rate,Media,percent,Statista,16.029,19.374,22.38,25.909,29.828,28.546,31.216,33.793,36.357,37.789,39.265
+Hong Kong,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,7.681,14.88,21.646,29.122,37.448,38.88,45.069,50.536,55.978,60.248,64.394
+Hong Kong,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.471,,,,,,
+Hong Kong,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.702,,,,,,
+Hong Kong,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.782,,,,,,
+Hong Kong,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,25.486,,,,,,
+Hong Kong,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.56,,,,,,
+Hong Kong,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.389,,,,,,
+Hong Kong,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.611,,,,,,
+Hong Kong,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.222,,,,,,
+Hong Kong,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.557,,,,,,
+Hong Kong,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,35.222,,,,,,
+Hong Kong,Electronics,Revenue,Total,billion USD (US$),Statista,1.901,2.016,2.12,2.714,2.837,2.369,2.909,3.038,3.153,3.249,3.343
+Hong Kong,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,1.55,1.636,1.716,2.231,2.354,1.902,2.369,2.471,2.563,2.634,2.703
+Hong Kong,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.351,0.381,0.404,0.483,0.484,0.467,0.54,0.568,0.59,0.615,0.64
+Hong Kong,Electronics,Revenue Change,Total,percent,Statista,,6.049,5.159,28.019,4.532,-16.496,22.794,4.435,3.785,3.045,2.893
+Hong Kong,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,5.548,4.89,30.012,5.513,-19.201,24.553,4.306,3.723,2.77,2.62
+Hong Kong,Electronics,Revenue Change,Household Appliances,percent,Statista,,8.528,6.255,19.466,0.145,-3.473,15.656,5.13,3.84,4.394,3.932
+Hong Kong,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,1.284,1.051,0.915,0.974,0.862,0.732,0.805,0.768,0.732,0.716,0.7
+Hong Kong,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,1.007,0.873,0.794,0.88,0.801,0.673,0.764,0.735,0.707,0.696,0.684
+Hong Kong,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.423,0.322,0.262,0.248,0.203,0.193,0.195,0.184,0.173,0.168,0.163
+Hong Kong,Electronics,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,Electronics,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,Electronics,Online & Offline Split,Offline,percent,Statista,63.878,62.664,61.688,54.876,53.543,52.245,51.313,50.445,49.615,,
+Hong Kong,Electronics,Online & Offline Split,Online,percent,Statista,36.122,37.336,38.312,45.124,46.457,47.755,48.687,49.555,50.385,,
+Hong Kong,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,51.787,51.782,51.78,51.78,51.779,51.782,51.784,51.786,51.789,,
+Hong Kong,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,48.213,48.218,48.22,48.22,48.221,48.218,48.216,48.214,48.211,,
+Hong Kong,Electronics,Users by Segment,Total,million users,Statista,1.48,1.919,2.318,2.786,3.292,3.236,3.611,3.956,4.305,4.539,4.777
+Hong Kong,Electronics,Users by Segment,Consumer Electronics,million users,Statista,1.54,1.875,2.16,2.535,2.937,2.824,3.1,3.361,3.625,3.784,3.949
+Hong Kong,Electronics,Users by Segment,Household Appliances,million users,Statista,0.828,1.182,1.546,1.95,2.386,2.424,2.775,3.093,3.414,3.666,3.918
+Hong Kong,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,21.071,25.432,29.046,33.812,38.888,37.138,40.504,43.631,46.743,48.449,50.19
+Hong Kong,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,20.262,26.031,31.172,37.156,43.586,42.561,47.187,51.359,55.504,58.108,60.704
+Hong Kong,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,11.335,16.028,20.784,26.009,31.586,31.873,36.258,40.148,44.023,46.926,49.794
+Hong Kong,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.303,,,,,,
+Hong Kong,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.498,,,,,,
+Hong Kong,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.29,,,,,,
+Hong Kong,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,28.076,,,,,,
+Hong Kong,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,8.83,,,,,,
+Hong Kong,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,35.331,,,,,,
+Hong Kong,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,64.669,,,,,,
+Hong Kong,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.559,,,,,,
+Hong Kong,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.674,,,,,,
+Hong Kong,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.767,,,,,,
+Hong Kong,Consumer Electronics,Revenue,Total,million USD (US$),Statista,"1,550","1,636","1,716","2,231","2,354","1,902","2,369","2,471","2,563","2,634","2,703"
+Hong Kong,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,272.7,291.9,303.3,365.3,381.7,302,371.7,382,390.2,395.6,400.5
+Hong Kong,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,462.5,488.5,512.4,662.3,691.7,555,686.5,710.2,729.8,743.5,755.9
+Hong Kong,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,498.5,526.8,561.7,785.4,827,671.9,829.8,856,876.7,898,915.7
+Hong Kong,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,307.4,319.8,330.2,408.7,444.6,366,472.6,514,557.6,588.1,622
+Hong Kong,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,9.3,8.697,8.368,8.863,8.462,6.788,8.226,8.456,8.816,8.809,8.874
+Hong Kong,Consumer Electronics,Revenue Change,Total,percent,Statista,,5.548,4.89,30.012,5.513,-19.201,24.553,4.306,3.723,2.77,2.62
+Hong Kong,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.041,3.905,20.442,4.489,-20.88,23.079,2.771,2.147,1.384,1.239
+Hong Kong,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,5.622,4.893,29.254,4.439,-19.763,23.694,3.452,2.76,1.877,1.668
+Hong Kong,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,5.677,6.625,39.826,5.297,-18.755,23.501,3.157,2.418,2.43,1.971
+Hong Kong,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,4.034,3.252,23.773,8.784,-17.679,29.126,8.76,8.482,5.47,5.764
+Hong Kong,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,-6.484,-3.783,5.915,-4.524,-19.783,21.184,2.796,4.257,-0.079,0.738
+Hong Kong,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,"1,007",872.5,794.5,879.9,801.3,673.4,764.2,735.1,707,696,684.4
+Hong Kong,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,253.1,222.5,200.6,205.9,185.7,152.8,171.3,162.4,153.8,149.3,144.9
+Hong Kong,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,375.5,325.7,296.5,326.6,294.4,245.6,276.8,264.1,251.6,245.6,239.2
+Hong Kong,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,404.7,351.2,325.1,387.3,351.9,297.4,334.6,318.4,302.3,296.6,289.8
+Hong Kong,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,499.2,426.4,382.2,403.1,378.4,324,381.1,382.3,384.5,388.5,393.7
+Hong Kong,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,20.14,15.46,12.91,11.66,9.604,8.012,8.845,8.386,8.106,7.759,7.49
+Hong Kong,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Hong Kong,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Hong Kong,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,61.741,60.67,59.76,51.553,50.613,49.324,48.52,47.682,46.8,,
+Hong Kong,Consumer Electronics,Online & Offline Split,Online,percent,Statista,38.259,39.33,40.24,48.447,49.387,50.676,51.48,52.318,53.2,,
+Hong Kong,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,51.758,51.746,51.738,51.738,51.735,51.733,51.731,51.731,51.732,,
+Hong Kong,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,48.242,48.254,48.262,48.262,48.265,48.267,48.269,48.269,48.268,,
+Hong Kong,Consumer Electronics,Users,Total,million users,Statista,1.54,1.875,2.16,2.535,2.937,2.824,3.1,3.361,3.625,3.784,3.949
+Hong Kong,Consumer Electronics,Users,Computing,million users,Statista,1.078,1.312,1.512,1.774,2.056,1.977,2.17,2.353,2.538,2.649,2.764
+Hong Kong,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,1.232,1.5,1.728,2.028,2.35,2.259,2.48,2.689,2.9,3.028,3.159
+Hong Kong,Consumer Electronics,Users,Telephony,million users,Statista,1.232,1.5,1.728,2.028,2.35,2.259,2.48,2.689,2.9,3.028,3.159
+Hong Kong,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.616,0.75,0.864,1.014,1.175,1.13,1.24,1.344,1.45,1.514,1.58
+Hong Kong,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.462,0.562,0.648,0.76,0.881,0.847,0.93,1.008,1.088,1.135,1.185
+Hong Kong,Consumer Electronics,Penetration Rate,Computing,percent,Statista,14.75,17.802,20.332,23.668,27.221,25.997,28.353,30.542,32.72,33.914,35.131
+Hong Kong,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,21.071,25.432,29.046,33.812,38.888,37.138,40.504,43.631,46.743,48.449,50.19
+Hong Kong,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,16.857,20.345,23.237,27.049,31.11,29.711,32.403,34.905,37.394,38.759,40.15
+Hong Kong,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,16.857,20.345,23.237,27.049,31.11,29.711,32.403,34.905,37.394,38.759,40.15
+Hong Kong,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,8.428,10.173,11.618,13.525,15.555,14.855,16.202,17.452,18.697,19.382,20.08
+Hong Kong,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,6.321,7.629,8.714,10.143,11.666,11.142,12.151,13.089,14.023,14.534,15.056
+Hong Kong,Household Appliances,Revenue,Total,million USD (US$),Statista,350.6,380.5,404.3,483,483.7,466.9,540,567.7,589.5,615.4,639.6
+Hong Kong,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,171,185.4,196.2,233.9,234,226.7,260.6,273.9,284.2,296.4,307.8
+Hong Kong,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,63.81,69.26,73.58,87.92,88.05,84.98,98.29,103.3,107.3,112,116.4
+Hong Kong,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,115.8,125.8,134.5,161.2,161.6,155.2,181,190.5,198,207,215.4
+Hong Kong,Household Appliances,Revenue Change,Total,percent,Statista,,8.528,6.255,19.466,0.145,-3.473,15.656,5.13,3.84,4.394,3.932
+Hong Kong,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,8.421,5.825,19.215,0.043,-3.12,14.954,5.104,3.76,4.293,3.846
+Hong Kong,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,8.541,6.237,19.489,0.148,-3.487,15.663,5.097,3.872,4.38,3.929
+Hong Kong,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,8.636,6.916,19.851,0.248,-3.96,16.624,5.249,3.937,4.545,4.058
+Hong Kong,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,423.3,322,261.6,247.7,202.8,192.6,194.6,183.6,172.7,167.9,163.3
+Hong Kong,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,516.2,392.4,317.3,299.9,245.2,233.8,234.8,221.4,208.1,202.2,196.4
+Hong Kong,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,385.3,293.1,238.1,225.5,184.5,175.3,177.1,167.1,157.2,152.8,148.6
+Hong Kong,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,174.7,133.1,108.8,103.3,84.7,80.05,81.55,76.98,72.5,70.57,68.69
+Hong Kong,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Hong Kong,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Hong Kong,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Hong Kong,Household Appliances,Online & Offline Split,Offline,percent,Statista,71.031,69.345,68.163,65.729,63.947,62.397,61.11,60.117,59.442,,
+Hong Kong,Household Appliances,Online & Offline Split,Online,percent,Statista,28.969,30.655,31.837,34.271,36.053,37.603,38.89,39.883,40.558,,
+Hong Kong,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,51.917,51.935,51.958,51.978,51.996,52.012,52.026,52.04,52.052,,
+Hong Kong,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,48.083,48.065,48.042,48.022,48.004,47.988,47.974,47.96,47.948,,
+Hong Kong,Household Appliances,Users,Total,million users,Statista,0.828,1.182,1.546,1.95,2.386,2.424,2.775,3.093,3.414,3.666,3.918
+Hong Kong,Household Appliances,Users,Major Appliances,million users,Statista,0.331,0.473,0.618,0.78,0.954,0.969,1.11,1.237,1.366,1.466,1.567
+Hong Kong,Household Appliances,Users,Other Household Appliances,million users,Statista,0.166,0.236,0.309,0.39,0.477,0.485,0.555,0.619,0.683,0.733,0.784
+Hong Kong,Household Appliances,Users,Small Appliances,million users,Statista,0.663,0.945,1.236,1.56,1.908,1.939,2.22,2.474,2.731,2.933,3.135
+Hong Kong,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,11.335,16.028,20.784,26.009,31.586,31.873,36.258,40.148,44.023,46.926,49.794
+Hong Kong,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,4.534,6.411,8.314,10.404,12.634,12.749,14.503,16.059,17.609,18.771,19.919
+Hong Kong,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,2.267,3.206,4.157,5.202,6.317,6.375,7.252,8.03,8.805,9.385,9.959
+Hong Kong,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,9.068,12.822,16.627,20.807,25.269,25.498,29.007,32.118,35.219,37.545,39.842
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,9.49,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,27.417,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,28.12,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.714,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,8.26,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,55.185,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,44.815,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.4,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.4,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,35.2,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,0.669,0.732,0.8,0.967,1.106,1.149,1.493,1.773,2.069,2.238,2.436
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.153,0.165,0.18,0.22,0.26,0.267,0.338,0.389,0.448,0.483,0.524
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.054,0.056,0.057,0.059,0.065,0.065,0.079,0.085,0.088,0.093,0.098
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.06,0.064,0.068,0.076,0.088,0.104,0.173,0.259,0.336,0.368,0.411
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,0.402,0.448,0.495,0.613,0.693,0.712,0.902,1.04,1.198,1.293,1.403
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,9.382,9.273,20.91,14.327,3.888,29.939,18.754,16.695,8.168,8.847
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,8.039,9.135,21.674,18.588,2.689,26.525,15.139,14.92,8,8.463
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,2.169,3.022,3.126,9.346,0.48,21.698,7.294,4.178,5.642,5.158
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,6,5.989,12.825,15.065,19.075,65.742,49.423,29.675,9.654,11.821
+Hong Kong,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,11.371,10.567,23.783,13.108,2.814,26.67,15.248,15.192,7.93,8.507
+Hong Kong,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,596.1,523.6,500.6,535.4,530.2,561.6,658,718.9,776,799.3,829.6
+Hong Kong,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,194.6,168.8,161.2,173.5,178.4,186.6,213,225.6,239.8,246.6,255
+Hong Kong,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,75.7,62.11,55.99,51.07,48.4,49.55,54.39,53.68,51.72,52.04,52.17
+Hong Kong,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,141,120,111.3,111.1,110.8,134.4,200.9,276.1,331.2,345.9,368.7
+Hong Kong,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,577.2,516.2,499.4,546.8,536,561.6,641.6,680.3,724.6,745,770.2
+Hong Kong,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,81.003,80.124,79.344,75.284,73.553,71.43,68.436,64.805,61.256,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,18.997,19.876,20.656,24.716,26.447,28.57,31.564,35.195,38.744,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,57.843,57.131,56.836,56.57,56.681,56.359,55.862,55.256,54.782,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,42.157,42.869,43.164,43.43,43.319,43.641,44.138,44.744,45.218,,
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,1.123,1.398,1.598,1.807,2.085,2.046,2.269,2.466,2.666,2.8,2.937
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.786,0.979,1.119,1.265,1.459,1.432,1.588,1.726,1.866,1.96,2.056
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.719,0.895,1.023,1.156,1.334,1.31,1.452,1.578,1.706,1.792,1.88
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.427,0.531,0.607,0.687,0.792,0.778,0.862,0.937,1.013,1.064,1.116
+Hong Kong,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.696,0.867,0.991,1.12,1.293,1.269,1.406,1.529,1.653,1.736,1.821
+Hong Kong,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,15.372,18.97,21.492,24.101,27.604,26.907,29.641,32.017,34.381,35.84,37.322
+Hong Kong,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,10.76,13.279,15.044,16.871,19.323,18.835,20.749,22.412,24.066,25.086,26.123
+Hong Kong,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,9.838,12.141,13.755,15.425,17.667,17.221,18.97,20.491,22.004,22.938,23.887
+Hong Kong,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,5.841,7.209,8.167,9.158,10.49,10.225,11.264,12.167,13.065,13.62,14.184
+Hong Kong,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,9.53,11.762,13.325,14.943,17.115,16.683,18.377,19.851,21.316,22.222,23.142
+Hong Kong,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,8.87,,,,,,
+Hong Kong,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,30.275,,,,,,
+Hong Kong,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.523,,,,,,
+Hong Kong,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.606,,,,,,
+Hong Kong,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,6.73,,,,,,
+Hong Kong,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,66.972,,,,,,
+Hong Kong,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,33.028,,,,,,
+Hong Kong,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.859,,,,,,
+Hong Kong,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.873,,,,,,
+Hong Kong,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,36.268,,,,,,
+Hong Kong,Personal Care,Revenue,Total,million USD (US$),Statista,401.9,447.6,494.9,612.6,692.9,712.4,902.4,"1,040","1,198","1,293","1,403"
+Hong Kong,Personal Care,Revenue,Body Care,million USD (US$),Statista,65.35,75.11,82.99,103.3,116.3,120.3,152.9,176.6,204,220.5,239.4
+Hong Kong,Personal Care,Revenue,Eye Care,million USD (US$),Statista,29.7,31.21,33.76,44.78,53.07,53.33,66.99,77.64,89.42,96.64,104.9
+Hong Kong,Personal Care,Revenue,Hair Care,million USD (US$),Statista,71.75,84.56,93.23,115.6,117.9,121.2,153.1,175.8,201.8,217,234.6
+Hong Kong,Personal Care,Revenue,Oral Care,million USD (US$),Statista,38.7,43.58,47.05,58.46,66.53,68.64,87.14,100.5,116,125.3,135.9
+Hong Kong,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,97.8,113.1,124.2,154.3,167.3,172.5,218.7,252,290.3,313.1,339.4
+Hong Kong,Personal Care,Revenue,Skin Care,million USD (US$),Statista,98.59,100,113.6,136.2,171.7,176.5,223.5,257.6,296.3,320.7,348.4
+Hong Kong,Personal Care,Revenue Change,Total,percent,Statista,,11.371,10.567,23.783,13.108,2.814,26.67,15.248,15.192,7.93,8.507
+Hong Kong,Personal Care,Revenue Change,Body Care,percent,Statista,,14.935,10.491,24.473,12.585,3.439,27.099,15.5,15.515,8.088,8.571
+Hong Kong,Personal Care,Revenue Change,Eye Care,percent,Statista,,5.084,8.17,32.642,18.513,0.49,25.614,15.898,15.173,8.074,8.547
+Hong Kong,Personal Care,Revenue Change,Hair Care,percent,Statista,,17.854,10.253,23.994,1.99,2.799,26.32,14.827,14.79,7.532,8.111
+Hong Kong,Personal Care,Revenue Change,Oral Care,percent,Statista,,12.61,7.962,24.251,13.804,3.172,26.952,15.332,15.423,8.017,8.46
+Hong Kong,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,15.644,9.814,24.235,8.425,3.108,26.783,15.226,15.198,7.854,8.4
+Hong Kong,Personal Care,Revenue Change,Skin Care,percent,Statista,,1.43,13.6,19.894,26.065,2.796,26.629,15.257,15.023,8.235,8.637
+Hong Kong,Personal Care,Average Revenue per User,Total,USD (US$),Statista,577.2,516.2,499.4,546.8,536,561.6,641.6,680.3,724.6,745,770.2
+Hong Kong,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,138,127.4,123.2,135.6,132.3,139.4,159.9,169.9,181.5,186.8,193.4
+Hong Kong,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,85.31,72,68.15,79.94,82.11,84.08,95.26,101.5,108.2,111.3,115.2
+Hong Kong,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,198.1,187.5,180.9,198.4,175.4,183.7,209.4,221.1,234.8,240.4,247.8
+Hong Kong,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,113.4,102.6,96.9,106.5,105,110.4,126.4,134.2,143.2,147.3,152.3
+Hong Kong,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,312.1,289.8,278.6,306.1,287.6,302.2,345.6,366.2,390.2,400.8,414.1
+Hong Kong,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,321.8,262.2,260.7,276.3,302,316.1,361.1,382.9,407.3,419.9,434.7
+Hong Kong,Personal Care,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,Personal Care,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,Personal Care,Online & Offline Split,Offline,percent,Statista,77.729,76.282,75.008,68.73,66.758,64.364,61.527,58.009,54.127,,
+Hong Kong,Personal Care,Online & Offline Split,Online,percent,Statista,22.271,23.718,24.992,31.27,33.242,35.636,38.473,41.991,45.873,,
+Hong Kong,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,51.888,51.906,51.931,51.951,51.972,51.989,52.004,52.018,52.03,,
+Hong Kong,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,48.112,48.094,48.069,48.049,48.028,48.011,47.996,47.982,47.97,,
+Hong Kong,Personal Care,Users,Total,million users,Statista,0.696,0.867,0.991,1.12,1.293,1.269,1.406,1.529,1.653,1.736,1.821
+Hong Kong,Personal Care,Users,Body Care,million users,Statista,0.473,0.59,0.674,0.762,0.879,0.863,0.956,1.04,1.124,1.18,1.238
+Hong Kong,Personal Care,Users,Eye Care,million users,Statista,0.348,0.434,0.495,0.56,0.646,0.634,0.703,0.765,0.827,0.868,0.911
+Hong Kong,Personal Care,Users,Hair Care,million users,Statista,0.362,0.451,0.515,0.583,0.672,0.66,0.731,0.795,0.86,0.903,0.947
+Hong Kong,Personal Care,Users,Oral Care,million users,Statista,0.341,0.425,0.486,0.549,0.633,0.622,0.689,0.749,0.81,0.851,0.892
+Hong Kong,Personal Care,Users,Other Personal Care,million users,Statista,0.313,0.39,0.446,0.504,0.582,0.571,0.633,0.688,0.744,0.781,0.82
+Hong Kong,Personal Care,Users,Skin Care,million users,Statista,0.306,0.381,0.436,0.493,0.569,0.558,0.619,0.673,0.727,0.764,0.801
+Hong Kong,Personal Care,Penetration Rate,Body Care,percent,Statista,6.481,7.998,9.061,10.161,11.638,11.344,12.497,13.499,14.495,15.111,15.737
+Hong Kong,Personal Care,Penetration Rate,Eye Care,percent,Statista,4.765,5.881,6.662,7.471,8.557,8.341,9.189,9.925,10.658,11.112,11.572
+Hong Kong,Personal Care,Penetration Rate,Hair Care,percent,Statista,4.956,6.116,6.929,7.77,8.9,8.675,9.556,10.322,11.084,11.556,12.035
+Hong Kong,Personal Care,Penetration Rate,Oral Care,percent,Statista,4.67,5.763,6.529,7.322,8.386,8.174,9.005,9.727,10.445,10.889,11.341
+Hong Kong,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,4.289,5.293,5.996,6.724,7.702,7.507,8.27,8.933,9.592,10.001,10.415
+Hong Kong,Personal Care,Penetration Rate,Personal Care,percent,Statista,9.53,11.762,13.325,14.943,17.115,16.683,18.377,19.851,21.316,22.222,23.142
+Hong Kong,Personal Care,Penetration Rate,Skin Care,percent,Statista,4.193,5.175,5.863,6.575,7.53,7.34,8.086,8.734,9.379,9.778,10.184
+Hong Kong,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,194.6,168.8,161.2,173.5,178.4,186.6,213,225.6,239.8,246.6,255
+Hong Kong,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,133.3,117.3,109,116.8,118,123.6,141.2,149.5,159,163.3,168.7
+Hong Kong,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,24.26,22.04,23.71,27.4,26.99,28.15,32.42,35.05,37.56,38.88,40.42
+Hong Kong,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,346.9,293.9,282.8,301.3,318.2,332.7,378.8,399.4,423.6,435.8,450.3
+Hong Kong,Beauty Care,Revenue,Total,million USD (US$),Statista,153,165.3,180.4,219.5,260.3,267.3,338.2,389.4,447.5,483.3,524.2
+Hong Kong,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,73.34,80.37,85.35,103.4,120.6,124,156.9,180.7,207.8,224.1,242.8
+Hong Kong,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,11.44,12.95,15.91,20.8,23.64,24.19,30.89,36.3,42.06,45.72,49.86
+Hong Kong,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,68.19,71.93,79.1,95.26,116.1,119.1,150.4,172.4,197.7,213.5,231.5
+Hong Kong,Beauty Care,Revenue Change,Total,percent,Statista,,8.039,9.135,21.674,18.588,2.689,26.525,15.139,14.92,8,8.463
+Hong Kong,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,9.585,6.196,21.148,16.634,2.819,26.532,15.169,14.997,7.844,8.344
+Hong Kong,Beauty Care,Revenue Change,Fragrances,percent,Statista,,13.199,22.857,30.735,13.654,2.327,27.697,17.514,15.868,8.702,9.055
+Hong Kong,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,5.485,9.968,20.43,21.877,2.584,26.28,14.628,14.675,7.992,8.431
+Hong Kong,Beauty Care,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,Beauty Care,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,Beauty Care,Online & Offline Split,Offline,percent,Statista,74.6,74.011,73.824,68.103,66.292,64.633,62.561,60.012,57.252,,
+Hong Kong,Beauty Care,Online & Offline Split,Online,percent,Statista,25.4,25.989,26.176,31.897,33.708,35.367,37.439,39.988,42.748,,
+Hong Kong,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,74.549,73.39,73.171,72.77,73.266,73.218,73.155,73.063,73.013,,
+Hong Kong,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,25.451,26.61,26.829,27.23,26.734,26.782,26.845,26.937,26.987,,
+Hong Kong,Beauty Care,Users by Segment,Total,million users,Statista,0.786,0.979,1.119,1.265,1.459,1.432,1.588,1.726,1.866,1.96,2.056
+Hong Kong,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.55,0.685,0.783,0.885,1.022,1.003,1.112,1.209,1.307,1.372,1.439
+Hong Kong,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.472,0.587,0.671,0.759,0.876,0.859,0.953,1.036,1.12,1.176,1.234
+Hong Kong,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.197,0.245,0.28,0.316,0.365,0.358,0.397,0.432,0.467,0.49,0.514
+Hong Kong,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,10.76,13.279,15.044,16.871,19.323,18.835,20.749,22.412,24.066,25.086,26.123
+Hong Kong,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,7.532,9.296,10.531,11.809,13.526,13.185,14.524,15.688,16.846,17.561,18.287
+Hong Kong,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,6.456,7.968,9.026,10.122,11.594,11.301,12.449,13.447,14.44,15.053,15.677
+Hong Kong,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.69,3.32,3.761,4.218,4.831,4.709,5.187,5.603,6.017,6.273,6.534
+Hong Kong,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,75.7,62.11,55.99,51.07,48.4,49.55,54.39,53.68,51.72,52.04,52.17
+Hong Kong,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,89.35,73.34,65.94,58.66,55.04,55.26,59.62,58.07,55.48,55.35,55.05
+Hong Kong,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,33,26.91,24.07,21.39,20.17,20.41,22.14,21.59,20.59,20.58,20.49
+Hong Kong,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,38.83,31.79,28.6,25.65,24.52,25.23,27.74,27.26,26.12,26.28,26.31
+Hong Kong,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.923,2.589,2.551,3.971,3.426,3.606,4.209,4.634,4.919,5.116,5.328
+Hong Kong,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,10.39,8.881,8.522,8.8,9.653,11.55,14.21,15,15,15.74,16.34
+Hong Kong,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,80.11,65.65,59.07,53.66,50.56,51.4,56.09,55.14,53.02,53.18,53.17
+Hong Kong,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,16.88,13.75,12.32,11,10.46,10.71,11.74,11.52,11.06,11.1,11.09
+Hong Kong,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,9.11,7.462,6.711,6,5.697,5.808,6.34,6.209,5.941,5.959,5.953
+Hong Kong,Health Care,Revenue,Total,million USD (US$),Statista,54.41,55.59,57.27,59.06,64.58,64.89,78.97,84.73,88.27,93.25,98.06
+Hong Kong,Health Care,Revenue,Analgesics,million USD (US$),Statista,12.84,13.13,13.49,13.57,14.69,14.47,17.31,18.33,18.94,19.84,20.71
+Hong Kong,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,9.489,9.635,9.849,9.894,10.76,10.69,12.86,13.63,14.06,14.75,15.41
+Hong Kong,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,8.374,8.536,8.777,8.898,9.817,9.912,12.08,12.91,13.37,14.13,14.84
+Hong Kong,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.841,0.927,1.044,1.837,1.828,1.889,2.445,2.926,3.358,3.667,4.007
+Hong Kong,Health Care,Revenue,Incontinence,million USD (US$),Statista,1.493,1.59,1.743,2.035,2.576,3.025,4.127,4.734,5.119,5.644,6.15
+Hong Kong,Health Care,Revenue,Other Health Care,million USD (US$),Statista,13.24,13.51,13.9,14.27,15.52,15.48,18.73,20.02,20.81,21.92,23
+Hong Kong,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,4.853,4.922,5.039,5.087,5.585,5.611,6.815,7.277,7.547,7.954,8.343
+Hong Kong,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,3.274,3.339,3.432,3.469,3.801,3.803,4.602,4.9,5.069,5.339,5.596
+Hong Kong,Health Care,Revenue Change,Total,percent,Statista,,2.169,3.022,3.126,9.346,0.48,21.698,7.294,4.178,5.642,5.158
+Hong Kong,Health Care,Revenue Change,Analgesics,percent,Statista,,2.259,2.742,0.593,8.254,-1.498,19.627,5.893,3.328,4.752,4.385
+Hong Kong,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,1.539,2.221,0.457,8.753,-0.651,20.299,5.988,3.155,4.908,4.475
+Hong Kong,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,1.935,2.823,1.379,10.328,0.968,21.872,6.871,3.563,5.684,5.025
+Hong Kong,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,10.28,12.634,75.958,-0.49,3.337,29.434,19.673,14.764,9.202,9.272
+Hong Kong,Health Care,Revenue Change,Incontinence,percent,Statista,,6.497,9.623,16.753,26.585,17.43,36.43,14.708,8.133,10.256,8.965
+Hong Kong,Health Care,Revenue Change,Other Health Care,percent,Statista,,2.039,2.887,2.662,8.76,-0.258,20.995,6.887,3.946,5.334,4.927
+Hong Kong,Health Care,Revenue Change,Skin Treatment,percent,Statista,,1.422,2.377,0.953,9.79,0.466,21.458,6.779,3.71,5.393,4.891
+Hong Kong,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,1.985,2.785,1.078,9.57,0.053,21.01,6.475,3.449,5.326,4.814
+Hong Kong,Health Care,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,Health Care,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,Health Care,Online & Offline Split,Offline,percent,Statista,72.931,72.93,72.72,72.152,70.574,68.263,66.042,64.6,63.944,,
+Hong Kong,Health Care,Online & Offline Split,Online,percent,Statista,27.069,27.07,27.28,27.848,29.426,31.737,33.958,35.4,36.056,,
+Hong Kong,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,55.795,53.843,52.555,51.42,50.383,49.272,48.275,47.377,46.431,,
+Hong Kong,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,44.205,46.157,47.445,48.58,49.617,50.728,51.725,52.623,53.569,,
+Hong Kong,Health Care,Users by Segment,Total,million users,Statista,0.719,0.895,1.023,1.156,1.334,1.31,1.452,1.578,1.706,1.792,1.88
+Hong Kong,Health Care,Users by Segment,Analgesics,million users,Statista,0.144,0.179,0.205,0.231,0.267,0.262,0.29,0.316,0.341,0.359,0.376
+Hong Kong,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.288,0.358,0.409,0.463,0.534,0.524,0.581,0.631,0.683,0.717,0.752
+Hong Kong,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.216,0.269,0.307,0.347,0.4,0.393,0.436,0.474,0.512,0.538,0.564
+Hong Kong,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.288,0.358,0.409,0.463,0.534,0.524,0.581,0.631,0.683,0.717,0.752
+Hong Kong,Health Care,Users by Segment,Incontinence,million users,Statista,0.144,0.179,0.205,0.231,0.267,0.262,0.29,0.316,0.341,0.359,0.376
+Hong Kong,Health Care,Users by Segment,Other Health Care,million users,Statista,0.165,0.206,0.235,0.266,0.307,0.301,0.334,0.363,0.392,0.412,0.433
+Hong Kong,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.288,0.358,0.409,0.463,0.534,0.524,0.581,0.631,0.683,0.717,0.752
+Hong Kong,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.359,0.448,0.511,0.578,0.667,0.655,0.726,0.789,0.853,0.896,0.94
+Hong Kong,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.968,2.428,2.751,3.085,3.533,3.444,3.794,4.098,4.401,4.59,4.782
+Hong Kong,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,3.935,4.856,5.502,6.17,7.067,6.888,7.588,8.196,8.801,9.176,9.557
+Hong Kong,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.951,3.642,4.126,4.627,5.3,5.166,5.691,6.147,6.601,6.882,7.168
+Hong Kong,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,3.935,4.856,5.502,6.17,7.067,6.888,7.588,8.196,8.801,9.176,9.557
+Hong Kong,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,9.838,12.141,13.755,15.425,17.667,17.221,18.97,20.491,22.004,22.938,23.887
+Hong Kong,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.968,2.428,2.751,3.085,3.533,3.444,3.794,4.098,4.401,4.59,4.782
+Hong Kong,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,2.263,2.792,3.164,3.548,4.063,3.961,4.363,4.713,5.061,5.278,5.498
+Hong Kong,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,3.935,4.856,5.502,6.17,7.067,6.888,7.588,8.196,8.801,9.176,9.557
+Hong Kong,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,4.919,6.071,6.877,7.712,8.833,8.61,9.485,10.246,11.002,11.47,11.945
+Hong Kong,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,141,120,111.3,111.1,110.8,134.4,200.9,276.1,331.2,345.9,368.7
+Hong Kong,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,26.74,22.96,21.38,22.02,22.34,27.56,43.29,61.7,75.14,78.66,84.15
+Hong Kong,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,34.44,29.17,26.86,27.66,28.11,34.46,53.32,74.8,90.18,94.4,100.8
+Hong Kong,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,51.53,43.77,41.73,41.27,44.86,55.6,68.01,71.34,70.96,74.47,77.24
+Hong Kong,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,79.11,66.49,60.63,58.89,56.5,66.51,104.4,151.5,184.5,192.4,205.4
+Hong Kong,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,205.5,173.6,159.1,157.9,154.8,185.1,289.3,414.9,503.8,526.2,562.1
+Hong Kong,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,7.726,6.667,6.476,6.316,7.049,9.375,11.71,12.46,12.54,13.23,13.79
+Hong Kong,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,31.11,26.08,23.7,22.65,21.25,24.38,37.92,55.13,67.02,69.73,74.34
+Hong Kong,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,39.28,35.54,34.89,36.5,37.54,48.33,64.43,79.22,97.03,100.8,107.1
+Hong Kong,Household Care,Revenue,Total,million USD (US$),Statista,60.17,63.78,67.6,76.27,87.76,104.5,173.2,258.8,335.6,368,411.5
+Hong Kong,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,4.793,5.125,5.454,6.35,7.433,9,15.67,24.29,31.98,35.16,39.47
+Hong Kong,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,6.615,6.976,7.34,8.547,10.02,12.06,20.69,31.55,41.12,45.2,50.67
+Hong Kong,Household Care,Revenue,Household Paper,million USD (US$),Statista,5.058,5.349,5.829,6.517,8.175,9.943,13.48,15.38,16.54,18.22,19.83
+Hong Kong,Household Care,Revenue,Laundry Care,million USD (US$),Statista,13.51,14.13,14.73,16.17,17.91,20.69,36.01,56.8,74.77,81.89,91.75
+Hong Kong,Household Care,Revenue,Other Household Care,million USD (US$),Statista,19.29,20.29,21.26,23.86,26.98,31.67,54.86,85.55,112.3,123.2,138.1
+Hong Kong,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,1.055,1.134,1.259,1.388,1.787,2.332,3.229,3.738,4.065,4.505,4.93
+Hong Kong,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,3.983,4.157,4.318,4.665,5.05,5.687,9.805,15.5,20.37,22.27,24.92
+Hong Kong,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,5.867,6.61,7.417,8.77,10.41,13.15,19.44,25.99,34.41,37.56,41.89
+Hong Kong,Household Care,Revenue Change,Total,percent,Statista,,6,5.989,12.825,15.065,19.075,65.742,49.423,29.675,9.654,11.821
+Hong Kong,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,6.927,6.42,16.428,17.055,21.082,74.111,55.01,31.659,9.944,12.258
+Hong Kong,Household Care,Revenue Change,Household Cleaners,percent,Statista,,5.457,5.218,16.444,17.234,20.359,71.559,52.489,30.333,9.922,12.102
+Hong Kong,Household Care,Revenue Change,Household Paper,percent,Statista,,5.753,8.974,11.803,25.441,21.627,35.573,14.095,7.542,10.157,8.836
+Hong Kong,Household Care,Revenue Change,Laundry Care,percent,Statista,,4.589,4.246,9.776,10.761,15.522,74.045,57.734,31.637,9.523,12.041
+Hong Kong,Household Care,Revenue Change,Other Household Care,percent,Statista,,5.184,4.781,12.23,13.076,17.383,73.224,55.942,31.268,9.706,12.094
+Hong Kong,Household Care,Revenue Change,Paper Tissues,percent,Statista,,7.488,11.023,10.246,28.746,30.498,38.465,15.763,8.748,10.824,9.434
+Hong Kong,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,4.369,3.873,8.036,8.253,12.614,72.411,58.083,31.419,9.327,11.899
+Hong Kong,Household Care,Revenue Change,Toilet Paper,percent,Statista,,12.664,12.209,18.242,18.7,26.321,47.833,33.693,32.397,9.154,11.528
+Hong Kong,Household Care,Comparable Estimates - eCommerce (Hong Kong),*Statista,billion USD (US$),,12.82,14.18,15.31,19.61,22.21,22.33,28.68,32.91,37.56,40.33,43.49
+Hong Kong,Household Care,Comparable Estimates - eCommerce (Hong Kong),UNCTAD,billion USD (US$),,,,38,,,,,,,,
+Hong Kong,Household Care,Online & Offline Split,Offline,percent,Statista,93.433,93.325,93.202,92.77,92.051,90.165,86.122,80.798,76.66,,
+Hong Kong,Household Care,Online & Offline Split,Online,percent,Statista,6.567,6.675,6.798,7.23,7.949,9.835,13.878,19.202,23.34,,
+Hong Kong,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,57.001,54.537,52.794,51.033,49.305,47.425,45.651,44.057,42.489,,
+Hong Kong,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,42.999,45.463,47.206,48.967,50.695,52.575,54.349,55.943,57.511,,
+Hong Kong,Household Care,Users by Segment,Total,million users,Statista,0.427,0.531,0.607,0.687,0.792,0.778,0.862,0.937,1.013,1.064,1.116
+Hong Kong,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.179,0.223,0.255,0.288,0.333,0.327,0.362,0.394,0.426,0.447,0.469
+Hong Kong,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.192,0.239,0.273,0.309,0.357,0.35,0.388,0.422,0.456,0.479,0.502
+Hong Kong,Household Care,Users by Segment,Household Paper,million users,Statista,0.098,0.122,0.14,0.158,0.182,0.179,0.198,0.216,0.233,0.245,0.257
+Hong Kong,Household Care,Users by Segment,Laundry Care,million users,Statista,0.171,0.213,0.243,0.275,0.317,0.311,0.345,0.375,0.405,0.426,0.447
+Hong Kong,Household Care,Users by Segment,Other Household Care,million users,Statista,0.094,0.117,0.134,0.151,0.174,0.171,0.19,0.206,0.223,0.234,0.246
+Hong Kong,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.137,0.17,0.194,0.22,0.254,0.249,0.276,0.3,0.324,0.341,0.357
+Hong Kong,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.128,0.159,0.182,0.206,0.238,0.233,0.259,0.281,0.304,0.319,0.335
+Hong Kong,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.149,0.186,0.213,0.24,0.277,0.272,0.302,0.328,0.355,0.373,0.391
+Hong Kong,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.453,3.028,3.43,3.847,4.406,4.294,4.731,5.11,5.487,5.722,5.96
+Hong Kong,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,5.841,7.209,8.167,9.158,10.49,10.225,11.264,12.167,13.065,13.62,14.184
+Hong Kong,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.629,3.244,3.675,4.121,4.72,4.601,5.069,5.475,5.879,6.13,6.385
+Hong Kong,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.343,1.658,1.878,2.106,2.413,2.352,2.591,2.798,3.005,3.133,3.263
+Hong Kong,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,2.336,2.884,3.267,3.663,4.196,4.09,4.505,4.867,5.226,5.45,5.677
+Hong Kong,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.285,1.586,1.797,2.015,2.308,2.249,2.478,2.677,2.874,2.997,3.122
+Hong Kong,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.869,2.307,2.613,2.931,3.357,3.272,3.604,3.893,4.181,4.361,4.543
+Hong Kong,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.752,2.163,2.45,2.748,3.147,3.067,3.379,3.65,3.919,4.088,4.26
+Hong Kong,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.044,2.523,2.858,3.205,3.671,3.579,3.942,4.258,4.573,4.769,4.969
+Hong Kong,Food,Revenue,Total,million USD (US$),Statista,883.4,982.8,"1,049","1,560","1,931","1,801","2,066","2,128","2,192","2,299","2,384"
+Hong Kong,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,121.4,133.3,143.1,244.3,339.4,312.3,354.1,360.9,368.8,387.5,401.3
+Hong Kong,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,81.25,92.02,99.56,155.2,182.9,173.4,202.1,212.3,223.4,236.3,247.7
+Hong Kong,Food,Revenue,Convenience Food,million USD (US$),Statista,52.37,56.89,60.04,99.58,157,145.8,166.5,170.7,175.1,185.9,194.1
+Hong Kong,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,42.22,47.89,50.66,70.71,82.62,77.5,89.27,92.25,95.17,99.72,103.5
+Hong Kong,Food,Revenue,Fish & Seafood,million USD (US$),Statista,142.1,152.7,167.1,234.7,303.7,283.9,326.1,336,346,364.2,378.9
+Hong Kong,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,84.13,95.18,101,143.2,154.8,144.9,166.6,171.8,177.1,183.6,188.9
+Hong Kong,Food,Revenue,Meat,million USD (US$),Statista,209.4,235.7,250.9,359.7,404.9,377.7,433,445.4,457.8,475.7,489.9
+Hong Kong,Food,Revenue,Oils & Fats,million USD (US$),Statista,17.23,18.69,19.97,27.8,35.64,33.34,38.3,39.47,40.6,42.73,44.45
+Hong Kong,Food,Revenue,Sauces & Spices,million USD (US$),Statista,7.116,7.671,7.843,9.683,10.76,9.748,10.8,10.7,10.53,10.71,10.78
+Hong Kong,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,10.55,11.82,13.18,16.76,19.93,19.1,22.42,23.8,25.15,26.81,28.35
+Hong Kong,Food,Revenue,Vegetables,million USD (US$),Statista,115.7,130.9,135.9,198.7,239.2,223.6,256.9,264.9,272.8,285.6,295.9
+Hong Kong,Food,Revenue Change,Total,percent,Statista,,11.252,6.736,48.713,23.782,-6.732,14.714,3.001,3.008,4.881,3.697
+Hong Kong,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,9.802,7.352,70.72,38.928,-7.985,13.385,1.92,2.189,5.07,3.561
+Hong Kong,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,13.255,8.194,55.886,17.848,-5.194,16.551,5.047,5.228,5.774,4.824
+Hong Kong,Food,Revenue Change,Convenience Food,percent,Statista,,8.631,5.537,65.856,57.662,-7.134,14.198,2.523,2.578,6.168,4.411
+Hong Kong,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,13.43,5.784,39.578,16.843,-6.197,15.187,3.338,3.165,4.781,3.791
+Hong Kong,Food,Revenue Change,Fish & Seafood,percent,Statista,,7.46,9.43,40.455,29.399,-6.52,14.864,3.036,2.976,5.26,4.036
+Hong Kong,Food,Revenue Change,Fruits & Nuts,percent,Statista,,13.134,6.115,41.782,8.101,-6.395,14.976,3.121,3.085,3.67,2.887
+Hong Kong,Food,Revenue Change,Meat,percent,Statista,,12.56,6.449,43.364,12.566,-6.718,14.641,2.864,2.784,3.91,2.985
+Hong Kong,Food,Revenue Change,Oils & Fats,percent,Statista,,8.474,6.849,39.209,28.201,-6.453,14.877,3.055,2.863,5.246,4.025
+Hong Kong,Food,Revenue Change,Sauces & Spices,percent,Statista,,7.799,2.242,23.46,11.123,-9.405,10.792,-0.926,-1.589,1.709,0.654
+Hong Kong,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,12.038,11.506,27.162,18.914,-4.165,17.382,6.155,5.672,6.6,5.744
+Hong Kong,Food,Revenue Change,Vegetables,percent,Statista,,13.137,3.82,46.21,20.382,-6.522,14.893,3.114,2.982,4.692,3.606
+Hong Kong,Food,Average Revenue per User,Total,USD (US$),Statista,"2,127","1,669","1,391","1,645","1,668","1,545","1,550","1,430","1,333","1,303","1,264"
+Hong Kong,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,621.9,481.4,403.7,548,623.8,569.9,565.3,516,476.9,467.2,452.7
+Hong Kong,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,399.3,318.9,269.4,333.8,322.4,303.4,309.4,291.2,277.1,273.3,268
+Hong Kong,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,225.2,172.5,142.1,187.5,242.3,223.3,223.1,204.9,190.1,188.1,183.8
+Hong Kong,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,442,353.5,292,324.1,310.3,289,291.2,269.5,251.5,245.6,238.5
+Hong Kong,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,"1,801","1,365","1,166","1,302","1,381","1,281","1,288","1,189","1,107","1,086","1,057"
+Hong Kong,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,389.6,310.8,257.5,290.2,257.2,238.9,240.3,222.1,207,200.1,192.6
+Hong Kong,Food,Average Revenue per User,Meat,USD (US$),Statista,"1,681","1,334","1,109","1,264","1,166","1,080","1,083",997.8,927.5,898.4,865.7
+Hong Kong,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,166,127,105.9,117.2,123.2,114.4,114.9,106.1,98.73,96.85,94.24
+Hong Kong,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,38.95,29.6,23.63,23.2,21.12,19,18.42,16.35,14.55,13.79,12.99
+Hong Kong,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,76.97,60.82,52.94,53.55,52.17,49.63,50.97,48.46,46.34,46.03,45.54
+Hong Kong,Food,Average Revenue per User,Vegetables,USD (US$),Statista,568.5,453.4,367.6,427.6,421.6,391.4,393.4,363.3,338.4,330.3,320.2
+Hong Kong,Food,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Food,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Food,Online & Offline Split,Offline,percent,Statista,96.214,95.916,95.639,94.011,92.54,92.323,92.137,92.101,92.08,,
+Hong Kong,Food,Online & Offline Split,Online,percent,Statista,3.786,4.084,4.361,5.989,7.46,7.677,7.863,7.899,7.92,,
+Hong Kong,Food,Mobile/Desktop Split,Desktop,percent,Statista,54.268,52.572,51.124,49.651,48.33,47.34,46.447,45.847,45.32,,
+Hong Kong,Food,Mobile/Desktop Split,Mobile,percent,Statista,45.732,47.428,48.876,50.349,51.67,52.66,53.553,54.153,54.68,,
+Hong Kong,Food,Users,Total,million users,Statista,0.415,0.589,0.754,0.949,1.158,1.166,1.333,1.488,1.645,1.765,1.886
+Hong Kong,Food,Users,Bread & Cereal Products,million users,Statista,0.195,0.277,0.355,0.446,0.544,0.548,0.626,0.699,0.773,0.829,0.887
+Hong Kong,Food,Users,Confectionery & Snacks,million users,Statista,0.203,0.289,0.37,0.465,0.567,0.571,0.653,0.729,0.806,0.865,0.924
+Hong Kong,Food,Users,Convenience Food,million users,Statista,0.233,0.33,0.422,0.531,0.648,0.653,0.746,0.833,0.921,0.988,1.056
+Hong Kong,Food,Users,Dairy Products & Eggs,million users,Statista,0.096,0.135,0.173,0.218,0.266,0.268,0.307,0.342,0.378,0.406,0.434
+Hong Kong,Food,Users,Fish & Seafood,million users,Statista,0.079,0.112,0.143,0.18,0.22,0.222,0.253,0.283,0.313,0.335,0.359
+Hong Kong,Food,Users,Fruits & Nuts,million users,Statista,0.216,0.306,0.392,0.493,0.602,0.606,0.693,0.774,0.855,0.918,0.981
+Hong Kong,Food,Users,Meat,million users,Statista,0.125,0.177,0.226,0.285,0.347,0.35,0.4,0.446,0.494,0.529,0.566
+Hong Kong,Food,Users,Oils & Fats,million users,Statista,0.104,0.147,0.189,0.237,0.289,0.292,0.333,0.372,0.411,0.441,0.472
+Hong Kong,Food,Users,Sauces & Spices,million users,Statista,0.183,0.259,0.332,0.417,0.509,0.513,0.586,0.655,0.724,0.776,0.83
+Hong Kong,Food,Users,Spreads & Sweeteners,million users,Statista,0.137,0.194,0.249,0.313,0.382,0.385,0.44,0.491,0.543,0.582,0.622
+Hong Kong,Food,Users,Vegetables,million users,Statista,0.203,0.289,0.37,0.465,0.567,0.571,0.653,0.729,0.806,0.865,0.924
+Hong Kong,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,2.671,3.755,4.767,5.947,7.204,7.207,8.186,9.079,9.969,10.618,11.266
+Hong Kong,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,2.785,3.915,4.97,6.2,7.51,7.514,8.534,9.465,10.393,11.07,11.746
+Hong Kong,Food,Penetration Rate,Convenience Food,percent,Statista,3.183,4.474,5.68,7.086,8.583,8.587,9.753,10.818,11.878,12.652,13.424
+Hong Kong,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.307,1.838,2.333,2.91,3.525,3.527,4.006,4.443,4.879,5.197,5.515
+Hong Kong,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.08,1.518,1.927,2.404,2.912,2.913,3.309,3.67,4.03,4.294,4.557
+Hong Kong,Food,Penetration Rate,Food,percent,Statista,5.684,7.99,10.144,12.653,15.327,15.334,17.416,19.317,21.211,22.593,23.972
+Hong Kong,Food,Penetration Rate,Fruits & Nuts,percent,Statista,2.956,4.155,5.275,6.58,7.97,7.974,9.056,10.045,11.03,11.748,12.465
+Hong Kong,Food,Penetration Rate,Meat,percent,Statista,1.705,2.397,3.043,3.796,4.598,4.6,5.225,5.795,6.363,6.778,7.192
+Hong Kong,Food,Penetration Rate,Oils & Fats,percent,Statista,1.421,1.997,2.536,3.163,3.832,3.833,4.354,4.829,5.303,5.649,5.994
+Hong Kong,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.501,3.515,4.463,5.567,6.744,6.747,7.663,8.5,9.333,9.941,10.547
+Hong Kong,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.876,2.637,3.347,4.175,5.058,5.06,5.747,6.375,7,7.456,7.911
+Hong Kong,Food,Penetration Rate,Vegetables,percent,Statista,2.785,3.915,4.97,6.2,7.51,7.514,8.534,9.465,10.393,11.07,11.746
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,621.9,481.4,403.7,548,623.8,569.9,565.3,516,476.9,467.2,452.7
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,493.1,375.8,319.4,449.1,506.1,463.3,460.5,421.3,390.3,382.8,371.3
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,32.84,25.46,20.72,24.6,27.45,25.67,25.99,24.17,22.67,22.45,22.02
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,211,162.9,136.6,184.9,211.6,193.2,191.6,174.8,161.5,158.1,153.1
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,39.16,29.87,25.48,34.73,43.09,39.62,39.55,36.34,33.8,33.39,32.59
+Hong Kong,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,172.8,138.5,113.4,146.3,166.5,150.7,148.1,133.9,122.6,119.3,114.9
+Hong Kong,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,121.4,133.3,143.1,244.3,339.4,312.3,354.1,360.9,368.8,387.5,401.3
+Hong Kong,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,60.63,65.54,71.34,126.1,173.5,159.9,181.8,185.6,190.1,200,207.4
+Hong Kong,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,5.32,5.851,6.097,9.104,12.4,11.68,13.51,14.03,14.55,15.46,16.2
+Hong Kong,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,18.53,20.29,21.8,37.1,51.81,47.65,54.01,55.01,56.17,59.02,61.11
+Hong Kong,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,6.879,7.441,8.129,13.93,21.1,19.54,22.3,22.87,23.52,24.93,26
+Hong Kong,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,30.01,34.13,35.76,58.04,80.61,73.49,82.56,83.36,84.39,88.09,90.63
+Hong Kong,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,9.802,7.352,70.72,38.928,-7.985,13.385,1.92,2.189,5.07,3.561
+Hong Kong,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,8.098,8.85,76.759,37.589,-7.839,13.696,2.09,2.425,5.208,3.7
+Hong Kong,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,9.981,4.204,49.319,36.204,-5.806,15.668,3.849,3.706,6.254,4.787
+Hong Kong,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,9.498,7.442,70.183,39.65,-8.029,13.347,1.852,2.109,5.074,3.541
+Hong Kong,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,8.17,9.246,71.362,51.472,-7.393,14.125,2.556,2.842,5.995,4.292
+Hong Kong,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,13.729,4.776,62.304,38.887,-8.833,12.342,0.969,1.236,4.384,2.883
+Hong Kong,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Hong Kong,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Hong Kong,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,95.7,95.405,95.044,92.499,89.393,89.09,88.831,88.781,88.752,,
+Hong Kong,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,4.3,4.595,4.956,7.501,10.607,10.91,11.169,11.219,11.248,,
+Hong Kong,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,48.809,45.573,43.167,40.779,38.094,35.484,33.163,31.524,29.823,,
+Hong Kong,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,51.191,54.427,56.833,59.221,61.906,64.516,66.837,68.476,70.177,,
+Hong Kong,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.195,0.277,0.355,0.446,0.544,0.548,0.626,0.699,0.773,0.829,0.887
+Hong Kong,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.123,0.174,0.223,0.281,0.343,0.345,0.395,0.441,0.487,0.523,0.559
+Hong Kong,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.162,0.23,0.294,0.37,0.452,0.455,0.52,0.58,0.642,0.688,0.736
+Hong Kong,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.088,0.125,0.16,0.201,0.245,0.247,0.282,0.315,0.348,0.373,0.399
+Hong Kong,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.176,0.249,0.319,0.401,0.49,0.493,0.564,0.629,0.696,0.746,0.798
+Hong Kong,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.174,0.246,0.316,0.397,0.484,0.488,0.558,0.622,0.688,0.738,0.789
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.683,2.366,3.004,3.747,4.538,4.54,5.157,5.72,6.281,6.69,7.098
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.671,3.755,4.767,5.947,7.204,7.207,8.186,9.079,9.969,10.618,11.266
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.217,3.117,3.957,4.936,5.979,5.982,6.794,7.536,8.274,8.813,9.351
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.202,1.69,2.145,2.676,3.242,3.243,3.684,4.086,4.486,4.779,5.072
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.404,3.38,4.291,5.352,6.483,6.486,7.367,8.171,8.972,9.557,10.14
+Hong Kong,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.378,3.342,4.243,5.293,6.411,6.414,7.285,8.08,8.873,9.45,10.027
+Hong Kong,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,399.3,318.9,269.4,333.8,322.4,303.4,309.4,291.2,277.1,273.3,268
+Hong Kong,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,378.6,300.3,252.6,311.9,298,280.1,285.4,267.8,254,250,244.7
+Hong Kong,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,7.989,6.38,5.389,6.679,6.451,6.071,6.19,5.827,5.545,5.468,5.362
+Hong Kong,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,90.82,74.3,63.68,80,80.18,75.72,77.39,73.58,70.72,70.19,69.28
+Hong Kong,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,81.25,92.02,99.56,155.2,182.9,173.4,202.1,212.3,223.4,236.3,247.7
+Hong Kong,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,63.17,71.07,76.57,118.9,138.6,131.2,152.8,160.1,167.9,177.3,185.4
+Hong Kong,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.894,1.013,1.096,1.707,2.013,1.908,2.224,2.337,2.458,2.601,2.726
+Hong Kong,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,17.19,19.94,21.89,34.58,42.3,40.23,47.01,49.89,53.01,56.45,59.55
+Hong Kong,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,13.255,8.194,55.886,17.848,-5.194,16.551,5.047,5.228,5.774,4.824
+Hong Kong,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,12.506,7.739,55.283,16.569,-5.339,16.463,4.777,4.872,5.599,4.569
+Hong Kong,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,13.298,8.193,55.748,17.926,-5.216,16.562,5.081,5.178,5.818,4.806
+Hong Kong,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,15.998,9.779,57.972,22.325,-4.894,16.853,6.126,6.254,6.489,5.492
+Hong Kong,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Hong Kong,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Hong Kong,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,95.501,95.147,94.843,92.784,91.548,91.296,91.079,91.036,91.011,,
+Hong Kong,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,4.499,4.853,5.157,7.216,8.452,8.704,8.921,8.964,8.989,,
+Hong Kong,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,40.794,37.206,34.291,31.135,28.133,25.079,22.357,20.426,18.419,,
+Hong Kong,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,59.206,62.794,65.709,68.865,71.867,74.921,77.643,79.574,81.581,,
+Hong Kong,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.203,0.289,0.37,0.465,0.567,0.571,0.653,0.729,0.806,0.865,0.924
+Hong Kong,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.167,0.237,0.303,0.381,0.465,0.469,0.536,0.598,0.661,0.709,0.758
+Hong Kong,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.112,0.159,0.203,0.256,0.312,0.314,0.359,0.401,0.443,0.476,0.508
+Hong Kong,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.189,0.268,0.344,0.432,0.528,0.531,0.607,0.678,0.75,0.804,0.86
+Hong Kong,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.284,3.21,4.076,5.084,6.159,6.161,6.998,7.762,8.523,9.078,9.632
+Hong Kong,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.785,3.915,4.97,6.2,7.51,7.514,8.534,9.465,10.393,11.07,11.746
+Hong Kong,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.532,2.153,2.734,3.41,4.131,4.132,4.694,5.206,5.716,6.089,6.461
+Hong Kong,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.59,3.641,4.622,5.766,6.985,6.988,7.937,8.803,9.666,10.295,10.923
+Hong Kong,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,225.2,172.5,142.1,187.5,242.3,223.3,223.1,204.9,190.1,188.1,183.8
+Hong Kong,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,239.4,182.3,150.2,196.7,258.3,238.6,238.9,219.8,204.2,202.5,198.2
+Hong Kong,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,100,77.83,64.15,86.23,106.7,97.71,97.08,88.72,81.96,80.68,78.43
+Hong Kong,Convenience Food,Revenue,Total,million USD (US$),Statista,52.37,56.89,60.04,99.58,157,145.8,166.5,170.7,175.1,185.9,194.1
+Hong Kong,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,38.41,41.49,43.78,72.1,115.6,107.5,123,126.4,129.8,138.1,144.4
+Hong Kong,Convenience Food,Revenue,Soups,million USD (US$),Statista,13.95,15.4,16.26,27.48,41.49,38.28,43.48,44.36,45.3,47.84,49.71
+Hong Kong,Convenience Food,Revenue Change,Total,percent,Statista,,8.631,5.537,65.856,57.662,-7.134,14.198,2.523,2.578,6.168,4.411
+Hong Kong,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,8.019,5.519,64.687,60.333,-7.007,14.419,2.764,2.69,6.394,4.562
+Hong Kong,Convenience Food,Revenue Change,Soups,percent,Statista,,10.394,5.584,69.004,50.983,-7.737,13.584,2.024,2.119,5.607,3.909
+Hong Kong,Convenience Food,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Convenience Food,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Convenience Food,Online & Offline Split,Offline,percent,Statista,96.632,96.441,96.232,94.269,90.825,90.551,90.316,90.268,90.24,,
+Hong Kong,Convenience Food,Online & Offline Split,Online,percent,Statista,3.368,3.559,3.768,5.731,9.175,9.449,9.684,9.732,9.76,,
+Hong Kong,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,51.917,51.935,51.958,51.978,51.996,52.012,52.026,52.04,52.052,,
+Hong Kong,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,48.083,48.065,48.042,48.022,48.004,47.988,47.974,47.96,47.948,,
+Hong Kong,Convenience Food,Users by Segment,Total,million users,Statista,0.233,0.33,0.422,0.531,0.648,0.653,0.746,0.833,0.921,0.988,1.056
+Hong Kong,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.16,0.228,0.291,0.367,0.447,0.451,0.515,0.575,0.636,0.682,0.729
+Hong Kong,Convenience Food,Users by Segment,Soups,million users,Statista,0.14,0.198,0.253,0.319,0.389,0.392,0.448,0.5,0.553,0.593,0.634
+Hong Kong,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.183,4.474,5.68,7.086,8.583,8.587,9.753,10.818,11.878,12.652,13.424
+Hong Kong,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.196,3.087,3.919,4.889,5.922,5.925,6.73,7.464,8.196,8.73,9.262
+Hong Kong,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.91,2.685,3.408,4.251,5.15,5.152,5.852,6.491,7.127,7.591,8.054
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,442,353.5,292,324.1,310.3,289,291.2,269.5,251.5,245.6,238.5
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,25.36,20,16.78,18.99,17.48,16.13,16.12,14.79,13.68,13.21,12.68
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,297.8,236.4,194.6,213.4,221.2,206,207.7,192.3,179.5,173.9,167.6
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,273.4,222.4,187.2,212.1,197.2,186.5,190.8,179.2,169.7,166.6,162.8
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,186.4,147.4,116.8,125,113.5,102.4,99.93,89.46,80.65,75.75,70.91
+Hong Kong,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,29.82,21.4,16.14,16.1,15.5,12.65,10.96,8.485,6.374,5.912,5.313
+Hong Kong,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,42.22,47.89,50.66,70.71,82.62,77.5,89.27,92.25,95.17,99.72,103.5
+Hong Kong,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,1.817,2.032,2.183,3.107,3.49,3.245,3.706,3.796,3.881,4.022,4.129
+Hong Kong,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,12.23,13.77,14.52,20.02,25.33,23.76,27.38,28.3,29.2,30.73,31.97
+Hong Kong,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,20.37,23.5,25.33,36.1,40.96,39.01,45.62,47.84,50.08,52.76,55.11
+Hong Kong,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,6.23,6.99,7.095,9.549,10.58,9.615,10.72,10.72,10.68,10.89,11.01
+Hong Kong,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,1.566,1.595,1.54,1.932,2.269,1.866,1.848,1.597,1.326,1.32,1.269
+Hong Kong,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,13.43,5.784,39.578,16.843,-6.197,15.187,3.338,3.165,4.781,3.791
+Hong Kong,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,11.833,7.431,42.327,12.327,-7.02,14.206,2.428,2.239,3.633,2.66
+Hong Kong,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,12.592,5.447,37.879,26.523,-6.198,15.236,3.36,3.18,5.24,4.035
+Hong Kong,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,15.366,7.787,42.519,13.463,-4.761,16.944,4.866,4.682,5.351,4.454
+Hong Kong,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,12.199,1.502,34.588,10.797,-9.121,11.492,0,-0.373,1.966,1.102
+Hong Kong,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,1.852,-3.448,25.455,17.443,-17.761,-0.965,-13.582,-16.969,-0.452,-3.864
+Hong Kong,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Hong Kong,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Hong Kong,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,96.384,96.025,95.796,94.5,93.565,93.369,93.2,93.162,93.138,,
+Hong Kong,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,3.616,3.975,4.204,5.5,6.435,6.631,6.8,6.838,6.862,,
+Hong Kong,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,51.917,51.935,51.958,51.978,51.996,52.012,52.026,52.04,52.052,,
+Hong Kong,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,48.083,48.065,48.042,48.022,48.004,47.988,47.974,47.96,47.948,,
+Hong Kong,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.096,0.135,0.173,0.218,0.266,0.268,0.307,0.342,0.378,0.406,0.434
+Hong Kong,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.072,0.102,0.13,0.164,0.2,0.201,0.23,0.257,0.284,0.305,0.326
+Hong Kong,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.041,0.058,0.075,0.094,0.114,0.115,0.132,0.147,0.163,0.177,0.191
+Hong Kong,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.075,0.106,0.135,0.17,0.208,0.209,0.239,0.267,0.295,0.317,0.339
+Hong Kong,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.033,0.047,0.061,0.076,0.093,0.094,0.107,0.12,0.132,0.144,0.155
+Hong Kong,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.053,0.075,0.095,0.12,0.146,0.148,0.169,0.188,0.208,0.223,0.239
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.98,1.378,1.75,2.183,2.644,2.645,3.004,3.332,3.659,3.898,4.137
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.307,1.838,2.333,2.91,3.525,3.527,4.006,4.443,4.879,5.197,5.515
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.562,0.79,1.003,1.251,1.516,1.517,1.722,1.91,2.098,2.262,2.425
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.02,1.433,1.82,2.27,2.75,2.751,3.124,3.466,3.805,4.054,4.303
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.458,0.643,0.817,1.019,1.234,1.234,1.402,1.555,1.707,1.841,1.973
+Hong Kong,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.719,1.011,1.283,1.601,1.939,1.94,2.203,2.444,2.683,2.859,3.035
+Hong Kong,Fish & Seafood,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,1.801,1.365,1.166,1.302,1.381,1.281,1.288,1.189,1.107,1.086,1.057
+Hong Kong,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,thousand USD (US$),Statista,3.124,2.308,2.021,2.212,2.4,2.228,2.24,2.069,1.927,1.873,1.807
+Hong Kong,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,thousand USD (US$),Statista,1.086,0.864,0.728,0.832,0.798,0.742,0.747,0.691,0.645,0.621,0.595
+Hong Kong,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,thousand USD (US$),Statista,0.357,0.286,0.225,0.266,0.281,0.26,0.261,0.24,0.223,0.218,0.211
+Hong Kong,Fish & Seafood,Revenue,Total,million USD (US$),Statista,142.1,152.7,167.1,234.7,303.7,283.9,326.1,336,346,364.2,378.9
+Hong Kong,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,96.15,100.7,113,155.5,205.9,192.5,221.2,228.1,234.9,247.9,258.3
+Hong Kong,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,20.56,23.2,25.04,36,42.15,39.47,45.42,46.9,48.38,50.56,52.32
+Hong Kong,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,25.38,28.82,29.07,43.21,55.7,51.9,59.43,61.05,62.66,65.8,68.26
+Hong Kong,Fish & Seafood,Revenue Change,Total,percent,Statista,,7.46,9.43,40.455,29.399,-6.52,14.864,3.036,2.976,5.26,4.036
+Hong Kong,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,4.732,12.214,37.611,32.412,-6.508,14.909,3.119,2.981,5.534,4.195
+Hong Kong,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,12.84,7.931,43.77,17.083,-6.358,15.075,3.258,3.156,4.506,3.481
+Hong Kong,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,13.554,0.867,48.641,28.905,-6.822,14.509,2.726,2.637,5.011,3.739
+Hong Kong,Fish & Seafood,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Fish & Seafood,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,96.624,96.48,96.146,94.961,93.442,93.246,93.077,93.042,93.021,,
+Hong Kong,Fish & Seafood,Online & Offline Split,Online,percent,Statista,3.376,3.52,3.854,5.039,6.558,6.754,6.923,6.958,6.979,,
+Hong Kong,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,51.917,51.935,51.958,51.978,51.996,52.012,52.026,52.04,52.052,,
+Hong Kong,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,48.083,48.065,48.042,48.022,48.004,47.988,47.974,47.96,47.948,,
+Hong Kong,Fish & Seafood,Users by Segment,Total,million users,Statista,0.079,0.112,0.143,0.18,0.22,0.222,0.253,0.283,0.313,0.335,0.359
+Hong Kong,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.031,0.044,0.056,0.07,0.086,0.086,0.099,0.11,0.122,0.132,0.143
+Hong Kong,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.019,0.027,0.034,0.043,0.053,0.053,0.061,0.068,0.075,0.081,0.088
+Hong Kong,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.071,0.101,0.129,0.162,0.198,0.199,0.228,0.254,0.281,0.302,0.323
+Hong Kong,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.08,1.518,1.927,2.404,2.912,2.913,3.309,3.67,4.03,4.294,4.557
+Hong Kong,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.421,0.592,0.752,0.938,1.136,1.136,1.291,1.431,1.572,1.694,1.816
+Hong Kong,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.259,0.364,0.463,0.577,0.699,0.699,0.794,0.881,0.967,1.043,1.118
+Hong Kong,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.972,1.366,1.735,2.164,2.621,2.622,2.978,3.303,3.627,3.865,4.101
+Hong Kong,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,389.6,310.8,257.5,290.2,257.2,238.9,240.3,222.1,207,200.1,192.6
+Hong Kong,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,505.8,404,334.8,377.3,333.1,309.4,311.1,287.4,267.9,258.8,249
+Hong Kong,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,48.29,38.12,31.39,35.29,32.33,30.05,30.24,27.96,26.08,25.31,24.45
+Hong Kong,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,22.78,17.85,14.92,16.91,15.72,14.68,14.85,13.79,12.93,12.61,12.23
+Hong Kong,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,84.13,95.18,101,143.2,154.8,144.9,166.6,171.8,177.1,183.6,188.9
+Hong Kong,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,76.46,86.61,91.92,130.3,140.4,131.3,151,155.7,160.4,166.2,171
+Hong Kong,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,5.214,5.838,6.156,8.704,9.731,9.11,10.48,10.82,11.15,11.61,11.99
+Hong Kong,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,2.46,2.733,2.926,4.172,4.732,4.451,5.145,5.336,5.528,5.785,5.999
+Hong Kong,Fruits & Nuts,Revenue Change,Total,percent,Statista,,13.134,6.115,41.782,8.101,-6.395,14.976,3.121,3.085,3.67,2.887
+Hong Kong,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,13.275,6.131,41.754,7.751,-6.481,15.004,3.113,3.019,3.616,2.888
+Hong Kong,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,11.968,5.447,41.391,11.799,-6.382,15.038,3.244,3.05,4.126,3.273
+Hong Kong,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,11.098,7.062,42.584,13.423,-5.938,15.592,3.712,3.598,4.649,3.699
+Hong Kong,Fruits & Nuts,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Fruits & Nuts,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,95.423,94.982,94.677,92.985,92.378,92.149,91.953,91.913,91.889,,
+Hong Kong,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,4.577,5.018,5.323,7.015,7.622,7.851,8.047,8.087,8.111,,
+Hong Kong,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Hong Kong,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Hong Kong,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.216,0.306,0.392,0.493,0.602,0.606,0.693,0.774,0.855,0.918,0.981
+Hong Kong,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.151,0.214,0.275,0.345,0.421,0.424,0.485,0.542,0.599,0.642,0.687
+Hong Kong,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.108,0.153,0.196,0.247,0.301,0.303,0.347,0.387,0.428,0.459,0.49
+Hong Kong,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.108,0.153,0.196,0.247,0.301,0.303,0.347,0.387,0.428,0.459,0.49
+Hong Kong,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.069,2.908,3.692,4.606,5.579,5.582,6.34,7.031,7.721,8.224,8.726
+Hong Kong,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,2.956,4.155,5.275,6.58,7.97,7.974,9.056,10.045,11.03,11.748,12.465
+Hong Kong,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.478,2.077,2.637,3.29,3.985,3.987,4.528,5.022,5.515,5.874,6.233
+Hong Kong,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.478,2.077,2.637,3.29,3.985,3.987,4.528,5.022,5.515,5.874,6.233
+Hong Kong,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,"1,681","1,334","1,109","1,264","1,166","1,080","1,083",997.8,927.5,898.4,865.7
+Hong Kong,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,"2,388","1,895","1,575","1,796","1,653","1,532","1,537","1,417","1,318","1,277","1,230"
+Hong Kong,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,38.29,30.84,24.99,28.44,28.91,26.14,25.58,22.98,20.82,20.01,19.08
+Hong Kong,Meat,Revenue,Total,million USD (US$),Statista,209.4,235.7,250.9,359.7,404.9,377.7,433,445.4,457.8,475.7,489.9
+Hong Kong,Meat,Revenue,Fresh Meat,million USD (US$),Statista,205.3,231,246,352.7,396.1,369.8,424.1,436.5,448.8,466.4,480.5
+Hong Kong,Meat,Revenue,Processed Meat,million USD (US$),Statista,4.151,4.741,4.92,7.042,8.735,7.954,8.899,8.924,8.937,9.218,9.393
+Hong Kong,Meat,Revenue Change,Total,percent,Statista,,12.56,6.449,43.364,12.566,-6.718,14.641,2.864,2.784,3.91,2.985
+Hong Kong,Meat,Revenue Change,Fresh Meat,percent,Statista,,12.518,6.494,43.374,12.305,-6.64,14.684,2.924,2.818,3.922,3.023
+Hong Kong,Meat,Revenue Change,Processed Meat,percent,Statista,,14.213,3.776,43.13,24.041,-8.941,11.881,0.281,0.146,3.144,1.898
+Hong Kong,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Hong Kong,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Hong Kong,Meat,Online & Offline Split,Offline,percent,Statista,96.284,95.935,95.662,94.201,93.424,93.227,93.058,93.023,93.003,,
+Hong Kong,Meat,Online & Offline Split,Online,percent,Statista,3.716,4.065,4.338,5.799,6.576,6.773,6.942,6.977,6.997,,
+Hong Kong,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Hong Kong,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Hong Kong,Meat,Users by Segment,Total,million users,Statista,0.125,0.177,0.226,0.285,0.347,0.35,0.4,0.446,0.494,0.529,0.566
+Hong Kong,Meat,Users by Segment,Fresh Meat,million users,Statista,0.086,0.122,0.156,0.196,0.24,0.241,0.276,0.308,0.341,0.365,0.391
+Hong Kong,Meat,Users by Segment,Processed Meat,million users,Statista,0.108,0.154,0.197,0.248,0.302,0.304,0.348,0.388,0.429,0.461,0.492
+Hong Kong,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.177,1.654,2.1,2.619,3.173,3.174,3.605,3.999,4.391,4.678,4.964
+Hong Kong,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.705,2.397,3.043,3.796,4.598,4.6,5.225,5.795,6.363,6.778,7.192
+Hong Kong,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.483,2.085,2.647,3.302,4,4.002,4.546,5.042,5.536,5.897,6.257
+Hong Kong,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,166,127,105.9,117.2,123.2,114.4,114.9,106.1,98.73,96.85,94.24
+Hong Kong,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,7.608,6.09,5.107,5.73,5.262,4.924,4.985,4.636,4.346,4.233,4.102
+Hong Kong,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,23.38,17.71,14.11,15.47,15.12,13.73,13.48,12.16,11.04,10.62,10.13
+Hong Kong,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,22.01,16.69,14.1,15.48,16.9,15.77,15.92,14.76,13.8,13.61,13.31
+Hong Kong,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,206,157.6,132.1,146.4,155.6,144.7,145.7,134.7,125.6,123.4,120.3
+Hong Kong,Oils & Fats,Revenue,Total,million USD (US$),Statista,17.23,18.69,19.97,27.8,35.64,33.34,38.3,39.47,40.6,42.73,44.45
+Hong Kong,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.632,0.717,0.77,1.087,1.218,1.148,1.329,1.38,1.43,1.494,1.548
+Hong Kong,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,1.942,2.087,2.129,2.936,3.501,3.202,3.595,3.618,3.633,3.748,3.825
+Hong Kong,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,1.828,1.966,2.127,2.938,3.913,3.677,4.243,4.393,4.54,4.805,5.023
+Hong Kong,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,12.83,13.92,14.95,20.84,27.01,25.31,29.13,30.08,31,32.69,34.05
+Hong Kong,Oils & Fats,Revenue Change,Total,percent,Statista,,8.474,6.849,39.209,28.201,-6.453,14.877,3.055,2.863,5.246,4.025
+Hong Kong,Oils & Fats,Revenue Change,Butter,percent,Statista,,13.531,7.402,41.077,12.052,-5.747,15.767,3.837,3.623,4.476,3.614
+Hong Kong,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,7.467,2.012,37.905,19.244,-8.54,12.274,0.64,0.415,3.165,2.054
+Hong Kong,Oils & Fats,Revenue Change,Margarine,percent,Statista,,7.549,8.189,38.129,33.186,-6.031,15.393,3.535,3.346,5.837,4.537
+Hong Kong,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,8.496,7.399,39.398,29.607,-6.294,15.093,3.261,3.059,5.452,4.16
+Hong Kong,Oils & Fats,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Oils & Fats,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Oils & Fats,Online & Offline Split,Offline,percent,Statista,96.671,96.493,96.245,95.09,93.68,93.49,93.327,93.294,93.273,,
+Hong Kong,Oils & Fats,Online & Offline Split,Online,percent,Statista,3.329,3.507,3.755,4.91,6.32,6.51,6.673,6.706,6.727,,
+Hong Kong,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Hong Kong,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Hong Kong,Oils & Fats,Users by Segment,Total,million users,Statista,0.104,0.147,0.189,0.237,0.289,0.292,0.333,0.372,0.411,0.441,0.472
+Hong Kong,Oils & Fats,Users by Segment,Butter,million users,Statista,0.083,0.118,0.151,0.19,0.232,0.233,0.267,0.298,0.329,0.353,0.377
+Hong Kong,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.083,0.118,0.151,0.19,0.232,0.233,0.267,0.298,0.329,0.353,0.377
+Hong Kong,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.083,0.118,0.151,0.19,0.232,0.233,0.267,0.298,0.329,0.353,0.377
+Hong Kong,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.062,0.088,0.113,0.142,0.174,0.175,0.2,0.223,0.247,0.265,0.283
+Hong Kong,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.137,1.598,2.029,2.531,3.065,3.067,3.483,3.863,4.242,4.52,4.796
+Hong Kong,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.137,1.598,2.029,2.531,3.065,3.067,3.483,3.863,4.242,4.52,4.796
+Hong Kong,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.137,1.598,2.029,2.531,3.065,3.067,3.483,3.863,4.242,4.52,4.796
+Hong Kong,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.421,1.997,2.536,3.163,3.832,3.833,4.354,4.829,5.303,5.649,5.994
+Hong Kong,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.853,1.198,1.522,1.898,2.299,2.3,2.612,2.898,3.182,3.39,3.598
+Hong Kong,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,38.95,29.6,23.63,23.2,21.12,19,18.42,16.35,14.55,13.79,12.99
+Hong Kong,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,31.32,23.77,19.12,18.94,16.44,14.88,14.52,12.98,11.65,11.03,10.4
+Hong Kong,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,23.14,17.64,13.89,13.41,13.28,11.83,11.34,9.937,8.729,8.277,7.782
+Hong Kong,Sauces & Spices,Revenue,Total,million USD (US$),Statista,7.116,7.671,7.843,9.683,10.76,9.748,10.8,10.7,10.53,10.71,10.78
+Hong Kong,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,4.579,4.929,5.078,6.325,6.699,6.108,6.813,6.798,6.743,6.849,6.903
+Hong Kong,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,2.537,2.742,2.766,3.358,4.059,3.64,3.989,3.904,3.791,3.856,3.876
+Hong Kong,Sauces & Spices,Revenue Change,Total,percent,Statista,,7.799,2.242,23.46,11.123,-9.405,10.792,-0.926,-1.589,1.709,0.654
+Hong Kong,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,7.644,3.023,24.557,5.913,-8.822,11.542,-0.22,-0.809,1.572,0.788
+Hong Kong,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,8.08,0.875,21.403,20.876,-10.323,9.588,-2.131,-2.894,1.715,0.519
+Hong Kong,Sauces & Spices,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Sauces & Spices,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Sauces & Spices,Online & Offline Split,Online,percent,Statista,3.475,3.772,4.012,5.039,5.753,5.925,6.072,6.102,6.12,,
+Hong Kong,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Hong Kong,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Hong Kong,Sauces & Spices,Users by Segment,Total,million users,Statista,0.183,0.259,0.332,0.417,0.509,0.513,0.586,0.655,0.724,0.776,0.83
+Hong Kong,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.146,0.207,0.266,0.334,0.407,0.41,0.469,0.524,0.579,0.621,0.664
+Hong Kong,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.11,0.155,0.199,0.25,0.306,0.308,0.352,0.393,0.434,0.466,0.498
+Hong Kong,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.501,3.515,4.463,5.567,6.744,6.747,7.663,8.5,9.333,9.941,10.547
+Hong Kong,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.001,2.812,3.571,4.454,5.395,5.398,6.131,6.8,7.466,7.953,8.438
+Hong Kong,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.501,2.109,2.678,3.34,4.046,4.048,4.598,5.1,5.6,5.965,6.329
+Hong Kong,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,76.97,60.82,52.94,53.55,52.17,49.63,50.97,48.46,46.34,46.03,45.54
+Hong Kong,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,63.45,49.83,43.23,42.44,42.9,41.14,42.59,40.86,39.41,39.54,39.5
+Hong Kong,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,54.61,43.66,38.25,40.82,37.2,34.83,35.21,32.87,30.85,29.98,29.02
+Hong Kong,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,10.55,11.82,13.18,16.76,19.93,19.1,22.42,23.8,25.15,26.81,28.35
+Hong Kong,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,6.956,7.748,8.608,10.63,13.11,12.66,14.99,16.05,17.11,18.42,19.67
+Hong Kong,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,3.592,4.073,4.571,6.133,6.821,6.433,7.433,7.748,8.039,8.384,8.676
+Hong Kong,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,12.038,11.506,27.162,18.914,-4.165,17.382,6.155,5.672,6.6,5.744
+Hong Kong,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,11.386,11.1,23.49,23.33,-3.432,18.404,7.071,6.604,7.656,6.786
+Hong Kong,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,13.391,12.227,34.172,11.218,-5.688,15.545,4.238,3.756,4.292,3.483
+Hong Kong,Spreads & Sweeteners,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Hong Kong,Spreads & Sweeteners,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Hong Kong,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,96.483,96.255,95.887,94.94,94.154,93.984,93.839,93.814,93.801,,
+Hong Kong,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,3.517,3.745,4.113,5.06,5.846,6.016,6.161,6.186,6.199,,
+Hong Kong,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Hong Kong,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Hong Kong,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.137,0.194,0.249,0.313,0.382,0.385,0.44,0.491,0.543,0.582,0.622
+Hong Kong,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.11,0.155,0.199,0.25,0.306,0.308,0.352,0.393,0.434,0.466,0.498
+Hong Kong,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.066,0.093,0.119,0.15,0.183,0.185,0.211,0.236,0.261,0.28,0.299
+Hong Kong,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.501,2.109,2.678,3.34,4.046,4.048,4.598,5.1,5.6,5.965,6.329
+Hong Kong,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.876,2.637,3.347,4.175,5.058,5.06,5.747,6.375,7,7.456,7.911
+Hong Kong,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.9,1.266,1.607,2.004,2.428,2.429,2.759,3.06,3.36,3.58,3.799
+Hong Kong,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,568.5,453.4,367.6,427.6,421.6,391.4,393.4,363.3,338.4,330.3,320.2
+Hong Kong,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,783.2,626.4,507.2,590.7,580.1,538.5,541.2,499.8,465.6,454.3,440.2
+Hong Kong,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,40.49,29.89,25.14,28.23,31.19,28.94,29.07,26.83,24.98,24.61,24.01
+Hong Kong,Vegetables,Revenue,Total,million USD (US$),Statista,115.7,130.9,135.9,198.7,239.2,223.6,256.9,264.9,272.8,285.6,295.9
+Hong Kong,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,111.6,126.5,131.2,192.2,230.3,215.4,247.5,255.1,262.7,275,284.8
+Hong Kong,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,4.119,4.313,4.645,6.56,8.845,8.266,9.493,9.781,10.07,10.64,11.1
+Hong Kong,Vegetables,Revenue Change,Total,percent,Statista,,13.137,3.82,46.21,20.382,-6.522,14.893,3.114,2.982,4.692,3.606
+Hong Kong,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,13.351,3.715,46.494,19.823,-6.47,14.903,3.071,2.979,4.682,3.564
+Hong Kong,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,4.71,7.698,41.227,34.832,-6.546,14.844,3.034,2.955,5.66,4.323
+Hong Kong,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Hong Kong,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Hong Kong,Vegetables,Online & Offline Split,Offline,percent,Statista,96.469,96.127,95.977,94.525,93.376,93.177,93.007,92.972,92.95,,
+Hong Kong,Vegetables,Online & Offline Split,Online,percent,Statista,3.531,3.873,4.023,5.475,6.624,6.823,6.993,7.028,7.05,,
+Hong Kong,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Hong Kong,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Hong Kong,Vegetables,Users by Segment,Total,million users,Statista,0.203,0.289,0.37,0.465,0.567,0.571,0.653,0.729,0.806,0.865,0.924
+Hong Kong,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.142,0.202,0.259,0.325,0.397,0.4,0.457,0.51,0.564,0.605,0.647
+Hong Kong,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.102,0.144,0.185,0.232,0.284,0.286,0.327,0.365,0.403,0.432,0.462
+Hong Kong,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.95,2.74,3.479,4.34,5.257,5.259,5.974,6.626,7.275,7.749,8.222
+Hong Kong,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.393,1.957,2.485,3.1,3.755,3.757,4.267,4.733,5.197,5.536,5.874
+Hong Kong,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,2.785,3.915,4.97,6.2,7.51,7.514,8.534,9.465,10.393,11.07,11.746

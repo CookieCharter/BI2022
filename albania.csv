@@ -1,0 +1,571 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Albania,eCommerce,Revenue,Total,million USD (US$),Statista,184.4,213.8,248.3,343,416.8,410.8,530.1,614,712.3,773.1,841.7
+Albania,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,22.89,26.66,30.98,40.33,49.54,50.91,64.94,75.49,88.58,96.21,105
+Albania,eCommerce,Revenue,Beverages,million USD (US$),Statista,4.397,5.529,6.997,11.4,17.57,18.01,22.45,25.44,29.2,32.1,35.12
+Albania,eCommerce,Revenue,Electronics,million USD (US$),Statista,70.03,79.76,91.11,120.7,144,137.1,181.1,210.6,242.3,263.1,286.4
+Albania,eCommerce,Revenue,Fashion,million USD (US$),Statista,42.37,49.14,56.93,81.71,96.48,98.12,123.9,142.8,166.1,180.1,195.9
+Albania,eCommerce,Revenue,Food,million USD (US$),Statista,4.946,6.505,8.712,15.67,23.09,25.44,35.39,45.82,58.84,64.96,72.59
+Albania,eCommerce,Revenue,Furniture,million USD (US$),Statista,18.26,20.43,22.9,29.03,34.07,29.78,40.23,45.9,52.54,56.6,61.24
+Albania,eCommerce,Revenue,Media,million USD (US$),Statista,2.655,3.076,3.615,5.207,6.131,6.071,7.238,7.744,8.238,8.851,9.411
+Albania,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,18.87,22.74,27.02,38.87,45.95,45.41,54.92,60.27,66.43,71.22,76.09
+Albania,eCommerce,Revenue Change,Total,percent,Statista,,15.952,16.101,38.138,21.542,-1.435,29.034,15.829,15.997,8.539,8.878
+Albania,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,16.461,16.204,30.205,22.834,2.769,27.557,16.24,17.342,8.608,9.13
+Albania,eCommerce,Revenue Change,Beverages,percent,Statista,,25.746,26.547,62.912,54.126,2.485,24.684,13.317,14.796,9.927,9.41
+Albania,eCommerce,Revenue Change,Electronics,percent,Statista,,13.887,14.232,32.518,19.265,-4.783,32.053,16.31,15.066,8.568,8.859
+Albania,eCommerce,Revenue Change,Fashion,percent,Statista,,15.981,15.859,43.52,18.075,1.695,26.277,15.248,16.346,8.396,8.781
+Albania,eCommerce,Revenue Change,Food,percent,Statista,,31.52,33.926,79.857,47.372,10.169,39.119,29.471,28.408,10.409,11.74
+Albania,eCommerce,Revenue Change,Furniture,percent,Statista,,11.908,12.058,26.76,17.376,-12.597,35.102,14.099,14.461,7.72,8.21
+Albania,eCommerce,Revenue Change,Media,percent,Statista,,15.843,17.523,44.061,17.744,-0.978,19.217,6.984,6.387,7.44,6.321
+Albania,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,20.505,18.861,43.827,18.218,-1.167,20.943,9.732,10.217,7.211,6.848
+Albania,eCommerce,Average Revenue per User,Total,USD (US$),Statista,226.5,238.4,243,326,380.9,373,467,535,614,659,711.7
+Albania,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,77.39,79.89,82.19,94.78,105.1,98.18,116,127,141.1,144.5,149.6
+Albania,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,24.06,28.13,32.56,47.98,67.62,63.85,74.2,79.69,86.97,90.44,94.07
+Albania,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,154.1,156.4,157.7,184,196.5,169.7,207.3,227.4,247.7,253.3,261.5
+Albania,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,95.67,98.03,100.7,128.7,136.2,125.8,147.2,159.8,175.8,179.7,185.4
+Albania,eCommerce,Average Revenue per User,Food,USD (US$),Statista,28.78,35.19,43.11,70.13,94.52,95.94,124.4,152.7,186.3,194.6,206.8
+Albania,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,91.05,89.76,87.96,97.44,100.4,78.45,97.22,103.8,111.7,112.2,114.1
+Albania,eCommerce,Average Revenue per User,Media,USD (US$),Statista,8.41,8.667,8.978,11.38,12,10.81,11.92,11.99,12.04,12.17,12.26
+Albania,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,53.92,57.36,59.78,75.59,79.02,69.97,77.42,79.65,82.65,82.77,83.22
+Albania,eCommerce,Online & Offline Split,Offline,percent,Statista,96.433,95.98,95.457,93.564,92.435,91.878,91.092,90.03,88.754,,
+Albania,eCommerce,Online & Offline Split,Online,percent,Statista,3.567,4.02,4.543,6.436,7.565,8.122,8.908,9.97,11.246,,
+Albania,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,71.646,66.667,64.183,63.007,62.46,61.791,61.294,60.833,60.442,,
+Albania,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,28.354,33.333,35.817,36.993,37.54,38.209,38.706,39.167,39.558,,
+Albania,eCommerce,Users,Total,million users,Statista,0.814,0.897,1.022,1.052,1.094,1.101,1.135,1.148,1.16,1.173,1.183
+Albania,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,0.296,0.334,0.377,0.426,0.472,0.519,0.56,0.594,0.628,0.666,0.702
+Albania,eCommerce,Users,Beverages,million users,Statista,0.183,0.197,0.215,0.238,0.26,0.282,0.303,0.319,0.336,0.355,0.373
+Albania,eCommerce,Users,Electronics,million users,Statista,0.455,0.51,0.578,0.656,0.733,0.808,0.873,0.926,0.978,1.039,1.095
+Albania,eCommerce,Users,Fashion,million users,Statista,0.443,0.501,0.565,0.635,0.708,0.78,0.842,0.893,0.945,1.002,1.057
+Albania,eCommerce,Users,Food,million users,Statista,0.172,0.185,0.202,0.223,0.244,0.265,0.284,0.3,0.316,0.334,0.351
+Albania,eCommerce,Users,Furniture,million users,Statista,0.201,0.228,0.26,0.298,0.339,0.38,0.414,0.442,0.47,0.504,0.537
+Albania,eCommerce,Users,Media,million users,Statista,0.316,0.355,0.403,0.457,0.511,0.562,0.607,0.646,0.684,0.727,0.768
+Albania,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.35,0.396,0.452,0.514,0.581,0.649,0.709,0.757,0.804,0.86,0.914
+Albania,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,10.254,11.574,13.082,14.787,16.414,18.091,19.586,20.859,22.108,23.522,24.873
+Albania,eCommerce,Penetration Rate,Beverages,percent,Statista,6.337,6.819,7.46,8.256,9.043,9.838,10.584,11.202,11.822,12.539,13.237
+Albania,eCommerce,Penetration Rate,eCommerce,percent,Statista,28.236,31.116,35.467,36.558,38.092,38.425,39.716,40.276,40.843,41.439,41.928
+Albania,eCommerce,Penetration Rate,Electronics,percent,Statista,15.762,17.69,20.052,22.797,25.511,28.195,30.557,32.499,34.44,36.687,38.823
+Albania,eCommerce,Penetration Rate,Fashion,percent,Statista,15.355,17.389,19.629,22.058,24.649,27.201,29.444,31.352,33.261,35.409,37.465
+Albania,eCommerce,Penetration Rate,Food,percent,Statista,5.958,6.411,7.014,7.763,8.503,9.251,9.952,10.533,11.116,11.79,12.445
+Albania,eCommerce,Penetration Rate,Furniture,percent,Statista,6.953,7.898,9.036,10.351,11.807,13.242,14.478,15.52,16.564,17.816,19.023
+Albania,eCommerce,Penetration Rate,Media,percent,Statista,10.946,12.311,13.975,15.896,17.782,19.6,21.248,22.668,24.092,25.688,27.222
+Albania,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,12.131,13.749,15.69,17.868,20.239,22.644,24.817,26.554,28.293,30.395,32.416
+Albania,Electronics,Revenue,Total,million USD (US$),Statista,70.03,79.76,91.11,120.7,144,137.1,181.1,210.6,242.3,263.1,286.4
+Albania,Electronics,Revenue,Consumer Electronics,million USD (US$),Statista,44.78,50.28,56.82,78.53,92.8,83.22,112.5,130.8,149.3,162,176.1
+Albania,Electronics,Revenue,Household Appliances,million USD (US$),Statista,25.25,29.48,34.29,42.21,51.2,53.9,68.59,79.81,93.01,101.1,110.3
+Albania,Electronics,Revenue Change,Total,percent,Statista,,13.887,14.232,32.518,19.265,-4.783,32.053,16.31,15.066,8.568,8.859
+Albania,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,12.269,13.009,38.215,18.174,-10.331,35.161,16.272,14.173,8.488,8.701
+Albania,Electronics,Revenue Change,Household Appliances,percent,Statista,,16.755,16.317,23.08,21.296,5.275,27.255,16.373,16.529,8.697,9.113
+Albania,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,154.1,156.4,157.7,184,196.5,169.7,207.3,227.4,247.7,253.3,261.5
+Albania,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,105.9,106.5,107.1,131.5,140.6,115.8,146.3,161.7,175.9,181.3,188.4
+Albania,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,82.04,84.93,86.13,91.91,98.07,91.76,106.5,115.6,126.3,127.8,130.8
+Albania,Electronics,Online & Offline Split,Offline,percent,Statista,84.394,82.577,80.58,75.854,72.432,68.416,65.243,61.287,57.301,,
+Albania,Electronics,Online & Offline Split,Online,percent,Statista,15.606,17.423,19.42,24.146,27.568,31.584,34.757,38.713,42.699,,
+Albania,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.239,57.244,53.908,52.573,52.061,51.868,51.796,51.768,51.756,,
+Albania,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.761,42.756,46.092,47.427,47.939,48.132,48.204,48.232,48.244,,
+Albania,Electronics,Users by Segment,Total,million users,Statista,0.455,0.51,0.578,0.656,0.733,0.808,0.873,0.926,0.978,1.039,1.095
+Albania,Electronics,Users by Segment,Consumer Electronics,million users,Statista,0.423,0.472,0.531,0.597,0.66,0.718,0.769,0.809,0.849,0.893,0.934
+Albania,Electronics,Users by Segment,Household Appliances,million users,Statista,0.308,0.347,0.398,0.459,0.522,0.587,0.644,0.691,0.736,0.791,0.844
+Albania,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,14.661,16.382,18.423,20.745,22.975,25.06,26.893,28.389,29.89,31.562,33.128
+Albania,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,15.762,17.69,20.052,22.797,25.511,28.195,30.557,32.499,34.44,36.687,38.823
+Albania,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,10.672,12.041,13.819,15.958,18.17,20.49,22.539,24.232,25.929,27.951,29.909
+Albania,Consumer Electronics,Revenue,Total,million USD (US$),Statista,44.78,50.28,56.82,78.53,92.8,83.22,112.5,130.8,149.3,162,176.1
+Albania,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,7.842,8.823,9.912,12.44,14.97,13.12,17.78,20.32,23.23,25.07,27.15
+Albania,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,14.56,16.34,18.47,25.37,29.87,26.84,36.31,42.29,48.3,52.4,56.97
+Albania,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,12.69,13.94,15.62,23.08,26.33,24.42,33.09,39.48,45.14,49.16,53.61
+Albania,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,9.354,10.78,12.35,16.94,20.9,18.2,24.47,27.82,31.72,34.4,37.35
+Albania,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,0.333,0.387,0.47,0.708,0.736,0.639,0.819,0.875,0.92,0.966,1.007
+Albania,Consumer Electronics,Revenue Change,Total,percent,Statista,,12.269,13.009,38.215,18.174,-10.331,35.161,16.272,14.173,8.488,8.701
+Albania,Consumer Electronics,Revenue Change,Computing,percent,Statista,,12.517,12.341,25.474,20.347,-12.348,35.544,14.246,14.344,7.907,8.317
+Albania,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,12.241,13.006,37.382,17.736,-10.141,35.279,16.456,14.209,8.491,8.717
+Albania,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,9.832,12.014,47.763,14.078,-7.248,35.512,19.317,14.339,8.892,9.054
+Albania,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,15.271,14.548,37.136,23.409,-12.946,34.489,13.669,14.04,8.438,8.579
+Albania,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,16.279,21.323,50.692,3.947,-13.095,28.024,6.897,5.167,4.999,4.246
+Albania,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,105.9,106.5,107.1,131.5,140.6,115.8,146.3,161.7,175.9,181.3,188.4
+Albania,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,26.49,26.69,26.68,29.76,32.4,26.09,33.05,35.88,39.09,40.08,41.51
+Albania,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,43.04,43.26,43.5,53.12,56.57,46.71,59.05,65.34,71.11,73.28,76.15
+Albania,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,37.53,36.91,36.78,48.32,49.86,42.49,53.8,61,66.46,68.75,71.66
+Albania,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,55.3,57.08,58.18,70.93,79.17,63.33,79.59,85.96,93.41,96.22,99.88
+Albania,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,2.625,2.733,2.95,3.953,3.716,2.968,3.55,3.606,3.614,3.602,3.587
+Albania,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,82.797,81.064,79.157,72.741,69.488,65.781,62.971,59.198,55.567,,
+Albania,Consumer Electronics,Online & Offline Split,Online,percent,Statista,17.203,18.936,20.843,27.259,30.512,34.219,37.029,40.802,44.433,,
+Albania,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.258,57.325,54.028,52.695,52.196,52.011,51.946,51.922,51.916,,
+Albania,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.742,42.675,45.972,47.305,47.804,47.989,48.054,48.078,48.084,,
+Albania,Consumer Electronics,Users,Total,million users,Statista,0.423,0.472,0.531,0.597,0.66,0.718,0.769,0.809,0.849,0.893,0.934
+Albania,Consumer Electronics,Users,Computing,million users,Statista,0.296,0.331,0.372,0.418,0.462,0.503,0.538,0.566,0.594,0.625,0.654
+Albania,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,0.338,0.378,0.425,0.478,0.528,0.575,0.615,0.647,0.679,0.715,0.748
+Albania,Consumer Electronics,Users,Telephony,million users,Statista,0.338,0.378,0.425,0.478,0.528,0.575,0.615,0.647,0.679,0.715,0.748
+Albania,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.169,0.189,0.212,0.239,0.264,0.287,0.307,0.324,0.34,0.357,0.374
+Albania,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.127,0.142,0.159,0.179,0.198,0.215,0.231,0.243,0.255,0.268,0.281
+Albania,Consumer Electronics,Penetration Rate,Computing,percent,Statista,10.263,11.467,12.896,14.522,16.082,17.542,18.825,19.872,20.923,22.094,23.191
+Albania,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,14.661,16.382,18.423,20.745,22.975,25.06,26.893,28.389,29.89,31.562,33.128
+Albania,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,11.729,13.105,14.738,16.596,18.38,20.048,21.515,22.711,23.912,25.259,26.521
+Albania,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,11.729,13.105,14.738,16.596,18.38,20.048,21.515,22.711,23.912,25.259,26.521
+Albania,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,5.865,6.553,7.369,8.298,9.19,10.024,10.757,11.356,11.956,12.628,13.258
+Albania,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,4.398,4.914,5.527,6.224,6.892,7.518,8.068,8.517,8.967,9.479,9.959
+Albania,Personal Care,Revenue,Total,million USD (US$),Statista,13.81,16.12,18.78,24.64,30.17,30.57,38.42,43.87,50.53,54.8,59.56
+Albania,Personal Care,Revenue,Body Care,million USD (US$),Statista,2.334,2.73,3.188,4.119,5,5.101,6.467,7.444,8.629,9.378,10.22
+Albania,Personal Care,Revenue,Eye Care,million USD (US$),Statista,1.474,1.663,1.881,2.642,3.166,2.955,3.35,3.442,3.589,3.737,3.862
+Albania,Personal Care,Revenue,Hair Care,million USD (US$),Statista,2.111,2.495,2.941,3.844,4.733,4.857,6.194,7.169,8.357,9.098,9.936
+Albania,Personal Care,Revenue,Oral Care,million USD (US$),Statista,0.977,1.152,1.356,1.769,2.176,2.229,2.838,3.283,3.826,4.164,4.547
+Albania,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,3.481,4.095,4.805,6.249,7.646,7.824,9.951,11.49,13.36,14.54,15.86
+Albania,Personal Care,Revenue,Skin Care,million USD (US$),Statista,3.431,3.983,4.605,6.021,7.447,7.605,9.622,11.04,12.77,13.89,15.14
+Albania,Personal Care,Revenue Change,Total,percent,Statista,,16.737,16.483,31.26,22.411,1.335,25.684,14.18,15.186,8.449,8.686
+Albania,Personal Care,Revenue Change,Body Care,percent,Statista,,17.006,16.746,29.221,21.372,2.02,26.782,15.109,15.927,8.676,8.986
+Albania,Personal Care,Revenue Change,Eye Care,percent,Statista,,12.872,13.055,40.488,19.837,-6.661,13.361,2.733,4.281,4.13,3.346
+Albania,Personal Care,Revenue Change,Hair Care,percent,Statista,,18.173,17.882,30.708,23.118,2.617,27.53,15.739,16.564,8.878,9.206
+Albania,Personal Care,Revenue Change,Oral Care,percent,Statista,,17.966,17.664,30.504,22.999,2.422,27.357,15.659,16.564,8.834,9.177
+Albania,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,17.633,17.356,30.038,22.358,2.331,27.185,15.461,16.299,8.786,9.109
+Albania,Personal Care,Revenue Change,Skin Care,percent,Statista,,16.071,15.62,30.755,23.682,2.121,26.524,14.774,15.623,8.761,8.99
+Albania,Personal Care,Average Revenue per User,Total,USD (US$),Statista,75.3,77.92,80.35,93.41,103.2,95.09,110.7,119,129.8,132.7,136.9
+Albania,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,18.72,19.41,20.06,22.96,25.15,23.33,27.4,29.7,32.59,33.24,34.24
+Albania,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,16.07,16.08,16.1,20.03,21.66,18.38,19.3,18.68,18.44,18.02,17.6
+Albania,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,22.14,23.19,24.21,28.02,31.13,29.05,34.32,37.41,41.28,42.18,43.54
+Albania,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,10.87,11.37,11.84,13.68,15.19,14.15,16.69,18.18,20.06,20.49,21.14
+Albania,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,42.18,43.99,45.7,52.63,58.11,54.08,63.7,69.28,76.27,77.88,80.31
+Albania,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,42.53,43.76,44.79,51.87,57.89,53.76,63,68.11,74.54,76.1,78.39
+Albania,Personal Care,Online & Offline Split,Offline,percent,Statista,90.902,89.624,88.223,83.182,80.894,79.731,78.134,75.768,72.945,,
+Albania,Personal Care,Online & Offline Split,Online,percent,Statista,9.098,10.376,11.777,16.818,19.106,20.269,21.866,24.232,27.055,,
+Albania,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,64.181,57.075,53.673,52.308,51.777,51.574,51.493,51.459,51.443,,
+Albania,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,35.819,42.925,46.327,47.692,48.223,48.426,48.507,48.541,48.557,,
+Albania,Personal Care,Users,Total,million users,Statista,0.183,0.207,0.234,0.264,0.292,0.322,0.347,0.369,0.389,0.413,0.435
+Albania,Personal Care,Users,Body Care,million users,Statista,0.125,0.141,0.159,0.179,0.199,0.219,0.236,0.251,0.265,0.282,0.298
+Albania,Personal Care,Users,Eye Care,million users,Statista,0.092,0.103,0.117,0.132,0.146,0.161,0.174,0.184,0.195,0.207,0.219
+Albania,Personal Care,Users,Hair Care,million users,Statista,0.095,0.108,0.122,0.137,0.152,0.167,0.18,0.192,0.202,0.216,0.228
+Albania,Personal Care,Users,Oral Care,million users,Statista,0.09,0.101,0.114,0.129,0.143,0.158,0.17,0.181,0.191,0.203,0.215
+Albania,Personal Care,Users,Other Personal Care,million users,Statista,0.083,0.093,0.105,0.119,0.132,0.145,0.156,0.166,0.175,0.187,0.197
+Albania,Personal Care,Users,Skin Care,million users,Statista,0.081,0.091,0.103,0.116,0.129,0.141,0.153,0.162,0.171,0.182,0.193
+Albania,Personal Care,Penetration Rate,Body Care,percent,Statista,4.323,4.88,5.515,6.234,6.92,7.627,8.258,8.794,9.321,9.965,10.583
+Albania,Personal Care,Penetration Rate,Eye Care,percent,Statista,3.179,3.588,4.055,4.584,5.088,5.608,6.072,6.466,6.853,7.326,7.779
+Albania,Personal Care,Penetration Rate,Hair Care,percent,Statista,3.306,3.732,4.218,4.767,5.292,5.832,6.315,6.725,7.128,7.619,8.091
+Albania,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.115,3.516,3.974,4.492,4.987,5.496,5.95,6.337,6.716,7.18,7.624
+Albania,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,2.861,3.229,3.65,4.126,4.58,5.047,5.465,5.82,6.168,6.593,7.001
+Albania,Personal Care,Penetration Rate,Personal Care,percent,Statista,6.358,7.176,8.111,9.168,10.177,11.216,12.143,12.932,13.707,14.583,15.42
+Albania,Personal Care,Penetration Rate,Skin Care,percent,Statista,2.797,3.157,3.569,4.034,4.478,4.935,5.343,5.69,6.031,6.447,6.845
+Albania,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,22.89,26.66,30.98,40.33,49.54,50.91,64.94,75.49,88.58,96.21,105
+Albania,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,5.118,5.927,6.826,8.949,10.94,11.12,14.01,16.01,18.44,20.04,21.81
+Albania,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.754,0.874,1.017,1.233,1.415,1.479,1.918,2.285,2.727,2.955,3.23
+Albania,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,3.209,3.737,4.357,5.505,7.02,7.74,10.6,13.33,16.88,18.41,20.38
+Albania,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,13.81,16.12,18.78,24.64,30.17,30.57,38.42,43.87,50.53,54.8,59.56
+Albania,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,16.461,16.204,30.205,22.834,2.769,27.557,16.24,17.342,8.608,9.13
+Albania,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,15.798,15.181,31.101,22.234,1.686,25.924,14.292,15.204,8.654,8.856
+Albania,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,15.868,16.342,21.259,14.767,4.559,29.672,19.106,19.375,8.334,9.311
+Albania,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,16.474,16.587,26.343,27.51,10.259,36.895,25.766,26.664,9.076,10.722
+Albania,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,16.737,16.483,31.26,22.411,1.335,25.684,14.18,15.186,8.449,8.686
+Albania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,77.39,79.89,82.19,94.78,105.1,98.18,116,127,141.1,144.5,149.6
+Albania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,24.72,25.38,25.88,30.04,33.14,30.65,35.74,38.48,41.96,43,44.42
+Albania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,3.984,4.092,4.215,4.526,4.687,4.457,5.353,6.006,6.786,6.933,7.194
+Albania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,28.55,29.48,30.42,34.04,39.17,39.28,49.8,59,70.73,72.41,75.77
+Albania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,75.3,77.92,80.35,93.41,103.2,95.09,110.7,119,129.8,132.7,136.9
+Albania,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,93.446,92.558,91.579,88.638,86.911,85.812,84.311,82.355,80.001,,
+Albania,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,6.554,7.442,8.421,11.362,13.089,14.188,15.689,17.645,19.999,,
+Albania,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,64.208,58.895,56.178,54.898,54.274,53.987,53.803,53.764,53.768,,
+Albania,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,35.792,41.105,43.822,45.102,45.726,46.013,46.197,46.236,46.232,,
+Albania,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,0.296,0.334,0.377,0.426,0.472,0.519,0.56,0.594,0.628,0.666,0.702
+Albania,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.207,0.234,0.264,0.298,0.33,0.363,0.392,0.416,0.44,0.466,0.491
+Albania,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.189,0.214,0.241,0.272,0.302,0.332,0.358,0.38,0.402,0.426,0.449
+Albania,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.112,0.127,0.143,0.162,0.179,0.197,0.213,0.226,0.239,0.254,0.269
+Albania,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.183,0.207,0.234,0.264,0.292,0.322,0.347,0.369,0.389,0.413,0.435
+Albania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,10.254,11.574,13.082,14.787,16.414,18.091,19.586,20.859,22.108,23.522,24.873
+Albania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,7.178,8.102,9.157,10.351,11.49,12.664,13.71,14.601,15.476,16.464,17.409
+Albania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,6.563,7.407,8.373,9.464,10.505,11.578,12.535,13.35,14.149,15.053,15.917
+Albania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,3.897,4.398,4.971,5.619,6.237,6.875,7.443,7.926,8.401,8.981,9.537
+Albania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,6.358,7.176,8.111,9.168,10.177,11.216,12.143,12.932,13.707,14.583,15.42
+Albania,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,24.72,25.38,25.88,30.04,33.14,30.65,35.74,38.48,41.96,43,44.42
+Albania,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,15.46,15.8,16.02,18.47,20.24,18.75,21.87,23.56,25.69,26.18,26.92
+Albania,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,3.494,3.501,3.448,4.459,4.679,4.305,4.906,5.142,5.483,5.585,5.718
+Albania,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,47.22,48.86,50.38,57.76,64.65,59.75,69.95,75.61,82.73,84.45,86.98
+Albania,Beauty Care,Revenue,Total,million USD (US$),Statista,5.118,5.927,6.826,8.949,10.94,11.12,14.01,16.01,18.44,20.04,21.81
+Albania,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,2.24,2.583,2.958,3.851,4.678,4.764,6.001,6.861,7.906,8.585,9.342
+Albania,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.434,0.491,0.546,0.797,0.927,0.938,1.154,1.284,1.446,1.569,1.7
+Albania,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,2.444,2.853,3.323,4.301,5.335,5.422,6.853,7.865,9.091,9.886,10.77
+Albania,Beauty Care,Revenue Change,Total,percent,Statista,,15.798,15.181,31.101,22.234,1.686,25.924,14.292,15.204,8.654,8.856
+Albania,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,15.325,14.498,30.211,21.456,1.84,25.969,14.333,15.237,8.58,8.817
+Albania,Beauty Care,Revenue Change,Fragrances,percent,Statista,,13.043,11.256,45.999,16.286,1.162,23.041,11.297,12.633,8.531,8.347
+Albania,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,16.721,16.474,29.447,24.034,1.641,26.384,14.761,15.594,8.739,8.971
+Albania,Beauty Care,Online & Offline Split,Offline,percent,Statista,88.77,87.588,86.353,80.637,79.069,78.188,76.751,74.692,72.315,,
+Albania,Beauty Care,Online & Offline Split,Online,percent,Statista,11.23,12.412,13.647,19.363,20.931,21.812,23.249,25.308,27.685,,
+Albania,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.222,62.063,59.964,58.65,57.483,56.61,55.886,55.413,55.173,,
+Albania,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.778,37.937,40.036,41.35,42.517,43.39,44.114,44.587,44.827,,
+Albania,Beauty Care,Users by Segment,Total,million users,Statista,0.207,0.234,0.264,0.298,0.33,0.363,0.392,0.416,0.44,0.466,0.491
+Albania,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.145,0.163,0.185,0.209,0.231,0.254,0.274,0.291,0.308,0.328,0.347
+Albania,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.124,0.14,0.158,0.179,0.198,0.218,0.235,0.25,0.264,0.281,0.297
+Albania,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.052,0.058,0.066,0.074,0.083,0.091,0.098,0.104,0.11,0.117,0.124
+Albania,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,7.178,8.102,9.157,10.351,11.49,12.664,13.71,14.601,15.476,16.464,17.409
+Albania,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,5.025,5.671,6.41,7.246,8.043,8.865,9.597,10.221,10.833,11.582,12.302
+Albania,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,4.307,4.861,5.494,6.211,6.894,7.598,8.226,8.761,9.285,9.927,10.542
+Albania,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.795,2.025,2.289,2.588,2.873,3.166,3.428,3.65,3.869,4.135,4.391
+Albania,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,3.984,4.092,4.215,4.526,4.687,4.457,5.353,6.006,6.786,6.933,7.194
+Albania,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0.726,0.789,0.856,0.855,0.986,1.009,1.267,1.458,1.681,1.726,1.8
+Albania,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.207,0.232,0.259,0.267,0.317,0.334,0.432,0.511,0.607,0.625,0.655
+Albania,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.011,0.01,0.009,0.008,0.007,0.006,0.006,0.026,0.058,0.056,0.061
+Albania,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.039,2.261,2.507,3.48,3.466,3.316,4.146,4.919,5.855,6.003,6.282
+Albania,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.085,0.086,0.087,0.086,0.088,0.083,0.096,0.103,0.11,0.111,0.114
+Albania,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,4.797,4.927,5.075,5.452,5.646,5.369,6.449,7.236,8.178,8.318,8.595
+Albania,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,2.61,2.487,2.364,2.068,2.091,1.874,2.061,2.073,2.086,2.063,2.052
+Albania,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,1.545,1.577,1.608,1.511,1.644,1.586,1.88,2.04,2.22,2.254,2.313
+Albania,Health Care,Revenue,Total,thousand USD (US$),Statista,754.1,873.8,"1,017","1,233","1,415","1,479","1,918","2,285","2,727","2,955","3,230"
+Albania,Health Care,Revenue,Analgesics,thousand USD (US$),Statista,27.46,33.69,41.28,46.55,59.54,66.97,90.83,110.9,135.1,147.8,163
+Albania,Health Care,Revenue,Cold & Cough Remedies,thousand USD (US$),Statista,15.71,19.83,25.02,29.05,38.26,44.32,61.89,77.81,97.56,107,118.7
+Albania,Health Care,Revenue,Digestives & Intestinal Remedies,thousand USD (US$),Statista,0.645,0.656,0.666,0.623,0.662,0.618,0.697,3,6.962,7.23,8.281
+Albania,Health Care,Revenue,Hand Sanitizer,thousand USD (US$),Statista,154.4,193.1,241.9,379.1,418.5,440.1,594.2,748.5,941.3,"1,028","1,138"
+Albania,Health Care,Revenue,Incontinence,thousand USD (US$),Statista,3.205,3.661,4.174,4.706,5.341,5.504,6.876,7.814,8.862,9.534,10.29
+Albania,Health Care,Revenue,Other Health Care,thousand USD (US$),Statista,208.8,242,281.5,341.5,391.9,409.8,531.5,633.1,756,819,895.3
+Albania,Health Care,Revenue,Skin Treatment,thousand USD (US$),Statista,197.6,212.5,228.1,225.3,252.5,248.7,295.4,315.4,335.4,353.3,371.8
+Albania,Health Care,Revenue,Vitamins & Minerals,thousand USD (US$),Statista,146.2,168.4,193.9,205.8,248,263.1,336.7,388,446.1,482.6,524
+Albania,Health Care,Revenue Change,Total,percent,Statista,,15.868,16.342,21.259,14.767,4.559,29.672,19.106,19.375,8.334,9.311
+Albania,Health Care,Revenue Change,Analgesics,percent,Statista,,22.664,22.523,12.775,27.904,12.48,35.627,22.114,21.821,9.37,10.305
+Albania,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,26.249,26.127,16.115,31.711,15.836,39.663,25.717,25.387,9.669,10.95
+Albania,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,1.62,1.573,-6.441,6.183,-6.561,12.732,330.394,132.033,3.857,14.531
+Albania,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,25.075,25.26,56.723,10.384,5.179,35.001,25.961,25.764,9.224,10.706
+Albania,Health Care,Revenue Change,Incontinence,percent,Statista,,14.213,14.013,12.754,13.486,3.059,24.935,13.633,13.411,7.588,7.901
+Albania,Health Care,Revenue Change,Other Health Care,percent,Statista,,15.875,16.352,21.294,14.772,4.565,29.69,19.126,19.396,8.341,9.318
+Albania,Health Care,Revenue Change,Skin Treatment,percent,Statista,,7.505,7.351,-1.202,12.043,-1.48,18.76,6.776,6.34,5.332,5.251
+Albania,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,15.146,15.163,6.134,20.508,6.074,27.986,15.235,14.959,8.179,8.58
+Albania,Health Care,Online & Offline Split,Offline,percent,Statista,97.777,97.491,97.159,96.484,96.182,95.752,95.18,94.46,93.623,,
+Albania,Health Care,Online & Offline Split,Online,percent,Statista,2.223,2.509,2.841,3.516,3.818,4.248,4.82,5.54,6.377,,
+Albania,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.232,65.433,62.418,59.517,56.825,54.447,52.099,49.946,47.786,,
+Albania,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.768,34.567,37.582,40.483,43.175,45.553,47.901,50.054,52.214,,
+Albania,Health Care,Users by Segment,Total,million users,Statista,0.189,0.214,0.241,0.272,0.302,0.332,0.358,0.38,0.402,0.426,0.449
+Albania,Health Care,Users by Segment,Analgesics,million users,Statista,0.038,0.043,0.048,0.054,0.06,0.066,0.072,0.076,0.08,0.086,0.091
+Albania,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.076,0.085,0.096,0.109,0.121,0.133,0.143,0.152,0.161,0.171,0.181
+Albania,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.057,0.064,0.072,0.082,0.091,0.1,0.107,0.114,0.121,0.128,0.136
+Albania,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.076,0.085,0.096,0.109,0.121,0.133,0.143,0.152,0.161,0.171,0.181
+Albania,Health Care,Users by Segment,Incontinence,million users,Statista,0.038,0.043,0.048,0.054,0.06,0.066,0.072,0.076,0.08,0.086,0.091
+Albania,Health Care,Users by Segment,Other Health Care,million users,Statista,0.044,0.049,0.055,0.063,0.069,0.076,0.082,0.087,0.092,0.098,0.104
+Albania,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.076,0.085,0.096,0.109,0.121,0.133,0.143,0.152,0.161,0.171,0.181
+Albania,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.095,0.107,0.121,0.136,0.151,0.166,0.179,0.19,0.201,0.214,0.227
+Albania,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.313,1.481,1.675,1.893,2.101,2.316,2.507,2.67,2.83,3.025,3.211
+Albania,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,2.625,2.963,3.349,3.786,4.202,4.631,5.014,5.34,5.66,6.05,6.424
+Albania,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,1.969,2.222,2.512,2.839,3.152,3.473,3.761,4.005,4.245,4.537,4.817
+Albania,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,2.625,2.963,3.349,3.786,4.202,4.631,5.014,5.34,5.66,6.05,6.424
+Albania,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,6.563,7.407,8.373,9.464,10.505,11.578,12.535,13.35,14.149,15.053,15.917
+Albania,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.313,1.481,1.675,1.893,2.101,2.316,2.507,2.67,2.83,3.025,3.211
+Albania,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.509,1.704,1.926,2.177,2.416,2.663,2.883,3.07,3.254,3.478,3.693
+Albania,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,2.625,2.963,3.349,3.786,4.202,4.631,5.014,5.34,5.66,6.05,6.424
+Albania,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,3.281,3.704,4.186,4.732,5.253,5.789,6.268,6.675,7.075,7.562,8.031
+Albania,Food,Revenue,Total,million USD (US$),Statista,4.946,6.505,8.712,15.67,23.09,25.44,35.39,45.82,58.84,64.96,72.59
+Albania,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,0.565,0.739,0.985,2.119,3.242,3.463,4.71,6.001,7.57,8.38,9.355
+Albania,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,1.11,1.453,1.932,3.614,5.32,5.787,7.948,10.15,12.85,14.2,15.85
+Albania,Food,Revenue,Convenience Food,million USD (US$),Statista,0.223,0.293,0.393,0.8,1.172,1.275,1.764,2.286,2.935,3.244,3.626
+Albania,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,0.627,0.826,1.11,1.812,2.627,2.947,4.158,5.444,7.076,7.8,8.722
+Albania,Food,Revenue,Fish & Seafood,million USD (US$),Statista,0.23,0.302,0.405,0.695,1.016,1.132,1.591,2.077,2.692,2.97,3.321
+Albania,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,0.431,0.568,0.763,1.311,1.916,2.133,2.991,3.898,5.041,5.561,6.217
+Albania,Food,Revenue,Meat,million USD (US$),Statista,0.952,1.26,1.696,2.924,4.293,4.781,6.708,8.743,11.31,12.48,13.95
+Albania,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.13,0.171,0.229,0.372,0.538,0.603,0.849,1.109,1.439,1.587,1.774
+Albania,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.06,0.079,0.106,0.163,0.244,0.28,0.403,0.536,0.708,0.78,0.874
+Albania,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.065,0.087,0.118,0.181,0.27,0.308,0.443,0.588,0.776,0.855,0.958
+Albania,Food,Revenue,Vegetables,million USD (US$),Statista,0.552,0.727,0.976,1.677,2.452,2.729,3.826,4.983,6.441,7.106,7.944
+Albania,Food,Revenue Change,Total,percent,Statista,,31.52,33.926,79.857,47.372,10.169,39.119,29.471,28.408,10.409,11.74
+Albania,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,30.827,33.253,115.142,52.989,6.838,35.994,27.405,26.146,10.701,11.631
+Albania,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,30.899,32.977,87.114,47.194,8.779,37.348,27.727,26.594,10.513,11.581
+Albania,Food,Revenue Change,Convenience Food,percent,Statista,,31.568,33.988,103.471,46.471,8.789,38.356,29.611,28.389,10.497,11.786
+Albania,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,31.687,34.326,63.289,44.943,12.178,41.093,30.939,29.974,10.232,11.822
+Albania,Food,Revenue Change,Fish & Seafood,percent,Statista,,31.3,33.971,71.537,46.255,11.464,40.482,30.583,29.6,10.304,11.819
+Albania,Food,Revenue Change,Fruits & Nuts,percent,Statista,,31.722,34.2,71.91,46.127,11.338,40.255,30.322,29.297,10.326,11.797
+Albania,Food,Revenue Change,Meat,percent,Statista,,32.306,34.652,72.378,46.843,11.364,40.285,30.35,29.308,10.344,11.809
+Albania,Food,Revenue Change,Oils & Fats,percent,Statista,,31.415,33.919,62.782,44.546,12.027,40.875,30.704,29.719,10.245,11.8
+Albania,Food,Revenue Change,Sauces & Spices,percent,Statista,,31.458,34.254,53.066,50.527,14.583,43.715,33.034,32.232,10.156,12.034
+Albania,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,32.808,36.006,53.867,49.23,13.959,43.701,32.884,31.896,10.194,12.022
+Albania,Food,Revenue Change,Vegetables,percent,Statista,,31.723,34.256,71.922,46.193,11.289,40.19,30.262,29.239,10.328,11.792
+Albania,Food,Average Revenue per User,Total,USD (US$),Statista,28.78,35.19,43.11,70.13,94.52,95.94,124.4,152.7,186.3,194.6,206.8
+Albania,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,6.995,8.509,10.37,20.18,28.23,27.79,35.23,42.54,51.01,53.43,56.73
+Albania,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,13.18,16.04,19.51,33.02,44.44,44.54,57.02,69.03,83.07,86.87,92.18
+Albania,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,2.318,2.836,3.475,6.395,8.567,8.586,11.07,13.6,16.6,17.36,18.45
+Albania,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,15.88,19.44,23.88,35.27,46.76,48.32,63.55,78.86,97.44,101.6,108.1
+Albania,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,7.051,8.607,10.55,16.36,21.89,22.48,29.43,36.42,44.88,46.84,49.82
+Albania,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,4.828,5.912,7.257,11.28,15.08,15.47,20.22,24.98,30.7,32.05,34.08
+Albania,Food,Average Revenue per User,Meat,USD (US$),Statista,18.47,22.72,27.98,43.62,58.58,60.11,78.59,97.09,119.4,124.6,132.5
+Albania,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,3.023,3.694,4.525,6.662,8.807,9.09,11.94,14.78,18.23,19.02,20.23
+Albania,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.795,0.972,1.194,1.653,2.275,2.402,3.217,4.056,5.099,5.315,5.663
+Albania,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,1.149,1.419,1.766,2.457,3.354,3.521,4.716,5.939,7.447,7.766,8.274
+Albania,Food,Average Revenue per User,Vegetables,USD (US$),Statista,6.552,8.024,9.853,15.32,20.49,21,27.45,33.88,41.63,43.46,46.2
+Albania,Food,Online & Offline Split,Offline,percent,Statista,99.58,99.458,99.284,98.879,98.303,97.932,97.463,96.867,96.109,,
+Albania,Food,Online & Offline Split,Online,percent,Statista,0.42,0.542,0.716,1.121,1.697,2.068,2.537,3.133,3.891,,
+Albania,Food,Mobile/Desktop Split,Desktop,percent,Statista,61.576,57.571,55.36,54.164,53.633,53.361,53.107,52.958,52.874,,
+Albania,Food,Mobile/Desktop Split,Mobile,percent,Statista,38.424,42.429,44.64,45.836,46.367,46.639,46.893,47.042,47.126,,
+Albania,Food,Users,Total,million users,Statista,0.172,0.185,0.202,0.223,0.244,0.265,0.284,0.3,0.316,0.334,0.351
+Albania,Food,Users,Bread & Cereal Products,million users,Statista,0.081,0.087,0.095,0.105,0.115,0.125,0.134,0.141,0.148,0.157,0.165
+Albania,Food,Users,Confectionery & Snacks,million users,Statista,0.084,0.091,0.099,0.109,0.12,0.13,0.139,0.147,0.155,0.164,0.172
+Albania,Food,Users,Convenience Food,million users,Statista,0.096,0.104,0.113,0.125,0.137,0.148,0.159,0.168,0.177,0.187,0.196
+Albania,Food,Users,Dairy Products & Eggs,million users,Statista,0.04,0.043,0.046,0.051,0.056,0.061,0.065,0.069,0.073,0.077,0.081
+Albania,Food,Users,Fish & Seafood,million users,Statista,0.033,0.035,0.038,0.042,0.046,0.05,0.054,0.057,0.06,0.063,0.067
+Albania,Food,Users,Fruits & Nuts,million users,Statista,0.089,0.096,0.105,0.116,0.127,0.138,0.148,0.156,0.164,0.174,0.182
+Albania,Food,Users,Meat,million users,Statista,0.052,0.055,0.061,0.067,0.073,0.08,0.085,0.09,0.095,0.1,0.105
+Albania,Food,Users,Oils & Fats,million users,Statista,0.043,0.046,0.051,0.056,0.061,0.066,0.071,0.075,0.079,0.083,0.088
+Albania,Food,Users,Sauces & Spices,million users,Statista,0.076,0.081,0.089,0.098,0.107,0.117,0.125,0.132,0.139,0.147,0.154
+Albania,Food,Users,Spreads & Sweeteners,million users,Statista,0.057,0.061,0.067,0.074,0.081,0.088,0.094,0.099,0.104,0.11,0.116
+Albania,Food,Users,Vegetables,million users,Statista,0.084,0.091,0.099,0.109,0.12,0.13,0.139,0.147,0.155,0.164,0.172
+Albania,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,2.8,3.013,3.297,3.649,3.996,4.348,4.678,4.951,5.225,5.54,5.846
+Albania,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,2.92,3.142,3.437,3.804,4.167,4.533,4.877,5.161,5.447,5.776,6.095
+Albania,Food,Penetration Rate,Convenience Food,percent,Statista,3.337,3.59,3.928,4.347,4.762,5.18,5.573,5.899,6.225,6.601,6.966
+Albania,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.37,1.475,1.613,1.786,1.956,2.128,2.289,2.423,2.557,2.711,2.861
+Albania,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.132,1.218,1.333,1.475,1.616,1.758,1.891,2.001,2.112,2.239,2.363
+Albania,Food,Penetration Rate,Food,percent,Statista,5.958,6.411,7.014,7.763,8.503,9.251,9.952,10.533,11.116,11.79,12.445
+Albania,Food,Penetration Rate,Fruits & Nuts,percent,Statista,3.098,3.334,3.647,4.037,4.422,4.81,5.175,5.477,5.78,6.129,6.469
+Albania,Food,Penetration Rate,Meat,percent,Statista,1.787,1.923,2.104,2.329,2.551,2.775,2.986,3.16,3.335,3.536,3.731
+Albania,Food,Penetration Rate,Oils & Fats,percent,Statista,1.49,1.603,1.754,1.941,2.126,2.313,2.488,2.633,2.779,2.947,3.109
+Albania,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.622,2.821,3.086,3.416,3.741,4.07,4.379,4.635,4.891,5.186,5.473
+Albania,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.966,2.116,2.315,2.562,2.806,3.053,3.284,3.476,3.668,3.89,4.105
+Albania,Food,Penetration Rate,Vegetables,percent,Statista,2.92,3.142,3.437,3.804,4.167,4.533,4.877,5.161,5.447,5.776,6.095
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,6.995,8.509,10.37,20.18,28.23,27.79,35.23,42.54,51.01,53.43,56.73
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,6.711,8.164,9.945,19.83,27.86,27.32,34.54,41.61,49.78,52.16,55.37
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.764,0.925,1.122,1.725,2.275,2.309,2.985,3.647,4.434,4.628,4.913
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,3.163,3.85,4.698,9.189,12.88,12.67,16.06,19.39,23.26,24.36,25.87
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.515,0.629,0.771,1.545,2.186,2.16,2.751,3.342,4.034,4.227,4.491
+Albania,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.276,0.336,0.411,0.822,1.16,1.142,1.449,1.753,2.106,2.207,2.344
+Albania,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,0.565,0.739,0.985,2.119,3.242,3.463,4.71,6.001,7.57,8.38,9.355
+Albania,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,0.342,0.447,0.595,1.312,2.015,2.145,2.909,3.698,4.654,5.154,5.752
+Albania,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.051,0.067,0.088,0.15,0.217,0.239,0.331,0.427,0.546,0.602,0.672
+Albania,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.115,0.15,0.201,0.434,0.665,0.711,0.966,1.231,1.553,1.719,1.919
+Albania,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.037,0.049,0.066,0.146,0.226,0.242,0.331,0.424,0.539,0.597,0.667
+Albania,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.02,0.026,0.035,0.077,0.118,0.127,0.172,0.22,0.278,0.308,0.344
+Albania,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,30.827,33.253,115.142,52.989,6.838,35.994,27.405,26.146,10.701,11.631
+Albania,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,30.834,33.183,120.435,53.623,6.457,35.615,27.128,25.837,10.74,11.615
+Albania,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,30.219,32.633,69.914,44.231,10.138,38.729,28.903,27.887,10.308,11.619
+Albania,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,30.935,33.401,116.26,53.264,6.79,35.965,27.406,26.148,10.708,11.635
+Albania,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,31.173,34.062,121.549,54.768,7.218,36.665,28.205,26.963,10.715,11.738
+Albania,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,31.003,33.655,121.056,54.371,6.828,36.136,27.662,26.383,10.75,11.687
+Albania,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.488,99.342,99.136,98.496,97.553,97.042,96.422,95.661,94.721,,
+Albania,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.512,0.658,0.864,1.504,2.447,2.958,3.578,4.339,5.279,,
+Albania,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,62.566,57.751,55.48,54.029,53.712,53.719,53.661,53.567,53.356,,
+Albania,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,37.434,42.249,44.52,45.971,46.288,46.281,46.339,46.433,46.644,,
+Albania,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.081,0.087,0.095,0.105,0.115,0.125,0.134,0.141,0.148,0.157,0.165
+Albania,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.051,0.055,0.06,0.066,0.072,0.079,0.084,0.089,0.093,0.099,0.104
+Albania,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.067,0.072,0.079,0.087,0.095,0.103,0.111,0.117,0.123,0.13,0.137
+Albania,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.036,0.039,0.043,0.047,0.052,0.056,0.06,0.063,0.067,0.071,0.074
+Albania,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.073,0.078,0.085,0.095,0.103,0.112,0.12,0.127,0.134,0.141,0.148
+Albania,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.072,0.077,0.085,0.093,0.102,0.111,0.119,0.126,0.132,0.14,0.147
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.764,1.898,2.077,2.299,2.518,2.739,2.947,3.119,3.291,3.49,3.683
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.8,3.013,3.297,3.649,3.996,4.348,4.678,4.951,5.225,5.54,5.846
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.324,2.501,2.736,3.028,3.317,3.609,3.882,4.109,4.336,4.598,4.852
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.26,1.356,1.484,1.642,1.798,1.956,2.105,2.228,2.351,2.493,2.631
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.52,2.712,2.967,3.284,3.597,3.913,4.21,4.456,4.702,4.986,5.262
+Albania,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.492,2.682,2.934,3.247,3.557,3.869,4.163,4.406,4.65,4.931,5.203
+Albania,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,13.18,16.04,19.51,33.02,44.44,44.54,57.02,69.03,83.07,86.87,92.18
+Albania,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,12.6,15.45,18.92,32.37,43.86,43.99,56.28,68.34,82.49,86.27,91.59
+Albania,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.304,0.37,0.45,0.761,1.024,1.027,1.314,1.591,1.915,2.003,2.126
+Albania,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,2.88,3.407,4.025,6.51,8.508,8.5,10.91,13.02,15.46,16.16,17.11
+Albania,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,1.11,1.453,1.932,3.614,5.32,5.787,7.948,10.15,12.85,14.2,15.85
+Albania,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,0.87,1.147,1.536,2.906,4.305,4.687,6.433,8.242,10.47,11.57,12.91
+Albania,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.014,0.018,0.024,0.046,0.067,0.073,0.101,0.129,0.163,0.18,0.201
+Albania,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,0.226,0.287,0.371,0.663,0.947,1.027,1.414,1.781,2.224,2.457,2.736
+Albania,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,30.899,32.977,87.114,47.194,8.779,37.348,27.727,26.594,10.513,11.581
+Albania,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,31.846,33.924,89.122,48.172,8.853,37.271,28.117,26.975,10.519,11.629
+Albania,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,30.899,32.977,87.114,47.194,8.779,37.348,27.727,26.594,10.535,11.594
+Albania,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,27.246,29.19,78.791,42.908,8.444,37.702,25.954,24.834,10.485,11.354
+Albania,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.586,99.467,99.302,98.883,98.294,97.936,97.493,96.946,96.261,,
+Albania,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.414,0.533,0.698,1.117,1.706,2.064,2.507,3.054,3.739,,
+Albania,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,62.87,58.094,55.841,54.405,54.091,54.098,54.04,53.946,53.736,,
+Albania,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,37.13,41.906,44.159,45.595,45.909,45.902,45.96,46.054,46.264,,
+Albania,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.084,0.091,0.099,0.109,0.12,0.13,0.139,0.147,0.155,0.164,0.172
+Albania,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.069,0.074,0.081,0.09,0.098,0.107,0.114,0.121,0.127,0.134,0.141
+Albania,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.046,0.05,0.054,0.06,0.066,0.071,0.077,0.081,0.085,0.09,0.095
+Albania,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.078,0.084,0.092,0.102,0.111,0.121,0.13,0.137,0.144,0.152,0.16
+Albania,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.394,2.576,2.818,3.119,3.417,3.717,3.999,4.232,4.466,4.736,4.998
+Albania,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.92,3.142,3.437,3.804,4.167,4.533,4.877,5.161,5.447,5.776,6.095
+Albania,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.606,1.728,1.89,2.092,2.292,2.493,2.682,2.839,2.996,3.177,3.352
+Albania,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.715,2.922,3.196,3.538,3.875,4.215,4.535,4.8,5.066,5.371,5.668
+Albania,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,2.318,2.836,3.475,6.395,8.567,8.586,11.07,13.6,16.6,17.36,18.45
+Albania,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,3.058,3.743,4.591,8.463,11.36,11.41,14.74,18.13,22.17,23.18,24.65
+Albania,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.347,0.422,0.511,0.926,1.216,1.193,1.508,1.817,2.178,2.278,2.415
+Albania,Convenience Food,Revenue,Total,thousand USD (US$),Statista,223.1,293.5,393.2,800.1,"1,172","1,275","1,764","2,286","2,935","3,244","3,626"
+Albania,Convenience Food,Revenue,Ready-to-Eat Meals,thousand USD (US$),Statista,203,267.3,358.5,730.6,"1,072","1,169","1,620","2,103","2,704","2,988","3,341"
+Albania,Convenience Food,Revenue,Soups,thousand USD (US$),Statista,20.04,26.19,34.73,69.52,99.78,106.3,144.2,183.3,231.1,255.4,284.7
+Albania,Convenience Food,Revenue Change,Total,percent,Statista,,31.568,33.988,103.471,46.471,8.789,38.356,29.611,28.389,10.497,11.786
+Albania,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,31.651,34.125,103.792,46.751,8.997,38.606,29.832,28.59,10.496,11.81
+Albania,Convenience Food,Revenue Change,Soups,percent,Statista,,30.725,32.599,100.158,43.537,6.545,35.609,27.133,26.082,10.5,11.502
+Albania,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.591,99.474,99.308,98.855,98.223,97.823,97.328,96.709,95.926,,
+Albania,Convenience Food,Online & Offline Split,Online,percent,Statista,0.409,0.526,0.692,1.145,1.777,2.177,2.672,3.291,4.074,,
+Albania,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,64.204,57.107,53.709,52.345,51.816,51.614,51.534,51.501,51.485,,
+Albania,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,35.796,42.893,46.291,47.655,48.184,48.386,48.466,48.499,48.515,,
+Albania,Convenience Food,Users by Segment,Total,million users,Statista,0.096,0.104,0.113,0.125,0.137,0.148,0.159,0.168,0.177,0.187,0.196
+Albania,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.066,0.071,0.078,0.086,0.094,0.102,0.11,0.116,0.122,0.129,0.136
+Albania,Convenience Food,Users by Segment,Soups,million users,Statista,0.058,0.062,0.068,0.075,0.082,0.089,0.096,0.101,0.106,0.112,0.118
+Albania,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.337,3.59,3.928,4.347,4.762,5.18,5.573,5.899,6.225,6.601,6.966
+Albania,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.302,2.477,2.71,3,3.286,3.574,3.846,4.07,4.295,4.554,4.806
+Albania,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,2.002,2.154,2.357,2.608,2.857,3.108,3.344,3.539,3.735,3.96,4.179
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,15.88,19.44,23.88,35.27,46.76,48.32,63.55,78.86,97.44,101.6,108.1
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,9.978,12.23,15.05,22.26,29.56,30.57,40.23,49.95,61.73,64.4,68.49
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,4.203,5.143,6.307,9.297,12.28,12.67,16.61,20.55,25.31,26.41,28.07
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,0.938,1.146,1.403,2.063,2.71,2.791,3.655,4.514,5.552,5.792,6.156
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,10.44,12.77,15.66,23.09,30.6,31.63,41.63,51.73,64.04,66.79,71.04
+Albania,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,3.998,4.894,6.016,8.89,11.78,12.18,16.02,19.88,24.57,25.63,27.26
+Albania,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,0.627,0.826,1.11,1.812,2.627,2.947,4.158,5.444,7.076,7.8,8.722
+Albania,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.296,0.39,0.525,0.858,1.246,1.398,1.974,2.586,3.362,3.706,4.145
+Albania,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.071,0.094,0.126,0.205,0.297,0.332,0.467,0.61,0.79,0.871,0.974
+Albania,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.029,0.038,0.051,0.083,0.119,0.133,0.186,0.243,0.315,0.347,0.387
+Albania,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.144,0.19,0.255,0.415,0.602,0.675,0.953,1.25,1.628,1.794,2.006
+Albania,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.087,0.114,0.154,0.251,0.364,0.408,0.577,0.755,0.982,1.082,1.21
+Albania,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,31.687,34.326,63.289,44.943,12.178,41.093,30.939,29.974,10.232,11.822
+Albania,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,31.836,34.538,63.531,45.211,12.255,41.17,30.994,30.01,10.24,11.831
+Albania,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,31.628,34.076,62.972,44.444,11.93,40.719,30.542,29.55,10.239,11.778
+Albania,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,31.391,33.833,62.547,43.665,11.778,40.489,30.332,29.367,10.242,11.758
+Albania,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,31.491,34.068,63.044,44.949,12.174,41.211,31.125,30.211,10.209,11.835
+Albania,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,31.648,34.404,63.376,44.847,12.251,41.137,30.964,29.994,10.232,11.825
+Albania,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.591,99.47,99.298,98.966,98.486,98.14,97.693,97.115,96.367,,
+Albania,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.409,0.53,0.702,1.034,1.514,1.86,2.307,2.885,3.633,,
+Albania,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,64.204,57.107,53.709,52.345,51.816,51.614,51.534,51.501,51.485,,
+Albania,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,35.796,42.893,46.291,47.655,48.184,48.386,48.466,48.499,48.515,,
+Albania,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.04,0.043,0.046,0.051,0.056,0.061,0.065,0.069,0.073,0.077,0.081
+Albania,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.03,0.032,0.035,0.039,0.042,0.046,0.049,0.052,0.054,0.058,0.061
+Albania,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.017,0.018,0.02,0.022,0.024,0.026,0.028,0.03,0.031,0.033,0.035
+Albania,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.031,0.033,0.036,0.04,0.044,0.048,0.051,0.054,0.057,0.06,0.063
+Albania,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.014,0.015,0.016,0.018,0.02,0.021,0.023,0.024,0.025,0.027,0.028
+Albania,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.022,0.023,0.026,0.028,0.031,0.034,0.036,0.038,0.04,0.042,0.044
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.028,1.106,1.21,1.339,1.467,1.596,1.717,1.817,1.918,2.033,2.145
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.37,1.475,1.613,1.786,1.956,2.128,2.289,2.423,2.557,2.711,2.861
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.589,0.634,0.694,0.768,0.841,0.915,0.984,1.042,1.099,1.166,1.23
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.069,1.15,1.258,1.393,1.525,1.66,1.785,1.89,1.994,2.114,2.231
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.48,0.516,0.565,0.625,0.684,0.745,0.801,0.848,0.895,0.949,1.001
+Albania,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.754,0.811,0.887,0.982,1.076,1.17,1.259,1.332,1.406,1.491,1.573
+Albania,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,7.051,8.607,10.55,16.36,21.89,22.48,29.43,36.42,44.88,46.84,49.82
+Albania,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,9.546,11.94,14.98,23.74,32.36,33.7,44.71,56.03,69.88,72.97,77.75
+Albania,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,1.642,1.969,2.371,3.619,4.774,4.872,6.341,7.803,9.557,9.968,10.59
+Albania,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,3.26,3.864,4.596,6.929,9.023,9.073,11.64,14.11,17.03,17.77,18.83
+Albania,Fish & Seafood,Revenue,Total,thousand USD (US$),Statista,230.2,302.3,404.9,694.6,"1,016","1,132","1,591","2,077","2,692","2,970","3,321"
+Albania,Fish & Seafood,Revenue,Fresh Fish,thousand USD (US$),Statista,121.6,163.5,224.3,393,585.8,662.1,942.4,"1,246","1,635","1,804","2,021"
+Albania,Fish & Seafood,Revenue,Fresh Seafood,thousand USD (US$),Statista,12.87,16.59,21.85,36.87,53.18,58.9,82.26,106.8,137.6,151.7,169.5
+Albania,Fish & Seafood,Revenue,Processed Fish & Seafood,thousand USD (US$),Statista,95.79,122.1,158.8,264.7,376.9,411.4,566.2,724.3,919.6,"1,014","1,130"
+Albania,Fish & Seafood,Revenue Change,Total,percent,Statista,,31.3,33.971,71.537,46.255,11.464,40.482,30.583,29.6,10.304,11.819
+Albania,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,34.541,37.14,75.245,49.052,13.019,42.336,32.237,31.199,10.35,12.03
+Albania,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,28.971,31.663,68.761,44.224,10.762,39.654,29.832,28.837,10.271,11.711
+Albania,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,27.5,30.041,66.684,42.384,9.147,37.618,27.939,26.961,10.228,11.46
+Albania,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.591,99.473,99.305,98.945,98.43,98.077,97.625,97.043,96.295,,
+Albania,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.409,0.527,0.695,1.055,1.57,1.923,2.375,2.957,3.705,,
+Albania,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,64.204,57.107,53.709,52.345,51.816,51.614,51.534,51.501,51.485,,
+Albania,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,35.796,42.893,46.291,47.655,48.184,48.386,48.466,48.499,48.515,,
+Albania,Fish & Seafood,Users by Segment,Total,million users,Statista,0.033,0.035,0.038,0.042,0.046,0.05,0.054,0.057,0.06,0.063,0.067
+Albania,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.013,0.014,0.015,0.017,0.018,0.02,0.021,0.022,0.023,0.025,0.026
+Albania,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.008,0.008,0.009,0.01,0.011,0.012,0.013,0.014,0.014,0.015,0.016
+Albania,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.029,0.032,0.035,0.038,0.042,0.045,0.049,0.051,0.054,0.057,0.06
+Albania,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.132,1.218,1.333,1.475,1.616,1.758,1.891,2.001,2.112,2.239,2.363
+Albania,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.442,0.475,0.52,0.575,0.63,0.685,0.737,0.781,0.824,0.873,0.922
+Albania,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.272,0.292,0.32,0.354,0.388,0.422,0.454,0.48,0.507,0.538,0.568
+Albania,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.019,1.096,1.199,1.328,1.454,1.582,1.702,1.801,1.901,2.015,2.127
+Albania,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,4.828,5.912,7.257,11.28,15.08,15.47,20.22,24.98,30.7,32.05,34.08
+Albania,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,5.53,6.772,8.311,12.92,17.28,17.72,23.17,28.62,35.17,36.72,39.04
+Albania,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.829,1.017,1.25,1.946,2.596,2.669,3.495,4.326,5.328,5.563,5.917
+Albania,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,1.084,1.328,1.628,2.529,3.371,3.455,4.512,5.565,6.832,7.133,7.583
+Albania,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,0.431,0.568,0.763,1.311,1.916,2.133,2.991,3.898,5.041,5.561,6.217
+Albania,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,0.346,0.456,0.611,1.051,1.537,1.711,2.399,3.127,4.042,4.46,4.986
+Albania,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.037,0.049,0.066,0.113,0.165,0.184,0.259,0.338,0.437,0.483,0.54
+Albania,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.048,0.064,0.086,0.147,0.214,0.238,0.334,0.434,0.561,0.619,0.692
+Albania,Fruits & Nuts,Revenue Change,Total,percent,Statista,,31.722,34.2,71.91,46.127,11.338,40.255,30.322,29.297,10.326,11.797
+Albania,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,31.696,34.194,71.913,46.209,11.327,40.248,30.317,29.289,10.326,11.796
+Albania,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,31.943,34.439,72.137,45.839,11.574,40.52,30.576,29.58,10.331,11.832
+Albania,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,31.738,34.066,71.709,45.767,11.233,40.098,30.157,29.131,10.325,11.778
+Albania,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.591,99.473,99.305,98.945,98.434,98.089,97.648,97.084,96.363,,
+Albania,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.409,0.527,0.695,1.055,1.566,1.911,2.352,2.916,3.637,,
+Albania,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Albania,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Albania,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.089,0.096,0.105,0.116,0.127,0.138,0.148,0.156,0.164,0.174,0.182
+Albania,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.063,0.067,0.074,0.081,0.089,0.097,0.104,0.109,0.115,0.121,0.128
+Albania,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.045,0.048,0.053,0.058,0.064,0.069,0.074,0.078,0.082,0.087,0.091
+Albania,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.045,0.048,0.053,0.058,0.064,0.069,0.074,0.078,0.082,0.087,0.091
+Albania,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.169,2.334,2.553,2.826,3.095,3.367,3.623,3.834,4.046,4.29,4.528
+Albania,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,3.098,3.334,3.647,4.037,4.422,4.81,5.175,5.477,5.78,6.129,6.469
+Albania,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.549,1.667,1.824,2.018,2.211,2.405,2.588,2.739,2.89,3.065,3.234
+Albania,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.549,1.667,1.824,2.018,2.211,2.405,2.588,2.739,2.89,3.065,3.234
+Albania,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,18.47,22.72,27.98,43.62,58.58,60.11,78.59,97.09,119.4,124.6,132.5
+Albania,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,13.42,16.59,20.57,32.34,43.71,45.37,60.01,74.98,93.23,97.33,103.7
+Albania,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,10.58,12.96,15.85,24.49,32.67,33.11,42.75,52.13,63.25,66.06,70.13
+Albania,Meat,Revenue,Total,million USD (US$),Statista,0.952,1.26,1.696,2.924,4.293,4.781,6.708,8.743,11.31,12.48,13.95
+Albania,Meat,Revenue,Fresh Meat,million USD (US$),Statista,0.477,0.635,0.86,1.496,2.21,2.49,3.534,4.659,6.093,6.723,7.527
+Albania,Meat,Revenue,Processed Meat,million USD (US$),Statista,0.475,0.625,0.836,1.428,2.083,2.291,3.174,4.084,5.212,5.753,6.421
+Albania,Meat,Revenue Change,Total,percent,Statista,,32.306,34.652,72.378,46.843,11.364,40.285,30.35,29.308,10.344,11.809
+Albania,Meat,Revenue Change,Fresh Meat,percent,Statista,,32.918,35.552,73.82,47.795,12.654,41.909,31.85,30.789,10.325,11.97
+Albania,Meat,Revenue Change,Processed Meat,percent,Statista,,31.691,33.738,70.894,45.847,9.995,38.521,28.681,27.618,10.366,11.622
+Albania,Meat,Online & Offline Split,Offline,percent,Statista,99.591,99.467,99.291,98.916,98.374,98.004,97.53,96.921,96.138,,
+Albania,Meat,Online & Offline Split,Online,percent,Statista,0.409,0.533,0.709,1.084,1.626,1.996,2.47,3.079,3.862,,
+Albania,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Albania,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Albania,Meat,Users by Segment,Total,million users,Statista,0.052,0.055,0.061,0.067,0.073,0.08,0.085,0.09,0.095,0.1,0.105
+Albania,Meat,Users by Segment,Fresh Meat,million users,Statista,0.036,0.038,0.042,0.046,0.051,0.055,0.059,0.062,0.065,0.069,0.073
+Albania,Meat,Users by Segment,Processed Meat,million users,Statista,0.045,0.048,0.053,0.058,0.064,0.069,0.074,0.078,0.082,0.087,0.092
+Albania,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.233,1.327,1.452,1.607,1.76,1.915,2.06,2.18,2.301,2.44,2.575
+Albania,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.787,1.923,2.104,2.329,2.551,2.775,2.986,3.16,3.335,3.536,3.731
+Albania,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.555,1.673,1.831,2.026,2.219,2.414,2.598,2.749,2.901,3.076,3.246
+Albania,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,3.023,3.694,4.525,6.662,8.807,9.09,11.94,14.78,18.23,19.02,20.23
+Albania,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,1.178,1.439,1.758,2.582,3.403,3.503,4.587,5.666,6.968,7.269,7.727
+Albania,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,0.66,0.812,1.001,1.483,1.971,2.042,2.691,3.346,4.14,4.32,4.596
+Albania,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.93,1.14,1.402,2.067,2.735,2.819,3.697,4.573,5.633,5.877,6.249
+Albania,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,1.348,1.635,1.994,2.927,3.866,3.998,5.26,6.528,8.066,8.413,8.947
+Albania,Oils & Fats,Revenue,Total,thousand USD (US$),Statista,129.9,170.7,228.6,372.1,537.9,602.6,848.8,"1,109","1,439","1,587","1,774"
+Albania,Oils & Fats,Revenue,Butter,thousand USD (US$),Statista,40.5,53.19,71.03,115.4,166.3,185.7,261,340.1,440,485.1,542.1
+Albania,Oils & Fats,Revenue,Edible Oils,thousand USD (US$),Statista,22.67,30.02,40.46,66.26,96.3,108.3,153.1,200.9,261.5,288.3,322.5
+Albania,Oils & Fats,Revenue,Margarine,thousand USD (US$),Statista,31.96,42.16,56.66,92.37,133.6,149.5,210.3,274.5,355.7,392.2,438.4
+Albania,Oils & Fats,Revenue,Other Oils & Fats,thousand USD (US$),Statista,34.75,45.33,60.44,98.1,141.7,159,224.4,293.9,382,421.1,470.8
+Albania,Oils & Fats,Revenue Change,Total,percent,Statista,,31.415,33.919,62.782,44.546,12.027,40.875,30.704,29.719,10.245,11.8
+Albania,Oils & Fats,Revenue Change,Butter,percent,Statista,,31.32,33.554,62.419,44.117,11.711,40.494,30.347,29.362,10.243,11.758
+Albania,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,32.401,34.782,63.764,45.327,12.457,41.401,31.172,30.167,10.264,11.864
+Albania,Oils & Fats,Revenue Change,Margarine,percent,Statista,,31.89,34.401,63.037,44.667,11.883,40.675,30.528,29.571,10.257,11.79
+Albania,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,30.445,33.327,62.311,44.408,12.242,41.152,30.964,29.962,10.222,11.816
+Albania,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.591,99.472,99.304,98.978,98.51,98.174,97.742,97.184,96.465,,
+Albania,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.409,0.528,0.696,1.022,1.49,1.826,2.258,2.816,3.535,,
+Albania,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Albania,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Albania,Oils & Fats,Users by Segment,Total,million users,Statista,0.043,0.046,0.051,0.056,0.061,0.066,0.071,0.075,0.079,0.083,0.088
+Albania,Oils & Fats,Users by Segment,Butter,million users,Statista,0.034,0.037,0.04,0.045,0.049,0.053,0.057,0.06,0.063,0.067,0.07
+Albania,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.034,0.037,0.04,0.045,0.049,0.053,0.057,0.06,0.063,0.067,0.07
+Albania,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.034,0.037,0.04,0.045,0.049,0.053,0.057,0.06,0.063,0.067,0.07
+Albania,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.026,0.028,0.03,0.034,0.037,0.04,0.043,0.045,0.047,0.05,0.053
+Albania,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.192,1.282,1.403,1.553,1.701,1.85,1.99,2.107,2.223,2.357,2.488
+Albania,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.192,1.282,1.403,1.553,1.701,1.85,1.99,2.107,2.223,2.357,2.488
+Albania,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.192,1.282,1.403,1.553,1.701,1.85,1.99,2.107,2.223,2.357,2.488
+Albania,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.49,1.603,1.754,1.941,2.126,2.313,2.488,2.633,2.779,2.947,3.109
+Albania,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.894,0.962,1.052,1.165,1.275,1.388,1.493,1.58,1.667,1.768,1.866
+Albania,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.795,0.972,1.194,1.653,2.275,2.402,3.217,4.056,5.099,5.315,5.663
+Albania,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.666,0.815,1.001,1.39,1.926,2.038,2.739,3.466,4.376,4.561,4.862
+Albania,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.437,0.534,0.655,0.901,1.224,1.286,1.711,2.139,2.663,2.778,2.957
+Albania,Sauces & Spices,Revenue,Total,thousand USD (US$),Statista,60.14,79.06,106.1,162.5,244.5,280.2,402.7,535.7,708.4,780.3,874.2
+Albania,Sauces & Spices,Revenue,Spices & Culinary Herbs,thousand USD (US$),Statista,40.31,53,71.21,109.3,165.6,190.2,274.2,366.2,486.4,535.7,600.4
+Albania,Sauces & Spices,Revenue,Tomato Ketchup,thousand USD (US$),Statista,19.83,26.06,34.92,53.17,78.95,90,128.5,169.5,222,244.7,273.8
+Albania,Sauces & Spices,Revenue Change,Total,percent,Statista,,31.458,34.254,53.066,50.527,14.583,43.715,33.034,32.232,10.156,12.034
+Albania,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,31.493,34.362,53.474,51.51,14.868,44.172,33.542,32.818,10.135,12.084
+Albania,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,31.388,34.036,52.235,48.507,13.987,42.751,31.952,30.965,10.203,11.923
+Albania,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.409,0.527,0.696,0.997,1.48,1.83,2.294,2.908,3.715,,
+Albania,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Albania,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Albania,Sauces & Spices,Users by Segment,Total,million users,Statista,0.076,0.081,0.089,0.098,0.107,0.117,0.125,0.132,0.139,0.147,0.154
+Albania,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.06,0.065,0.071,0.079,0.086,0.093,0.1,0.106,0.111,0.117,0.123
+Albania,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.045,0.049,0.053,0.059,0.064,0.07,0.075,0.079,0.083,0.088,0.093
+Albania,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.622,2.821,3.086,3.416,3.741,4.07,4.379,4.635,4.891,5.186,5.473
+Albania,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.097,2.257,2.469,2.733,2.993,3.256,3.503,3.708,3.913,4.149,4.378
+Albania,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.573,1.693,1.852,2.05,2.245,2.442,2.627,2.781,2.935,3.112,3.284
+Albania,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,1.149,1.419,1.766,2.457,3.354,3.521,4.716,5.939,7.447,7.766,8.274
+Albania,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.932,1.133,1.388,1.9,2.561,2.676,3.57,4.469,5.57,5.806,6.18
+Albania,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.842,1.068,1.366,1.953,2.718,2.876,3.876,4.925,6.232,6.501,6.937
+Albania,Spreads & Sweeteners,Revenue,Total,thousand USD (US$),Statista,65.19,86.57,117.7,181.2,270.4,308.1,442.7,588.3,776,855.1,957.9
+Albania,Spreads & Sweeteners,Revenue,Spreads,thousand USD (US$),Statista,42.26,55.3,74.03,112.1,165.2,187.3,268.1,354.1,464.3,511.5,572.4
+Albania,Spreads & Sweeteners,Revenue,Sweeteners,thousand USD (US$),Statista,22.92,31.27,43.71,69.11,105.2,120.8,174.7,234.2,311.7,343.6,385.5
+Albania,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,32.808,36.006,53.867,49.23,13.959,43.701,32.884,31.896,10.194,12.022
+Albania,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,30.841,33.874,51.363,47.402,13.41,43.114,32.106,31.106,10.159,11.914
+Albania,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,36.436,39.774,58.108,52.194,14.822,44.612,34.079,33.09,10.247,12.182
+Albania,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.586,99.458,99.271,98.949,98.448,98.079,97.596,96.956,96.121,,
+Albania,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.414,0.542,0.729,1.051,1.552,1.921,2.404,3.044,3.879,,
+Albania,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Albania,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Albania,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.057,0.061,0.067,0.074,0.081,0.088,0.094,0.099,0.104,0.11,0.116
+Albania,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.045,0.049,0.053,0.059,0.064,0.07,0.075,0.079,0.083,0.088,0.093
+Albania,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.027,0.029,0.032,0.035,0.039,0.042,0.045,0.048,0.05,0.053,0.056
+Albania,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.573,1.693,1.852,2.05,2.245,2.442,2.627,2.781,2.935,3.112,3.284
+Albania,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.966,2.116,2.315,2.562,2.806,3.053,3.284,3.476,3.668,3.89,4.105
+Albania,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.944,1.016,1.111,1.23,1.347,1.465,1.576,1.668,1.761,1.867,1.97
+Albania,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,6.552,8.024,9.853,15.32,20.49,21,27.45,33.88,41.63,43.46,46.2
+Albania,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,7.77,9.522,11.7,18.21,24.36,25,32.69,40.39,49.66,51.84,55.13
+Albania,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,2.225,2.717,3.325,5.152,6.863,7.011,9.126,11.22,13.74,14.34,15.24
+Albania,Vegetables,Revenue,Total,million USD (US$),Statista,0.552,0.727,0.976,1.677,2.452,2.729,3.826,4.983,6.441,7.106,7.944
+Albania,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,0.458,0.604,0.811,1.395,2.041,2.274,3.19,4.158,5.378,5.933,6.634
+Albania,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.094,0.123,0.165,0.282,0.411,0.455,0.636,0.825,1.063,1.172,1.31
+Albania,Vegetables,Revenue Change,Total,percent,Statista,,31.723,34.256,71.922,46.193,11.289,40.19,30.262,29.239,10.328,11.792
+Albania,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,31.801,34.349,72.049,46.299,11.373,40.296,30.362,29.339,10.328,11.803
+Albania,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,31.341,33.802,71.296,45.665,10.874,39.663,29.764,28.739,10.327,11.733
+Albania,Vegetables,Online & Offline Split,Offline,percent,Statista,99.591,99.471,99.302,98.938,98.42,98.069,97.62,97.045,96.309,,
+Albania,Vegetables,Online & Offline Split,Online,percent,Statista,0.409,0.529,0.698,1.062,1.58,1.931,2.38,2.955,3.691,,
+Albania,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Albania,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Albania,Vegetables,Users by Segment,Total,million users,Statista,0.084,0.091,0.099,0.109,0.12,0.13,0.139,0.147,0.155,0.164,0.172
+Albania,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.059,0.063,0.069,0.077,0.084,0.091,0.098,0.103,0.108,0.114,0.12
+Albania,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.042,0.045,0.05,0.055,0.06,0.065,0.07,0.074,0.077,0.082,0.086
+Albania,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,2.044,2.199,2.406,2.663,2.917,3.173,3.414,3.613,3.813,4.043,4.266
+Albania,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.46,1.571,1.718,1.902,2.083,2.266,2.438,2.581,2.723,2.888,3.047
+Albania,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,2.92,3.142,3.437,3.804,4.167,4.533,4.877,5.161,5.447,5.776,6.095

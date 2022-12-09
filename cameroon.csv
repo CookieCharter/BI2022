@@ -1,0 +1,694 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Cameroon,eCommerce,Revenue,Total,million USD (US$),Statista,101.1,134.3,174.5,282.9,371.6,379.7,489.4,593.1,711.3,776.5,852.2
+Cameroon,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,22.34,28.66,35.81,52.45,63.35,69.66,91.85,114,136.6,149.1,163.9
+Cameroon,eCommerce,Revenue,Beverages,million USD (US$),Statista,6.662,8.75,11.41,17.54,25.68,25.5,28.76,31.3,34.26,36.64,38.92
+Cameroon,eCommerce,Revenue,Electronics,million USD (US$),Statista,22.14,29.63,39.02,59.81,73.65,79.7,110.2,137.5,168.9,186,206.3
+Cameroon,eCommerce,Revenue,Fashion,million USD (US$),Statista,20.98,28.36,37.49,73.68,101.1,89.87,106.2,124.6,146,157.6,170.8
+Cameroon,eCommerce,Revenue,Food,million USD (US$),Statista,3.423,4.896,6.68,11.34,17.72,22.3,31.79,42.94,57.68,63.68,71.58
+Cameroon,eCommerce,Revenue,Furniture,million USD (US$),Statista,11.49,15.04,19.71,27.95,37.65,38.95,56.36,70.56,87.28,96.15,106.8
+Cameroon,eCommerce,Revenue,Media,million USD (US$),Statista,3.712,5.476,7.183,11.36,14.6,16.04,19.2,20.8,22.16,24.22,26.04
+Cameroon,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,10.37,13.48,17.25,28.75,37.77,37.64,45.05,51.47,58.47,63.04,67.94
+Cameroon,eCommerce,Revenue Change,Total,percent,Statista,,32.839,29.933,62.12,31.354,2.18,28.891,21.189,19.929,9.166,9.749
+Cameroon,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,28.29,24.948,46.467,20.782,9.961,31.855,24.115,19.825,9.151,9.926
+Cameroon,eCommerce,Revenue Change,Beverages,percent,Statista,,31.342,30.4,53.725,46.408,-0.701,12.784,8.832,9.457,6.947,6.223
+Cameroon,eCommerce,Revenue Change,Electronics,percent,Statista,,33.83,31.691,53.28,23.14,8.215,38.269,24.773,22.836,10.124,10.914
+Cameroon,eCommerce,Revenue Change,Fashion,percent,Statista,,35.176,32.193,96.532,37.215,-11.108,18.171,17.326,17.175,7.945,8.376
+Cameroon,eCommerce,Revenue Change,Food,percent,Statista,,43.032,36.438,69.76,56.261,25.847,42.556,35.074,34.327,10.402,12.406
+Cameroon,eCommerce,Revenue Change,Furniture,percent,Statista,,30.896,31.051,41.806,34.705,3.453,44.698,25.195,23.696,10.163,11.076
+Cameroon,eCommerce,Revenue Change,Media,percent,Statista,,47.522,31.172,58.151,28.521,9.863,19.701,8.333,6.538,9.296,7.514
+Cameroon,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,29.99,27.967,66.667,31.374,-0.344,19.687,14.251,13.6,7.816,7.773
+Cameroon,eCommerce,Average Revenue per User,Total,USD (US$),Statista,38.27,38.09,36.99,48.97,53.59,46.88,53.59,59.71,66.09,66.49,67.96
+Cameroon,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,18.32,18.12,18.11,21.35,21.7,20.79,24.23,27.17,29.6,29.63,30.07
+Cameroon,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,11.42,10.94,10.67,12.79,14.86,12.02,11.46,10.95,10.63,10.31,10
+Cameroon,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,13.07,13.01,13.13,15.79,15.69,14.13,16.76,18.56,20.42,20.45,20.79
+Cameroon,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,11.48,11.97,12.64,20.11,22.77,17.05,17.47,18.27,19.25,18.98,18.92
+Cameroon,eCommerce,Average Revenue per User,Food,USD (US$),Statista,6.241,6.51,6.649,8.793,10.9,11.17,13.47,15.97,19.04,19.06,19.57
+Cameroon,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,18.17,16.57,15.44,16.25,16.51,13.3,15.64,16.81,18.11,17.98,18.11
+Cameroon,eCommerce,Average Revenue per User,Media,USD (US$),Statista,3.505,3.609,3.543,4.301,4.316,3.84,3.84,3.627,3.409,3.373,3.305
+Cameroon,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,8.724,8.126,7.632,9.686,9.816,7.791,7.802,7.78,7.806,7.608,7.469
+Cameroon,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,eCommerce,Online & Offline Split,Offline,percent,Statista,99.548,99.437,99.306,98.913,98.639,98.576,98.402,98.172,97.916,,
+Cameroon,eCommerce,Online & Offline Split,Online,percent,Statista,0.452,0.563,0.694,1.087,1.361,1.424,1.598,1.828,2.084,,
+Cameroon,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,76.797,76.719,77.189,76.467,76.864,77.645,77.421,76.769,76.145,,
+Cameroon,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,23.203,23.281,22.811,23.533,23.136,22.355,22.579,23.231,23.855,,
+Cameroon,eCommerce,Users,Total,million users,Statista,2.642,3.525,4.719,5.777,6.934,8.099,9.133,9.933,10.761,11.677,12.539
+Cameroon,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,1.22,1.582,1.977,2.457,2.919,3.351,3.79,4.195,4.614,5.033,5.449
+Cameroon,eCommerce,Users,Beverages,million users,Statista,0.583,0.8,1.068,1.372,1.729,2.122,2.51,2.859,3.222,3.553,3.89
+Cameroon,eCommerce,Users,Electronics,million users,Statista,1.694,2.278,2.971,3.787,4.695,5.639,6.576,7.41,8.269,9.094,9.922
+Cameroon,eCommerce,Users,Fashion,million users,Statista,1.827,2.369,2.966,3.664,4.442,5.271,6.079,6.817,7.582,8.3,9.025
+Cameroon,eCommerce,Users,Food,million users,Statista,0.548,0.752,1.005,1.29,1.625,1.996,2.36,2.689,3.03,3.341,3.658
+Cameroon,eCommerce,Users,Furniture,million users,Statista,0.633,0.907,1.276,1.72,2.281,2.929,3.603,4.199,4.819,5.348,5.896
+Cameroon,eCommerce,Users,Media,million users,Statista,1.059,1.517,2.028,2.641,3.382,4.177,5.001,5.736,6.5,7.182,7.88
+Cameroon,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,1.189,1.659,2.26,2.968,3.848,4.832,5.774,6.616,7.49,8.286,9.096
+Cameroon,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,4.964,6.273,7.64,9.254,10.723,12.006,13.249,14.31,15.362,16.363,17.301
+Cameroon,eCommerce,Penetration Rate,Beverages,percent,Statista,2.374,3.172,4.129,5.167,6.35,7.604,8.774,9.754,10.729,11.552,12.35
+Cameroon,eCommerce,Penetration Rate,eCommerce,percent,Statista,10.756,13.981,18.236,21.761,25.469,29.015,31.924,33.885,35.834,37.964,39.812
+Cameroon,eCommerce,Penetration Rate,Electronics,percent,Statista,6.896,9.035,11.483,14.267,17.246,20.204,22.988,25.276,27.535,29.564,31.501
+Cameroon,eCommerce,Penetration Rate,Fashion,percent,Statista,7.436,9.395,11.461,13.804,16.316,18.886,21.249,23.255,25.247,26.984,28.653
+Cameroon,eCommerce,Penetration Rate,Food,percent,Statista,2.232,2.983,3.883,4.858,5.971,7.15,8.25,9.171,10.089,10.862,11.613
+Cameroon,eCommerce,Penetration Rate,Furniture,percent,Statista,2.575,3.599,4.932,6.478,8.379,10.494,12.593,14.323,16.047,17.387,18.72
+Cameroon,eCommerce,Penetration Rate,Media,percent,Statista,4.311,6.017,7.836,9.948,12.423,14.966,17.48,19.566,21.645,23.35,25.018
+Cameroon,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,4.839,6.578,8.735,11.182,14.135,17.31,20.183,22.567,24.94,26.938,28.879
+Cameroon,Electronics,Revenue,Total,million USD (US$),Statista,22.14,29.63,39.02,59.81,73.65,79.7,110.2,137.5,168.9,186,206.3
+Cameroon,Electronics,Revenue,Consumer Electronics,million USD (US$),Statista,16.61,22.32,29.3,46.1,56.04,56.67,78.71,96.79,117.3,129,142.7
+Cameroon,Electronics,Revenue,Household Appliances,million USD (US$),Statista,5.53,7.312,9.726,13.71,17.6,23.03,31.47,40.7,51.62,56.98,63.57
+Cameroon,Electronics,Revenue Change,Total,percent,Statista,,33.83,31.691,53.28,23.14,8.215,38.269,24.773,22.836,10.124,10.914
+Cameroon,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,34.377,31.272,57.338,21.562,1.124,38.892,22.97,21.19,9.974,10.62
+Cameroon,Electronics,Revenue Change,Household Appliances,percent,Statista,,32.224,33.014,40.962,28.373,30.852,36.648,29.33,26.83,10.384,11.565
+Cameroon,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,13.07,13.01,13.13,15.79,15.69,14.13,16.76,18.56,20.42,20.45,20.79
+Cameroon,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,9.32,9.756,10.37,13.38,13.77,12.12,14.99,16.75,18.55,18.74,19.19
+Cameroon,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,5.862,5.351,5.006,5.172,4.954,5.014,5.523,6.1,6.715,6.671,6.742
+Cameroon,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,Electronics,Online & Offline Split,Offline,percent,Statista,99.056,98.799,98.517,97.934,97.523,97.025,96.539,95.94,95.285,,
+Cameroon,Electronics,Online & Offline Split,Online,percent,Statista,0.944,1.201,1.483,2.066,2.477,2.975,3.461,4.06,4.715,,
+Cameroon,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,58.736,59.18,59.392,59.346,59.043,58.51,57.85,57.116,56.37,,
+Cameroon,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,41.264,40.82,40.608,40.654,40.957,41.49,42.15,42.884,43.63,,
+Cameroon,Electronics,Users by Segment,Total,million users,Statista,1.694,2.278,2.971,3.787,4.695,5.639,6.576,7.41,8.269,9.094,9.922
+Cameroon,Electronics,Users by Segment,Consumer Electronics,million users,Statista,1.782,2.288,2.825,3.446,4.07,4.678,5.25,5.777,6.324,6.886,7.44
+Cameroon,Electronics,Users by Segment,Household Appliances,million users,Statista,0.943,1.366,1.943,2.651,3.554,4.592,5.698,6.673,7.688,8.541,9.428
+Cameroon,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,7.254,9.072,10.918,12.983,14.952,16.759,18.35,19.707,21.057,22.387,23.622
+Cameroon,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,6.896,9.035,11.483,14.267,17.246,20.204,22.988,25.276,27.535,29.564,31.501
+Cameroon,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,3.84,5.419,7.509,9.987,13.054,16.453,19.919,22.764,25.6,27.767,29.934
+Cameroon,Consumer Electronics,Revenue,Total,million USD (US$),Statista,16.61,22.32,29.3,46.1,56.04,56.67,78.71,96.79,117.3,129,142.7
+Cameroon,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,2.98,3.979,5.303,7.793,9.807,9.686,13.44,16.31,19.69,21.64,23.91
+Cameroon,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,6.193,8.326,10.93,17.17,20.8,21,29.15,35.84,43.41,47.76,52.83
+Cameroon,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,4.403,5.925,7.591,12.67,14.47,15.22,21.26,26.7,32.6,35.9,39.79
+Cameroon,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,2.897,3.902,5.227,8.065,10.56,10.41,14.45,17.53,21.17,23.31,25.79
+Cameroon,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,0.135,0.186,0.248,0.401,0.405,0.35,0.408,0.412,0.409,0.42,0.427
+Cameroon,Consumer Electronics,Revenue Change,Total,percent,Statista,,34.377,31.272,57.338,21.562,1.124,38.892,22.97,21.19,9.974,10.62
+Cameroon,Consumer Electronics,Revenue Change,Computing,percent,Statista,,33.523,33.275,46.955,25.844,-1.234,38.757,21.354,20.723,9.904,10.49
+Cameroon,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,34.442,31.276,57.091,21.142,0.962,38.81,22.95,21.122,10.021,10.616
+Cameroon,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,34.567,28.118,66.908,14.207,5.183,39.685,25.588,22.097,10.123,10.836
+Cameroon,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,34.691,33.957,54.295,30.936,-1.42,38.809,21.315,20.764,10.109,10.639
+Cameroon,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,37.454,33.549,61.492,1.149,-13.577,16.652,1.004,-0.776,2.736,1.451
+Cameroon,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,9.32,9.756,10.37,13.38,13.77,12.12,14.99,16.75,18.55,18.74,19.19
+Cameroon,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,2.389,2.485,2.681,3.23,3.442,2.958,3.657,4.034,4.448,4.49,4.591
+Cameroon,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,4.344,4.549,4.835,6.229,6.389,5.613,6.942,7.754,8.58,8.67,8.876
+Cameroon,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,3.088,3.238,3.359,4.594,4.442,4.067,5.064,5.777,6.444,6.517,6.685
+Cameroon,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,4.065,4.264,4.625,5.85,6.486,5.565,6.882,7.586,8.368,8.464,8.664
+Cameroon,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,0.253,0.271,0.293,0.387,0.332,0.249,0.259,0.238,0.216,0.203,0.191
+Cameroon,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Cameroon,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Cameroon,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,98.449,98.054,97.673,96.655,96.285,95.661,95.134,94.442,93.701,,
+Cameroon,Consumer Electronics,Online & Offline Split,Online,percent,Statista,1.551,1.946,2.327,3.345,3.715,4.339,4.866,5.558,6.299,,
+Cameroon,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,59.167,59.567,59.744,59.626,59.301,58.752,58.071,57.314,56.549,,
+Cameroon,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,40.833,40.433,40.256,40.374,40.699,41.248,41.929,42.686,43.451,,
+Cameroon,Consumer Electronics,Users,Total,million users,Statista,1.782,2.288,2.825,3.446,4.07,4.678,5.25,5.777,6.324,6.886,7.44
+Cameroon,Consumer Electronics,Users,Computing,million users,Statista,1.247,1.601,1.978,2.412,2.849,3.274,3.675,4.044,4.427,4.82,5.208
+Cameroon,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,1.426,1.83,2.26,2.757,3.256,3.742,4.2,4.622,5.059,5.509,5.952
+Cameroon,Consumer Electronics,Users,Telephony,million users,Statista,1.426,1.83,2.26,2.757,3.256,3.742,4.2,4.622,5.059,5.509,5.952
+Cameroon,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.713,0.915,1.13,1.379,1.628,1.871,2.1,2.311,2.529,2.754,2.976
+Cameroon,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.535,0.686,0.848,1.034,1.221,1.403,1.575,1.733,1.897,2.066,2.232
+Cameroon,Consumer Electronics,Penetration Rate,Computing,percent,Statista,5.078,6.35,7.642,9.088,10.466,11.731,12.845,13.795,14.74,15.671,16.535
+Cameroon,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,7.254,9.072,10.918,12.983,14.952,16.759,18.35,19.707,21.057,22.387,23.622
+Cameroon,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,5.803,7.257,8.734,10.386,11.961,13.407,14.68,15.766,16.846,17.909,18.897
+Cameroon,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,5.803,7.257,8.734,10.386,11.961,13.407,14.68,15.766,16.846,17.909,18.897
+Cameroon,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,2.902,3.629,4.367,5.193,5.981,6.704,7.34,7.883,8.423,8.955,9.449
+Cameroon,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,2.176,2.722,3.275,3.895,4.486,5.028,5.505,5.912,6.317,6.716,7.087
+Cameroon,Household Appliances,Revenue,Total,million USD (US$),Statista,5.53,7.312,9.726,13.71,17.6,23.03,31.47,40.7,51.62,56.98,63.57
+Cameroon,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,2.751,3.637,4.839,6.823,8.656,11.23,15.41,20.07,25.49,28.12,31.38
+Cameroon,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,1.291,1.707,2.27,3.2,4.109,5.374,7.346,9.5,12.05,13.3,14.84
+Cameroon,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,1.488,1.968,2.617,3.688,4.84,6.416,8.72,11.14,14.09,15.56,17.35
+Cameroon,Household Appliances,Revenue Change,Total,percent,Statista,,32.224,33.014,40.962,28.373,30.852,36.648,29.33,26.83,10.384,11.565
+Cameroon,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,32.206,33.049,41,26.865,29.737,37.222,30.24,27.005,10.318,11.593
+Cameroon,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,32.223,32.982,40.969,28.406,30.786,36.695,29.322,26.842,10.373,11.579
+Cameroon,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,32.258,32.978,40.925,31.236,32.562,35.91,27.752,26.481,10.433,11.504
+Cameroon,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,5.862,5.351,5.006,5.172,4.954,5.014,5.523,6.1,6.715,6.671,6.742
+Cameroon,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,7.291,6.655,6.226,6.434,6.089,6.116,6.76,7.518,8.288,8.232,8.321
+Cameroon,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,6.841,6.245,5.842,6.036,5.781,5.851,6.446,7.118,7.836,7.785,7.868
+Cameroon,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,1.972,1.8,1.684,1.739,1.702,1.747,1.913,2.086,2.29,2.277,2.3
+Cameroon,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Cameroon,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Cameroon,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Cameroon,Household Appliances,Online & Offline Split,Offline,percent,Statista,99.566,99.446,99.291,99.096,98.798,98.425,98.039,97.578,97.056,,
+Cameroon,Household Appliances,Online & Offline Split,Online,percent,Statista,0.434,0.554,0.709,0.904,1.202,1.575,1.961,2.422,2.944,,
+Cameroon,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,57.44,57.999,58.332,58.405,58.224,57.825,57.267,56.618,55.939,,
+Cameroon,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,42.56,42.001,41.668,41.595,41.776,42.175,42.733,43.382,44.061,,
+Cameroon,Household Appliances,Users,Total,million users,Statista,0.943,1.366,1.943,2.651,3.554,4.592,5.698,6.673,7.688,8.541,9.428
+Cameroon,Household Appliances,Users,Major Appliances,million users,Statista,0.377,0.547,0.777,1.06,1.422,1.837,2.279,2.669,3.075,3.416,3.771
+Cameroon,Household Appliances,Users,Other Household Appliances,million users,Statista,0.189,0.273,0.389,0.53,0.711,0.918,1.14,1.335,1.538,1.708,1.886
+Cameroon,Household Appliances,Users,Small Appliances,million users,Statista,0.755,1.093,1.554,2.121,2.843,3.674,4.559,5.339,6.15,6.833,7.543
+Cameroon,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,3.84,5.419,7.509,9.987,13.054,16.453,19.919,22.764,25.6,27.767,29.934
+Cameroon,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,1.536,2.168,3.003,3.995,5.221,6.581,7.968,9.106,10.24,11.107,11.973
+Cameroon,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,0.768,1.084,1.502,1.997,2.611,3.291,3.984,4.553,5.12,5.554,5.987
+Cameroon,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,3.072,4.335,6.007,7.989,10.443,13.162,15.935,18.211,20.48,22.214,23.947
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,22.34,28.66,35.81,52.45,63.35,69.66,91.85,114,136.6,149.1,163.9
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,5.321,7.212,9.336,13.12,16.67,18.35,23.03,27.01,32.13,35.27,38.81
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.92,0.937,0.986,1.023,1.153,1.218,1.401,1.551,2.105,2.193,2.372
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,4.329,4.609,4.853,5.349,6.48,9.584,19.13,30.94,40.16,44.62,50.35
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,11.77,15.9,20.63,32.96,39.05,40.5,48.29,54.46,62.17,67.07,72.36
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,28.29,24.948,46.467,20.782,9.961,31.855,24.115,19.825,9.151,9.926
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,35.538,29.451,40.531,27.058,10.078,25.504,17.282,18.956,9.773,10.037
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,1.814,5.218,3.753,12.708,5.637,15.025,10.707,35.719,4.181,8.162
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,6.468,5.294,10.22,21.144,47.901,99.604,61.735,29.8,11.106,12.842
+Cameroon,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,35.089,29.748,59.767,18.477,3.713,19.235,12.777,14.157,7.882,7.887
+Cameroon,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,18.32,18.12,18.11,21.35,21.7,20.79,24.23,27.17,29.6,29.63,30.07
+Cameroon,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,6.233,6.513,6.746,7.628,8.156,7.824,8.681,9.199,9.95,10.01,10.17
+Cameroon,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,1.179,0.926,0.779,0.65,0.617,0.568,0.578,0.578,0.713,0.681,0.68
+Cameroon,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,9.34,7.669,6.459,5.73,5.841,7.527,13.28,19.41,22.91,23.33,24.31
+Cameroon,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,15.57,16.22,16.83,21.64,21.58,19.49,20.55,20.94,21.73,21.49,21.42
+Cameroon,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,98.566,98.232,97.882,96.845,96.415,96.07,95.385,94.527,93.716,,
+Cameroon,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,1.434,1.768,2.118,3.155,3.585,3.93,4.615,5.473,6.284,,
+Cameroon,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,63.402,61.592,60.341,59.167,58.242,57.177,55.579,53.63,51.907,,
+Cameroon,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,36.598,38.408,39.659,40.833,41.758,42.823,44.421,46.37,48.093,,
+Cameroon,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,1.22,1.582,1.977,2.457,2.919,3.351,3.79,4.195,4.614,5.033,5.449
+Cameroon,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.854,1.107,1.384,1.72,2.044,2.346,2.653,2.936,3.229,3.523,3.815
+Cameroon,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.781,1.012,1.265,1.572,1.868,2.145,2.426,2.685,2.953,3.221,3.488
+Cameroon,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.463,0.601,0.751,0.934,1.109,1.273,1.44,1.594,1.753,1.913,2.071
+Cameroon,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.756,0.981,1.226,1.523,1.81,2.078,2.35,2.601,2.86,3.121,3.379
+Cameroon,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,4.964,6.273,7.64,9.254,10.723,12.006,13.249,14.31,15.362,16.363,17.301
+Cameroon,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,3.475,4.391,5.348,6.478,7.506,8.404,9.275,10.017,10.754,11.454,12.111
+Cameroon,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,3.177,4.015,4.89,5.923,6.863,7.684,8.48,9.158,9.832,10.473,11.073
+Cameroon,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,1.886,2.384,2.903,3.517,4.075,4.562,5.035,5.438,5.838,6.218,6.575
+Cameroon,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,3.078,3.889,4.737,5.738,6.648,7.443,8.215,8.872,9.525,10.145,10.727
+Cameroon,Personal Care,Revenue,Total,million USD (US$),Statista,11.77,15.9,20.63,32.96,39.05,40.5,48.29,54.46,62.17,67.07,72.36
+Cameroon,Personal Care,Revenue,Body Care,million USD (US$),Statista,1.318,1.772,2.27,3.083,3.548,3.919,4.922,5.769,6.849,7.488,8.219
+Cameroon,Personal Care,Revenue,Eye Care,million USD (US$),Statista,4.857,6.575,8.642,16.45,19.04,18.49,20.74,22.24,23.98,25.24,26.41
+Cameroon,Personal Care,Revenue,Hair Care,million USD (US$),Statista,1.166,1.582,2.044,2.811,3.352,3.712,4.676,5.502,6.559,7.183,7.898
+Cameroon,Personal Care,Revenue,Oral Care,million USD (US$),Statista,0.453,0.614,0.795,1.096,1.319,1.461,1.843,2.17,2.591,2.839,3.122
+Cameroon,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,2.235,3.02,3.889,5.32,6.256,6.92,8.708,10.23,12.18,13.33,14.64
+Cameroon,Personal Care,Revenue,Skin Care,million USD (US$),Statista,1.745,2.339,2.994,4.198,5.533,5.997,7.406,8.552,10.01,10.99,12.07
+Cameroon,Personal Care,Revenue Change,Total,percent,Statista,,35.089,29.748,59.767,18.477,3.713,19.235,12.777,14.157,7.882,7.887
+Cameroon,Personal Care,Revenue Change,Body Care,percent,Statista,,34.446,28.104,35.815,15.083,10.457,25.593,17.208,18.721,9.33,9.762
+Cameroon,Personal Care,Revenue Change,Eye Care,percent,Statista,,35.372,31.437,90.349,15.745,-2.889,12.169,7.232,7.824,5.254,4.635
+Cameroon,Personal Care,Revenue Change,Hair Care,percent,Statista,,35.678,29.204,37.524,19.246,10.74,25.97,17.665,19.211,9.514,9.954
+Cameroon,Personal Care,Revenue Change,Oral Care,percent,Statista,,35.675,29.469,37.827,20.347,10.766,26.146,17.743,19.401,9.572,9.968
+Cameroon,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,35.123,28.775,36.796,17.594,10.614,25.838,17.478,19.062,9.442,9.827
+Cameroon,Personal Care,Revenue Change,Skin Care,percent,Statista,,34.04,28.003,40.214,31.801,8.386,23.495,15.474,17.049,9.79,9.827
+Cameroon,Personal Care,Average Revenue per User,Total,USD (US$),Statista,15.57,16.22,16.83,21.64,21.58,19.49,20.55,20.94,21.73,21.49,21.42
+Cameroon,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,2.562,2.657,2.723,2.977,2.883,2.774,3.08,3.262,3.521,3.529,3.577
+Cameroon,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,12.85,13.41,14.1,21.6,21.04,17.8,17.65,17.1,16.77,16.18,15.63
+Cameroon,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,2.966,3.102,3.207,3.549,3.562,3.436,3.827,4.068,4.409,4.427,4.495
+Cameroon,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,1.222,1.278,1.324,1.469,1.487,1.435,1.601,1.703,1.849,1.856,1.886
+Cameroon,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,6.569,6.844,7.05,7.763,7.681,7.402,8.235,8.741,9.461,9.49,9.631
+Cameroon,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,5.244,5.419,5.551,6.264,6.947,6.56,7.162,7.473,7.954,8.005,8.117
+Cameroon,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,Personal Care,Online & Offline Split,Offline,percent,Statista,98.645,98.234,97.797,96.323,95.904,95.744,95.484,95.093,94.597,,
+Cameroon,Personal Care,Online & Offline Split,Online,percent,Statista,1.355,1.766,2.203,3.677,4.096,4.256,4.516,4.907,5.403,,
+Cameroon,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,57.4,57.961,58.296,58.376,58.197,57.798,57.24,56.592,55.913,,
+Cameroon,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,42.6,42.039,41.704,41.624,41.803,42.202,42.76,43.408,44.087,,
+Cameroon,Personal Care,Users,Total,million users,Statista,0.756,0.981,1.226,1.523,1.81,2.078,2.35,2.601,2.86,3.121,3.379
+Cameroon,Personal Care,Users,Body Care,million users,Statista,0.514,0.667,0.833,1.036,1.231,1.413,1.598,1.769,1.945,2.122,2.298
+Cameroon,Personal Care,Users,Eye Care,million users,Statista,0.378,0.49,0.613,0.762,0.905,1.039,1.175,1.3,1.43,1.56,1.689
+Cameroon,Personal Care,Users,Hair Care,million users,Statista,0.393,0.51,0.637,0.792,0.941,1.08,1.222,1.352,1.487,1.623,1.757
+Cameroon,Personal Care,Users,Oral Care,million users,Statista,0.371,0.481,0.601,0.746,0.887,1.018,1.152,1.274,1.402,1.529,1.656
+Cameroon,Personal Care,Users,Other Personal Care,million users,Statista,0.34,0.441,0.552,0.685,0.815,0.935,1.058,1.17,1.287,1.404,1.52
+Cameroon,Personal Care,Users,Skin Care,million users,Statista,0.333,0.432,0.539,0.67,0.796,0.914,1.034,1.144,1.259,1.373,1.487
+Cameroon,Personal Care,Penetration Rate,Body Care,percent,Statista,2.093,2.645,3.221,3.902,4.521,5.062,5.586,6.033,6.477,6.899,7.295
+Cameroon,Personal Care,Penetration Rate,Eye Care,percent,Statista,1.539,1.945,2.368,2.869,3.324,3.722,4.107,4.436,4.762,5.073,5.364
+Cameroon,Personal Care,Penetration Rate,Hair Care,percent,Statista,1.601,2.022,2.463,2.984,3.457,3.871,4.272,4.613,4.953,5.276,5.578
+Cameroon,Personal Care,Penetration Rate,Oral Care,percent,Statista,1.508,1.906,2.321,2.811,3.258,3.647,4.025,4.347,4.667,4.971,5.256
+Cameroon,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,1.385,1.75,2.132,2.582,2.992,3.35,3.697,3.992,4.286,4.565,4.827
+Cameroon,Personal Care,Penetration Rate,Personal Care,percent,Statista,3.078,3.889,4.737,5.738,6.648,7.443,8.215,8.872,9.525,10.145,10.727
+Cameroon,Personal Care,Penetration Rate,Skin Care,percent,Statista,1.354,1.711,2.084,2.525,2.925,3.275,3.614,3.904,4.191,4.464,4.72
+Cameroon,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,6.233,6.513,6.746,7.628,8.156,7.824,8.681,9.199,9.95,10.01,10.17
+Cameroon,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,1.512,1.543,1.567,1.792,1.867,1.781,1.967,2.081,2.247,2.257,2.291
+Cameroon,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,0.186,0.172,0.159,0.273,0.255,0.227,0.237,0.243,0.252,0.254,0.256
+Cameroon,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,20.25,21.32,22.21,24.84,26.78,25.76,28.64,30.38,32.9,33.11,33.67
+Cameroon,Beauty Care,Revenue,Total,million USD (US$),Statista,5.321,7.212,9.336,13.12,16.67,18.35,23.03,27.01,32.13,35.27,38.81
+Cameroon,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,0.904,1.196,1.518,2.157,2.671,2.925,3.654,4.278,5.079,5.566,6.117
+Cameroon,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.095,0.115,0.132,0.281,0.313,0.319,0.378,0.429,0.489,0.536,0.585
+Cameroon,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,4.322,5.901,7.686,10.68,13.68,15.11,19,22.3,26.56,29.16,32.11
+Cameroon,Beauty Care,Revenue Change,Total,percent,Statista,,35.538,29.451,40.531,27.058,10.078,25.504,17.282,18.956,9.773,10.037
+Cameroon,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,32.359,26.923,42.095,23.829,9.51,24.923,17.077,18.724,9.589,9.899
+Cameroon,Beauty Care,Revenue Change,Fragrances,percent,Statista,,20.008,15.546,112.623,11.234,1.918,18.438,13.582,14.009,9.569,9.181
+Cameroon,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,36.534,30.249,38.954,28.09,10.453,25.745,17.368,19.103,9.789,10.117
+Cameroon,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,Beauty Care,Online & Offline Split,Offline,percent,Statista,97.098,96.276,95.454,93.504,92.437,91.771,90.949,89.98,88.779,,
+Cameroon,Beauty Care,Online & Offline Split,Online,percent,Statista,2.902,3.724,4.546,6.496,7.563,8.229,9.051,10.02,11.221,,
+Cameroon,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,65.285,62.743,60.565,59.176,57.983,57.157,56.57,56.083,55.678,,
+Cameroon,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,34.715,37.257,39.435,40.824,42.017,42.843,43.43,43.917,44.322,,
+Cameroon,Beauty Care,Users by Segment,Total,million users,Statista,0.854,1.107,1.384,1.72,2.044,2.346,2.653,2.936,3.229,3.523,3.815
+Cameroon,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.598,0.775,0.969,1.204,1.43,1.642,1.857,2.055,2.261,2.466,2.67
+Cameroon,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.512,0.664,0.83,1.032,1.226,1.407,1.592,1.762,1.938,2.114,2.289
+Cameroon,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.213,0.277,0.346,0.43,0.511,0.586,0.663,0.734,0.807,0.881,0.954
+Cameroon,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,3.475,4.391,5.348,6.478,7.506,8.404,9.275,10.017,10.754,11.454,12.111
+Cameroon,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,2.433,3.074,3.744,4.535,5.254,5.883,6.492,7.012,7.528,8.018,8.478
+Cameroon,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,2.085,2.635,3.209,3.887,4.504,5.042,5.565,6.01,6.452,6.873,7.267
+Cameroon,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,0.869,1.098,1.337,1.619,1.877,2.101,2.319,2.504,2.688,2.864,3.028
+Cameroon,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,1.179,0.926,0.779,0.65,0.617,0.568,0.578,0.578,0.713,0.681,0.68
+Cameroon,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0.348,0.283,0.241,0.201,0.195,0.182,0.187,0.179,0.17,0.166,0.162
+Cameroon,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.601,0.488,0.416,0.346,0.337,0.315,0.323,0.311,0.295,0.288,0.281
+Cameroon,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.252,0.204,0.173,0.143,0.139,0.129,0.132,0.126,0.119,0.116,0.113
+Cameroon,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.107,0.072,0.064,0.071,0.058,0.049,0.05,0.084,0.203,0.19,0.201
+Cameroon,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.394,0.32,0.273,0.229,0.216,0.209,0.214,0.207,0.198,0.193,0.189
+Cameroon,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,1.5,1.175,0.988,0.824,0.782,0.717,0.729,0.731,0.918,0.875,0.876
+Cameroon,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,0.793,0.621,0.511,0.411,0.387,0.351,0.351,0.329,0.305,0.293,0.281
+Cameroon,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.019,0.002,0.002,0.001,0.001,0.001,0.001,0.01,0.143,0.129,0.14
+Cameroon,Health Care,Revenue,Total,thousand USD (US$),Statista,920.4,937.1,986,"1,023","1,153","1,218","1,401","1,551","2,105","2,193","2,372"
+Cameroon,Health Care,Revenue,Analgesics,thousand USD (US$),Statista,54.32,57.28,61.07,63.13,72.87,78.03,90.69,96.32,100.4,106.8,112.7
+Cameroon,Health Care,Revenue,Cold & Cough Remedies,thousand USD (US$),Statista,187.8,197.8,210.8,217.9,251.7,269.8,313.8,333.6,348,370.7,391.8
+Cameroon,Health Care,Revenue,Digestives & Intestinal Remedies,thousand USD (US$),Statista,59.11,61.95,65.68,67.56,77.65,82.82,95.91,101.5,105.5,112,118
+Cameroon,Health Care,Revenue,Hand Sanitizer,thousand USD (US$),Statista,33.34,29.33,32.21,44.39,43.2,41.96,48.23,90.71,239.5,245.3,279.8
+Cameroon,Health Care,Revenue,Incontinence,thousand USD (US$),Statista,61.5,64.78,69.08,72.04,80.57,89.68,104.1,111.2,116.7,124.3,131.5
+Cameroon,Health Care,Revenue,Other Health Care,thousand USD (US$),Statista,269.3,273.5,287.5,298.1,336.1,353.8,406.7,451.4,623.4,648.6,702.6
+Cameroon,Health Care,Revenue,Skin Treatment,thousand USD (US$),Statista,247.7,251.4,258.6,258.5,289.3,300.9,340.4,352.9,359.9,377,392.2
+Cameroon,Health Care,Revenue,Vitamins & Minerals,thousand USD (US$),Statista,7.419,1.085,1.134,1.122,1.205,1.198,1.326,13.34,211.8,208.1,243.4
+Cameroon,Health Care,Revenue Change,Total,percent,Statista,,1.814,5.218,3.753,12.708,5.637,15.025,10.707,35.719,4.181,8.162
+Cameroon,Health Care,Revenue Change,Analgesics,percent,Statista,,5.449,6.617,3.373,15.428,7.081,16.225,6.208,4.236,6.375,5.524
+Cameroon,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,5.325,6.572,3.368,15.512,7.191,16.308,6.31,4.317,6.523,5.692
+Cameroon,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,4.805,6.021,2.862,14.935,6.658,15.805,5.828,3.941,6.161,5.357
+Cameroon,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,-12.028,9.819,37.814,-2.681,-2.87,14.943,88.078,164.028,2.422,14.064
+Cameroon,Health Care,Revenue Change,Incontinence,percent,Statista,,5.333,6.638,4.285,11.841,11.307,16.079,6.82,4.946,6.512,5.792
+Cameroon,Health Care,Revenue Change,Other Health Care,percent,Statista,,1.56,5.119,3.687,12.747,5.266,14.952,10.991,38.104,4.042,8.326
+Cameroon,Health Care,Revenue Change,Skin Treatment,percent,Statista,,1.494,2.864,-0.039,11.915,4.01,13.127,3.672,1.984,4.751,4.032
+Cameroon,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,-85.375,4.516,-1.058,7.398,-0.581,10.684,906.033,"1,487.706",-1.747,16.963
+Cameroon,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,Health Care,Online & Offline Split,Offline,percent,Statista,99.033,99.053,99.042,99.004,98.938,98.868,98.818,98.739,98.349,,
+Cameroon,Health Care,Online & Offline Split,Online,percent,Statista,0.967,0.947,0.958,0.996,1.062,1.132,1.182,1.261,1.651,,
+Cameroon,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.985,65.954,62.737,59.416,56.586,54.086,51.693,49.64,48.213,,
+Cameroon,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.015,34.046,37.263,40.584,43.414,45.914,48.307,50.36,51.787,,
+Cameroon,Health Care,Users by Segment,Total,million users,Statista,0.781,1.012,1.265,1.572,1.868,2.145,2.426,2.685,2.953,3.221,3.488
+Cameroon,Health Care,Users by Segment,Analgesics,million users,Statista,0.156,0.202,0.253,0.314,0.374,0.429,0.485,0.537,0.591,0.644,0.698
+Cameroon,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.312,0.405,0.506,0.629,0.747,0.858,0.97,1.074,1.181,1.289,1.395
+Cameroon,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.234,0.304,0.38,0.472,0.561,0.643,0.728,0.805,0.886,0.966,1.046
+Cameroon,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.312,0.405,0.506,0.629,0.747,0.858,0.97,1.074,1.181,1.289,1.395
+Cameroon,Health Care,Users by Segment,Incontinence,million users,Statista,0.156,0.202,0.253,0.314,0.374,0.429,0.485,0.537,0.591,0.644,0.698
+Cameroon,Health Care,Users by Segment,Other Health Care,million users,Statista,0.18,0.233,0.291,0.362,0.43,0.493,0.558,0.617,0.679,0.741,0.802
+Cameroon,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.312,0.405,0.506,0.629,0.747,0.858,0.97,1.074,1.181,1.289,1.395
+Cameroon,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.39,0.506,0.633,0.786,0.934,1.072,1.213,1.342,1.476,1.611,1.744
+Cameroon,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,0.635,0.803,0.978,1.185,1.373,1.537,1.696,1.832,1.966,2.095,2.215
+Cameroon,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,1.271,1.606,1.956,2.369,2.745,3.073,3.392,3.663,3.933,4.189,4.429
+Cameroon,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,0.953,1.204,1.467,1.777,2.059,2.305,2.544,2.747,2.95,3.142,3.322
+Cameroon,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,1.271,1.606,1.956,2.369,2.745,3.073,3.392,3.663,3.933,4.189,4.429
+Cameroon,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,3.177,4.015,4.89,5.923,6.863,7.684,8.48,9.158,9.832,10.473,11.073
+Cameroon,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,0.635,0.803,0.978,1.185,1.373,1.537,1.696,1.832,1.966,2.095,2.215
+Cameroon,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,0.731,0.923,1.125,1.362,1.578,1.767,1.95,2.106,2.261,2.409,2.547
+Cameroon,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,1.271,1.606,1.956,2.369,2.745,3.073,3.392,3.663,3.933,4.189,4.429
+Cameroon,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,1.589,2.007,2.445,2.961,3.431,3.842,4.24,4.579,4.916,5.236,5.537
+Cameroon,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,9.34,7.669,6.459,5.73,5.841,7.527,13.28,19.41,22.91,23.33,24.31
+Cameroon,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,1.482,1.203,0.998,0.892,0.926,1.242,2.266,3.332,3.916,3.997,4.17
+Cameroon,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,1.602,1.315,1.103,1.006,1.081,1.479,2.685,3.933,4.634,4.733,4.941
+Cameroon,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,4.464,3.62,3.085,2.636,2.483,2.358,2.419,2.336,2.229,2.178,2.129
+Cameroon,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,5.896,4.836,4.051,3.542,3.575,4.729,8.759,13.14,15.61,15.9,16.6
+Cameroon,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,17.68,14.47,12.1,10.69,10.94,14.6,26.9,40.05,47.44,48.38,50.51
+Cameroon,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.193,0.159,0.137,0.113,0.107,0.108,0.113,0.11,0.105,0.104,0.102
+Cameroon,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,1.852,1.514,1.264,1.102,1.102,1.46,2.717,4.08,4.846,4.939,5.155
+Cameroon,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,0.302,0.333,0.366,0.462,0.551,0.629,0.836,1.085,1.415,1.423,1.484
+Cameroon,Household Care,Revenue,Total,million USD (US$),Statista,4.329,4.609,4.853,5.349,6.48,9.584,19.13,30.94,40.16,44.62,50.35
+Cameroon,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.288,0.304,0.315,0.35,0.431,0.664,1.371,2.231,2.884,3.211,3.627
+Cameroon,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.334,0.356,0.373,0.423,0.539,0.848,1.741,2.821,3.656,4.073,4.604
+Cameroon,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.476,0.5,0.533,0.566,0.634,0.691,0.801,0.856,0.899,0.958,1.014
+Cameroon,Household Care,Revenue,Laundry Care,million USD (US$),Statista,1.093,1.163,1.217,1.323,1.586,2.409,5.046,8.375,10.94,12.17,13.75
+Cameroon,Household Care,Revenue,Other Household Care,million USD (US$),Statista,1.802,1.913,2,2.195,2.671,4.091,8.523,14.05,18.3,20.36,23
+Cameroon,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.029,0.031,0.033,0.034,0.038,0.044,0.052,0.056,0.059,0.063,0.067
+Cameroon,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.258,0.273,0.285,0.309,0.367,0.558,1.174,1.951,2.549,2.834,3.203
+Cameroon,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.049,0.07,0.096,0.151,0.214,0.28,0.421,0.605,0.868,0.953,1.075
+Cameroon,Household Care,Revenue Change,Total,percent,Statista,,6.468,5.294,10.22,21.144,47.901,99.604,61.735,29.8,11.106,12.842
+Cameroon,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,5.234,3.755,10.984,23.37,54.023,106.383,62.728,29.269,11.338,12.955
+Cameroon,Household Care,Revenue Change,Household Cleaners,percent,Statista,,6.467,4.837,13.358,27.662,57.127,105.379,62.033,29.599,11.406,13.037
+Cameroon,Household Care,Revenue Change,Household Paper,percent,Statista,,5.191,6.513,6.171,11.961,8.979,16.058,6.837,4.952,6.587,5.857
+Cameroon,Household Care,Revenue Change,Laundry Care,percent,Statista,,6.404,4.643,8.71,19.879,51.892,109.465,65.973,30.627,11.243,12.983
+Cameroon,Household Care,Revenue Change,Other Household Care,percent,Statista,,6.16,4.548,9.75,21.686,53.164,108.335,64.848,30.249,11.257,12.967
+Cameroon,Household Care,Revenue Change,Paper Tissues,percent,Statista,,6.748,7.992,2.426,12.763,16.15,17.228,7.85,5.83,7.114,6.326
+Cameroon,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,6.019,4.359,8.319,18.892,52.031,110.47,66.184,30.651,11.181,13.02
+Cameroon,Household Care,Revenue Change,Toilet Paper,percent,Statista,,42.781,37.532,56.594,41.844,30.996,50.393,43.593,43.513,9.696,12.849
+Cameroon,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Cameroon,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Cameroon,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Cameroon,Household Care,Online & Offline Split,Offline,percent,Statista,98.944,98.923,98.912,98.84,98.664,98.045,96.509,94.664,93.404,,
+Cameroon,Household Care,Online & Offline Split,Online,percent,Statista,1.056,1.077,1.088,1.16,1.336,1.955,3.491,5.336,6.596,,
+Cameroon,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,76.015,71.429,68.121,63.968,59.475,54.987,50.477,46.477,42.883,,
+Cameroon,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,23.985,28.571,31.879,36.032,40.525,45.013,49.523,53.523,57.117,,
+Cameroon,Household Care,Users by Segment,Total,million users,Statista,0.463,0.601,0.751,0.934,1.109,1.273,1.44,1.594,1.753,1.913,2.071
+Cameroon,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.195,0.252,0.316,0.392,0.466,0.535,0.605,0.669,0.736,0.803,0.87
+Cameroon,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.209,0.27,0.338,0.42,0.499,0.573,0.648,0.717,0.789,0.861,0.932
+Cameroon,Household Care,Users by Segment,Household Paper,million users,Statista,0.107,0.138,0.173,0.215,0.255,0.293,0.331,0.367,0.403,0.44,0.476
+Cameroon,Household Care,Users by Segment,Laundry Care,million users,Statista,0.185,0.24,0.3,0.373,0.444,0.509,0.576,0.638,0.701,0.765,0.828
+Cameroon,Household Care,Users by Segment,Other Household Care,million users,Statista,0.102,0.132,0.165,0.205,0.244,0.28,0.317,0.351,0.386,0.421,0.455
+Cameroon,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.148,0.192,0.24,0.299,0.355,0.407,0.461,0.51,0.561,0.612,0.663
+Cameroon,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.139,0.18,0.225,0.28,0.333,0.382,0.432,0.478,0.526,0.574,0.621
+Cameroon,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.162,0.21,0.263,0.327,0.388,0.446,0.504,0.558,0.614,0.669,0.725
+Cameroon,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,0.792,1.001,1.219,1.477,1.711,1.916,2.115,2.284,2.452,2.612,2.761
+Cameroon,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,1.886,2.384,2.903,3.517,4.075,4.562,5.035,5.438,5.838,6.218,6.575
+Cameroon,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,0.849,1.073,1.306,1.582,1.834,2.053,2.266,2.447,2.627,2.798,2.959
+Cameroon,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.434,0.548,0.668,0.809,0.937,1.049,1.158,1.251,1.343,1.43,1.512
+Cameroon,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,0.755,0.953,1.161,1.407,1.63,1.825,2.014,2.175,2.335,2.487,2.63
+Cameroon,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.415,0.524,0.639,0.774,0.896,1.004,1.108,1.196,1.284,1.368,1.446
+Cameroon,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,0.604,0.763,0.929,1.125,1.304,1.46,1.611,1.74,1.868,1.99,2.104
+Cameroon,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,0.566,0.715,0.871,1.055,1.222,1.369,1.51,1.631,1.751,1.865,1.972
+Cameroon,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,0.66,0.834,1.016,1.231,1.426,1.597,1.762,1.903,2.043,2.176,2.301
+Cameroon,Food,Revenue,Total,million USD (US$),Statista,3.423,4.896,6.68,11.34,17.72,22.3,31.79,42.94,57.68,63.68,71.58
+Cameroon,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,0.322,0.46,0.627,1.234,2.08,2.596,3.654,4.863,6.424,7.115,7.995
+Cameroon,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,0.855,1.226,1.676,2.987,4.771,6.034,8.64,11.65,15.6,17.24,19.38
+Cameroon,Food,Revenue,Convenience Food,million USD (US$),Statista,0.174,0.245,0.329,0.535,0.831,1.048,1.494,2.015,2.695,2.975,3.342
+Cameroon,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,0.241,0.35,0.485,0.778,1.19,1.519,2.202,3.032,4.151,4.575,5.149
+Cameroon,Food,Revenue,Fish & Seafood,million USD (US$),Statista,0.245,0.349,0.473,0.774,1.18,1.477,2.098,2.829,3.792,4.184,4.699
+Cameroon,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,0.309,0.444,0.607,1.006,1.546,1.949,2.785,3.777,5.092,5.618,6.315
+Cameroon,Food,Revenue,Meat,million USD (US$),Statista,0.591,0.845,1.153,1.905,2.922,3.674,5.241,7.093,9.544,10.53,11.83
+Cameroon,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.209,0.287,0.377,0.57,0.821,0.986,1.343,1.73,2.211,2.44,2.724
+Cameroon,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.035,0.053,0.077,0.115,0.184,0.247,0.384,0.582,0.92,1.002,1.138
+Cameroon,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.066,0.099,0.142,0.218,0.331,0.418,0.598,0.827,1.14,1.254,1.412
+Cameroon,Food,Revenue,Vegetables,million USD (US$),Statista,0.376,0.538,0.735,1.216,1.866,2.349,3.353,4.543,6.117,6.749,7.585
+Cameroon,Food,Revenue Change,Total,percent,Statista,,43.032,36.438,69.76,56.261,25.847,42.556,35.074,34.327,10.402,12.406
+Cameroon,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,43.021,36.296,96.779,68.558,24.808,40.755,33.087,32.1,10.757,12.368
+Cameroon,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,43.392,36.705,78.222,59.725,26.472,43.189,34.838,33.906,10.513,12.413
+Cameroon,Food,Revenue Change,Convenience Food,percent,Statista,,40.688,34.175,62.356,55.46,26.052,42.557,34.873,33.747,10.39,12.336
+Cameroon,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,45.349,38.571,60.515,52.858,27.647,44.964,37.693,36.906,10.214,12.546
+Cameroon,Food,Revenue Change,Fish & Seafood,percent,Statista,,42.46,35.657,63.734,52.396,25.169,42.045,34.843,34.04,10.338,12.309
+Cameroon,Food,Revenue Change,Fruits & Nuts,percent,Statista,,43.518,36.81,65.651,53.678,26.067,42.894,35.619,34.816,10.33,12.407
+Cameroon,Food,Revenue Change,Meat,percent,Statista,,42.91,36.514,65.221,53.386,25.736,42.651,35.337,34.555,10.331,12.346
+Cameroon,Food,Revenue Change,Oils & Fats,percent,Statista,,37.71,31.141,51.234,44.07,20.117,36.152,28.816,27.803,10.357,11.639
+Cameroon,Food,Revenue Change,Sauces & Spices,percent,Statista,,51.484,44.781,50.033,59.67,34.383,55.295,51.588,58.019,8.878,13.573
+Cameroon,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,50.045,42.684,54.237,51.557,26.254,42.977,38.393,37.864,10,12.6
+Cameroon,Food,Revenue Change,Vegetables,percent,Statista,,43.214,36.529,65.487,53.454,25.884,42.742,35.491,34.647,10.332,12.387
+Cameroon,Food,Average Revenue per User,Total,USD (US$),Statista,6.241,6.51,6.649,8.793,10.9,11.17,13.47,15.97,19.04,19.06,19.57
+Cameroon,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,1.248,1.302,1.328,2.036,2.722,2.768,3.294,3.849,4.511,4.531,4.65
+Cameroon,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,3.182,3.326,3.404,4.727,5.99,6.171,7.47,8.844,10.51,10.53,10.81
+Cameroon,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,0.568,0.583,0.586,0.741,0.913,0.938,1.131,1.339,1.588,1.59,1.632
+Cameroon,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,1.909,2.024,2.099,2.625,3.182,3.309,4.056,4.903,5.957,5.953,6.12
+Cameroon,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,2.349,2.44,2.478,3.16,3.82,3.895,4.679,5.538,6.588,6.59,6.761
+Cameroon,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,1.085,1.135,1.162,1.5,1.83,1.878,2.269,2.702,3.232,3.233,3.32
+Cameroon,Food,Average Revenue per User,Meat,USD (US$),Statista,3.592,3.744,3.825,4.924,5.992,6.137,7.402,8.794,10.5,10.51,10.78
+Cameroon,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,1.522,1.529,1.501,1.768,2.021,1.977,2.275,2.574,2.919,2.921,2.979
+Cameroon,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.145,0.16,0.174,0.203,0.257,0.282,0.37,0.492,0.69,0.682,0.707
+Cameroon,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.365,0.4,0.427,0.513,0.617,0.634,0.767,0.932,1.14,1.138,1.17
+Cameroon,Food,Average Revenue per User,Vegetables,USD (US$),Statista,1.399,1.46,1.493,1.924,2.343,2.402,2.9,3.448,4.12,4.122,4.232
+Cameroon,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Food,Online & Offline Split,Offline,percent,Statista,99.965,99.953,99.939,99.904,99.856,99.818,99.768,99.706,99.626,,
+Cameroon,Food,Online & Offline Split,Online,percent,Statista,0.035,0.047,0.061,0.096,0.144,0.182,0.232,0.294,0.374,,
+Cameroon,Food,Mobile/Desktop Split,Desktop,percent,Statista,69.685,67.815,65.919,64.815,63.319,61.597,59.906,58.394,57.092,,
+Cameroon,Food,Mobile/Desktop Split,Mobile,percent,Statista,30.315,32.185,34.081,35.185,36.681,38.403,40.094,41.606,42.908,,
+Cameroon,Food,Users,Total,million users,Statista,0.548,0.752,1.005,1.29,1.625,1.996,2.36,2.689,3.03,3.341,3.658
+Cameroon,Food,Users,Bread & Cereal Products,million users,Statista,0.258,0.353,0.472,0.606,0.764,0.938,1.109,1.264,1.424,1.57,1.719
+Cameroon,Food,Users,Confectionery & Snacks,million users,Statista,0.269,0.369,0.492,0.632,0.796,0.978,1.157,1.317,1.485,1.637,1.792
+Cameroon,Food,Users,Convenience Food,million users,Statista,0.307,0.421,0.563,0.722,0.91,1.118,1.322,1.506,1.697,1.871,2.048
+Cameroon,Food,Users,Dairy Products & Eggs,million users,Statista,0.126,0.173,0.231,0.297,0.374,0.459,0.543,0.618,0.697,0.769,0.841
+Cameroon,Food,Users,Fish & Seafood,million users,Statista,0.104,0.143,0.191,0.245,0.309,0.379,0.448,0.511,0.576,0.635,0.695
+Cameroon,Food,Users,Fruits & Nuts,million users,Statista,0.285,0.391,0.522,0.671,0.845,1.038,1.227,1.398,1.576,1.737,1.902
+Cameroon,Food,Users,Meat,million users,Statista,0.165,0.226,0.301,0.387,0.488,0.599,0.708,0.807,0.909,1.002,1.097
+Cameroon,Food,Users,Oils & Fats,million users,Statista,0.137,0.188,0.251,0.322,0.406,0.499,0.59,0.672,0.757,0.835,0.915
+Cameroon,Food,Users,Sauces & Spices,million users,Statista,0.241,0.331,0.442,0.567,0.715,0.878,1.039,1.183,1.333,1.47,1.609
+Cameroon,Food,Users,Spreads & Sweeteners,million users,Statista,0.181,0.248,0.332,0.426,0.536,0.659,0.779,0.887,1,1.103,1.207
+Cameroon,Food,Users,Vegetables,million users,Statista,0.269,0.369,0.492,0.632,0.796,0.978,1.157,1.317,1.485,1.637,1.792
+Cameroon,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.049,1.402,1.825,2.283,2.806,3.36,3.878,4.311,4.742,5.105,5.458
+Cameroon,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.094,1.461,1.903,2.381,2.926,3.503,4.043,4.494,4.943,5.323,5.69
+Cameroon,Food,Penetration Rate,Convenience Food,percent,Statista,1.25,1.67,2.174,2.721,3.344,4.004,4.62,5.136,5.65,6.083,6.503
+Cameroon,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.513,0.686,0.893,1.117,1.373,1.644,1.898,2.109,2.32,2.499,2.671
+Cameroon,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.424,0.567,0.738,0.923,1.134,1.358,1.568,1.743,1.917,2.064,2.207
+Cameroon,Food,Penetration Rate,Food,percent,Statista,2.232,2.983,3.883,4.858,5.971,7.15,8.25,9.171,10.089,10.862,11.613
+Cameroon,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.161,1.551,2.019,2.526,3.105,3.718,4.29,4.769,5.246,5.648,6.039
+Cameroon,Food,Penetration Rate,Meat,percent,Statista,0.67,0.895,1.165,1.458,1.791,2.145,2.475,2.751,3.027,3.259,3.484
+Cameroon,Food,Penetration Rate,Oils & Fats,percent,Statista,0.558,0.746,0.971,1.215,1.493,1.787,2.063,2.293,2.522,2.716,2.904
+Cameroon,Food,Penetration Rate,Sauces & Spices,percent,Statista,0.982,1.312,1.708,2.138,2.627,3.146,3.63,4.035,4.439,4.779,5.11
+Cameroon,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,0.737,0.984,1.281,1.603,1.97,2.359,2.723,3.027,3.329,3.585,3.833
+Cameroon,Food,Penetration Rate,Vegetables,percent,Statista,1.094,1.461,1.903,2.381,2.926,3.503,4.043,4.494,4.943,5.323,5.69
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,1.248,1.302,1.328,2.036,2.722,2.768,3.294,3.849,4.511,4.531,4.65
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,0.87,0.909,0.928,1.439,1.933,1.969,2.345,2.74,3.209,3.223,3.308
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.049,0.051,0.052,0.067,0.081,0.083,0.1,0.119,0.142,0.142,0.145
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,0.968,1.022,1.056,1.632,2.21,2.267,2.723,3.214,3.811,3.825,3.931
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.149,0.149,0.145,0.215,0.276,0.269,0.305,0.339,0.377,0.38,0.387
+Cameroon,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.1,0.104,0.105,0.163,0.218,0.221,0.263,0.306,0.357,0.359,0.368
+Cameroon,Bread & Cereal Products,Revenue,Total,thousand USD (US$),Statista,321.7,460.1,627.1,"1,234","2,080","2,596","3,654","4,863","6,424","7,115","7,995"
+Cameroon,Bread & Cereal Products,Revenue,Bread,thousand USD (US$),Statista,141.3,202.4,276.1,549.7,930.4,"1,164","1,639","2,182","2,879","3,189","3,584"
+Cameroon,Bread & Cereal Products,Revenue,Breakfast Cereals,thousand USD (US$),Statista,10.55,15.04,20.43,33.7,51.47,64.67,92.17,124.6,167.4,184.8,207.6
+Cameroon,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,thousand USD (US$),Statista,112.3,162.6,224.5,445.1,759.7,956.7,"1,359","1,828","2,442","2,703","3,041"
+Cameroon,Bread & Cereal Products,Revenue,Pasta,thousand USD (US$),Statista,34.66,47.43,61.82,117.6,190.1,226.8,304.5,385.7,483.5,536.6,599.3
+Cameroon,Bread & Cereal Products,Revenue,Rice,thousand USD (US$),Statista,22.88,32.62,44.3,87.81,148.2,184.7,259.2,344,452.5,501.4,563.2
+Cameroon,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,43.021,36.296,96.779,68.558,24.808,40.755,33.087,32.1,10.757,12.368
+Cameroon,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,43.241,36.413,99.095,69.256,25.107,40.808,33.13,31.943,10.768,12.386
+Cameroon,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,42.559,35.838,64.953,52.73,25.646,42.524,35.185,34.35,10.394,12.338
+Cameroon,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,44.791,38.069,98.263,70.681,25.931,42.051,34.511,33.589,10.688,12.505
+Cameroon,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,36.844,30.339,90.23,61.65,19.306,34.259,26.667,25.356,10.982,11.685
+Cameroon,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,42.57,35.806,98.217,68.773,24.629,40.336,32.716,31.541,10.807,12.325
+Cameroon,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Cameroon,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Cameroon,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.948,99.93,99.908,99.833,99.73,99.657,99.568,99.457,99.316,,
+Cameroon,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.052,0.07,0.092,0.167,0.27,0.343,0.432,0.543,0.684,,
+Cameroon,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,90.33,87.1,83.541,79.655,75.798,72.091,68.517,65.225,62.229,,
+Cameroon,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,9.67,12.9,16.459,20.345,24.202,27.909,31.483,34.775,37.771,,
+Cameroon,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.258,0.353,0.472,0.606,0.764,0.938,1.109,1.264,1.424,1.57,1.719
+Cameroon,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.162,0.223,0.297,0.382,0.481,0.591,0.699,0.796,0.897,0.989,1.083
+Cameroon,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.214,0.293,0.392,0.503,0.634,0.779,0.921,1.049,1.182,1.303,1.427
+Cameroon,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.116,0.159,0.212,0.273,0.344,0.422,0.499,0.569,0.641,0.707,0.774
+Cameroon,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.232,0.318,0.425,0.546,0.688,0.844,0.998,1.137,1.282,1.413,1.547
+Cameroon,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.229,0.315,0.42,0.539,0.68,0.835,0.987,1.125,1.267,1.398,1.53
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,0.661,0.883,1.15,1.439,1.768,2.117,2.443,2.716,2.987,3.217,3.439
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.049,1.402,1.825,2.283,2.806,3.36,3.878,4.311,4.742,5.105,5.458
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,0.871,1.163,1.515,1.895,2.329,2.789,3.219,3.578,3.936,4.237,4.53
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.472,0.631,0.821,1.028,1.263,1.512,1.745,1.94,2.134,2.298,2.456
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,0.944,1.262,1.642,2.055,2.526,3.024,3.49,3.879,4.268,4.595,4.912
+Cameroon,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,0.934,1.248,1.624,2.032,2.498,2.991,3.451,3.836,4.22,4.544,4.858
+Cameroon,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,3.182,3.326,3.404,4.727,5.99,6.171,7.47,8.844,10.51,10.53,10.81
+Cameroon,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,3.088,3.231,3.312,4.62,5.872,6.05,7.327,8.688,10.33,10.36,10.64
+Cameroon,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.087,0.091,0.093,0.129,0.163,0.168,0.204,0.241,0.286,0.287,0.295
+Cameroon,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,0.647,0.673,0.685,0.933,1.167,1.201,1.452,1.707,2.015,2.02,2.073
+Cameroon,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,0.855,1.226,1.676,2.987,4.771,6.034,8.64,11.65,15.6,17.24,19.38
+Cameroon,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,0.68,0.976,1.337,2.394,3.835,4.851,6.949,9.385,12.58,13.91,15.64
+Cameroon,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.013,0.018,0.025,0.045,0.072,0.09,0.13,0.175,0.234,0.259,0.291
+Cameroon,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,0.162,0.231,0.314,0.548,0.865,1.093,1.562,2.091,2.782,3.075,3.455
+Cameroon,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,43.392,36.705,78.222,59.725,26.472,43.189,34.838,33.906,10.513,12.413
+Cameroon,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,43.504,36.932,79.058,60.192,26.493,43.249,35.055,34.044,10.572,12.437
+Cameroon,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,43.37,36.725,78.273,59.688,26.475,43.236,34.799,33.887,10.56,12.413
+Cameroon,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,42.583,35.891,74.96,57.648,26.402,42.909,33.867,33.046,10.532,12.358
+Cameroon,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Cameroon,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Cameroon,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.965,99.955,99.941,99.904,99.854,99.816,99.767,99.708,99.632,,
+Cameroon,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.035,0.045,0.059,0.096,0.146,0.184,0.233,0.292,0.368,,
+Cameroon,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,90.392,87.183,83.647,79.786,75.955,72.272,68.722,65.452,62.475,,
+Cameroon,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,9.608,12.817,16.353,20.214,24.045,27.728,31.278,34.548,37.525,,
+Cameroon,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.269,0.369,0.492,0.632,0.796,0.978,1.157,1.317,1.485,1.637,1.792
+Cameroon,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.22,0.302,0.404,0.518,0.653,0.802,0.948,1.08,1.217,1.342,1.47
+Cameroon,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.148,0.203,0.271,0.348,0.438,0.538,0.636,0.725,0.817,0.9,0.986
+Cameroon,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.25,0.343,0.458,0.588,0.741,0.909,1.076,1.225,1.381,1.523,1.667
+Cameroon,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,0.897,1.198,1.56,1.952,2.399,2.873,3.315,3.685,4.054,4.365,4.666
+Cameroon,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.094,1.461,1.903,2.381,2.926,3.503,4.043,4.494,4.943,5.323,5.69
+Cameroon,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,0.602,0.804,1.046,1.309,1.609,1.927,2.224,2.472,2.719,2.928,3.13
+Cameroon,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.017,1.359,1.769,2.214,2.721,3.258,3.76,4.179,4.597,4.95,5.292
+Cameroon,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,0.568,0.583,0.586,0.741,0.913,0.938,1.131,1.339,1.588,1.59,1.632
+Cameroon,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,0.795,0.816,0.82,1.038,1.282,1.318,1.59,1.885,2.239,2.241,2.3
+Cameroon,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.033,0.033,0.033,0.04,0.048,0.048,0.056,0.064,0.073,0.073,0.075
+Cameroon,Convenience Food,Revenue,Total,thousand USD (US$),Statista,174.5,245.5,329.4,534.8,831.4,"1,048","1,494","2,015","2,695","2,975","3,342"
+Cameroon,Convenience Food,Revenue,Ready-to-Eat Meals,thousand USD (US$),Statista,168.4,237.1,318.4,517.3,805,"1,016","1,450","1,958","2,621","2,893","3,250"
+Cameroon,Convenience Food,Revenue,Soups,thousand USD (US$),Statista,6.082,8.389,11.03,17.49,26.4,32.08,44.09,57.38,74.13,81.89,91.6
+Cameroon,Convenience Food,Revenue Change,Total,percent,Statista,,40.688,34.175,62.356,55.46,26.052,42.557,34.873,33.747,10.39,12.336
+Cameroon,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,40.796,34.289,62.469,55.616,26.211,42.717,35.034,33.861,10.378,12.34
+Cameroon,Convenience Food,Revenue Change,Soups,percent,Statista,,37.932,31.482,58.568,50.943,21.515,37.438,30.143,29.191,10.468,11.857
+Cameroon,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.943,99.911,99.869,99.833,99.788,99.732,99.659,,
+Cameroon,Convenience Food,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.057,0.089,0.131,0.167,0.212,0.268,0.341,,
+Cameroon,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,57.44,57.999,58.332,58.405,58.224,57.825,57.267,56.618,55.939,,
+Cameroon,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,42.56,42.001,41.668,41.595,41.776,42.175,42.733,43.382,44.061,,
+Cameroon,Convenience Food,Users by Segment,Total,million users,Statista,0.307,0.421,0.563,0.722,0.91,1.118,1.322,1.506,1.697,1.871,2.048
+Cameroon,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.212,0.291,0.388,0.498,0.628,0.771,0.912,1.039,1.171,1.291,1.413
+Cameroon,Convenience Food,Users by Segment,Soups,million users,Statista,0.184,0.253,0.338,0.433,0.546,0.671,0.793,0.903,1.018,1.123,1.229
+Cameroon,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,1.25,1.67,2.174,2.721,3.344,4.004,4.62,5.136,5.65,6.083,6.503
+Cameroon,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,0.863,1.152,1.5,1.877,2.307,2.763,3.188,3.544,3.898,4.197,4.487
+Cameroon,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,0.75,1.002,1.305,1.632,2.006,2.402,2.772,3.082,3.39,3.65,3.902
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,1.909,2.024,2.099,2.625,3.182,3.309,4.056,4.903,5.957,5.953,6.12
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,0.152,0.159,0.164,0.203,0.245,0.254,0.31,0.374,0.453,0.452,0.465
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,0.565,0.59,0.602,0.743,0.886,0.909,1.099,1.309,1.567,1.566,1.608
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,0.159,0.169,0.175,0.218,0.264,0.274,0.336,0.406,0.493,0.493,0.507
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,3.869,4.12,4.291,5.384,6.553,6.832,8.398,10.18,12.4,12.39,12.74
+Cameroon,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,0.135,0.141,0.144,0.178,0.215,0.223,0.272,0.329,0.399,0.398,0.409
+Cameroon,Dairy Products & Eggs,Revenue,Total,thousand USD (US$),Statista,240.8,350,485,778.5,"1,190","1,519","2,202","3,032","4,151","4,575","5,149"
+Cameroon,Dairy Products & Eggs,Revenue,Cheese,thousand USD (US$),Statista,14.37,20.66,28.34,45.23,68.69,87.38,126.3,173.3,236.5,260.7,293.3
+Cameroon,Dairy Products & Eggs,Revenue,Eggs,thousand USD (US$),Statista,30.65,43.85,59.82,94.71,142.5,179.4,256.4,348,469.5,517.6,581.6
+Cameroon,Dairy Products & Eggs,Revenue,Milk,thousand USD (US$),Statista,15.66,22.74,31.47,50.48,76.93,98.16,142.3,195.8,268,295.4,332.5
+Cameroon,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,thousand USD (US$),Statista,170.8,249.4,347,559,857.5,"1,098","1,596","2,203","3,024","3,333","3,752"
+Cameroon,Dairy Products & Eggs,Revenue,Yogurt,thousand USD (US$),Statista,9.351,13.38,18.29,29.12,44.12,56.18,81.3,111.7,152.8,168.3,189.4
+Cameroon,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,45.349,38.571,60.515,52.858,27.647,44.964,37.693,36.906,10.214,12.546
+Cameroon,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,43.772,37.173,59.598,51.868,27.209,44.541,37.213,36.469,10.233,12.505
+Cameroon,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,43.067,36.42,58.325,50.459,25.895,42.921,35.725,34.914,10.245,12.365
+Cameroon,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,45.211,38.391,60.407,52.397,27.597,44.967,37.597,36.874,10.224,12.559
+Cameroon,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,46.019,39.134,61.095,53.399,28.047,45.355,38.033,37.267,10.218,12.571
+Cameroon,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,43.086,36.697,59.213,51.511,27.335,44.713,37.392,36.795,10.144,12.537
+Cameroon,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Cameroon,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Cameroon,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.94,99.913,99.874,99.839,99.795,99.737,99.662,,
+Cameroon,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.06,0.087,0.126,0.161,0.205,0.263,0.338,,
+Cameroon,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,57.44,57.999,58.332,58.405,58.224,57.825,57.267,56.618,55.939,,
+Cameroon,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,42.56,42.001,41.668,41.595,41.776,42.175,42.733,43.382,44.061,,
+Cameroon,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.126,0.173,0.231,0.297,0.374,0.459,0.543,0.618,0.697,0.769,0.841
+Cameroon,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.095,0.13,0.173,0.222,0.28,0.344,0.407,0.464,0.523,0.576,0.631
+Cameroon,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.054,0.074,0.099,0.128,0.161,0.197,0.233,0.266,0.3,0.33,0.362
+Cameroon,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.098,0.135,0.18,0.231,0.292,0.358,0.423,0.482,0.544,0.599,0.656
+Cameroon,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.044,0.061,0.081,0.104,0.131,0.161,0.19,0.216,0.244,0.269,0.294
+Cameroon,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.069,0.095,0.127,0.163,0.206,0.252,0.299,0.34,0.383,0.423,0.463
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.385,0.514,0.67,0.838,1.03,1.233,1.423,1.582,1.74,1.874,2.003
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.513,0.686,0.893,1.117,1.373,1.644,1.898,2.109,2.32,2.499,2.671
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.221,0.295,0.384,0.48,0.591,0.707,0.816,0.907,0.998,1.074,1.149
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.4,0.535,0.697,0.872,1.071,1.283,1.48,1.645,1.81,1.949,2.084
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.18,0.24,0.313,0.391,0.481,0.576,0.664,0.738,0.812,0.875,0.935
+Cameroon,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.282,0.377,0.491,0.615,0.755,0.904,1.044,1.16,1.276,1.374,1.469
+Cameroon,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,2.349,2.44,2.478,3.16,3.82,3.895,4.679,5.538,6.588,6.59,6.761
+Cameroon,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,3.417,3.463,3.438,4.288,5.077,5.031,5.879,6.78,7.869,7.874,8.053
+Cameroon,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,1.605,1.725,1.805,2.357,2.924,3.094,3.842,4.687,5.729,5.729,5.897
+Cameroon,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,0.701,0.75,0.782,1.024,1.264,1.323,1.626,1.965,2.382,2.383,2.451
+Cameroon,Fish & Seafood,Revenue,Total,million USD (US$),Statista,0.245,0.349,0.473,0.774,1.18,1.477,2.098,2.829,3.792,4.184,4.699
+Cameroon,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,0.139,0.193,0.256,0.41,0.612,0.744,1.028,1.351,1.767,1.95,2.183
+Cameroon,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.04,0.059,0.083,0.139,0.217,0.282,0.414,0.575,0.791,0.873,0.984
+Cameroon,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.066,0.096,0.134,0.226,0.351,0.451,0.656,0.903,1.234,1.361,1.533
+Cameroon,Fish & Seafood,Revenue Change,Total,percent,Statista,,42.46,35.657,63.734,52.396,25.169,42.045,34.843,34.04,10.338,12.309
+Cameroon,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,39.049,32.591,60.141,49.219,21.652,38.191,31.42,30.792,10.357,11.949
+Cameroon,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,47.409,39.75,67.614,56.421,29.889,46.875,38.926,37.748,10.284,12.682
+Cameroon,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,46.767,39.214,68.131,55.624,28.458,45.414,37.645,36.58,10.292,12.638
+Cameroon,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.941,99.912,99.871,99.837,99.794,99.739,99.668,,
+Cameroon,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.059,0.088,0.129,0.163,0.206,0.261,0.332,,
+Cameroon,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,57.44,57.999,58.332,58.405,58.224,57.825,57.267,56.618,55.939,,
+Cameroon,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,42.56,42.001,41.668,41.595,41.776,42.175,42.733,43.382,44.061,,
+Cameroon,Fish & Seafood,Users by Segment,Total,million users,Statista,0.104,0.143,0.191,0.245,0.309,0.379,0.448,0.511,0.576,0.635,0.695
+Cameroon,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.041,0.056,0.074,0.096,0.12,0.148,0.175,0.199,0.225,0.248,0.271
+Cameroon,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.025,0.034,0.046,0.059,0.074,0.091,0.108,0.123,0.138,0.152,0.167
+Cameroon,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.094,0.129,0.172,0.221,0.278,0.341,0.404,0.46,0.518,0.571,0.626
+Cameroon,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.424,0.567,0.738,0.923,1.134,1.358,1.568,1.743,1.917,2.064,2.207
+Cameroon,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.165,0.221,0.288,0.36,0.442,0.53,0.611,0.68,0.748,0.805,0.861
+Cameroon,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.102,0.136,0.177,0.222,0.272,0.326,0.376,0.418,0.46,0.495,0.53
+Cameroon,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.382,0.51,0.664,0.831,1.021,1.223,1.411,1.568,1.725,1.858,1.986
+Cameroon,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,1.085,1.135,1.162,1.5,1.83,1.878,2.269,2.702,3.232,3.233,3.32
+Cameroon,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,1.373,1.44,1.478,1.91,2.333,2.398,2.901,3.457,4.14,4.142,4.253
+Cameroon,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.106,0.111,0.114,0.147,0.179,0.184,0.223,0.266,0.319,0.319,0.328
+Cameroon,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.14,0.143,0.142,0.179,0.213,0.215,0.255,0.297,0.349,0.349,0.357
+Cameroon,Fruits & Nuts,Revenue,Total,thousand USD (US$),Statista,309.3,443.9,607.3,"1,006","1,546","1,949","2,785","3,777","5,092","5,618","6,315"
+Cameroon,Fruits & Nuts,Revenue,Fresh Fruits,thousand USD (US$),Statista,274.1,394.3,540.5,896.9,"1,381","1,742","2,492","3,383","4,566","5,037","5,663"
+Cameroon,Fruits & Nuts,Revenue,Nuts,thousand USD (US$),Statista,15.13,21.72,29.73,49.32,75.71,95.59,136.9,186.1,251.4,277.4,311.9
+Cameroon,Fruits & Nuts,Revenue,Processed & Frozen Fruits,thousand USD (US$),Statista,20.02,27.91,37.13,60.09,90.11,111.4,156.2,207.7,274.6,303.1,339.9
+Cameroon,Fruits & Nuts,Revenue Change,Total,percent,Statista,,43.518,36.81,65.651,53.678,26.067,42.894,35.619,34.816,10.33,12.407
+Cameroon,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,43.853,37.078,65.939,53.975,26.14,43.054,35.754,34.969,10.315,12.428
+Cameroon,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,43.556,36.878,65.893,53.508,26.258,43.216,35.939,35.089,10.342,12.437
+Cameroon,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,39.411,33.035,61.837,49.958,23.627,40.215,32.971,32.21,10.379,12.141
+Cameroon,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.941,99.91,99.867,99.832,99.786,99.728,99.653,,
+Cameroon,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.059,0.09,0.133,0.168,0.214,0.272,0.347,,
+Cameroon,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Cameroon,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Cameroon,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.285,0.391,0.522,0.671,0.845,1.038,1.227,1.398,1.576,1.737,1.902
+Cameroon,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.2,0.274,0.366,0.469,0.592,0.726,0.859,0.979,1.103,1.216,1.331
+Cameroon,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.143,0.196,0.261,0.335,0.423,0.519,0.614,0.699,0.788,0.869,0.951
+Cameroon,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.143,0.196,0.261,0.335,0.423,0.519,0.614,0.699,0.788,0.869,0.951
+Cameroon,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,0.813,1.086,1.413,1.768,2.173,2.603,3.003,3.338,3.672,3.954,4.227
+Cameroon,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.161,1.551,2.019,2.526,3.105,3.718,4.29,4.769,5.246,5.648,6.039
+Cameroon,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.58,0.775,1.009,1.263,1.552,1.859,2.145,2.385,2.623,2.824,3.02
+Cameroon,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.58,0.775,1.009,1.263,1.552,1.859,2.145,2.385,2.623,2.824,3.02
+Cameroon,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,3.592,3.744,3.825,4.924,5.992,6.137,7.402,8.794,10.5,10.51,10.78
+Cameroon,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,3.694,3.855,3.939,5.087,6.198,6.375,7.721,9.211,11.04,11.04,11.34
+Cameroon,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,1.199,1.245,1.273,1.626,1.972,1.999,2.385,2.803,3.313,3.316,3.4
+Cameroon,Meat,Revenue,Total,million USD (US$),Statista,0.591,0.845,1.153,1.905,2.922,3.674,5.241,7.093,9.544,10.53,11.83
+Cameroon,Meat,Revenue,Fresh Meat,million USD (US$),Statista,0.419,0.6,0.819,1.358,2.085,2.633,3.772,5.126,6.925,7.639,8.588
+Cameroon,Meat,Revenue,Processed Meat,million USD (US$),Statista,0.172,0.244,0.334,0.547,0.837,1.041,1.469,1.967,2.62,2.892,3.246
+Cameroon,Meat,Revenue Change,Total,percent,Statista,,42.91,36.514,65.221,53.386,25.736,42.651,35.337,34.555,10.331,12.346
+Cameroon,Meat,Revenue Change,Fresh Meat,percent,Statista,,43.143,36.488,65.771,53.535,26.283,43.259,35.896,35.096,10.31,12.423
+Cameroon,Meat,Revenue Change,Processed Meat,percent,Statista,,42.4,36.483,63.98,52.924,24.402,41.114,33.901,33.198,10.382,12.241
+Cameroon,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Cameroon,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Cameroon,Meat,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.941,99.91,99.868,99.832,99.786,99.728,99.653,,
+Cameroon,Meat,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.059,0.09,0.132,0.168,0.214,0.272,0.347,,
+Cameroon,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Cameroon,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Cameroon,Meat,Users by Segment,Total,million users,Statista,0.165,0.226,0.301,0.387,0.488,0.599,0.708,0.807,0.909,1.002,1.097
+Cameroon,Meat,Users by Segment,Fresh Meat,million users,Statista,0.114,0.156,0.208,0.267,0.336,0.413,0.489,0.557,0.627,0.692,0.757
+Cameroon,Meat,Users by Segment,Processed Meat,million users,Statista,0.143,0.196,0.262,0.337,0.424,0.521,0.616,0.702,0.791,0.872,0.955
+Cameroon,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.462,0.617,0.804,1.006,1.236,1.48,1.708,1.898,2.088,2.249,2.404
+Cameroon,Meat,Penetration Rate by Segment,Meat,percent,Statista,0.67,0.895,1.165,1.458,1.791,2.145,2.475,2.751,3.027,3.259,3.484
+Cameroon,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.583,0.778,1.013,1.268,1.558,1.866,2.153,2.394,2.633,2.835,3.031
+Cameroon,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,1.522,1.529,1.501,1.768,2.021,1.977,2.275,2.574,2.919,2.921,2.979
+Cameroon,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.075,0.076,0.076,0.091,0.105,0.104,0.121,0.139,0.159,0.159,0.162
+Cameroon,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,0.827,0.84,0.832,0.988,1.135,1.112,1.28,1.449,1.643,1.645,1.678
+Cameroon,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.366,0.368,0.362,0.426,0.486,0.472,0.539,0.606,0.681,0.682,0.695
+Cameroon,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,0.846,0.835,0.807,0.94,1.066,1.044,1.204,1.367,1.554,1.554,1.585
+Cameroon,Oils & Fats,Revenue,Total,thousand USD (US$),Statista,208.7,287.4,376.9,570,821.2,986.4,"1,343","1,730","2,211","2,440","2,724"
+Cameroon,Oils & Fats,Revenue,Butter,thousand USD (US$),Statista,8.178,11.48,15.3,23.5,34.31,41.65,57.26,74.5,96.1,106.1,118.6
+Cameroon,Oils & Fats,Revenue,Edible Oils,thousand USD (US$),Statista,90.73,126.4,167.2,254.8,369,443.7,604.3,779.1,995.7,"1,099","1,227"
+Cameroon,Oils & Fats,Revenue,Margarine,thousand USD (US$),Statista,40.14,55.42,72.76,109.9,158,188.5,254.6,325.6,412.8,455.8,508.4
+Cameroon,Oils & Fats,Revenue,Other Oils & Fats,thousand USD (US$),Statista,69.61,94.16,121.6,181.8,259.9,312.6,426.4,551.1,706.5,779.1,869.7
+Cameroon,Oils & Fats,Revenue Change,Total,percent,Statista,,37.71,31.141,51.234,44.07,20.117,36.152,28.816,27.803,10.357,11.639
+Cameroon,Oils & Fats,Revenue Change,Butter,percent,Statista,,40.377,33.275,53.595,46,21.393,37.479,30.108,28.993,10.406,11.781
+Cameroon,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,39.314,32.278,52.392,44.819,20.244,36.196,28.926,27.801,10.375,11.647
+Cameroon,Oils & Fats,Revenue Change,Margarine,percent,Statista,,38.067,31.288,51.045,43.767,19.304,35.066,27.887,26.781,10.417,11.54
+Cameroon,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,35.268,29.142,49.507,42.959,20.277,36.404,29.245,28.198,10.276,11.629
+Cameroon,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.94,99.913,99.873,99.838,99.793,99.734,99.657,,
+Cameroon,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.06,0.087,0.127,0.162,0.207,0.266,0.343,,
+Cameroon,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Cameroon,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Cameroon,Oils & Fats,Users by Segment,Total,million users,Statista,0.137,0.188,0.251,0.322,0.406,0.499,0.59,0.672,0.757,0.835,0.915
+Cameroon,Oils & Fats,Users by Segment,Butter,million users,Statista,0.11,0.15,0.201,0.258,0.325,0.399,0.472,0.538,0.606,0.668,0.732
+Cameroon,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.11,0.15,0.201,0.258,0.325,0.399,0.472,0.538,0.606,0.668,0.732
+Cameroon,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.11,0.15,0.201,0.258,0.325,0.399,0.472,0.538,0.606,0.668,0.732
+Cameroon,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.082,0.113,0.151,0.193,0.244,0.299,0.354,0.403,0.454,0.501,0.549
+Cameroon,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.446,0.597,0.777,0.972,1.194,1.43,1.65,1.834,2.018,2.173,2.323
+Cameroon,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.446,0.597,0.777,0.972,1.194,1.43,1.65,1.834,2.018,2.173,2.323
+Cameroon,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.446,0.597,0.777,0.972,1.194,1.43,1.65,1.834,2.018,2.173,2.323
+Cameroon,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.558,0.746,0.971,1.215,1.493,1.787,2.063,2.293,2.522,2.716,2.904
+Cameroon,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.335,0.447,0.582,0.729,0.896,1.072,1.238,1.376,1.513,1.629,1.742
+Cameroon,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.145,0.16,0.174,0.203,0.257,0.282,0.37,0.492,0.69,0.682,0.707
+Cameroon,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.126,0.141,0.156,0.183,0.237,0.264,0.354,0.484,0.703,0.692,0.719
+Cameroon,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.074,0.079,0.082,0.094,0.113,0.118,0.145,0.175,0.214,0.213,0.22
+Cameroon,Sauces & Spices,Revenue,Total,thousand USD (US$),Statista,35.04,53.08,76.85,115.3,184.1,247.4,384.2,582.4,920.3,"1,002","1,138"
+Cameroon,Sauces & Spices,Revenue,Spices & Culinary Herbs,thousand USD (US$),Statista,24.28,37.41,55.12,83.26,135.5,185.3,294,457.9,749.2,813.7,925.7
+Cameroon,Sauces & Spices,Revenue,Tomato Ketchup,thousand USD (US$),Statista,10.76,15.67,21.73,32.05,48.58,62.07,90.17,124.5,171,188.3,211.9
+Cameroon,Sauces & Spices,Revenue Change,Total,percent,Statista,,51.484,44.781,50.033,59.67,34.383,55.295,51.588,58.019,8.878,13.573
+Cameroon,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,54.077,47.34,51.052,62.743,36.753,58.662,55.748,63.617,8.609,13.764
+Cameroon,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,45.632,38.673,47.492,51.576,27.769,45.271,38.073,37.349,10.117,12.533
+Cameroon,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.034,0.048,0.066,0.095,0.143,0.193,0.265,0.376,0.562,,
+Cameroon,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cameroon,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cameroon,Sauces & Spices,Users by Segment,Total,million users,Statista,0.241,0.331,0.442,0.567,0.715,0.878,1.039,1.183,1.333,1.47,1.609
+Cameroon,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.193,0.265,0.354,0.454,0.572,0.702,0.831,0.946,1.066,1.176,1.288
+Cameroon,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.145,0.199,0.265,0.34,0.429,0.527,0.623,0.71,0.8,0.882,0.966
+Cameroon,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,0.982,1.312,1.708,2.138,2.627,3.146,3.63,4.035,4.439,4.779,5.11
+Cameroon,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,0.786,1.05,1.367,1.71,2.102,2.517,2.904,3.228,3.551,3.824,4.088
+Cameroon,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.589,0.787,1.025,1.283,1.576,1.888,2.178,2.421,2.663,2.868,3.066
+Cameroon,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.365,0.4,0.427,0.513,0.617,0.634,0.767,0.932,1.14,1.138,1.17
+Cameroon,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.266,0.288,0.304,0.363,0.433,0.447,0.542,0.662,0.813,0.811,0.834
+Cameroon,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.319,0.353,0.382,0.465,0.564,0.578,0.695,0.839,1.02,1.018,1.046
+Cameroon,Spreads & Sweeteners,Revenue,Total,thousand USD (US$),Statista,66.14,99.24,141.6,218.4,331,417.9,597.5,826.9,"1,140","1,254","1,412"
+Cameroon,Spreads & Sweeteners,Revenue,Spreads,thousand USD (US$),Statista,38.45,57.15,80.75,123.5,185.7,235.3,337.7,469.6,650.5,715.5,805.5
+Cameroon,Spreads & Sweeteners,Revenue,Sweeteners,thousand USD (US$),Statista,27.68,42.09,60.81,94.94,145.3,182.6,259.7,357.3,489.3,538.9,606.4
+Cameroon,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,50.045,42.684,54.237,51.557,26.254,42.977,38.393,37.864,10,12.6
+Cameroon,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,48.635,41.295,52.941,50.364,26.71,43.519,39.058,38.522,9.992,12.579
+Cameroon,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,52.059,44.476,56.126,53.044,25.671,42.223,37.582,36.944,10.137,12.526
+Cameroon,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cameroon,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cameroon,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.965,99.951,99.933,99.9,99.856,99.816,99.766,99.696,99.603,,
+Cameroon,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.035,0.049,0.067,0.1,0.144,0.184,0.234,0.304,0.397,,
+Cameroon,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cameroon,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cameroon,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.181,0.248,0.332,0.426,0.536,0.659,0.779,0.887,1,1.103,1.207
+Cameroon,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.145,0.199,0.265,0.34,0.429,0.527,0.623,0.71,0.8,0.882,0.966
+Cameroon,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.087,0.119,0.159,0.204,0.257,0.316,0.374,0.426,0.48,0.529,0.579
+Cameroon,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.589,0.787,1.025,1.283,1.576,1.888,2.178,2.421,2.663,2.868,3.066
+Cameroon,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,0.737,0.984,1.281,1.603,1.97,2.359,2.723,3.027,3.329,3.585,3.833
+Cameroon,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.354,0.472,0.615,0.77,0.946,1.133,1.307,1.453,1.598,1.721,1.84
+Cameroon,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,1.399,1.46,1.493,1.924,2.343,2.402,2.9,3.448,4.12,4.122,4.232
+Cameroon,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,1.807,1.887,1.929,2.488,3.031,3.109,3.755,4.468,5.341,5.343,5.486
+Cameroon,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,0.268,0.279,0.284,0.364,0.442,0.451,0.542,0.641,0.763,0.763,0.783
+Cameroon,Vegetables,Revenue,Total,million USD (US$),Statista,0.376,0.538,0.735,1.216,1.866,2.349,3.353,4.543,6.117,6.749,7.585
+Cameroon,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,0.34,0.487,0.665,1.101,1.69,2.128,3.04,4.12,5.551,6.124,6.883
+Cameroon,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.036,0.051,0.07,0.115,0.176,0.221,0.313,0.422,0.566,0.625,0.702
+Cameroon,Vegetables,Revenue Change,Total,percent,Statista,,43.214,36.529,65.487,53.454,25.884,42.742,35.491,34.647,10.332,12.387
+Cameroon,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,43.261,36.586,65.589,53.497,25.917,42.857,35.526,34.733,10.322,12.394
+Cameroon,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,42.607,35.966,64.807,52.778,25.284,42.086,34.855,34.012,10.35,12.324
+Cameroon,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Cameroon,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Cameroon,Vegetables,Online & Offline Split,Offline,percent,Statista,99.966,99.955,99.941,99.91,99.868,99.832,99.787,99.729,99.654,,
+Cameroon,Vegetables,Online & Offline Split,Online,percent,Statista,0.034,0.045,0.059,0.09,0.132,0.168,0.213,0.271,0.346,,
+Cameroon,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cameroon,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cameroon,Vegetables,Users by Segment,Total,million users,Statista,0.269,0.369,0.492,0.632,0.796,0.978,1.157,1.317,1.485,1.637,1.792
+Cameroon,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.188,0.258,0.345,0.442,0.558,0.685,0.81,0.922,1.039,1.146,1.255
+Cameroon,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.134,0.184,0.246,0.316,0.398,0.489,0.578,0.659,0.742,0.819,0.896
+Cameroon,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,0.766,1.023,1.332,1.666,2.048,2.452,2.83,3.146,3.46,3.726,3.984
+Cameroon,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.547,0.731,0.951,1.19,1.463,1.752,2.021,2.247,2.472,2.661,2.845
+Cameroon,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.094,1.461,1.903,2.381,2.926,3.503,4.043,4.494,4.943,5.323,5.69

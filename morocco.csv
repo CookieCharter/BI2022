@@ -1,0 +1,751 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Morocco,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,20.585,,,,,,
+Morocco,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,32.278,,,,,,
+Morocco,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.188,,,,,,
+Morocco,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,14.007,,,,,,
+Morocco,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,6.94,,,,,,
+Morocco,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,44.093,,,,,,
+Morocco,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,55.907,,,,,,
+Morocco,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,37.101,,,,,,
+Morocco,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.435,,,,,,
+Morocco,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.464,,,,,,
+Morocco,eCommerce,Revenue,Total,million USD (US$),Statista,819.9,936.9,"1,072","1,457","1,698","1,624","2,212","2,637","3,154","3,418","3,737"
+Morocco,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,51.34,64.35,80.1,109.5,136.3,138.9,176.3,210.3,253.2,275.8,302.8
+Morocco,eCommerce,Revenue,Beverages,million USD (US$),Statista,1.416,2.031,2.822,4.435,6.048,5.72,6.724,7.402,8.204,8.83,9.454
+Morocco,eCommerce,Revenue,Electronics,million USD (US$),Statista,384.5,436.4,489.9,653.8,741.9,691,"1,025","1,263","1,557","1,690","1,860"
+Morocco,eCommerce,Revenue,Fashion,million USD (US$),Statista,145.3,170.2,200.3,280.5,335.9,338.7,423.8,495.5,581.8,630.5,687.2
+Morocco,eCommerce,Revenue,Food,million USD (US$),Statista,3.734,5.399,7.542,14.44,20.31,18.45,20.79,21.87,23.1,24.31,25.32
+Morocco,eCommerce,Revenue,Furniture,million USD (US$),Statista,114.4,123.3,135.5,173,195.1,170.4,241.7,281.7,328.4,353.7,383.9
+Morocco,eCommerce,Revenue,Media,million USD (US$),Statista,26.52,27.9,30.08,40.95,47.39,45.44,53.09,56.81,59.86,64.05,67.95
+Morocco,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,92.64,107.2,125.3,180.8,215.3,215.3,264.3,300.8,341.9,370,400.5
+Morocco,eCommerce,Revenue Change,Total,percent,Statista,,14.27,14.42,35.914,16.541,-4.358,36.207,19.213,19.606,8.37,9.333
+Morocco,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,25.341,24.476,36.704,24.475,1.908,26.926,19.285,20.399,8.926,9.79
+Morocco,eCommerce,Revenue Change,Beverages,percent,Statista,,43.432,38.946,57.158,36.37,-5.423,17.552,10.083,10.835,7.63,7.067
+Morocco,eCommerce,Revenue Change,Electronics,percent,Statista,,13.498,12.259,33.456,13.475,-6.861,48.336,23.22,23.278,8.542,10.059
+Morocco,eCommerce,Revenue Change,Fashion,percent,Statista,,17.137,17.685,40.04,19.75,0.834,25.125,16.918,17.417,8.371,8.993
+Morocco,eCommerce,Revenue Change,Food,percent,Statista,,44.59,39.693,91.461,40.651,-9.158,12.683,5.195,5.624,5.238,4.155
+Morocco,eCommerce,Revenue Change,Furniture,percent,Statista,,7.78,9.895,27.675,12.775,-12.66,41.843,16.549,16.578,7.704,8.538
+Morocco,eCommerce,Revenue Change,Media,percent,Statista,,5.204,7.814,36.137,15.726,-4.115,16.835,7.007,5.369,7,6.089
+Morocco,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,15.717,16.884,44.294,19.082,0,22.759,13.81,13.664,8.219,8.243
+Morocco,eCommerce,Average Revenue per User,Total,USD (US$),Statista,127.2,118.6,97.8,118.9,124.9,110.2,143.8,158.8,176.5,184.1,194
+Morocco,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,15.63,16.74,18.05,21.58,23.86,21.93,25.7,28.83,32.75,33.63,35.04
+Morocco,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,0.998,1.104,1.194,1.565,1.804,1.475,1.545,1.561,1.596,1.585,1.58
+Morocco,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,83.39,78.56,73.46,83.53,82.35,67.98,91.49,105.3,121.8,123.6,128.1
+Morocco,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,27.4,28.47,29.76,37.04,39.92,36.63,42.37,46.48,51.33,52.28,53.86
+Morocco,eCommerce,Average Revenue per User,Food,USD (US$),Statista,2.798,3.122,3.394,5.416,6.446,5.061,5.078,4.905,4.779,4.64,4.5
+Morocco,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,81.93,62.25,49.27,48.7,43.06,30.61,37,38.52,40.44,39.41,39.12
+Morocco,eCommerce,Average Revenue per User,Media,USD (US$),Statista,7.969,6.39,6.153,7.504,7.82,6.908,7.533,7.615,7.592,7.811,8.001
+Morocco,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,31.42,27.79,25,29.47,28.49,23.85,26.74,28.06,29.57,29.54,29.84
+Morocco,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,2.913,2.891,2.975,3.019,3.048,3.066,3.068,3.069,3.07,,
+Morocco,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,30.376,30.901,31.405,31.953,32.489,32.986,33.462,33.885,34.307,,
+Morocco,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,29.123,28.903,27.273,25.73,24.286,23.026,21.935,20.97,20.005,,
+Morocco,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,7.282,7.227,7.438,7.547,7.621,7.664,7.67,7.672,7.674,,
+Morocco,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,0.718,0.712,0.744,0.77,0.795,0.817,0.838,0.857,0.875,,
+Morocco,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,19.931,19.781,20.661,21.389,22.072,22.697,23.277,23.795,24.312,,
+Morocco,eCommerce,Revenue Share Payment Types,Other,percent,Statista,9.659,9.586,9.504,9.594,9.688,9.743,9.75,9.753,9.756,,
+Morocco,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,eCommerce,Online & Offline Split,Offline,percent,Statista,98.244,98.07,97.857,97.244,96.895,96.518,96.051,95.493,94.823,,
+Morocco,eCommerce,Online & Offline Split,Online,percent,Statista,1.756,1.93,2.143,2.756,3.105,3.482,3.949,4.507,5.177,,
+Morocco,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,49.242,46.527,45.651,44.215,42.8,41.423,39.885,38.588,37.246,,
+Morocco,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,50.758,53.473,54.349,55.785,57.2,58.577,60.115,61.412,62.754,,
+Morocco,eCommerce,Users,Total,million users,Statista,6.444,7.901,10.957,12.258,13.594,14.741,15.385,16.607,17.864,18.563,19.26
+Morocco,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,3.284,3.843,4.438,5.077,5.712,6.331,6.861,7.294,7.732,8.202,8.641
+Morocco,eCommerce,Users,Beverages,million users,Statista,1.419,1.839,2.364,2.834,3.352,3.878,4.353,4.741,5.14,5.572,5.985
+Morocco,eCommerce,Users,Electronics,million users,Statista,4.611,5.555,6.669,7.826,9.009,10.166,11.206,11.99,12.782,13.68,14.516
+Morocco,eCommerce,Users,Fashion,million users,Statista,5.304,5.98,6.732,7.573,8.415,9.247,10.004,10.66,11.335,12.06,12.761
+Morocco,eCommerce,Users,Food,million users,Statista,1.335,1.729,2.222,2.665,3.152,3.646,4.093,4.458,4.833,5.239,5.627
+Morocco,eCommerce,Users,Furniture,million users,Statista,1.397,1.981,2.75,3.554,4.531,5.567,6.533,7.314,8.12,8.975,9.814
+Morocco,eCommerce,Users,Media,million users,Statista,3.328,4.367,4.888,5.457,6.061,6.578,7.048,7.46,7.884,8.2,8.493
+Morocco,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,2.949,3.858,5.014,6.134,7.559,9.026,9.885,10.719,11.563,12.527,13.423
+Morocco,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,9.23,10.667,12.168,13.754,15.296,16.76,17.963,18.893,19.821,20.816,21.717
+Morocco,eCommerce,Penetration Rate,Beverages,percent,Statista,3.989,5.105,6.48,7.679,8.975,10.267,11.398,12.28,13.176,14.141,15.041
+Morocco,eCommerce,Penetration Rate,eCommerce,percent,Statista,18.111,21.931,30.043,33.21,36.402,39.027,40.282,43.016,45.795,47.109,48.406
+Morocco,eCommerce,Penetration Rate,Electronics,percent,Statista,12.958,15.419,18.285,21.204,24.124,26.913,29.339,31.058,32.765,34.719,36.482
+Morocco,eCommerce,Penetration Rate,Fashion,percent,Statista,14.907,16.596,18.459,20.516,22.532,24.481,26.192,27.613,29.056,30.606,32.071
+Morocco,eCommerce,Penetration Rate,Food,percent,Statista,3.751,4.8,6.093,7.221,8.439,9.654,10.717,11.546,12.389,13.296,14.143
+Morocco,eCommerce,Penetration Rate,Furniture,percent,Statista,3.926,5.499,7.54,9.628,12.133,14.739,17.106,18.946,20.815,22.777,24.664
+Morocco,eCommerce,Penetration Rate,Media,percent,Statista,9.354,12.121,13.401,14.785,16.229,17.414,18.453,19.324,20.209,20.81,21.346
+Morocco,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,8.287,10.708,13.748,16.619,20.242,23.897,25.881,27.764,29.642,31.791,33.737
+Morocco,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.847,,,,,,
+Morocco,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,32.316,,,,,,
+Morocco,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.954,,,,,,
+Morocco,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,14.504,,,,,,
+Morocco,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.38,,,,,,
+Morocco,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,27.99,,,,,,
+Morocco,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,72.01,,,,,,
+Morocco,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,40.176,,,,,,
+Morocco,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,26.979,,,,,,
+Morocco,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.845,,,,,,
+Morocco,Electronics,Revenue,Total,million USD (US$),Statista,384.5,436.4,489.9,653.8,741.9,691,"1,025","1,263","1,557","1,690","1,860"
+Morocco,Electronics,Revenue,Consumer Electronics,million USD (US$),Statista,350.7,400.2,450.6,608.3,692.1,636.8,951.6,"1,169","1,437","1,561","1,718"
+Morocco,Electronics,Revenue,Household Appliances,million USD (US$),Statista,33.77,36.2,39.25,45.47,49.89,54.26,73.55,93.54,119.8,129.1,142
+Morocco,Electronics,Revenue Change,Total,percent,Statista,,13.498,12.259,33.456,13.475,-6.861,48.336,23.22,23.278,8.542,10.059
+Morocco,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,14.115,12.594,34.998,13.776,-7.99,49.435,22.846,22.926,8.629,10.058
+Morocco,Electronics,Revenue Change,Household Appliances,percent,Statista,,7.196,8.425,15.847,9.721,8.759,35.551,27.179,28.074,7.763,9.992
+Morocco,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,83.39,78.56,73.46,83.53,82.35,67.98,91.49,105.3,121.8,123.6,128.1
+Morocco,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,67.35,68.83,69.99,85.41,90,77.77,110.6,130.9,155.1,162.7,173.8
+Morocco,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,14.38,11.45,9.185,8.3,7.2,6.373,7.298,8.29,9.568,9.333,9.401
+Morocco,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,Electronics,Online & Offline Split,Offline,percent,Statista,93.102,92.6,91.912,89.955,88.837,86.27,83.632,80.315,76.442,,
+Morocco,Electronics,Online & Offline Split,Online,percent,Statista,6.898,7.4,8.088,10.045,11.163,13.73,16.368,19.685,23.558,,
+Morocco,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Electronics,Users by Segment,Total,million users,Statista,4.611,5.555,6.669,7.826,9.009,10.166,11.206,11.99,12.782,13.68,14.516
+Morocco,Electronics,Users by Segment,Consumer Electronics,million users,Statista,5.207,5.814,6.438,7.122,7.69,8.188,8.607,8.935,9.27,9.595,9.883
+Morocco,Electronics,Users by Segment,Household Appliances,million users,Statista,2.349,3.161,4.274,5.478,6.929,8.514,10.078,11.283,12.525,13.828,15.11
+Morocco,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,14.633,16.138,17.653,19.295,20.591,21.678,22.534,23.143,23.764,24.349,24.838
+Morocco,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,12.958,15.419,18.285,21.204,24.124,26.913,29.339,31.058,32.765,34.719,36.482
+Morocco,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,6.602,8.775,11.717,14.843,18.554,22.539,26.387,29.226,32.108,35.093,37.975
+Morocco,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,18.156,,,,,,
+Morocco,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,33.141,,,,,,
+Morocco,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.513,,,,,,
+Morocco,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,14.986,,,,,,
+Morocco,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.2,,,,,,
+Morocco,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,25.072,,,,,,
+Morocco,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,74.928,,,,,,
+Morocco,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.944,,,,,,
+Morocco,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.393,,,,,,
+Morocco,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.663,,,,,,
+Morocco,Consumer Electronics,Revenue,Total,million USD (US$),Statista,350.7,400.2,450.6,608.3,692.1,636.8,951.6,"1,169","1,437","1,561","1,718"
+Morocco,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,61.39,73.68,83.05,109.4,121.2,111,165.2,201.9,246.7,267.7,294.1
+Morocco,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,128.8,147,165.5,223.4,254.1,233.8,349.4,429.4,527.8,573.3,630.7
+Morocco,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,106.3,119,134,184.3,212,197.2,297.7,369.3,458.1,498.1,549.2
+Morocco,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,51.87,57.92,65.14,87.17,100.1,91.47,135.9,166.1,203.3,220.7,242.5
+Morocco,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,2.398,2.685,3.023,4.059,4.656,3.281,3.431,2.613,1.503,1.501,1.311
+Morocco,Consumer Electronics,Revenue Change,Total,percent,Statista,,14.115,12.594,34.998,13.776,-7.99,49.435,22.846,22.926,8.629,10.058
+Morocco,Consumer Electronics,Revenue Change,Computing,percent,Statista,,20.02,12.717,31.728,10.786,-8.416,48.829,22.215,22.189,8.512,9.862
+Morocco,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,14.13,12.585,34.985,13.742,-7.989,49.444,22.896,22.916,8.621,10.012
+Morocco,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,11.947,12.605,37.537,15.03,-6.981,50.963,24.051,24.045,8.732,10.259
+Morocco,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,11.664,12.465,33.819,14.833,-8.621,48.573,22.222,22.396,8.559,9.878
+Morocco,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,11.968,12.588,34.271,14.708,-29.532,4.572,-23.841,-42.48,-0.133,-12.658
+Morocco,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,67.35,68.83,69.99,85.41,90,77.77,110.6,130.9,155.1,162.7,173.8
+Morocco,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,16.84,18.1,18.43,21.94,22.52,19.37,27.41,32.27,38.02,39.86,42.51
+Morocco,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,30.92,31.59,32.13,39.2,41.31,35.7,50.75,60.07,71.17,74.69,79.78
+Morocco,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,25.51,25.57,26.01,32.35,34.46,30.1,43.24,51.67,61.77,64.9,69.46
+Morocco,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,24.9,24.9,25.29,30.6,32.54,27.93,39.47,46.49,54.84,57.5,61.34
+Morocco,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,1.535,1.539,1.565,1.9,2.018,1.336,1.329,0.975,0.54,0.521,0.442
+Morocco,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Morocco,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Morocco,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,88.996,88.331,87.148,83.643,82.122,77.57,73.376,67.914,61.784,,
+Morocco,Consumer Electronics,Online & Offline Split,Online,percent,Statista,11.004,11.669,12.852,16.357,17.878,22.43,26.624,32.086,38.216,,
+Morocco,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Consumer Electronics,Users,Total,million users,Statista,5.207,5.814,6.438,7.122,7.69,8.188,8.607,8.935,9.27,9.595,9.883
+Morocco,Consumer Electronics,Users,Computing,million users,Statista,3.645,4.07,4.507,4.985,5.383,5.732,6.025,6.254,6.489,6.716,6.918
+Morocco,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,4.165,4.651,5.151,5.698,6.152,6.551,6.885,7.148,7.416,7.676,7.906
+Morocco,Consumer Electronics,Users,Telephony,million users,Statista,4.165,4.651,5.151,5.698,6.152,6.551,6.885,7.148,7.416,7.676,7.906
+Morocco,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,2.083,2.326,2.575,2.849,3.076,3.275,3.443,3.574,3.708,3.838,3.953
+Morocco,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.562,1.744,1.931,2.137,2.307,2.456,2.582,2.68,2.781,2.878,2.965
+Morocco,Consumer Electronics,Penetration Rate,Computing,percent,Statista,10.243,11.297,12.357,13.507,14.414,15.174,15.774,16.2,16.635,17.045,17.387
+Morocco,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,14.633,16.138,17.653,19.295,20.591,21.678,22.534,23.143,23.764,24.349,24.838
+Morocco,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,11.706,12.91,14.122,15.436,16.473,17.342,18.027,18.515,19.012,19.479,19.87
+Morocco,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,11.706,12.91,14.122,15.436,16.473,17.342,18.027,18.515,19.012,19.479,19.87
+Morocco,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,5.853,6.455,7.061,7.718,8.236,8.671,9.014,9.257,9.506,9.74,9.936
+Morocco,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,4.39,4.841,5.296,5.789,6.177,6.503,6.76,6.943,7.129,7.305,7.451
+Morocco,Household Appliances,Revenue,Total,million USD (US$),Statista,33.77,36.2,39.25,45.47,49.89,54.26,73.55,93.54,119.8,129.1,142
+Morocco,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,17.13,18.36,19.91,23.08,25.32,27.51,37.26,47.34,60.6,65.25,71.81
+Morocco,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,7.594,8.142,8.827,10.23,11.22,12.2,16.54,21.04,26.95,29.02,31.94
+Morocco,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,9.046,9.698,10.52,12.17,13.35,14.54,19.75,25.16,32.29,34.78,38.29
+Morocco,Household Appliances,Revenue Change,Total,percent,Statista,,7.196,8.425,15.847,9.721,8.759,35.551,27.179,28.074,7.763,9.992
+Morocco,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,7.18,8.442,15.922,9.705,8.649,35.442,27.053,28.01,7.673,10.054
+Morocco,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,7.216,8.413,15.894,9.677,8.734,35.574,27.207,28.089,7.681,10.062
+Morocco,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,7.208,8.476,15.684,9.696,8.914,35.832,27.392,28.339,7.711,10.092
+Morocco,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,14.38,11.45,9.185,8.3,7.2,6.373,7.298,8.29,9.568,9.333,9.401
+Morocco,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,18.23,14.52,11.65,10.53,9.137,8.079,9.244,10.49,12.1,11.8,11.88
+Morocco,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,16.16,12.88,10.33,9.333,8.096,7.166,8.206,9.322,10.76,10.49,10.57
+Morocco,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,4.814,3.835,3.076,2.776,2.408,2.135,2.449,2.787,3.223,3.144,3.167
+Morocco,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Morocco,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Morocco,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Morocco,Household Appliances,Online & Offline Split,Offline,percent,Statista,98.585,98.533,98.461,98.37,98.202,97.798,97.284,96.635,95.797,,
+Morocco,Household Appliances,Online & Offline Split,Online,percent,Statista,1.415,1.467,1.539,1.63,1.798,2.202,2.716,3.365,4.203,,
+Morocco,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Household Appliances,Users,Total,million users,Statista,2.349,3.161,4.274,5.478,6.929,8.514,10.078,11.283,12.525,13.828,15.11
+Morocco,Household Appliances,Users,Major Appliances,million users,Statista,0.94,1.265,1.709,2.191,2.772,3.405,4.031,4.513,5.01,5.531,6.044
+Morocco,Household Appliances,Users,Other Household Appliances,million users,Statista,0.47,0.632,0.855,1.096,1.386,1.703,2.016,2.257,2.505,2.766,3.022
+Morocco,Household Appliances,Users,Small Appliances,million users,Statista,1.879,2.529,3.419,4.383,5.543,6.811,8.062,9.026,10.02,11.062,12.088
+Morocco,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,6.602,8.775,11.717,14.843,18.554,22.539,26.387,29.226,32.108,35.093,37.975
+Morocco,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,2.641,3.51,4.687,5.937,7.422,9.016,10.555,11.69,12.843,14.037,15.19
+Morocco,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,1.32,1.755,2.343,2.969,3.711,4.508,5.277,5.845,6.422,7.018,7.595
+Morocco,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,5.282,7.02,9.374,11.874,14.843,18.031,21.109,23.38,25.687,28.074,30.38
+Morocco,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,18,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,35.429,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.429,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,13.714,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,5.43,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,59.143,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,40.857,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.611,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.181,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.208,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,51.34,64.35,80.1,109.5,136.3,138.9,176.3,210.3,253.2,275.8,302.8
+Morocco,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,6.77,8.332,10.27,14.18,17.59,17.72,22.16,25.94,30.52,33.27,36.41
+Morocco,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,10.48,12.76,15.38,22.22,27.09,27.09,33.66,39.14,45.77,49.87,54.5
+Morocco,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,5.385,6.908,8.792,12.21,15.5,17.69,25.16,33.62,45.36,49.58,55.42
+Morocco,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,28.71,36.36,45.66,60.94,76.14,76.36,95.36,111.6,131.6,143.1,156.5
+Morocco,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,25.341,24.476,36.704,24.475,1.908,26.926,19.285,20.399,8.926,9.79
+Morocco,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,23.072,23.26,38.072,24.048,0.739,25.056,17.058,17.656,9.01,9.438
+Morocco,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,21.756,20.533,44.473,21.917,0,24.252,16.28,16.939,8.958,9.284
+Morocco,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,28.282,27.273,38.876,26.945,14.129,42.227,33.625,34.92,9.303,11.779
+Morocco,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,26.646,25.578,33.465,24.943,0.289,24.882,17.03,17.921,8.739,9.364
+Morocco,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,15.63,16.74,18.05,21.58,23.86,21.93,25.7,28.83,32.75,33.63,35.04
+Morocco,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,2.945,3.097,3.305,3.991,4.4,3.998,4.615,5.08,5.638,5.794,6.019
+Morocco,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,4.984,5.187,5.417,6.839,7.409,6.686,7.667,8.385,9.249,9.499,9.855
+Morocco,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,4.315,4.73,5.214,6.328,7.14,7.352,9.651,12.13,15.44,15.9,16.88
+Morocco,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,14.1,15.26,16.59,19.36,21.5,19.45,22.42,24.68,27.44,28.14,29.2
+Morocco,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,97.971,97.538,97.036,95.853,95.124,94.66,94.02,93.159,92.106,,
+Morocco,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,2.029,2.462,2.964,4.147,4.876,5.34,5.98,6.841,7.894,,
+Morocco,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,3.284,3.843,4.438,5.077,5.712,6.331,6.861,7.294,7.732,8.202,8.641
+Morocco,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,2.299,2.69,3.106,3.554,3.998,4.431,4.803,5.106,5.413,5.742,6.049
+Morocco,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,2.102,2.46,2.84,3.249,3.656,4.052,4.391,4.668,4.949,5.25,5.531
+Morocco,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,1.248,1.46,1.686,1.929,2.171,2.406,2.607,2.772,2.938,3.117,3.284
+Morocco,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,2.036,2.383,2.751,3.147,3.542,3.925,4.254,4.522,4.794,5.086,5.358
+Morocco,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,9.23,10.667,12.168,13.754,15.296,16.76,17.963,18.893,19.821,20.816,21.717
+Morocco,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,6.461,7.467,8.517,9.628,10.707,11.732,12.574,13.225,13.875,14.571,15.202
+Morocco,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,5.907,6.827,7.787,8.802,9.789,10.726,11.496,12.092,12.686,13.323,13.9
+Morocco,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,3.507,4.053,4.624,5.226,5.812,6.369,6.826,7.179,7.532,7.911,8.253
+Morocco,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,5.723,6.613,7.544,8.527,9.483,10.391,11.137,11.714,12.289,12.907,13.466
+Morocco,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,18.433,,,,,,
+Morocco,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,35.484,,,,,,
+Morocco,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,31.336,,,,,,
+Morocco,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,11.982,,,,,,
+Morocco,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,2.76,,,,,,
+Morocco,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,74.654,,,,,,
+Morocco,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,25.346,,,,,,
+Morocco,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,43.229,,,,,,
+Morocco,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.646,,,,,,
+Morocco,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,28.125,,,,,,
+Morocco,Personal Care,Revenue,Total,million USD (US$),Statista,28.71,36.36,45.66,60.94,76.14,76.36,95.36,111.6,131.6,143.1,156.5
+Morocco,Personal Care,Revenue,Body Care,million USD (US$),Statista,3.155,3.981,4.979,6.553,8.142,8.298,10.52,12.48,14.9,16.24,17.81
+Morocco,Personal Care,Revenue,Eye Care,million USD (US$),Statista,1.167,1.594,2.137,3.085,4.082,3.625,4.016,4.178,4.387,4.533,4.657
+Morocco,Personal Care,Revenue,Hair Care,million USD (US$),Statista,5.712,7.208,9.015,11.89,14.78,14.96,18.82,22.17,26.26,28.62,31.35
+Morocco,Personal Care,Revenue,Oral Care,million USD (US$),Statista,2.213,2.792,3.492,4.616,5.737,5.806,7.305,8.605,10.2,11.11,12.17
+Morocco,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,12.07,15.28,19.19,25.62,32.01,32.1,40.09,46.92,55.31,60.27,65.97
+Morocco,Personal Care,Revenue,Skin Care,million USD (US$),Statista,4.395,5.496,6.838,9.172,11.39,11.57,14.61,17.26,20.5,22.36,24.5
+Morocco,Personal Care,Revenue Change,Total,percent,Statista,,26.646,25.578,33.465,24.943,0.289,24.882,17.03,17.921,8.739,9.364
+Morocco,Personal Care,Revenue Change,Body Care,percent,Statista,,26.181,25.069,31.613,24.248,1.916,26.778,18.631,19.391,8.993,9.667
+Morocco,Personal Care,Revenue Change,Eye Care,percent,Statista,,36.59,34.065,44.361,32.318,-11.195,10.786,4.034,5.002,3.328,2.735
+Morocco,Personal Care,Revenue Change,Hair Care,percent,Statista,,26.19,25.069,31.891,24.306,1.218,25.802,17.8,18.448,8.987,9.539
+Morocco,Personal Care,Revenue Change,Oral Care,percent,Statista,,26.164,25.072,32.188,24.285,1.203,25.818,17.796,18.536,8.922,9.541
+Morocco,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,26.595,25.589,33.507,24.941,0.281,24.891,17.037,17.882,8.968,9.457
+Morocco,Personal Care,Revenue Change,Skin Care,percent,Statista,,25.051,24.418,34.133,24.182,1.58,26.275,18.138,18.772,9.073,9.571
+Morocco,Personal Care,Average Revenue per User,Total,USD (US$),Statista,14.1,15.26,16.59,19.36,21.5,19.45,22.42,24.68,27.44,28.14,29.2
+Morocco,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,2.279,2.457,2.661,3.062,3.381,3.109,3.636,4.058,4.569,4.695,4.888
+Morocco,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,1.147,1.338,1.554,1.96,2.305,1.847,1.888,1.848,1.83,1.782,1.738
+Morocco,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,5.395,5.817,6.301,7.267,8.026,7.328,8.507,9.426,10.54,10.82,11.25
+Morocco,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,2.218,2.391,2.59,2.993,3.306,3.019,3.505,3.883,4.341,4.46,4.637
+Morocco,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,13.17,14.25,15.5,18.09,20.09,18.18,20.94,23.06,25.64,26.34,27.36
+Morocco,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,4.905,5.243,5.649,6.623,7.31,6.701,7.807,8.675,9.721,9.991,10.4
+Morocco,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,Personal Care,Online & Offline Split,Offline,percent,Statista,96.843,96.188,95.446,93.543,92.608,92.165,91.603,90.7,89.626,,
+Morocco,Personal Care,Online & Offline Split,Online,percent,Statista,3.157,3.812,4.554,6.457,7.392,7.835,8.397,9.3,10.374,,
+Morocco,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Personal Care,Users,Total,million users,Statista,2.036,2.383,2.751,3.147,3.542,3.925,4.254,4.522,4.794,5.086,5.358
+Morocco,Personal Care,Users,Body Care,million users,Statista,1.385,1.62,1.871,2.14,2.408,2.669,2.892,3.075,3.26,3.458,3.643
+Morocco,Personal Care,Users,Eye Care,million users,Statista,1.018,1.191,1.376,1.574,1.771,1.962,2.127,2.261,2.397,2.543,2.679
+Morocco,Personal Care,Users,Hair Care,million users,Statista,1.059,1.239,1.431,1.637,1.842,2.041,2.212,2.352,2.493,2.645,2.786
+Morocco,Personal Care,Users,Oral Care,million users,Statista,0.998,1.168,1.348,1.542,1.735,1.923,2.084,2.216,2.349,2.492,2.625
+Morocco,Personal Care,Users,Other Personal Care,million users,Statista,0.916,1.072,1.238,1.416,1.594,1.766,1.914,2.035,2.157,2.289,2.411
+Morocco,Personal Care,Users,Skin Care,million users,Statista,0.896,1.048,1.211,1.385,1.558,1.727,1.872,1.99,2.109,2.238,2.357
+Morocco,Personal Care,Penetration Rate,Body Care,percent,Statista,3.891,4.497,5.13,5.799,6.449,7.066,7.573,7.965,8.357,8.777,9.157
+Morocco,Personal Care,Penetration Rate,Eye Care,percent,Statista,2.861,3.307,3.772,4.264,4.742,5.196,5.569,5.857,6.145,6.453,6.733
+Morocco,Personal Care,Penetration Rate,Hair Care,percent,Statista,2.976,3.439,3.923,4.434,4.931,5.403,5.791,6.091,6.39,6.711,7.002
+Morocco,Personal Care,Penetration Rate,Oral Care,percent,Statista,2.804,3.241,3.697,4.178,4.647,5.092,5.457,5.74,6.022,6.324,6.598
+Morocco,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,2.575,2.976,3.395,3.837,4.267,4.676,5.012,5.271,5.53,5.808,6.059
+Morocco,Personal Care,Penetration Rate,Personal Care,percent,Statista,5.723,6.613,7.544,8.527,9.483,10.391,11.137,11.714,12.289,12.907,13.466
+Morocco,Personal Care,Penetration Rate,Skin Care,percent,Statista,2.518,2.91,3.319,3.752,4.173,4.572,4.9,5.154,5.407,5.679,5.925
+Morocco,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,2.945,3.097,3.305,3.991,4.4,3.998,4.615,5.08,5.638,5.794,6.019
+Morocco,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,2.284,2.43,2.61,3.074,3.391,3.116,3.64,4.054,4.554,4.68,4.872
+Morocco,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,0.755,0.762,0.792,1.048,1.154,1.007,1.113,1.169,1.235,1.267,1.305
+Morocco,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,3.572,3.757,4.008,4.841,5.337,4.849,5.597,6.162,6.839,7.027,7.3
+Morocco,Beauty Care,Revenue,Total,million USD (US$),Statista,6.77,8.332,10.27,14.18,17.59,17.72,22.16,25.94,30.52,33.27,36.41
+Morocco,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,3.676,4.575,5.676,7.647,9.49,9.666,12.24,14.49,17.25,18.81,20.63
+Morocco,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,1.041,1.23,1.476,2.235,2.768,2.677,3.207,3.582,4.009,4.366,4.736
+Morocco,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,2.053,2.527,3.113,4.301,5.335,5.372,6.721,7.865,9.254,10.09,11.04
+Morocco,Beauty Care,Revenue Change,Total,percent,Statista,,23.072,23.26,38.072,24.048,0.739,25.056,17.058,17.656,9.01,9.438
+Morocco,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,24.456,24.066,34.725,24.101,1.855,26.629,18.382,19.048,9.043,9.676
+Morocco,Beauty Care,Revenue Change,Fragrances,percent,Statista,,18.156,20,51.423,23.848,-3.288,19.798,11.693,11.921,8.905,8.475
+Morocco,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,23.088,23.19,38.163,24.041,0.694,25.112,17.021,17.661,9.034,9.415
+Morocco,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,Beauty Care,Online & Offline Split,Offline,percent,Statista,96.913,96.479,95.963,93.786,93.211,92.969,92.614,91.998,91.258,,
+Morocco,Beauty Care,Online & Offline Split,Online,percent,Statista,3.087,3.521,4.037,6.214,6.789,7.031,7.386,8.002,8.742,,
+Morocco,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Beauty Care,Users by Segment,Total,million users,Statista,2.299,2.69,3.106,3.554,3.998,4.431,4.803,5.106,5.413,5.742,6.049
+Morocco,Beauty Care,Users by Segment,Cosmetics,million users,Statista,1.609,1.883,2.175,2.488,2.799,3.102,3.362,3.574,3.789,4.019,4.234
+Morocco,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.379,1.614,1.864,2.132,2.399,2.659,2.882,3.063,3.248,3.445,3.63
+Morocco,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.575,0.673,0.777,0.888,1,1.108,1.201,1.276,1.353,1.436,1.512
+Morocco,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,6.461,7.467,8.517,9.628,10.707,11.732,12.574,13.225,13.875,14.571,15.202
+Morocco,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,4.523,5.227,5.962,6.739,7.495,8.212,8.802,9.258,9.713,10.201,10.642
+Morocco,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,3.877,4.48,5.11,5.777,6.424,7.039,7.545,7.935,8.325,8.743,9.122
+Morocco,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.615,1.867,2.129,2.407,2.677,2.933,3.144,3.306,3.469,3.643,3.801
+Morocco,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,4.984,5.187,5.417,6.839,7.409,6.686,7.667,8.385,9.249,9.499,9.855
+Morocco,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,4.813,5.006,5.225,6.296,6.749,6.118,7.043,7.73,8.551,8.77,9.096
+Morocco,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,1.992,2.072,2.163,2.598,2.785,2.513,2.88,3.147,3.466,3.553,3.681
+Morocco,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,1.902,1.979,2.065,2.484,2.662,2.403,2.755,3.012,3.318,3.402,3.525
+Morocco,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.383,0.398,0.416,1.069,1.277,1.13,1.271,1.363,1.473,1.539,1.608
+Morocco,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.141,0.156,0.173,0.214,0.244,0.262,0.356,0.462,0.603,0.622,0.663
+Morocco,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,6.571,6.838,7.142,9.017,9.768,8.815,10.11,11.05,12.19,12.52,12.99
+Morocco,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,1.243,1.293,1.349,1.62,1.736,1.542,1.739,1.87,2.027,2.076,2.144
+Morocco,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.928,0.965,1.008,1.206,1.292,1.176,1.359,1.497,1.663,1.705,1.769
+Morocco,Health Care,Revenue,Total,million USD (US$),Statista,10.48,12.76,15.38,22.22,27.09,27.09,33.66,39.14,45.77,49.87,54.5
+Morocco,Health Care,Revenue,Analgesics,million USD (US$),Statista,2.023,2.463,2.968,4.091,4.935,4.958,6.185,7.217,8.463,9.208,10.06
+Morocco,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,1.675,2.039,2.457,3.377,4.072,4.072,5.058,5.876,6.86,7.461,8.143
+Morocco,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,1.2,1.46,1.76,2.421,2.92,2.921,3.63,4.218,4.927,5.358,5.849
+Morocco,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.322,0.392,0.472,1.39,1.867,1.832,2.232,2.545,2.916,3.232,3.557
+Morocco,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.059,0.077,0.098,0.139,0.178,0.212,0.313,0.431,0.597,0.653,0.733
+Morocco,Health Care,Revenue,Other Health Care,million USD (US$),Statista,3.177,3.869,4.665,6.738,8.214,8.215,10.21,11.87,13.88,15.12,16.53
+Morocco,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,1.045,1.272,1.533,2.106,2.539,2.499,3.054,3.492,4.013,4.359,4.742
+Morocco,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,0.975,1.187,1.431,1.959,2.361,2.382,2.983,3.494,4.114,4.476,4.893
+Morocco,Health Care,Revenue Change,Total,percent,Statista,,21.756,20.533,44.473,21.917,0,24.252,16.28,16.939,8.958,9.284
+Morocco,Health Care,Revenue Change,Analgesics,percent,Statista,,21.75,20.503,37.837,20.631,0.466,24.748,16.686,17.265,8.803,9.253
+Morocco,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,21.731,20.5,37.444,20.58,0,24.214,16.172,16.746,8.761,9.141
+Morocco,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,21.667,20.548,37.557,20.611,0.034,24.273,16.198,16.809,8.748,9.164
+Morocco,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,21.715,20.521,194.367,34.317,-1.875,21.834,14.023,14.578,10.837,10.056
+Morocco,Health Care,Revenue Change,Incontinence,percent,Statista,,29.347,28.348,41.42,28.161,18.834,47.453,37.876,38.515,9.38,12.236
+Morocco,Health Care,Revenue Change,Other Health Care,percent,Statista,,21.782,20.574,44.437,21.906,0.012,24.285,16.259,16.933,8.934,9.325
+Morocco,Health Care,Revenue Change,Skin Treatment,percent,Statista,,21.722,20.519,37.378,20.56,-1.575,22.209,14.342,14.92,8.622,8.786
+Morocco,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,21.694,20.556,36.897,20.521,0.889,25.231,17.13,17.745,8.799,9.316
+Morocco,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,Health Care,Online & Offline Split,Offline,percent,Statista,95.407,94.578,93.674,90.984,89.578,88.708,87.542,86.177,84.602,,
+Morocco,Health Care,Online & Offline Split,Online,percent,Statista,4.593,5.422,6.326,9.016,10.422,11.292,12.458,13.823,15.398,,
+Morocco,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Health Care,Users by Segment,Total,million users,Statista,2.102,2.46,2.84,3.249,3.656,4.052,4.391,4.668,4.949,5.25,5.531
+Morocco,Health Care,Users by Segment,Analgesics,million users,Statista,0.42,0.492,0.568,0.65,0.731,0.81,0.878,0.934,0.99,1.05,1.106
+Morocco,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.841,0.984,1.136,1.3,1.462,1.621,1.756,1.867,1.979,2.1,2.212
+Morocco,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.631,0.738,0.852,0.975,1.097,1.215,1.317,1.4,1.485,1.575,1.659
+Morocco,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.841,0.984,1.136,1.3,1.462,1.621,1.756,1.867,1.979,2.1,2.212
+Morocco,Health Care,Users by Segment,Incontinence,million users,Statista,0.42,0.492,0.568,0.65,0.731,0.81,0.878,0.934,0.99,1.05,1.106
+Morocco,Health Care,Users by Segment,Other Health Care,million users,Statista,0.483,0.566,0.653,0.747,0.841,0.932,1.01,1.074,1.138,1.207,1.272
+Morocco,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.841,0.984,1.136,1.3,1.462,1.621,1.756,1.867,1.979,2.1,2.212
+Morocco,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,1.051,1.23,1.42,1.625,1.828,2.026,2.195,2.334,2.474,2.625,2.765
+Morocco,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.181,1.365,1.557,1.76,1.958,2.145,2.299,2.418,2.537,2.664,2.78
+Morocco,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,2.363,2.731,3.115,3.521,3.916,4.29,4.599,4.837,5.074,5.329,5.56
+Morocco,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,1.772,2.048,2.336,2.641,2.937,3.218,3.449,3.628,3.806,3.997,4.17
+Morocco,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,2.363,2.731,3.115,3.521,3.916,4.29,4.599,4.837,5.074,5.329,5.56
+Morocco,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,5.907,6.827,7.787,8.802,9.789,10.726,11.496,12.092,12.686,13.323,13.9
+Morocco,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.181,1.365,1.557,1.76,1.958,2.145,2.299,2.418,2.537,2.664,2.78
+Morocco,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.359,1.57,1.791,2.025,2.252,2.467,2.644,2.781,2.918,3.064,3.197
+Morocco,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,2.363,2.731,3.115,3.521,3.916,4.29,4.599,4.837,5.074,5.329,5.56
+Morocco,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,2.954,3.413,3.894,4.401,4.895,5.363,5.748,6.046,6.343,6.661,6.95
+Morocco,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,4.315,4.73,5.214,6.328,7.14,7.352,9.651,12.13,15.44,15.9,16.88
+Morocco,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,0.704,0.768,0.842,1.057,1.19,1.186,1.508,1.84,2.28,2.35,2.485
+Morocco,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,0.638,0.696,0.763,0.996,1.126,1.126,1.438,1.761,2.19,2.258,2.39
+Morocco,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,1.663,1.838,2.043,2.411,2.734,2.951,4.044,5.279,6.945,7.152,7.62
+Morocco,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,1.71,1.866,2.045,2.389,2.673,2.682,3.434,4.219,5.262,5.416,5.728
+Morocco,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,9.127,10.01,11.03,13.39,15.1,15.55,20.41,25.66,32.65,33.63,35.68
+Morocco,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.205,0.226,0.252,0.333,0.382,0.407,0.549,0.707,0.918,0.948,1.009
+Morocco,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,0.521,0.568,0.623,0.714,0.797,0.799,1.023,1.256,1.566,1.611,1.703
+Morocco,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,1.245,1.376,1.529,1.887,2.148,2.298,3.122,4.041,5.271,5.435,5.789
+Morocco,Household Care,Revenue,Total,million USD (US$),Statista,5.385,6.908,8.792,12.21,15.5,17.69,25.16,33.62,45.36,49.58,55.42
+Morocco,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.369,0.471,0.596,0.856,1.085,1.198,1.652,2.142,2.813,3.076,3.427
+Morocco,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.358,0.457,0.579,0.865,1.099,1.219,1.687,2.196,2.895,3.168,3.532
+Morocco,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.477,0.617,0.792,1.07,1.365,1.633,2.425,3.366,4.693,5.129,5.758
+Morocco,Household Care,Revenue,Laundry Care,million USD (US$),Statista,0.854,1.09,1.38,1.844,2.321,2.58,3.581,4.677,6.185,6.752,7.523
+Morocco,Household Care,Revenue,Other Household Care,million USD (US$),Statista,2.506,3.215,4.092,5.681,7.212,8.23,11.71,15.64,21.11,23.07,25.79
+Morocco,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.082,0.106,0.136,0.206,0.265,0.313,0.458,0.627,0.863,0.945,1.06
+Morocco,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.195,0.249,0.315,0.413,0.519,0.577,0.8,1.044,1.38,1.506,1.678
+Morocco,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.544,0.703,0.903,1.274,1.632,1.935,2.849,3.92,5.42,5.929,6.653
+Morocco,Household Care,Revenue Change,Total,percent,Statista,,28.282,27.273,38.876,26.945,14.129,42.227,33.625,34.92,9.303,11.779
+Morocco,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,27.642,26.582,43.593,26.738,10.415,37.896,29.661,31.326,9.349,11.411
+Morocco,Household Care,Revenue Change,Household Cleaners,percent,Statista,,27.63,26.591,49.352,27.111,10.919,38.392,30.172,31.831,9.43,11.49
+Morocco,Household Care,Revenue Change,Household Paper,percent,Statista,,29.332,28.349,35.05,27.57,19.634,48.5,38.804,39.424,9.29,12.264
+Morocco,Household Care,Revenue Change,Laundry Care,percent,Statista,,27.665,26.606,33.623,25.868,11.159,38.798,30.606,32.243,9.167,11.419
+Morocco,Household Care,Revenue Change,Other Household Care,percent,Statista,,28.292,27.278,38.832,26.949,14.115,42.284,33.561,34.974,9.285,11.79
+Morocco,Household Care,Revenue Change,Paper Tissues,percent,Statista,,29.387,28.261,51.584,28.974,17.98,46.422,36.897,37.536,9.514,12.169
+Morocco,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,27.627,26.627,30.955,25.648,11.141,38.727,30.516,32.184,9.13,11.421
+Morocco,Household Care,Revenue Change,Toilet Paper,percent,Statista,,29.336,28.356,41.148,28.1,18.566,47.235,37.592,38.265,9.391,12.211
+Morocco,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Morocco,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Morocco,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Morocco,Household Care,Online & Offline Split,Offline,percent,Statista,99.541,99.419,99.269,99.002,98.757,98.44,97.976,97.346,96.492,,
+Morocco,Household Care,Online & Offline Split,Online,percent,Statista,0.459,0.581,0.731,0.998,1.243,1.56,2.024,2.654,3.508,,
+Morocco,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Household Care,Users by Segment,Total,million users,Statista,1.248,1.46,1.686,1.929,2.171,2.406,2.607,2.772,2.938,3.117,3.284
+Morocco,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.524,0.613,0.708,0.81,0.912,1.01,1.095,1.164,1.234,1.309,1.379
+Morocco,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.562,0.657,0.759,0.868,0.977,1.083,1.173,1.247,1.322,1.403,1.478
+Morocco,Household Care,Users by Segment,Household Paper,million users,Statista,0.287,0.336,0.388,0.444,0.499,0.553,0.6,0.637,0.676,0.717,0.756
+Morocco,Household Care,Users by Segment,Laundry Care,million users,Statista,0.499,0.584,0.675,0.772,0.868,0.962,1.043,1.109,1.175,1.247,1.313
+Morocco,Household Care,Users by Segment,Other Household Care,million users,Statista,0.275,0.321,0.371,0.424,0.478,0.529,0.574,0.61,0.646,0.686,0.723
+Morocco,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.399,0.467,0.54,0.617,0.695,0.77,0.834,0.887,0.94,0.997,1.051
+Morocco,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.374,0.438,0.506,0.579,0.651,0.722,0.782,0.832,0.881,0.935,0.985
+Morocco,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.437,0.511,0.59,0.675,0.76,0.842,0.912,0.97,1.028,1.091,1.149
+Morocco,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.473,1.702,1.942,2.195,2.441,2.675,2.867,3.015,3.164,3.322,3.466
+Morocco,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,3.507,4.053,4.624,5.226,5.812,6.369,6.826,7.179,7.532,7.911,8.253
+Morocco,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,1.578,1.824,2.081,2.352,2.616,2.866,3.072,3.231,3.389,3.56,3.714
+Morocco,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.807,0.932,1.063,1.202,1.337,1.465,1.57,1.651,1.732,1.82,1.899
+Morocco,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.403,1.621,1.849,2.091,2.325,2.547,2.73,2.872,3.013,3.164,3.301
+Morocco,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.772,0.892,1.017,1.15,1.279,1.401,1.502,1.579,1.657,1.741,1.817
+Morocco,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.122,1.297,1.48,1.672,1.86,2.038,2.184,2.297,2.41,2.531,2.641
+Morocco,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.052,1.216,1.387,1.568,1.744,1.911,2.048,2.154,2.26,2.373,2.476
+Morocco,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.228,1.419,1.618,1.829,2.034,2.229,2.389,2.513,2.636,2.769,2.888
+Morocco,Food,Revenue,Total,million USD (US$),Statista,3.734,5.399,7.542,14.44,20.31,18.45,20.79,21.87,23.1,24.31,25.32
+Morocco,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,0.368,0.532,0.744,1.491,2.293,2.085,2.349,2.471,2.611,2.764,2.89
+Morocco,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,0.935,1.353,1.89,4.029,5.678,5.108,5.698,5.937,6.213,6.516,6.756
+Morocco,Food,Revenue,Convenience Food,million USD (US$),Statista,0.207,0.299,0.418,0.773,1.072,0.976,1.101,1.16,1.226,1.289,1.342
+Morocco,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,0.366,0.529,0.739,1.269,1.747,1.606,1.829,1.945,2.077,2.192,2.292
+Morocco,Food,Revenue,Fish & Seafood,million USD (US$),Statista,0.29,0.419,0.585,1.074,1.488,1.353,1.527,1.61,1.706,1.797,1.875
+Morocco,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,0.365,0.528,0.738,1.37,1.9,1.733,1.959,2.067,2.19,2.305,2.402
+Morocco,Food,Revenue,Meat,million USD (US$),Statista,0.584,0.844,1.179,2.183,3.028,2.756,3.11,3.278,3.467,3.647,3.797
+Morocco,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.097,0.141,0.197,0.337,0.464,0.425,0.483,0.512,0.546,0.575,0.601
+Morocco,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.041,0.059,0.083,0.131,0.178,0.165,0.189,0.202,0.217,0.232,0.246
+Morocco,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.036,0.052,0.072,0.115,0.157,0.144,0.165,0.175,0.187,0.197,0.206
+Morocco,Food,Revenue,Vegetables,million USD (US$),Statista,0.444,0.642,0.897,1.664,2.308,2.104,2.377,2.508,2.657,2.796,2.913
+Morocco,Food,Revenue Change,Total,percent,Statista,,44.59,39.693,91.461,40.651,-9.158,12.683,5.195,5.624,5.238,4.155
+Morocco,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,44.583,39.7,100.43,53.789,-9.071,12.662,5.194,5.666,5.86,4.559
+Morocco,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,44.629,39.69,113.175,40.928,-10.039,11.551,4.194,4.649,4.877,3.683
+Morocco,Food,Revenue Change,Convenience Food,percent,Statista,,44.606,39.712,85.105,38.68,-8.983,12.842,5.359,5.69,5.139,4.112
+Morocco,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,44.563,39.709,71.672,37.667,-8.071,13.885,6.342,6.787,5.537,4.562
+Morocco,Food,Revenue Change,Fish & Seafood,percent,Statista,,44.579,39.718,83.59,38.547,-9.073,12.86,5.435,5.963,5.334,4.341
+Morocco,Food,Revenue Change,Fruits & Nuts,percent,Statista,,44.596,39.716,85.536,38.686,-8.789,13.041,5.513,5.951,5.251,4.208
+Morocco,Food,Revenue Change,Meat,percent,Statista,,44.597,39.642,85.157,38.708,-8.983,12.845,5.402,5.766,5.192,4.113
+Morocco,Food,Revenue Change,Oils & Fats,percent,Statista,,44.546,39.758,71.45,37.608,-8.326,13.624,6.088,6.5,5.407,4.451
+Morocco,Food,Revenue Change,Sauces & Spices,percent,Statista,,44.599,39.713,57.634,36.447,-7.464,14.615,7.037,7.415,6.949,5.895
+Morocco,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,44.581,39.702,59.176,36.664,-8.137,13.841,6.322,6.747,5.463,4.52
+Morocco,Food,Revenue Change,Vegetables,percent,Statista,,44.607,39.692,85.487,38.702,-8.839,12.975,5.511,5.941,5.231,4.185
+Morocco,Food,Average Revenue per User,Total,USD (US$),Statista,2.798,3.122,3.394,5.416,6.446,5.061,5.078,4.905,4.779,4.64,4.5
+Morocco,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,0.587,0.655,0.712,1.19,1.548,1.216,1.221,1.18,1.149,1.122,1.093
+Morocco,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,1.431,1.596,1.735,3.085,3.677,2.859,2.841,2.718,2.623,2.538,2.45
+Morocco,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,0.277,0.309,0.336,0.518,0.608,0.478,0.48,0.465,0.453,0.44,0.426
+Morocco,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,1.192,1.33,1.446,2.071,2.41,1.915,1.943,1.897,1.868,1.819,1.771
+Morocco,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,1.142,1.274,1.385,2.12,2.484,1.953,1.963,1.901,1.858,1.805,1.754
+Morocco,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,0.527,0.588,0.639,0.988,1.16,0.914,0.92,0.892,0.872,0.846,0.821
+Morocco,Food,Average Revenue per User,Meat,USD (US$),Statista,1.458,1.627,1.769,2.731,3.203,2.52,2.533,2.451,2.392,2.32,2.249
+Morocco,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,0.291,0.325,0.354,0.506,0.588,0.466,0.472,0.46,0.452,0.439,0.427
+Morocco,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.07,0.078,0.085,0.111,0.129,0.103,0.105,0.103,0.102,0.101,0.099
+Morocco,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.081,0.091,0.099,0.131,0.151,0.12,0.122,0.119,0.117,0.114,0.111
+Morocco,Food,Average Revenue per User,Vegetables,USD (US$),Statista,0.679,0.758,0.824,1.274,1.495,1.178,1.185,1.148,1.122,1.089,1.057
+Morocco,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Food,Online & Offline Split,Offline,percent,Statista,99.978,99.969,99.958,99.934,99.907,99.906,99.904,99.903,99.901,,
+Morocco,Food,Online & Offline Split,Online,percent,Statista,0.022,0.031,0.042,0.066,0.093,0.094,0.096,0.097,0.099,,
+Morocco,Food,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Food,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Food,Users,Total,million users,Statista,1.335,1.729,2.222,2.665,3.152,3.646,4.093,4.458,4.833,5.239,5.627
+Morocco,Food,Users,Bread & Cereal Products,million users,Statista,0.627,0.813,1.045,1.253,1.481,1.714,1.924,2.095,2.271,2.462,2.645
+Morocco,Food,Users,Confectionery & Snacks,million users,Statista,0.654,0.847,1.089,1.306,1.544,1.787,2.006,2.184,2.368,2.567,2.757
+Morocco,Food,Users,Convenience Food,million users,Statista,0.747,0.969,1.245,1.493,1.765,2.042,2.292,2.496,2.706,2.934,3.151
+Morocco,Food,Users,Dairy Products & Eggs,million users,Statista,0.307,0.398,0.511,0.613,0.725,0.839,0.941,1.025,1.112,1.205,1.294
+Morocco,Food,Users,Fish & Seafood,million users,Statista,0.254,0.329,0.422,0.506,0.599,0.693,0.778,0.847,0.918,0.995,1.069
+Morocco,Food,Users,Fruits & Nuts,million users,Statista,0.694,0.899,1.156,1.386,1.639,1.896,2.128,2.318,2.513,2.724,2.926
+Morocco,Food,Users,Meat,million users,Statista,0.4,0.519,0.667,0.8,0.945,1.094,1.228,1.337,1.45,1.572,1.688
+Morocco,Food,Users,Oils & Fats,million users,Statista,0.334,0.432,0.556,0.666,0.788,0.912,1.023,1.114,1.208,1.31,1.407
+Morocco,Food,Users,Sauces & Spices,million users,Statista,0.587,0.761,0.978,1.173,1.387,1.604,1.801,1.961,2.126,2.305,2.476
+Morocco,Food,Users,Spreads & Sweeteners,million users,Statista,0.44,0.571,0.733,0.88,1.04,1.203,1.351,1.471,1.595,1.729,1.857
+Morocco,Food,Users,Vegetables,million users,Statista,0.654,0.847,1.089,1.306,1.544,1.787,2.006,2.184,2.368,2.567,2.757
+Morocco,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.763,2.256,2.864,3.394,3.966,4.537,5.037,5.427,5.823,6.249,6.647
+Morocco,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.838,2.352,2.986,3.538,4.135,4.73,5.251,5.658,6.071,6.515,6.93
+Morocco,Food,Penetration Rate,Convenience Food,percent,Statista,2.1,2.688,3.412,4.044,4.726,5.406,6.002,6.466,6.938,7.446,7.92
+Morocco,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.863,1.104,1.402,1.661,1.941,2.22,2.465,2.656,2.849,3.058,3.253
+Morocco,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.713,0.912,1.158,1.372,1.603,1.834,2.036,2.194,2.354,2.526,2.687
+Morocco,Food,Penetration Rate,Food,percent,Statista,3.751,4.8,6.093,7.221,8.439,9.654,10.717,11.546,12.389,13.296,14.143
+Morocco,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.95,2.496,3.169,3.755,4.388,5.02,5.573,6.004,6.442,6.914,7.354
+Morocco,Food,Penetration Rate,Meat,percent,Statista,1.125,1.44,1.828,2.166,2.532,2.896,3.215,3.464,3.717,3.989,4.243
+Morocco,Food,Penetration Rate,Oils & Fats,percent,Statista,0.938,1.2,1.523,1.805,2.11,2.413,2.679,2.887,3.097,3.324,3.535
+Morocco,Food,Penetration Rate,Sauces & Spices,percent,Statista,1.65,2.112,2.681,3.177,3.713,4.248,4.716,5.08,5.451,5.85,6.223
+Morocco,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.238,1.584,2.011,2.383,2.785,3.186,3.537,3.81,4.088,4.388,4.667
+Morocco,Food,Penetration Rate,Vegetables,percent,Statista,1.838,2.352,2.986,3.538,4.135,4.73,5.251,5.658,6.071,6.515,6.93
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,0.587,0.655,0.712,1.19,1.548,1.216,1.221,1.18,1.149,1.122,1.093
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,0.52,0.58,0.63,1.059,1.385,1.088,1.092,1.055,1.027,1.004,0.977
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.036,0.04,0.044,0.068,0.079,0.063,0.063,0.062,0.06,0.059,0.057
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,0.233,0.26,0.283,0.473,0.615,0.483,0.485,0.469,0.456,0.446,0.434
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.067,0.075,0.082,0.137,0.179,0.141,0.141,0.137,0.133,0.13,0.127
+Morocco,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.072,0.081,0.088,0.147,0.193,0.151,0.151,0.146,0.142,0.139,0.135
+Morocco,Bread & Cereal Products,Revenue,Total,thousand USD (US$),Statista,368.3,532.5,743.9,"1,491","2,293","2,085","2,349","2,471","2,611","2,764","2,890"
+Morocco,Bread & Cereal Products,Revenue,Bread,thousand USD (US$),Statista,205.4,296.9,414.8,835.6,"1,293","1,175","1,323","1,392","1,470","1,557","1,628"
+Morocco,Bread & Cereal Products,Revenue,Breakfast Cereals,thousand USD (US$),Statista,18.75,27.11,37.87,70.38,97.66,89.26,101.1,107,113.6,119.9,125.3
+Morocco,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,thousand USD (US$),Statista,65.81,95.16,132.9,266.5,409.9,372.5,419.8,441.7,466.6,493.8,516.3
+Morocco,Bread & Cereal Products,Revenue,Pasta,thousand USD (US$),Statista,37.96,54.89,76.68,154.5,239,217.4,245.1,258,272.7,288.9,302.3
+Morocco,Bread & Cereal Products,Revenue,Rice,thousand USD (US$),Statista,40.37,58.37,81.54,164.2,254.1,230.6,259.4,272.6,287.5,304.1,317.8
+Morocco,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,44.583,39.7,100.43,53.789,-9.071,12.662,5.194,5.666,5.86,4.559
+Morocco,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,44.547,39.71,101.446,54.739,-9.126,12.596,5.215,5.603,5.918,4.56
+Morocco,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,44.587,39.69,85.846,38.761,-8.601,13.265,5.836,6.168,5.546,4.504
+Morocco,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,44.598,39.66,100.527,53.809,-9.124,12.698,5.217,5.637,5.829,4.557
+Morocco,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,44.6,39.698,101.487,54.693,-9.038,12.741,5.263,5.698,5.941,4.638
+Morocco,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,44.588,39.695,101.374,54.75,-9.248,12.489,5.089,5.466,5.774,4.505
+Morocco,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Morocco,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Morocco,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.974,99.963,99.95,99.931,99.89,99.886,99.883,99.88,99.877,,
+Morocco,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.026,0.037,0.05,0.069,0.11,0.114,0.117,0.12,0.123,,
+Morocco,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.627,0.813,1.045,1.253,1.481,1.714,1.924,2.095,2.271,2.462,2.645
+Morocco,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.395,0.512,0.658,0.789,0.933,1.08,1.212,1.32,1.431,1.551,1.666
+Morocco,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.521,0.675,0.867,1.04,1.229,1.422,1.597,1.739,1.885,2.044,2.195
+Morocco,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.282,0.366,0.47,0.564,0.667,0.771,0.866,0.943,1.022,1.108,1.19
+Morocco,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.565,0.732,0.94,1.127,1.333,1.542,1.731,1.886,2.044,2.216,2.38
+Morocco,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.558,0.723,0.93,1.115,1.318,1.525,1.712,1.865,2.022,2.192,2.354
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.111,1.421,1.804,2.138,2.499,2.858,3.173,3.419,3.668,3.937,4.188
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.763,2.256,2.864,3.394,3.966,4.537,5.037,5.427,5.823,6.249,6.647
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,1.463,1.873,2.377,2.817,3.292,3.766,4.181,4.504,4.833,5.187,5.517
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.793,1.015,1.289,1.527,1.785,2.042,2.267,2.442,2.62,2.812,2.991
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,1.587,2.03,2.578,3.054,3.57,4.084,4.533,4.884,5.241,5.624,5.983
+Morocco,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,1.569,2.008,2.549,3.02,3.53,4.038,4.483,4.83,5.182,5.562,5.916
+Morocco,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,1.431,1.596,1.735,3.085,3.677,2.859,2.841,2.718,2.623,2.538,2.45
+Morocco,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,1.271,1.418,1.541,2.754,3.285,2.557,2.545,2.438,2.356,2.281,2.203
+Morocco,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.037,0.042,0.045,0.08,0.096,0.074,0.074,0.071,0.068,0.066,0.064
+Morocco,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,0.396,0.442,0.48,0.841,1,0.775,0.767,0.731,0.704,0.679,0.654
+Morocco,Confectionery & Snacks,Revenue,Total,thousand USD (US$),Statista,935.5,"1,353","1,890","4,029","5,678","5,108","5,698","5,937","6,213","6,516","6,756"
+Morocco,Confectionery & Snacks,Revenue,Confectionery,thousand USD (US$),Statista,681.3,985.2,"1,376","2,950","4,160","3,747","4,185","4,366","4,574","4,801","4,982"
+Morocco,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,thousand USD (US$),Statista,13.38,19.34,27.02,57.61,81.19,73.04,81.48,84.9,88.84,93.21,96.68
+Morocco,Confectionery & Snacks,Revenue,Snack Food,thousand USD (US$),Statista,240.8,348.1,486.4,"1,021","1,437","1,288","1,431","1,486","1,549","1,622","1,678"
+Morocco,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,44.629,39.69,113.175,40.928,-10.039,11.551,4.194,4.649,4.877,3.683
+Morocco,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,44.606,39.667,114.39,41.017,-9.928,11.689,4.325,4.764,4.963,3.77
+Morocco,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,44.544,39.71,113.212,40.93,-10.038,11.555,4.197,4.641,4.919,3.723
+Morocco,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,44.56,39.73,109.91,40.744,-10.369,11.102,3.843,4.24,4.713,3.453
+Morocco,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Morocco,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Morocco,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.978,99.969,99.958,99.93,99.9,99.899,99.897,99.896,99.895,,
+Morocco,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.022,0.031,0.042,0.07,0.1,0.101,0.103,0.104,0.105,,
+Morocco,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.654,0.847,1.089,1.306,1.544,1.787,2.006,2.184,2.368,2.567,2.757
+Morocco,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.536,0.695,0.893,1.071,1.266,1.465,1.645,1.791,1.942,2.105,2.261
+Morocco,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.36,0.466,0.599,0.718,0.849,0.983,1.103,1.201,1.302,1.412,1.516
+Morocco,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.608,0.788,1.013,1.215,1.436,1.662,1.865,2.031,2.202,2.388,2.564
+Morocco,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,1.507,1.929,2.448,2.901,3.391,3.879,4.306,4.639,4.978,5.342,5.683
+Morocco,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.838,2.352,2.986,3.538,4.135,4.73,5.251,5.658,6.071,6.515,6.93
+Morocco,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.011,1.294,1.642,1.946,2.274,2.602,2.888,3.112,3.339,3.583,3.811
+Morocco,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.709,2.187,2.777,3.29,3.846,4.399,4.884,5.262,5.646,6.059,6.445
+Morocco,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,0.277,0.309,0.336,0.518,0.608,0.478,0.48,0.465,0.453,0.44,0.426
+Morocco,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,0.362,0.405,0.44,0.679,0.796,0.626,0.63,0.61,0.595,0.577,0.56
+Morocco,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.044,0.049,0.054,0.083,0.097,0.076,0.076,0.073,0.071,0.069,0.066
+Morocco,Convenience Food,Revenue,Total,thousand USD (US$),Statista,206.7,298.9,417.6,773,"1,072",975.7,"1,101","1,160","1,226","1,289","1,342"
+Morocco,Convenience Food,Revenue,Ready-to-Eat Meals,thousand USD (US$),Statista,186.9,270.3,377.6,698.9,969.3,882.6,996.2,"1,050","1,111","1,168","1,217"
+Morocco,Convenience Food,Revenue,Soups,thousand USD (US$),Statista,19.81,28.64,40.01,74.13,102.8,93.1,104.5,109.6,115.3,120.9,125.6
+Morocco,Convenience Food,Revenue Change,Total,percent,Statista,,44.606,39.712,85.105,38.68,-8.983,12.842,5.359,5.69,5.139,4.112
+Morocco,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,44.623,39.697,85.09,38.689,-8.945,12.871,5.401,5.81,5.131,4.195
+Morocco,Convenience Food,Revenue Change,Soups,percent,Statista,,44.573,39.7,85.279,38.675,-9.436,12.245,4.88,5.201,4.857,3.888
+Morocco,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.958,99.935,99.91,99.909,99.907,99.906,99.904,,
+Morocco,Convenience Food,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.042,0.065,0.09,0.091,0.093,0.094,0.096,,
+Morocco,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Convenience Food,Users by Segment,Total,million users,Statista,0.747,0.969,1.245,1.493,1.765,2.042,2.292,2.496,2.706,2.934,3.151
+Morocco,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.516,0.668,0.859,1.03,1.218,1.409,1.582,1.722,1.867,2.024,2.174
+Morocco,Convenience Food,Users by Segment,Soups,million users,Statista,0.448,0.581,0.747,0.896,1.059,1.225,1.375,1.498,1.624,1.76,1.891
+Morocco,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,2.1,2.688,3.412,4.044,4.726,5.406,6.002,6.466,6.938,7.446,7.92
+Morocco,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,1.449,1.855,2.355,2.79,3.261,3.73,4.141,4.462,4.787,5.138,5.465
+Morocco,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.26,1.613,2.047,2.426,2.836,3.244,3.601,3.88,4.163,4.468,4.752
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,1.192,1.33,1.446,2.071,2.41,1.915,1.943,1.897,1.868,1.819,1.771
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,0.163,0.182,0.197,0.283,0.329,0.261,0.265,0.259,0.254,0.248,0.241
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,0.314,0.35,0.381,0.545,0.634,0.503,0.51,0.497,0.489,0.476,0.463
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,0.099,0.111,0.12,0.172,0.2,0.159,0.161,0.157,0.155,0.151,0.147
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,2.204,2.459,2.673,3.828,4.456,3.54,3.592,3.508,3.455,3.363,3.275
+Morocco,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,0.158,0.176,0.191,0.274,0.319,0.254,0.258,0.253,0.249,0.243,0.237
+Morocco,Dairy Products & Eggs,Revenue,Total,thousand USD (US$),Statista,366,529.1,739.2,"1,269","1,747","1,606","1,829","1,945","2,077","2,192","2,292"
+Morocco,Dairy Products & Eggs,Revenue,Cheese,thousand USD (US$),Statista,37.46,54.16,75.67,129.9,178.8,164.2,187,198.7,212.1,223.8,234
+Morocco,Dairy Products & Eggs,Revenue,Eggs,thousand USD (US$),Statista,41.41,59.88,83.65,143.6,197.6,181.4,206.4,219.3,233.9,246.7,257.8
+Morocco,Dairy Products & Eggs,Revenue,Milk,thousand USD (US$),Statista,23.71,34.28,47.9,82.22,113.1,104,118.4,125.9,134.4,141.9,148.4
+Morocco,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,thousand USD (US$),Statista,236.8,342.3,478.2,821.3,"1,130","1,039","1,184","1,259","1,344","1,419","1,484"
+Morocco,Dairy Products & Eggs,Revenue,Yogurt,thousand USD (US$),Statista,26.62,38.49,53.77,92.43,127.2,117.1,133.6,142.4,152.2,160.9,168.5
+Morocco,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,44.563,39.709,71.672,37.667,-8.071,13.885,6.342,6.787,5.537,4.562
+Morocco,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,44.581,39.716,71.666,37.644,-8.166,13.886,6.257,6.744,5.516,4.558
+Morocco,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,44.603,39.696,71.668,37.604,-8.198,13.782,6.25,6.658,5.472,4.499
+Morocco,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,44.58,39.732,71.649,37.558,-8.046,13.846,6.334,6.751,5.58,4.581
+Morocco,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,44.552,39.702,71.748,37.587,-8.053,13.956,6.334,6.751,5.58,4.581
+Morocco,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,44.591,39.699,71.899,37.618,-7.94,14.091,6.587,6.882,5.716,4.723
+Morocco,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Morocco,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Morocco,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.959,99.939,99.918,99.916,99.915,99.914,99.912,,
+Morocco,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.041,0.061,0.082,0.084,0.085,0.086,0.088,,
+Morocco,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.307,0.398,0.511,0.613,0.725,0.839,0.941,1.025,1.112,1.205,1.294
+Morocco,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.23,0.298,0.383,0.46,0.544,0.629,0.706,0.769,0.834,0.904,0.971
+Morocco,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.132,0.171,0.22,0.264,0.312,0.361,0.405,0.441,0.478,0.518,0.557
+Morocco,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.239,0.31,0.399,0.478,0.565,0.654,0.734,0.8,0.867,0.94,1.01
+Morocco,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.107,0.139,0.179,0.215,0.254,0.294,0.33,0.359,0.389,0.422,0.453
+Morocco,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.169,0.219,0.281,0.337,0.399,0.461,0.518,0.564,0.611,0.663,0.712
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.647,0.828,1.051,1.246,1.456,1.665,1.849,1.992,2.137,2.294,2.44
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.863,1.104,1.402,1.661,1.941,2.22,2.465,2.656,2.849,3.058,3.253
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.371,0.475,0.603,0.714,0.835,0.955,1.06,1.142,1.225,1.315,1.399
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.673,0.861,1.093,1.295,1.514,1.732,1.923,2.071,2.223,2.385,2.537
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.302,0.386,0.491,0.581,0.679,0.777,0.863,0.929,0.997,1.07,1.139
+Morocco,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.474,0.607,0.771,0.913,1.068,1.221,1.356,1.461,1.567,1.682,1.789
+Morocco,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,1.142,1.274,1.385,2.12,2.484,1.953,1.963,1.901,1.858,1.805,1.754
+Morocco,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,1.647,1.838,1.998,3.065,3.592,2.767,2.726,2.587,2.477,2.378,2.281
+Morocco,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,0.845,0.942,1.024,1.554,1.819,1.474,1.525,1.518,1.524,1.498,1.474
+Morocco,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,0.33,0.368,0.4,0.613,0.719,0.578,0.593,0.586,0.584,0.574,0.564
+Morocco,Fish & Seafood,Revenue,Total,thousand USD (US$),Statista,289.6,418.7,585,"1,074","1,488","1,353","1,527","1,610","1,706","1,797","1,875"
+Morocco,Fish & Seafood,Revenue,Fresh Fish,thousand USD (US$),Statista,162.9,235.5,329,605.3,838.9,747.7,826.9,854.5,887.2,923.4,951.1
+Morocco,Fish & Seafood,Revenue,Fresh Seafood,thousand USD (US$),Statista,51.39,74.31,103.8,188.8,261.4,245,284.6,308.6,336,359.6,381.5
+Morocco,Fish & Seafood,Revenue,Processed Fish & Seafood,thousand USD (US$),Statista,75.33,108.9,152.2,279.4,387.2,360.2,415.2,446.8,482.7,514,542.3
+Morocco,Fish & Seafood,Revenue Change,Total,percent,Statista,,44.579,39.718,83.59,38.547,-9.073,12.86,5.435,5.963,5.334,4.341
+Morocco,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,44.567,39.703,83.982,38.592,-10.871,10.592,3.338,3.827,4.08,3
+Morocco,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,44.6,39.685,81.888,38.453,-6.274,16.163,8.433,8.879,7.024,6.09
+Morocco,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,44.564,39.761,83.574,38.583,-6.973,15.269,7.611,8.035,6.484,5.506
+Morocco,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.958,99.936,99.912,99.911,99.91,99.909,99.907,,
+Morocco,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.042,0.064,0.088,0.089,0.09,0.091,0.093,,
+Morocco,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Fish & Seafood,Users by Segment,Total,million users,Statista,0.254,0.329,0.422,0.506,0.599,0.693,0.778,0.847,0.918,0.995,1.069
+Morocco,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.099,0.128,0.165,0.197,0.234,0.27,0.303,0.33,0.358,0.388,0.417
+Morocco,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.061,0.079,0.101,0.122,0.144,0.166,0.187,0.203,0.22,0.24,0.259
+Morocco,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.228,0.296,0.38,0.456,0.539,0.624,0.7,0.762,0.826,0.896,0.962
+Morocco,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.713,0.912,1.158,1.372,1.603,1.834,2.036,2.194,2.354,2.526,2.687
+Morocco,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.278,0.356,0.452,0.535,0.625,0.715,0.794,0.856,0.918,0.985,1.048
+Morocco,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.171,0.219,0.278,0.329,0.385,0.44,0.489,0.527,0.565,0.609,0.651
+Morocco,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.641,0.821,1.042,1.235,1.443,1.651,1.833,1.974,2.119,2.274,2.419
+Morocco,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,0.527,0.588,0.639,0.988,1.16,0.914,0.92,0.892,0.872,0.846,0.821
+Morocco,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,0.664,0.74,0.805,1.245,1.461,1.152,1.16,1.124,1.099,1.067,1.035
+Morocco,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.051,0.057,0.062,0.096,0.112,0.089,0.089,0.087,0.085,0.083,0.08
+Morocco,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.074,0.082,0.089,0.138,0.161,0.127,0.127,0.123,0.12,0.116,0.113
+Morocco,Fruits & Nuts,Revenue,Total,thousand USD (US$),Statista,365.5,528.5,738.4,"1,370","1,900","1,733","1,959","2,067","2,190","2,305","2,402"
+Morocco,Fruits & Nuts,Revenue,Fresh Fruits,thousand USD (US$),Statista,322.4,466.1,651.2,"1,208","1,676","1,529","1,728","1,824","1,933","2,035","2,121"
+Morocco,Fruits & Nuts,Revenue,Nuts,thousand USD (US$),Statista,17.67,25.54,35.68,66.28,91.96,83.98,95.07,100.5,106.6,112.4,117.2
+Morocco,Fruits & Nuts,Revenue,Processed & Frozen Fruits,thousand USD (US$),Statista,25.52,36.9,51.54,95.37,132.3,120.2,135.4,142.4,150.4,158.2,164.6
+Morocco,Fruits & Nuts,Revenue Change,Total,percent,Statista,,44.596,39.716,85.536,38.686,-8.789,13.041,5.513,5.951,5.251,4.208
+Morocco,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,44.572,39.713,85.504,38.742,-8.771,13.015,5.556,5.976,5.277,4.226
+Morocco,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,44.539,39.702,85.762,38.745,-8.678,13.206,5.712,6.07,5.441,4.27
+Morocco,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,44.592,39.675,85.041,38.723,-9.146,12.646,5.17,5.618,5.186,4.046
+Morocco,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.959,99.936,99.912,99.91,99.909,99.908,99.907,,
+Morocco,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.041,0.064,0.088,0.09,0.091,0.092,0.093,,
+Morocco,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.694,0.899,1.156,1.386,1.639,1.896,2.128,2.318,2.513,2.724,2.926
+Morocco,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.486,0.63,0.809,0.97,1.147,1.327,1.49,1.623,1.759,1.907,2.048
+Morocco,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.347,0.45,0.578,0.693,0.819,0.948,1.064,1.159,1.257,1.362,1.463
+Morocco,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.347,0.45,0.578,0.693,0.819,0.948,1.064,1.159,1.257,1.362,1.463
+Morocco,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,1.365,1.747,2.218,2.628,3.072,3.514,3.901,4.203,4.51,4.84,5.148
+Morocco,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.95,2.496,3.169,3.755,4.388,5.02,5.573,6.004,6.442,6.914,7.354
+Morocco,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.975,1.248,1.584,1.877,2.194,2.51,2.786,3.002,3.221,3.457,3.677
+Morocco,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.975,1.248,1.584,1.877,2.194,2.51,2.786,3.002,3.221,3.457,3.677
+Morocco,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,1.458,1.627,1.769,2.731,3.203,2.52,2.533,2.451,2.392,2.32,2.249
+Morocco,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,1.353,1.51,1.641,2.544,2.985,2.36,2.384,2.317,2.271,2.209,2.147
+Morocco,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,0.603,0.673,0.732,1.121,1.314,1.024,1.021,0.979,0.948,0.915,0.883
+Morocco,Meat,Revenue,Total,million USD (US$),Statista,0.584,0.844,1.179,2.183,3.028,2.756,3.11,3.278,3.467,3.647,3.797
+Morocco,Meat,Revenue,Fresh Meat,million USD (US$),Statista,0.374,0.54,0.755,1.404,1.948,1.781,2.02,2.138,2.272,2.396,2.501
+Morocco,Meat,Revenue,Processed Meat,million USD (US$),Statista,0.21,0.304,0.424,0.78,1.081,0.975,1.091,1.14,1.195,1.251,1.296
+Morocco,Meat,Revenue Change,Total,percent,Statista,,44.597,39.642,85.157,38.708,-8.983,12.845,5.402,5.766,5.192,4.113
+Morocco,Meat,Revenue Change,Fresh Meat,percent,Statista,,44.596,39.704,85.936,38.746,-8.573,13.419,5.842,6.268,5.458,4.382
+Morocco,Meat,Revenue Change,Processed Meat,percent,Statista,,44.598,39.697,83.742,38.625,-9.806,11.897,4.491,4.825,4.686,3.597
+Morocco,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Morocco,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Morocco,Meat,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.958,99.935,99.911,99.909,99.908,99.906,99.904,,
+Morocco,Meat,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.042,0.065,0.089,0.091,0.092,0.094,0.096,,
+Morocco,Meat,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Meat,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Meat,Users by Segment,Total,million users,Statista,0.4,0.519,0.667,0.8,0.945,1.094,1.228,1.337,1.45,1.572,1.688
+Morocco,Meat,Users by Segment,Fresh Meat,million users,Statista,0.276,0.358,0.46,0.552,0.652,0.755,0.847,0.923,1,1.085,1.165
+Morocco,Meat,Users by Segment,Processed Meat,million users,Statista,0.348,0.451,0.58,0.696,0.823,0.952,1.068,1.163,1.261,1.367,1.469
+Morocco,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.776,0.994,1.261,1.495,1.747,1.998,2.218,2.39,2.565,2.752,2.928
+Morocco,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.125,1.44,1.828,2.166,2.532,2.896,3.215,3.464,3.717,3.989,4.243
+Morocco,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.979,1.253,1.59,1.885,2.203,2.52,2.797,3.014,3.234,3.47,3.691
+Morocco,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,0.291,0.325,0.354,0.506,0.588,0.466,0.472,0.46,0.452,0.439,0.427
+Morocco,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.056,0.062,0.068,0.097,0.113,0.09,0.091,0.089,0.087,0.085,0.083
+Morocco,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,0.159,0.177,0.192,0.275,0.32,0.253,0.256,0.249,0.245,0.238,0.231
+Morocco,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.057,0.064,0.069,0.099,0.115,0.091,0.091,0.089,0.087,0.084,0.082
+Morocco,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,0.124,0.138,0.15,0.215,0.251,0.199,0.202,0.197,0.194,0.189,0.184
+Morocco,Oils & Fats,Revenue,Total,thousand USD (US$),Statista,97.27,140.6,196.5,336.9,463.6,425,482.9,512.3,545.6,575.1,600.7
+Morocco,Oils & Fats,Revenue,Butter,thousand USD (US$),Statista,14.89,21.54,30.09,51.66,71.1,65.33,74.41,79.13,84.46,89.15,93.25
+Morocco,Oils & Fats,Revenue,Edible Oils,thousand USD (US$),Statista,42.31,61.18,85.47,146.5,201.6,184.7,209.8,222.4,236.7,249.4,260.3
+Morocco,Oils & Fats,Revenue,Margarine,thousand USD (US$),Statista,15.23,22.02,30.76,52.61,72.38,66.09,74.8,79.04,83.85,88.18,91.89
+Morocco,Oils & Fats,Revenue,Other Oils & Fats,thousand USD (US$),Statista,24.83,35.9,50.16,86.11,118.5,108.9,123.9,131.8,140.6,148.4,155.2
+Morocco,Oils & Fats,Revenue Change,Total,percent,Statista,,44.546,39.758,71.45,37.608,-8.326,13.624,6.088,6.5,5.407,4.451
+Morocco,Oils & Fats,Revenue Change,Butter,percent,Statista,,44.661,39.694,71.685,37.631,-8.115,13.899,6.343,6.736,5.553,4.599
+Morocco,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,44.599,39.703,71.405,37.611,-8.383,13.59,6.006,6.43,5.365,4.37
+Morocco,Oils & Fats,Revenue Change,Margarine,percent,Statista,,44.583,39.691,71.034,37.578,-8.69,13.179,5.668,6.086,5.164,4.207
+Morocco,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,44.583,39.721,71.671,37.615,-8.101,13.774,6.376,6.677,5.548,4.582
+Morocco,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.958,99.938,99.916,99.914,99.913,99.911,99.909,,
+Morocco,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.042,0.062,0.084,0.086,0.087,0.089,0.091,,
+Morocco,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Oils & Fats,Users by Segment,Total,million users,Statista,0.334,0.432,0.556,0.666,0.788,0.912,1.023,1.114,1.208,1.31,1.407
+Morocco,Oils & Fats,Users by Segment,Butter,million users,Statista,0.267,0.346,0.444,0.533,0.63,0.729,0.819,0.892,0.967,1.048,1.125
+Morocco,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.267,0.346,0.444,0.533,0.63,0.729,0.819,0.892,0.967,1.048,1.125
+Morocco,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.267,0.346,0.444,0.533,0.63,0.729,0.819,0.892,0.967,1.048,1.125
+Morocco,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.2,0.259,0.333,0.4,0.473,0.547,0.614,0.669,0.725,0.786,0.844
+Morocco,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.75,0.96,1.219,1.444,1.688,1.931,2.143,2.309,2.478,2.659,2.829
+Morocco,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.75,0.96,1.219,1.444,1.688,1.931,2.143,2.309,2.478,2.659,2.829
+Morocco,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.75,0.96,1.219,1.444,1.688,1.931,2.143,2.309,2.478,2.659,2.829
+Morocco,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.938,1.2,1.523,1.805,2.11,2.413,2.679,2.887,3.097,3.324,3.535
+Morocco,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.563,0.72,0.914,1.083,1.266,1.448,1.608,1.732,1.858,1.995,2.122
+Morocco,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.07,0.078,0.085,0.111,0.129,0.103,0.105,0.103,0.102,0.101,0.099
+Morocco,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.061,0.068,0.074,0.097,0.112,0.089,0.091,0.09,0.089,0.087,0.085
+Morocco,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.036,0.04,0.043,0.057,0.065,0.052,0.053,0.052,0.052,0.052,0.053
+Morocco,Sauces & Spices,Revenue,Total,thousand USD (US$),Statista,41.01,59.3,82.85,130.6,178.2,164.9,189,202.3,217.3,232.4,246.1
+Morocco,Sauces & Spices,Revenue,Spices & Culinary Herbs,thousand USD (US$),Statista,28.47,41.17,57.52,90.68,123.8,114.6,131.4,140.8,151.3,160.1,168
+Morocco,Sauces & Spices,Revenue,Tomato Ketchup,thousand USD (US$),Statista,12.54,18.13,25.33,39.9,54.46,50.3,57.58,61.54,66.02,72.35,78.12
+Morocco,Sauces & Spices,Revenue Change,Total,percent,Statista,,44.599,39.713,57.634,36.447,-7.464,14.615,7.037,7.415,6.949,5.895
+Morocco,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,44.608,39.713,57.65,36.524,-7.431,14.66,7.154,7.457,5.816,4.934
+Morocco,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,44.577,39.713,57.521,36.491,-7.639,14.473,6.877,7.28,9.588,7.975
+Morocco,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.041,0.058,0.078,0.079,0.08,0.082,0.084,,
+Morocco,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Sauces & Spices,Users by Segment,Total,million users,Statista,0.587,0.761,0.978,1.173,1.387,1.604,1.801,1.961,2.126,2.305,2.476
+Morocco,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.47,0.609,0.782,0.938,1.109,1.284,1.441,1.569,1.701,1.844,1.981
+Morocco,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.352,0.457,0.587,0.704,0.832,0.963,1.081,1.177,1.276,1.383,1.485
+Morocco,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,1.65,2.112,2.681,3.177,3.713,4.248,4.716,5.08,5.451,5.85,6.223
+Morocco,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.32,1.69,2.145,2.542,2.971,3.398,3.772,4.064,4.361,4.68,4.978
+Morocco,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.99,1.267,1.609,1.906,2.228,2.549,2.829,3.048,3.271,3.51,3.733
+Morocco,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.081,0.091,0.099,0.131,0.151,0.12,0.122,0.119,0.117,0.114,0.111
+Morocco,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.055,0.061,0.067,0.089,0.103,0.082,0.084,0.083,0.082,0.08,0.079
+Morocco,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.078,0.087,0.094,0.125,0.144,0.113,0.114,0.11,0.107,0.103,0.1
+Morocco,Spreads & Sweeteners,Revenue,Total,thousand USD (US$),Statista,35.8,51.76,72.31,115.1,157.3,144.5,164.5,174.9,186.7,196.9,205.8
+Morocco,Spreads & Sweeteners,Revenue,Spreads,thousand USD (US$),Statista,19.39,28.04,39.17,62.49,85.39,79.15,90.93,97.52,105,111.3,117.1
+Morocco,Spreads & Sweeteners,Revenue,Sweeteners,thousand USD (US$),Statista,16.41,23.73,33.15,52.64,71.91,65.34,73.59,77.4,81.73,85.54,88.77
+Morocco,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,44.581,39.702,59.176,36.664,-8.137,13.841,6.322,6.747,5.463,4.52
+Morocco,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,44.611,39.693,59.535,36.646,-7.308,14.883,7.247,7.67,6,5.211
+Morocco,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,44.607,39.697,58.793,36.607,-9.136,12.626,5.177,5.594,4.662,3.776
+Morocco,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Morocco,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Morocco,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.978,99.969,99.957,99.938,99.917,99.915,99.915,99.913,99.91,,
+Morocco,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.022,0.031,0.043,0.062,0.083,0.085,0.085,0.087,0.09,,
+Morocco,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.44,0.571,0.733,0.88,1.04,1.203,1.351,1.471,1.595,1.729,1.857
+Morocco,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.352,0.457,0.587,0.704,0.832,0.963,1.081,1.177,1.276,1.383,1.485
+Morocco,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.211,0.274,0.352,0.422,0.499,0.578,0.648,0.706,0.766,0.83,0.891
+Morocco,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.99,1.267,1.609,1.906,2.228,2.549,2.829,3.048,3.271,3.51,3.733
+Morocco,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.238,1.584,2.011,2.383,2.785,3.186,3.537,3.81,4.088,4.388,4.667
+Morocco,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.594,0.76,0.965,1.144,1.337,1.529,1.698,1.829,1.962,2.106,2.24
+Morocco,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,0.679,0.758,0.824,1.274,1.495,1.178,1.185,1.148,1.122,1.089,1.057
+Morocco,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,0.849,0.947,1.029,1.592,1.868,1.472,1.482,1.436,1.404,1.363,1.322
+Morocco,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,0.17,0.19,0.206,0.319,0.374,0.294,0.295,0.286,0.279,0.27,0.262
+Morocco,Vegetables,Revenue,Total,million USD (US$),Statista,0.444,0.642,0.897,1.664,2.308,2.104,2.377,2.508,2.657,2.796,2.913
+Morocco,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,0.389,0.562,0.785,1.456,2.02,1.841,2.081,2.196,2.327,2.449,2.552
+Morocco,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.056,0.08,0.112,0.208,0.289,0.263,0.296,0.312,0.33,0.347,0.361
+Morocco,Vegetables,Revenue Change,Total,percent,Statista,,44.607,39.692,85.487,38.702,-8.839,12.975,5.511,5.941,5.231,4.185
+Morocco,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,44.582,39.701,85.549,38.736,-8.861,13.036,5.526,5.965,5.243,4.206
+Morocco,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,44.582,39.697,85.231,38.713,-9.003,12.785,5.331,5.734,5.089,4.093
+Morocco,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Morocco,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Morocco,Vegetables,Online & Offline Split,Offline,percent,Statista,99.978,99.97,99.959,99.936,99.912,99.91,99.909,99.908,99.906,,
+Morocco,Vegetables,Online & Offline Split,Online,percent,Statista,0.022,0.03,0.041,0.064,0.088,0.09,0.091,0.092,0.094,,
+Morocco,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,45.525,42.736,41.903,40.567,39.117,37.794,36.314,35.107,33.861,,
+Morocco,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,54.475,57.264,58.097,59.433,60.883,62.206,63.686,64.893,66.139,,
+Morocco,Vegetables,Users by Segment,Total,million users,Statista,0.654,0.847,1.089,1.306,1.544,1.787,2.006,2.184,2.368,2.567,2.757
+Morocco,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.458,0.593,0.762,0.914,1.081,1.251,1.404,1.529,1.658,1.797,1.93
+Morocco,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.327,0.424,0.544,0.653,0.772,0.893,1.003,1.092,1.184,1.284,1.379
+Morocco,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.286,1.646,2.09,2.477,2.895,3.311,3.676,3.96,4.249,4.561,4.851
+Morocco,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.919,1.176,1.493,1.769,2.068,2.365,2.626,2.829,3.035,3.257,3.465
+Morocco,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.838,2.352,2.986,3.538,4.135,4.73,5.251,5.658,6.071,6.515,6.93

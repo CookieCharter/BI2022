@@ -1,0 +1,753 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+United Kingdom,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.916,,,,,,
+United Kingdom,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.228,,,,,,
+United Kingdom,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.452,,,,,,
+United Kingdom,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.038,,,,,,
+United Kingdom,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.365,,,,,,
+United Kingdom,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,51.319,,,,,,
+United Kingdom,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,48.681,,,,,,
+United Kingdom,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.423,,,,,,
+United Kingdom,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,31.867,,,,,,
+United Kingdom,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.71,,,,,,
+United Kingdom,eCommerce,Revenue,Total,billion USD (US$),Statista,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,12.6,13.23,13.88,16.71,18.93,18.37,23.33,26.9,31.09,33.01,35.38
+United Kingdom,eCommerce,Revenue,Beverages,billion USD (US$),Statista,6.07,6.34,6.691,9.239,10.11,9.972,12.82,14.92,17.3,18.5,19.94
+United Kingdom,eCommerce,Revenue,Electronics,billion USD (US$),Statista,26.24,26.57,26.96,31.92,34.03,28.15,36.9,39.87,42.88,44.65,46.67
+United Kingdom,eCommerce,Revenue,Fashion,billion USD (US$),Statista,38.89,40.35,42.27,49.15,54.05,51.47,63.79,71.38,79.5,83.88,89.09
+United Kingdom,eCommerce,Revenue,Food,billion USD (US$),Statista,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,eCommerce,Revenue,Furniture,billion USD (US$),Statista,16.4,16.7,17.23,20.16,20.41,18.28,27.96,33.93,40.87,43.27,46.64
+United Kingdom,eCommerce,Revenue,Media,billion USD (US$),Statista,3.061,3.165,3.35,4.456,4.968,4.428,5.077,5.205,5.325,5.614,5.862
+United Kingdom,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,17.08,17.49,18.27,22.94,25.46,23.72,28.82,31.69,34.9,36.73,38.82
+United Kingdom,eCommerce,Revenue Change,Total,percent,Statista,,2.951,3.95,21.759,8.629,-7.549,29.007,13.226,13.058,5.609,6.499
+United Kingdom,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,5,4.913,20.389,13.285,-2.958,27.001,15.302,15.576,6.176,7.18
+United Kingdom,eCommerce,Revenue Change,Beverages,percent,Statista,,4.448,5.536,38.081,9.427,-1.365,28.56,16.381,15.952,6.936,7.784
+United Kingdom,eCommerce,Revenue Change,Electronics,percent,Statista,,1.258,1.468,18.398,6.61,-17.279,31.083,8.049,7.55,4.128,4.524
+United Kingdom,eCommerce,Revenue Change,Fashion,percent,Statista,,3.754,4.758,16.276,9.969,-4.773,23.936,11.898,11.376,5.509,6.211
+United Kingdom,eCommerce,Revenue Change,Food,percent,Statista,,2.738,5.427,60.404,8.38,2.092,33.531,21.028,21.179,7.588,8.949
+United Kingdom,eCommerce,Revenue Change,Furniture,percent,Statista,,1.829,3.174,17.005,1.24,-10.436,52.954,21.352,20.454,5.872,7.788
+United Kingdom,eCommerce,Revenue Change,Media,percent,Statista,,3.398,5.845,33.015,11.49,-10.87,14.657,2.521,2.305,5.427,4.418
+United Kingdom,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,2.4,4.46,25.561,10.985,-6.834,21.501,9.958,10.129,5.244,5.69
+United Kingdom,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,2.642,2.597,2.584,3.04,3.213,2.94,3.76,4.181,4.643,4.869,5.146
+United Kingdom,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.63,0.612,0.591,0.66,0.695,0.634,0.768,0.852,0.949,0.971,1.007
+United Kingdom,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.561,0.539,0.519,0.653,0.654,0.596,0.717,0.789,0.867,0.877,0.897
+United Kingdom,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.905,0.837,0.766,0.817,0.795,0.615,0.761,0.778,0.793,0.786,0.784
+United Kingdom,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,1.306,1.258,1.216,1.301,1.329,1.182,1.398,1.522,1.65,1.682,1.737
+United Kingdom,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.499,0.471,0.454,0.663,0.657,0.621,0.775,0.887,1.018,1.036,1.072
+United Kingdom,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,1.286,1.178,1.085,1.137,1.043,0.88,1.296,1.531,1.795,1.845,1.942
+United Kingdom,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.147,0.14,0.135,0.164,0.167,0.139,0.15,0.147,0.144,0.145,0.145
+United Kingdom,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.773,0.711,0.664,0.75,0.756,0.648,0.742,0.773,0.808,0.809,0.818
+United Kingdom,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,8.625,8.526,8.233,7.972,7.672,7.449,7.245,7.056,6.868,,
+United Kingdom,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,46.652,47.267,46.031,45.298,44.335,43.72,43.132,42.56,41.988,,
+United Kingdom,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,5.448,5.385,4.869,4.443,4.036,3.717,3.444,3.208,2.972,,
+United Kingdom,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,11.824,11.687,11.803,10.98,10.587,10.278,9.97,9.686,9.402,,
+United Kingdom,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,5.965,5.896,5.901,5.909,5.87,5.862,5.847,5.824,5.801,,
+United Kingdom,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,17.313,17.113,19.18,21.542,23.781,25.362,26.86,28.262,29.665,,
+United Kingdom,eCommerce,Revenue Share Payment Types,Other,percent,Statista,4.174,4.125,3.983,3.857,3.719,3.611,3.503,3.403,3.303,,
+United Kingdom,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,3.943,3.995,4.048,4.089,4.122,4.148,4.167,4.182,4.194,,
+United Kingdom,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,96.057,96.005,95.952,95.911,95.878,95.852,95.833,95.818,95.806,,
+United Kingdom,eCommerce,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,eCommerce,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,eCommerce,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,eCommerce,Online & Offline Split,Offline,percent,Statista,76.356,76.132,75.792,70.2,68.342,66.526,63.921,60.824,57.526,,
+United Kingdom,eCommerce,Online & Offline Split,Online,percent,Statista,23.644,23.868,24.208,29.8,31.658,33.474,36.079,39.176,42.474,,
+United Kingdom,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,57.119,54.792,52.398,49.588,46.134,42.384,39.412,37.421,35.378,,
+United Kingdom,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,42.881,45.208,47.602,50.412,53.866,57.616,60.588,62.579,64.622,,
+United Kingdom,eCommerce,Users,Total,million users,Statista,47.473,49.7,51.918,53.748,55.242,55.822,56.306,57.326,58.357,58.789,59.227
+United Kingdom,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,20.004,21.617,23.5,25.326,27.258,28.982,30.375,31.567,32.746,33.988,35.126
+United Kingdom,eCommerce,Users,Beverages,million users,Statista,10.82,11.768,12.892,14.141,15.467,16.724,17.881,18.913,19.959,21.102,22.215
+United Kingdom,eCommerce,Users,Electronics,million users,Statista,28.979,31.75,35.179,39.045,42.79,45.803,48.464,51.269,54.1,56.844,59.499
+United Kingdom,eCommerce,Users,Fashion,million users,Statista,29.786,32.072,34.778,37.779,40.667,43.545,45.618,46.897,48.188,49.861,51.29
+United Kingdom,eCommerce,Users,Food,million users,Statista,10.174,11.065,12.122,13.296,14.544,15.725,16.814,17.784,18.767,19.843,20.889
+United Kingdom,eCommerce,Users,Furniture,million users,Statista,12.755,14.174,15.869,17.729,19.572,20.766,21.574,22.168,22.767,23.453,24.014
+United Kingdom,eCommerce,Users,Media,million users,Statista,20.832,22.658,24.822,27.226,29.781,31.899,33.784,35.394,37.024,38.776,40.418
+United Kingdom,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,22.091,24.602,27.512,30.603,33.693,36.597,38.839,40.998,43.166,45.381,47.47
+United Kingdom,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,29.979,32.196,34.799,37.307,39.963,42.311,44.171,45.735,47.271,48.886,50.344
+United Kingdom,eCommerce,Penetration Rate,Beverages,percent,Statista,16.215,17.527,19.091,20.83,22.677,24.415,26.003,27.402,28.811,30.353,31.84
+United Kingdom,eCommerce,Penetration Rate,eCommerce,percent,Statista,71.145,74.023,76.882,79.174,80.991,81.494,81.881,83.056,84.241,84.559,84.887
+United Kingdom,eCommerce,Penetration Rate,Electronics,percent,Statista,43.43,47.287,52.094,57.515,62.735,66.868,70.477,74.279,78.097,81.761,85.276
+United Kingdom,eCommerce,Penetration Rate,Fashion,percent,Statista,44.638,47.767,51.499,55.65,59.623,63.571,66.338,67.944,69.561,71.718,73.512
+United Kingdom,eCommerce,Penetration Rate,Food,percent,Statista,15.247,16.481,17.951,19.586,21.323,22.958,24.451,25.766,27.091,28.541,29.939
+United Kingdom,eCommerce,Penetration Rate,Furniture,percent,Statista,19.115,21.111,23.499,26.115,28.694,30.316,31.374,32.117,32.866,33.734,34.417
+United Kingdom,eCommerce,Penetration Rate,Media,percent,Statista,31.22,33.746,36.757,40.105,43.662,46.569,49.13,51.279,53.446,55.773,57.929
+United Kingdom,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,33.107,36.642,40.74,45.08,49.399,53.427,56.479,59.398,62.313,65.274,68.036
+United Kingdom,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.532,,,,,,
+United Kingdom,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.084,,,,,,
+United Kingdom,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.608,,,,,,
+United Kingdom,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.878,,,,,,
+United Kingdom,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,19.898,,,,,,
+United Kingdom,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,46.486,,,,,,
+United Kingdom,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,53.514,,,,,,
+United Kingdom,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.069,,,,,,
+United Kingdom,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.294,,,,,,
+United Kingdom,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.637,,,,,,
+United Kingdom,Electronics,Revenue,Total,billion USD (US$),Statista,26.24,26.57,26.96,31.92,34.03,28.15,36.9,39.87,42.88,44.65,46.67
+United Kingdom,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,21,21.24,21.43,24.33,24.96,19.79,26.85,28.94,31.02,32.11,33.42
+United Kingdom,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,5.241,5.325,5.534,7.589,9.068,8.356,10.04,10.93,11.86,12.54,13.25
+United Kingdom,Electronics,Revenue Change,Total,percent,Statista,,1.258,1.468,18.398,6.61,-17.279,31.083,8.049,7.55,4.128,4.524
+United Kingdom,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,1.143,0.895,13.532,2.589,-20.713,35.675,7.784,7.187,3.514,4.08
+United Kingdom,Electronics,Revenue Change,Household Appliances,percent,Statista,,1.603,3.925,37.134,19.489,-7.852,20.153,8.865,8.509,5.734,5.662
+United Kingdom,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.905,0.837,0.766,0.817,0.795,0.615,0.761,0.778,0.793,0.786,0.784
+United Kingdom,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.772,0.718,0.661,0.685,0.642,0.475,0.609,0.615,0.619,0.607,0.6
+United Kingdom,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.274,0.251,0.23,0.278,0.3,0.259,0.293,0.305,0.316,0.32,0.326
+United Kingdom,Electronics,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,Electronics,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,Electronics,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,Electronics,Online & Offline Split,Offline,percent,Statista,41.686,42.56,42.447,37.774,38.801,30.888,27.209,22.311,18.719,,
+United Kingdom,Electronics,Online & Offline Split,Online,percent,Statista,58.314,57.44,57.553,62.226,61.199,69.112,72.791,77.689,81.281,,
+United Kingdom,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Electronics,Users by Segment,Total,million users,Statista,28.979,31.75,35.179,39.045,42.79,45.803,48.464,51.269,54.1,56.844,59.499
+United Kingdom,Electronics,Users by Segment,Consumer Electronics,million users,Statista,27.187,29.569,32.393,35.531,38.865,41.629,44.09,47.078,50.107,52.887,55.702
+United Kingdom,Electronics,Users by Segment,Household Appliances,million users,Statista,19.1,21.226,24.028,27.331,30.173,32.319,34.229,35.86,37.512,39.179,40.693
+United Kingdom,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,40.743,44.04,47.969,52.339,56.98,60.774,64.116,68.208,72.332,76.07,79.834
+United Kingdom,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,43.43,47.287,52.094,57.515,62.735,66.868,70.477,74.279,78.097,81.761,85.276
+United Kingdom,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,28.625,31.613,35.581,40.261,44.237,47.182,49.777,51.954,54.15,56.353,58.323
+United Kingdom,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.475,,,,,,
+United Kingdom,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.647,,,,,,
+United Kingdom,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.709,,,,,,
+United Kingdom,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.108,,,,,,
+United Kingdom,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.061,,,,,,
+United Kingdom,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.239,,,,,,
+United Kingdom,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.761,,,,,,
+United Kingdom,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.928,,,,,,
+United Kingdom,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.804,,,,,,
+United Kingdom,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.269,,,,,,
+United Kingdom,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,21,21.24,21.43,24.33,24.96,19.79,26.85,28.94,31.02,32.11,33.42
+United Kingdom,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,3.573,3.721,3.762,4.49,4.539,3.567,4.793,5.114,5.422,5.578,5.756
+United Kingdom,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,6.339,6.412,6.468,7.344,7.534,5.975,8.106,8.737,9.363,9.701,10.1
+United Kingdom,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,5.826,5.875,5.96,6.206,6.207,4.973,6.812,7.407,8,8.221,8.524
+United Kingdom,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,5.134,5.117,5.131,6.188,6.578,5.2,7.038,7.576,8.113,8.49,8.911
+United Kingdom,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.127,0.117,0.106,0.1,0.099,0.078,0.103,0.109,0.12,0.12,0.122
+United Kingdom,Consumer Electronics,Revenue Change,Total,percent,Statista,,1.143,0.895,13.532,2.589,-20.713,35.675,7.784,7.187,3.514,4.08
+United Kingdom,Consumer Electronics,Revenue Change,Computing,percent,Statista,,4.142,1.102,19.351,1.091,-21.414,34.371,6.697,6.023,2.877,3.191
+United Kingdom,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,1.152,0.873,13.544,2.587,-20.693,35.665,7.784,7.165,3.61,4.113
+United Kingdom,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,0.841,1.447,4.128,0.016,-19.881,36.98,8.735,8.006,2.763,3.686
+United Kingdom,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,-0.331,0.274,20.6,6.303,-20.949,35.346,7.644,7.088,4.647,4.959
+United Kingdom,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,-7.886,-8.904,-5.733,-1.017,-21.485,32.393,5.233,10.405,-0.167,1.587
+United Kingdom,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,772.4,718.4,661.5,684.7,642.2,475.4,609,614.8,619,607.1,599.9
+United Kingdom,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,187.7,179.8,165.9,180.5,166.8,122.4,155.3,155.2,154.6,150.7,147.6
+United Kingdom,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,291.4,271.1,249.6,258.4,242.3,179.4,229.8,232,233.6,229.3,226.7
+United Kingdom,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,267.9,248.4,230,218.3,199.6,149.3,193.1,196.7,199.6,194.3,191.3
+United Kingdom,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,472.1,432.6,396,435.4,423.1,312.3,399.1,402.3,404.8,401.3,399.9
+United Kingdom,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,15.55,13.16,10.95,9.407,8.515,6.242,7.803,7.686,7.974,7.547,7.28
+United Kingdom,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+United Kingdom,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+United Kingdom,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,37.999,39.16,39.233,32.293,35.666,30.667,27.692,23.165,19.646,,
+United Kingdom,Consumer Electronics,Online & Offline Split,Online,percent,Statista,62.001,60.84,60.767,67.707,64.334,69.333,72.308,76.835,80.354,,
+United Kingdom,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Consumer Electronics,Users,Total,million users,Statista,27.187,29.569,32.393,35.531,38.865,41.629,44.09,47.078,50.107,52.887,55.702
+United Kingdom,Consumer Electronics,Users,Computing,million users,Statista,19.031,20.699,22.675,24.872,27.205,29.14,30.863,32.955,35.075,37.021,38.991
+United Kingdom,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,21.75,23.656,25.915,28.425,31.092,33.303,35.272,37.663,40.086,42.31,44.561
+United Kingdom,Consumer Electronics,Users,Telephony,million users,Statista,21.75,23.656,25.915,28.425,31.092,33.303,35.272,37.663,40.086,42.31,44.561
+United Kingdom,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,10.875,11.828,12.957,14.212,15.546,16.652,17.636,18.831,20.043,21.155,22.281
+United Kingdom,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,8.156,8.871,9.718,10.659,11.659,12.489,13.227,14.124,15.032,15.866,16.71
+United Kingdom,Consumer Electronics,Penetration Rate,Computing,percent,Statista,28.52,30.828,33.578,36.637,39.886,42.542,44.881,47.746,50.633,53.249,55.884
+United Kingdom,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,40.743,44.04,47.969,52.339,56.98,60.774,64.116,68.208,72.332,76.07,79.834
+United Kingdom,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,32.595,35.232,38.375,41.871,45.584,48.619,51.293,54.566,57.866,60.856,63.867
+United Kingdom,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,32.595,35.232,38.375,41.871,45.584,48.619,51.293,54.566,57.866,60.856,63.867
+United Kingdom,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,16.297,17.616,19.188,20.936,22.792,24.31,25.646,27.283,28.933,30.428,31.934
+United Kingdom,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,12.223,13.212,14.391,15.702,17.094,18.232,19.235,20.462,21.7,22.821,23.95
+United Kingdom,Household Appliances,Revenue,Total,billion USD (US$),Statista,5.241,5.325,5.534,7.589,9.068,8.356,10.04,10.93,11.86,12.54,13.25
+United Kingdom,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,2.614,2.649,2.763,3.78,4.542,4.194,5.053,5.509,5.993,6.369,6.755
+United Kingdom,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.932,0.947,0.984,1.349,1.612,1.485,1.786,1.942,2.108,2.246,2.386
+United Kingdom,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,1.695,1.73,1.788,2.459,2.915,2.677,3.206,3.475,3.759,3.931,4.109
+United Kingdom,Household Appliances,Revenue Change,Total,percent,Statista,,1.603,3.925,37.134,19.489,-7.852,20.153,8.865,8.509,5.734,5.662
+United Kingdom,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,1.339,4.304,36.808,20.159,-7.662,20.482,9.024,8.786,6.274,6.061
+United Kingdom,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,1.61,3.919,37.121,19.496,-7.878,20.269,8.735,8.548,6.546,6.233
+United Kingdom,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,2.065,3.353,37.528,18.544,-8.165,19.761,8.391,8.173,4.576,4.528
+United Kingdom,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,274.4,250.9,230.3,277.6,300.5,258.5,293.4,304.7,316.2,320.2,325.6
+United Kingdom,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,342.2,312,287.5,345.8,376.3,324.4,369,384,399.4,406.4,415
+United Kingdom,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,243.9,223,204.7,246.8,267.1,229.8,260.8,270.8,281,286.6,293.2
+United Kingdom,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,110.9,101.9,92.99,112.5,120.7,103.5,117.1,121.1,125.3,125.4,126.2
+United Kingdom,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+United Kingdom,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+United Kingdom,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+United Kingdom,Household Appliances,Online & Offline Split,Offline,percent,Statista,52.905,53.03,52.229,50.595,46.037,31.482,25.873,19.946,16.186,,
+United Kingdom,Household Appliances,Online & Offline Split,Online,percent,Statista,47.095,46.97,47.771,49.405,53.963,68.518,74.127,80.054,83.814,,
+United Kingdom,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Household Appliances,Users,Total,million users,Statista,19.1,21.226,24.028,27.331,30.173,32.319,34.229,35.86,37.512,39.179,40.693
+United Kingdom,Household Appliances,Users,Major Appliances,million users,Statista,7.64,8.49,9.611,10.933,12.069,12.928,13.692,14.344,15.005,15.671,16.277
+United Kingdom,Household Appliances,Users,Other Household Appliances,million users,Statista,3.82,4.245,4.806,5.466,6.035,6.464,6.846,7.172,7.502,7.836,8.138
+United Kingdom,Household Appliances,Users,Small Appliances,million users,Statista,15.28,16.981,19.223,21.865,24.138,25.855,27.384,28.688,30.009,31.343,32.554
+United Kingdom,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,28.625,31.613,35.581,40.261,44.237,47.182,49.777,51.954,54.15,56.353,58.323
+United Kingdom,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,11.45,12.645,14.233,16.104,17.695,18.873,19.911,20.782,21.66,22.541,23.329
+United Kingdom,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,5.725,6.323,7.116,8.052,8.847,9.436,9.955,10.391,10.83,11.271,11.664
+United Kingdom,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,22.9,25.291,28.465,32.209,35.39,37.746,39.821,41.564,43.32,45.082,46.657
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.625,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.003,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.339,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,21.678,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.355,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,58.389,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,41.611,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.238,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.476,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.286,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,12.6,13.23,13.88,16.71,18.93,18.37,23.33,26.9,31.09,33.01,35.38
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,2.014,2.105,2.217,2.53,2.75,2.637,3.295,3.723,4.194,4.417,4.691
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.917,0.954,1.002,1.615,2.106,1.925,2.298,2.483,2.679,2.891,3.096
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,2.452,2.562,2.708,3.228,3.544,3.777,5.271,6.686,8.498,9.088,9.929
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,7.217,7.604,7.954,9.34,10.53,10.03,12.46,14.01,15.72,16.61,17.67
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,5,4.913,20.389,13.285,-2.958,27.001,15.302,15.576,6.176,7.18
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,4.518,5.321,14.118,8.696,-4.109,24.953,12.989,12.651,5.317,6.203
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,4.034,5.009,61.178,30.402,-8.594,19.377,8.05,7.894,7.913,7.091
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,4.486,5.699,19.202,9.789,6.574,39.555,26.845,27.101,6.943,9.254
+United Kingdom,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,5.362,4.603,17.425,12.741,-4.748,24.227,12.44,12.206,5.662,6.382
+United Kingdom,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,629.9,611.8,590.7,659.9,694.5,633.8,768,852.2,949.3,971.1,"1,007"
+United Kingdom,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,143.8,139.1,134.8,142.7,144.1,130,155,168.5,183,185.7,190.8
+United Kingdom,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,71.64,68.97,66.61,99.61,120.7,103.8,118.2,122.9,127.8,132.9,137.7
+United Kingdom,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,322.5,311.9,303.2,335.4,342.2,342.9,456.7,557.4,682.9,703.6,743.9
+United Kingdom,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,581.9,567.4,545.9,594.8,623.1,558.2,661.8,715.9,774,788.2,811.1
+United Kingdom,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,66.122,65.438,64.777,57.168,55.376,52.979,49.918,45.93,41.626,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,33.878,34.562,35.223,42.832,44.624,47.021,50.082,54.07,58.374,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,20.004,21.617,23.5,25.326,27.258,28.982,30.375,31.567,32.746,33.988,35.126
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,14.003,15.132,16.45,17.729,19.08,20.287,21.262,22.097,22.922,23.792,24.589
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,12.803,13.835,15.04,16.209,17.445,18.548,19.44,20.203,20.958,21.752,22.481
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,7.602,8.214,8.93,9.624,10.358,11.013,11.542,11.995,12.444,12.916,13.348
+United Kingdom,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,12.403,13.402,14.57,15.702,16.9,17.969,18.832,19.572,20.303,21.073,21.779
+United Kingdom,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,29.979,32.196,34.799,37.307,39.963,42.311,44.171,45.735,47.271,48.886,50.344
+United Kingdom,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,20.986,22.537,24.36,26.115,27.974,29.617,30.92,32.014,33.09,34.221,35.242
+United Kingdom,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,19.187,20.605,22.272,23.877,25.576,27.079,28.27,29.27,30.253,31.288,32.221
+United Kingdom,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,11.392,12.234,13.224,14.177,15.186,16.078,16.785,17.379,17.963,18.577,19.131
+United Kingdom,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,18.587,19.961,21.576,23.131,24.777,26.233,27.386,28.356,29.308,30.31,31.214
+United Kingdom,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.767,,,,,,
+United Kingdom,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.719,,,,,,
+United Kingdom,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.508,,,,,,
+United Kingdom,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.39,,,,,,
+United Kingdom,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.616,,,,,,
+United Kingdom,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,70.197,,,,,,
+United Kingdom,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,29.803,,,,,,
+United Kingdom,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.998,,,,,,
+United Kingdom,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,25.131,,,,,,
+United Kingdom,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,37.871,,,,,,
+United Kingdom,Personal Care,Revenue,Total,billion USD (US$),Statista,7.217,7.604,7.954,9.34,10.53,10.03,12.46,14.01,15.72,16.61,17.67
+United Kingdom,Personal Care,Revenue,Body Care,billion USD (US$),Statista,1.063,1.121,1.184,1.402,1.51,1.437,1.785,2.006,2.249,2.392,2.557
+United Kingdom,Personal Care,Revenue,Eye Care,billion USD (US$),Statista,0.715,0.733,0.764,0.893,1.053,1.001,1.243,1.396,1.564,1.661,1.774
+United Kingdom,Personal Care,Revenue,Hair Care,billion USD (US$),Statista,0.875,0.937,0.979,1.15,1.15,1.081,1.324,1.468,1.624,1.71,1.812
+United Kingdom,Personal Care,Revenue,Oral Care,billion USD (US$),Statista,0.602,0.625,0.662,0.774,0.832,0.795,0.992,1.12,1.261,1.333,1.42
+United Kingdom,Personal Care,Revenue,Other Personal Care,billion USD (US$),Statista,2.532,2.668,2.791,3.277,3.695,3.519,4.373,4.916,5.514,5.804,6.153
+United Kingdom,Personal Care,Revenue,Skin Care,billion USD (US$),Statista,1.43,1.52,1.574,1.843,2.291,2.197,2.746,3.106,3.503,3.709,3.949
+United Kingdom,Personal Care,Revenue Change,Total,percent,Statista,,5.362,4.603,17.425,12.741,-4.748,24.227,12.44,12.206,5.662,6.382
+United Kingdom,Personal Care,Revenue Change,Body Care,percent,Statista,,5.456,5.62,18.412,7.703,-4.834,24.217,12.381,12.114,6.358,6.898
+United Kingdom,Personal Care,Revenue Change,Eye Care,percent,Statista,,2.517,4.242,16.826,17.93,-4.938,24.176,12.309,12.034,6.202,6.803
+United Kingdom,Personal Care,Revenue Change,Hair Care,percent,Statista,,7.048,4.482,17.455,0,-6,22.479,10.876,10.627,5.296,5.965
+United Kingdom,Personal Care,Revenue Change,Oral Care,percent,Statista,,3.94,5.918,16.928,7.439,-4.388,24.742,12.88,12.589,5.71,6.527
+United Kingdom,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,5.371,4.61,17.413,12.756,-4.763,24.268,12.417,12.164,5.259,6.013
+United Kingdom,Personal Care,Revenue Change,Skin Care,percent,Statista,,6.294,3.553,17.09,24.308,-4.103,24.989,13.11,12.782,5.881,6.471
+United Kingdom,Personal Care,Average Revenue per User,Total,USD (US$),Statista,581.9,567.4,545.9,594.8,623.1,558.2,661.8,715.9,774,788.2,811.1
+United Kingdom,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,126,123,119.5,131.3,131.4,117.6,139.4,150.7,162.9,166.9,172.6
+United Kingdom,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,115.3,109.4,104.9,113.7,124.6,111.5,132,142.6,154,157.6,162.9
+United Kingdom,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,135.7,134.5,129.2,140.9,130.9,115.7,135.2,144.3,153.9,156.1,160
+United Kingdom,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,98.97,95.2,92.75,100.6,100.5,90.34,107.5,116.8,126.8,129.1,133
+United Kingdom,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,453.7,442.4,425.7,463.7,485.8,435.2,516,558.2,603.5,612.1,627.9
+United Kingdom,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,262,257.7,245.6,266.8,308.1,277.8,331.4,360.7,392.2,400,412.1
+United Kingdom,Personal Care,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,Personal Care,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,Personal Care,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,Personal Care,Online & Offline Split,Offline,percent,Statista,62.474,61.656,61.098,53.352,51.931,50.3,48.273,45.316,42.294,,
+United Kingdom,Personal Care,Online & Offline Split,Online,percent,Statista,37.526,38.344,38.902,46.648,48.069,49.7,51.727,54.684,57.706,,
+United Kingdom,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Personal Care,Users,Total,million users,Statista,12.403,13.402,14.57,15.702,16.9,17.969,18.832,19.572,20.303,21.073,21.779
+United Kingdom,Personal Care,Users,Body Care,million users,Statista,8.434,9.114,9.908,10.678,11.492,12.219,12.806,13.309,13.806,14.329,14.81
+United Kingdom,Personal Care,Users,Eye Care,million users,Statista,6.201,6.701,7.285,7.851,8.45,8.984,9.416,9.786,10.151,10.536,10.889
+United Kingdom,Personal Care,Users,Hair Care,million users,Statista,6.449,6.969,7.576,8.165,8.788,9.344,9.793,10.177,10.557,10.958,11.325
+United Kingdom,Personal Care,Users,Oral Care,million users,Statista,6.077,6.567,7.139,7.694,8.281,8.805,9.228,9.59,9.948,10.326,10.672
+United Kingdom,Personal Care,Users,Other Personal Care,million users,Statista,5.581,6.031,6.557,7.066,7.605,8.086,8.475,8.807,9.136,9.483,9.8
+United Kingdom,Personal Care,Users,Skin Care,million users,Statista,5.457,5.897,6.411,6.909,7.436,7.906,8.286,8.611,8.933,9.272,9.583
+United Kingdom,Personal Care,Penetration Rate,Body Care,percent,Statista,12.639,13.574,14.671,15.729,16.848,17.838,18.623,19.282,19.929,20.611,21.226
+United Kingdom,Personal Care,Penetration Rate,Eye Care,percent,Statista,9.294,9.981,10.788,11.565,12.389,13.116,13.693,14.178,14.654,15.155,15.607
+United Kingdom,Personal Care,Penetration Rate,Hair Care,percent,Statista,9.665,10.38,11.219,12.028,12.884,13.641,14.241,14.745,15.24,15.761,16.231
+United Kingdom,Personal Care,Penetration Rate,Oral Care,percent,Statista,9.108,9.781,10.572,11.334,12.141,12.854,13.419,13.894,14.361,14.852,15.295
+United Kingdom,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,8.364,8.983,9.709,10.409,11.15,11.805,12.324,12.76,13.189,13.639,14.046
+United Kingdom,Personal Care,Penetration Rate,Personal Care,percent,Statista,18.587,19.961,21.576,23.131,24.777,26.233,27.386,28.356,29.308,30.31,31.214
+United Kingdom,Personal Care,Penetration Rate,Skin Care,percent,Statista,8.178,8.783,9.493,10.177,10.902,11.542,12.05,12.476,12.895,13.336,13.734
+United Kingdom,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,143.8,139.1,134.8,142.7,144.1,130,155,168.5,183,185.7,190.8
+United Kingdom,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,141.6,135.9,131.2,138.3,138.9,125.5,149.9,163.4,177.9,179.9,184.5
+United Kingdom,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,15.84,16.54,16.6,18.28,19.38,17.2,20.13,21.44,22.76,23.46,24.29
+United Kingdom,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,140.9,136.3,132,139.8,141.2,127.3,151.8,165,179.2,182.6,188.2
+United Kingdom,Beauty Care,Revenue,Total,billion USD (US$),Statista,2.014,2.105,2.217,2.53,2.75,2.637,3.295,3.723,4.194,4.417,4.691
+United Kingdom,Beauty Care,Revenue,Cosmetics,billion USD (US$),Statista,1.388,1.44,1.51,1.716,1.855,1.782,2.231,2.527,2.854,2.996,3.176
+United Kingdom,Beauty Care,Revenue,Fragrances,billion USD (US$),Statista,0.133,0.15,0.164,0.195,0.222,0.209,0.257,0.284,0.313,0.335,0.358
+United Kingdom,Beauty Care,Revenue,Other Beauty Care,billion USD (US$),Statista,0.493,0.516,0.543,0.62,0.673,0.646,0.807,0.912,1.027,1.086,1.157
+United Kingdom,Beauty Care,Revenue Change,Total,percent,Statista,,4.518,5.321,14.118,8.696,-4.109,24.953,12.989,12.651,5.317,6.203
+United Kingdom,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,3.746,4.861,13.642,8.1,-3.935,25.196,13.268,12.94,4.975,6.008
+United Kingdom,Beauty Care,Revenue Change,Fragrances,percent,Statista,,12.847,9.055,18.742,14.087,-5.678,22.695,10.709,10.13,6.963,7.017
+United Kingdom,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,4.542,5.314,14.088,8.717,-4.128,24.95,12.99,12.659,5.745,6.538
+United Kingdom,Beauty Care,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,Beauty Care,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,Beauty Care,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,Beauty Care,Online & Offline Split,Offline,percent,Statista,62.022,62.173,62.129,54.025,55.098,53.952,52.127,49.173,46.125,,
+United Kingdom,Beauty Care,Online & Offline Split,Online,percent,Statista,37.978,37.827,37.871,45.975,44.902,46.048,47.873,50.827,53.875,,
+United Kingdom,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Beauty Care,Users by Segment,Total,million users,Statista,14.003,15.132,16.45,17.729,19.08,20.287,21.262,22.097,22.922,23.792,24.589
+United Kingdom,Beauty Care,Users by Segment,Cosmetics,million users,Statista,9.802,10.592,11.515,12.41,13.356,14.201,14.884,15.468,16.046,16.654,17.212
+United Kingdom,Beauty Care,Users by Segment,Fragrances,million users,Statista,8.402,9.079,9.87,10.637,11.448,12.172,12.757,13.258,13.753,14.275,14.753
+United Kingdom,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,3.501,3.783,4.113,4.432,4.77,5.072,5.316,5.524,5.731,5.948,6.147
+United Kingdom,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,20.986,22.537,24.36,26.115,27.974,29.617,30.92,32.014,33.09,34.221,35.242
+United Kingdom,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,14.69,15.776,17.052,18.281,19.582,20.732,21.644,22.41,23.163,23.955,24.669
+United Kingdom,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,12.591,13.522,14.616,15.669,16.784,17.77,18.552,19.209,19.854,20.533,21.145
+United Kingdom,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,5.246,5.634,6.09,6.529,6.994,7.404,7.73,8.004,8.272,8.555,8.81
+United Kingdom,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,71.64,68.97,66.61,99.61,120.7,103.8,118.2,122.9,127.8,132.9,137.7
+United Kingdom,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,70.25,67.58,65.22,97.6,117.7,100.8,114.3,118.2,122.3,126.9,131.1
+United Kingdom,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,30.78,29.61,28.57,42.65,51.39,43.92,49.68,51.28,52.91,54.8,56.5
+United Kingdom,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,19.47,18.73,18.08,26.94,32.45,27.64,31.17,32.07,32.98,34.07,35.03
+United Kingdom,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.988,2.874,2.773,5.497,8.411,7.167,8.08,8.314,8.551,8.929,9.229
+United Kingdom,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,7.124,7.051,7.007,7.349,7.605,7.705,10.34,12.69,15.59,16.2,17.27
+United Kingdom,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,76.27,73.43,70.92,106.1,128.5,110.5,125.8,130.8,136.1,141.9,147.3
+United Kingdom,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,23.83,22.93,22.13,33.24,40.12,34.5,39.26,40.77,42.32,44.08,45.7
+United Kingdom,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,19.48,18.74,18.08,27.18,32.81,28.31,32.33,33.68,35.09,36.65,38.13
+United Kingdom,Health Care,Revenue,Total,million USD (US$),Statista,917.2,954.2,"1,002","1,615","2,106","1,925","2,298","2,483","2,679","2,891","3,096"
+United Kingdom,Health Care,Revenue,Analgesics,million USD (US$),Statista,179.9,187,196.2,316.4,410.6,374,444.3,477.7,512.4,552,589.4
+United Kingdom,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,157.6,163.9,171.9,276.5,358.6,325.9,386.3,414.4,443.5,476.8,508.1
+United Kingdom,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,74.79,77.75,81.57,131,169.8,153.8,181.8,194.4,207.4,222.3,236.2
+United Kingdom,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,15.3,15.9,16.69,35.64,58.69,53.17,62.83,67.19,71.68,77.69,82.99
+United Kingdom,Health Care,Revenue,Incontinence,million USD (US$),Statista,18.24,19.51,21.08,23.82,26.54,28.58,40.22,51.28,65.33,70.5,77.65
+United Kingdom,Health Care,Revenue,Other Health Care,million USD (US$),Statista,224.6,233.7,245.3,395.4,515.7,471.5,562.6,608,656,709.8,761.6
+United Kingdom,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,122.1,126.9,133.1,215.5,280,256,305.3,329.5,354.8,383.5,411
+United Kingdom,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,124.7,129.6,136,220.3,286.2,262.5,314.2,340.3,367.7,398.6,428.6
+United Kingdom,Health Care,Revenue Change,Total,percent,Statista,,4.034,5.009,61.178,30.402,-8.594,19.377,8.05,7.894,7.913,7.091
+United Kingdom,Health Care,Revenue Change,Analgesics,percent,Statista,,3.947,4.92,61.264,29.772,-8.914,18.797,7.517,7.264,7.728,6.775
+United Kingdom,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,3.997,4.881,60.849,29.693,-9.119,18.533,7.274,7.022,7.508,6.565
+United Kingdom,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,3.958,4.913,60.598,29.618,-9.423,18.205,6.931,6.687,7.184,6.253
+United Kingdom,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,3.922,4.969,113.541,64.675,-9.405,18.168,6.939,6.683,8.384,6.822
+United Kingdom,Health Care,Revenue Change,Incontinence,percent,Statista,,6.963,8.047,12.998,11.419,7.687,40.728,27.499,27.399,7.914,10.142
+United Kingdom,Health Care,Revenue Change,Other Health Care,percent,Statista,,4.052,4.964,61.19,30.425,-8.571,19.321,8.07,7.895,8.201,7.298
+United Kingdom,Health Care,Revenue Change,Skin Treatment,percent,Statista,,3.931,4.886,61.908,29.93,-8.571,19.258,7.927,7.678,8.089,7.171
+United Kingdom,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,3.929,4.938,61.985,29.914,-8.281,19.695,8.307,8.052,8.404,7.526
+United Kingdom,Health Care,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,Health Care,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,Health Care,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,Health Care,Online & Offline Split,Offline,percent,Statista,74.023,73.45,72.66,54.476,48.535,48.3,46.84,44.649,42.395,,
+United Kingdom,Health Care,Online & Offline Split,Online,percent,Statista,25.977,26.55,27.34,45.524,51.465,51.7,53.16,55.351,57.605,,
+United Kingdom,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Health Care,Users by Segment,Total,million users,Statista,12.803,13.835,15.04,16.209,17.445,18.548,19.44,20.203,20.958,21.752,22.481
+United Kingdom,Health Care,Users by Segment,Analgesics,million users,Statista,2.561,2.767,3.008,3.242,3.489,3.71,3.888,4.041,4.192,4.35,4.496
+United Kingdom,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,5.121,5.534,6.016,6.484,6.978,7.419,7.776,8.081,8.383,8.701,8.993
+United Kingdom,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,3.841,4.15,4.512,4.863,5.233,5.565,5.832,6.061,6.287,6.526,6.744
+United Kingdom,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,5.121,5.534,6.016,6.484,6.978,7.419,7.776,8.081,8.383,8.701,8.993
+United Kingdom,Health Care,Users by Segment,Incontinence,million users,Statista,2.561,2.767,3.008,3.242,3.489,3.71,3.888,4.041,4.192,4.35,4.496
+United Kingdom,Health Care,Users by Segment,Other Health Care,million users,Statista,2.945,3.182,3.459,3.728,4.012,4.266,4.471,4.647,4.82,5.003,5.171
+United Kingdom,Health Care,Users by Segment,Skin Treatment,million users,Statista,5.121,5.534,6.016,6.484,6.978,7.419,7.776,8.081,8.383,8.701,8.993
+United Kingdom,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,6.401,6.917,7.52,8.104,8.722,9.274,9.72,10.101,10.479,10.876,11.241
+United Kingdom,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,3.837,4.121,4.454,4.775,5.115,5.416,5.654,5.854,6.051,6.258,6.444
+United Kingdom,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,7.675,8.242,8.909,9.551,10.231,10.832,11.308,11.708,12.101,12.515,12.888
+United Kingdom,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,5.756,6.182,6.681,7.163,7.673,8.124,8.481,8.781,9.076,9.386,9.666
+United Kingdom,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,7.675,8.242,8.909,9.551,10.231,10.832,11.308,11.708,12.101,12.515,12.888
+United Kingdom,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,19.187,20.605,22.272,23.877,25.576,27.079,28.27,29.27,30.253,31.288,32.221
+United Kingdom,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,3.837,4.121,4.454,4.775,5.115,5.416,5.654,5.854,6.051,6.258,6.444
+United Kingdom,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,4.413,4.739,5.122,5.492,5.883,6.228,6.502,6.732,6.958,7.196,7.411
+United Kingdom,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,7.675,8.242,8.909,9.551,10.231,10.832,11.308,11.708,12.101,12.515,12.888
+United Kingdom,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,9.593,10.303,11.136,11.938,12.788,13.539,14.135,14.635,15.127,15.644,16.111
+United Kingdom,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,322.5,311.9,303.2,335.4,342.2,342.9,456.7,557.4,682.9,703.6,743.9
+United Kingdom,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,54.13,52.18,50.58,58.63,60.25,59.98,79.37,96.28,117.3,121.8,129.6
+United Kingdom,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,96.77,93.27,90.42,107.8,111.5,111.4,148,180.2,220.4,230.5,246.4
+United Kingdom,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,36.61,36.24,36.01,37.76,39.08,39.57,53.1,65.12,79.94,83.09,88.55
+United Kingdom,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,198.3,191.2,185.3,198.5,200.1,200.6,267.3,326.5,400.7,409.4,429.8
+United Kingdom,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,576.8,557.7,542.3,599.8,611.9,613.2,816.7,996.8,"1,221","1,251","1,317"
+United Kingdom,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,7.122,7.049,7.005,7.55,7.861,7.962,10.69,13.11,16.1,16.76,17.87
+United Kingdom,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,89.39,86.16,83.52,88.25,88.66,89.27,119.5,146.7,180.8,187.6,199.8
+United Kingdom,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,35.73,35.37,35.14,38.14,39.79,40.04,53.4,65.09,79.41,82.64,88.05
+United Kingdom,Household Care,Revenue,Total,billion USD (US$),Statista,2.452,2.562,2.708,3.228,3.544,3.777,5.271,6.686,8.498,9.088,9.929
+United Kingdom,Household Care,Revenue,Dishwashing Detergents,billion USD (US$),Statista,0.173,0.18,0.19,0.237,0.262,0.277,0.385,0.485,0.613,0.661,0.727
+United Kingdom,Household Care,Revenue,Household Cleaners,billion USD (US$),Statista,0.331,0.345,0.363,0.467,0.52,0.552,0.769,0.973,1.234,1.34,1.48
+United Kingdom,Household Care,Revenue,Household Paper,billion USD (US$),Statista,0.064,0.068,0.074,0.084,0.093,0.1,0.141,0.18,0.229,0.247,0.272
+United Kingdom,Household Care,Revenue,Laundry Care,billion USD (US$),Statista,0.603,0.628,0.662,0.764,0.829,0.883,1.234,1.567,1.994,2.115,2.295
+United Kingdom,Household Care,Revenue,Other Household Care,billion USD (US$),Statista,0.965,1.008,1.065,1.27,1.394,1.486,2.074,2.63,3.343,3.555,3.869
+United Kingdom,Household Care,Revenue,Paper Tissues,billion USD (US$),Statista,0.017,0.019,0.02,0.023,0.026,0.028,0.039,0.05,0.064,0.069,0.076
+United Kingdom,Household Care,Revenue,"Polishes, Room Scents & Insecticides",billion USD (US$),Statista,0.204,0.212,0.224,0.255,0.276,0.295,0.414,0.528,0.675,0.727,0.8
+United Kingdom,Household Care,Revenue,Toilet Paper,billion USD (US$),Statista,0.095,0.102,0.11,0.129,0.144,0.154,0.216,0.273,0.346,0.374,0.411
+United Kingdom,Household Care,Revenue Change,Total,percent,Statista,,4.486,5.699,19.202,9.789,6.574,39.555,26.845,27.101,6.943,9.254
+United Kingdom,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,4.167,5.389,24.934,10.591,5.837,38.717,26.065,26.366,7.83,9.909
+United Kingdom,Household Care,Revenue Change,Household Cleaners,percent,Statista,,4.169,5.394,28.426,11.378,6.233,39.207,26.551,26.85,8.59,10.448
+United Kingdom,Household Care,Revenue Change,Household Paper,percent,Statista,,6.968,8.033,13.005,11.377,7.626,40.719,27.447,27.323,7.867,10.17
+United Kingdom,Household Care,Revenue Change,Laundry Care,percent,Statista,,4.162,5.38,15.438,8.479,6.574,39.672,26.985,27.25,6.068,8.511
+United Kingdom,Household Care,Revenue Change,Other Household Care,percent,Statista,,4.499,5.655,19.249,9.764,6.6,39.569,26.808,27.11,6.342,8.833
+United Kingdom,Household Care,Revenue Change,Paper Tissues,percent,Statista,,6.924,8.041,16.134,12.086,7.675,40.699,27.482,27.379,8.033,10.222
+United Kingdom,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,4.12,5.417,13.852,8.124,7.042,40.319,27.55,27.87,7.675,10.073
+United Kingdom,Household Care,Revenue Change,Toilet Paper,percent,Statista,,6.974,7.965,17.031,12.296,6.999,39.702,26.704,26.528,8.039,10.091
+United Kingdom,Household Care,Comparable Estimates - eCommerce (United Kingdom),*Statista,billion USD (US$),,125.4,129.1,134.2,163.4,177.5,164.1,211.7,239.7,271,286.2,304.8
+United Kingdom,Household Care,Comparable Estimates - eCommerce (United Kingdom),Office for National Statistics,billion USD (US$),,,478.9,523.7,,,,,,,,
+United Kingdom,Household Care,Comparable Estimates - eCommerce (United Kingdom),UNCTAD,billion USD (US$),,,,251,,,,,,,,
+United Kingdom,Household Care,Online & Offline Split,Offline,percent,Statista,73.135,72.379,71.327,67.549,65.589,59.965,53.264,45.745,37.446,,
+United Kingdom,Household Care,Online & Offline Split,Online,percent,Statista,26.865,27.621,28.673,32.451,34.411,40.035,46.736,54.255,62.554,,
+United Kingdom,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Household Care,Users by Segment,Total,million users,Statista,7.602,8.214,8.93,9.624,10.358,11.013,11.542,11.995,12.444,12.916,13.348
+United Kingdom,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,3.193,3.45,3.751,4.042,4.35,4.626,4.848,5.038,5.226,5.425,5.606
+United Kingdom,Household Care,Users by Segment,Household Cleaners,million users,Statista,3.421,3.696,4.019,4.331,4.661,4.956,5.194,5.398,5.6,5.812,6.007
+United Kingdom,Household Care,Users by Segment,Household Paper,million users,Statista,1.748,1.889,2.054,2.214,2.382,2.533,2.655,2.759,2.862,2.971,3.07
+United Kingdom,Household Care,Users by Segment,Laundry Care,million users,Statista,3.041,3.286,3.572,3.85,4.143,4.405,4.617,4.798,4.977,5.166,5.339
+United Kingdom,Household Care,Users by Segment,Other Household Care,million users,Statista,1.672,1.807,1.965,2.117,2.279,2.423,2.539,2.639,2.738,2.842,2.937
+United Kingdom,Household Care,Users by Segment,Paper Tissues,million users,Statista,2.433,2.629,2.858,3.08,3.315,3.524,3.694,3.839,3.982,4.133,4.271
+United Kingdom,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,2.281,2.464,2.679,2.887,3.107,3.304,3.463,3.599,3.733,3.875,4.004
+United Kingdom,Household Care,Users by Segment,Toilet Paper,million users,Statista,2.661,2.875,3.126,3.368,3.625,3.855,4.04,4.198,4.355,4.52,4.672
+United Kingdom,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,4.785,5.138,5.554,5.954,6.378,6.753,7.05,7.299,7.544,7.802,8.035
+United Kingdom,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,11.392,12.234,13.224,14.177,15.186,16.078,16.785,17.379,17.963,18.577,19.131
+United Kingdom,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,5.126,5.505,5.951,6.38,6.834,7.235,7.553,7.821,8.083,8.36,8.609
+United Kingdom,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,2.62,2.814,3.041,3.261,3.493,3.698,3.861,3.997,4.131,4.273,4.401
+United Kingdom,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,4.557,4.894,5.289,5.671,6.074,6.431,6.714,6.952,7.185,7.431,7.653
+United Kingdom,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,2.506,2.692,2.909,3.119,3.341,3.537,3.693,3.823,3.952,4.087,4.209
+United Kingdom,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,3.645,3.915,4.232,4.537,4.859,5.145,5.371,5.561,5.748,5.945,6.122
+United Kingdom,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,3.418,3.67,3.967,4.253,4.556,4.823,5.036,5.214,5.389,5.573,5.739
+United Kingdom,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,3.987,4.282,4.628,4.962,5.315,5.627,5.875,6.083,6.287,6.502,6.696
+United Kingdom,Food,Revenue,Total,billion USD (US$),Statista,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Food,Revenue,Bread & Cereal Products,billion USD (US$),Statista,0.457,0.469,0.491,0.931,1.058,1.066,1.404,1.676,2.002,2.173,2.375
+United Kingdom,Food,Revenue,Confectionery & Snacks,billion USD (US$),Statista,0.882,0.906,0.957,1.588,1.59,1.601,2.107,2.513,2.998,3.201,3.46
+United Kingdom,Food,Revenue,Convenience Food,billion USD (US$),Statista,0.491,0.502,0.531,1,1.281,1.294,1.708,2.043,2.445,2.632,2.857
+United Kingdom,Food,Revenue,Dairy Products & Eggs,billion USD (US$),Statista,0.664,0.681,0.723,1.056,1.117,1.156,1.565,1.922,2.362,2.551,2.794
+United Kingdom,Food,Revenue,Fish & Seafood,billion USD (US$),Statista,0.158,0.162,0.17,0.259,0.302,0.312,0.421,0.516,0.633,0.688,0.757
+United Kingdom,Food,Revenue,Fruits & Nuts,billion USD (US$),Statista,0.59,0.603,0.642,0.977,0.977,0.995,1.324,1.599,1.93,2.058,2.227
+United Kingdom,Food,Revenue,Meat,billion USD (US$),Statista,1.013,1.05,1.093,1.675,1.764,1.819,2.452,3,3.672,3.964,4.339
+United Kingdom,Food,Revenue,Oils & Fats,billion USD (US$),Statista,0.12,0.122,0.129,0.187,0.206,0.213,0.288,0.354,0.435,0.471,0.517
+United Kingdom,Food,Revenue,Sauces & Spices,billion USD (US$),Statista,0.044,0.045,0.048,0.064,0.07,0.072,0.098,0.12,0.148,0.159,0.174
+United Kingdom,Food,Revenue,Spreads & Sweeteners,billion USD (US$),Statista,0.019,0.02,0.021,0.028,0.029,0.03,0.041,0.05,0.062,0.066,0.073
+United Kingdom,Food,Revenue,Vegetables,billion USD (US$),Statista,0.638,0.655,0.692,1.053,1.164,1.2,1.619,1.981,2.425,2.599,2.827
+United Kingdom,Food,Revenue Change,Total,percent,Statista,,2.738,5.427,60.404,8.38,2.092,33.531,21.028,21.179,7.588,8.949
+United Kingdom,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,2.538,4.844,89.457,13.666,0.756,31.707,19.373,19.451,8.541,9.296
+United Kingdom,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,2.64,5.652,65.935,0.126,0.692,31.605,19.269,19.3,6.771,8.091
+United Kingdom,Food,Revenue Change,Convenience Food,percent,Statista,,2.384,5.633,88.43,28.1,1.015,31.994,19.614,19.677,7.648,8.549
+United Kingdom,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,2.652,6.122,46.078,5.777,3.491,35.381,22.812,22.893,8.002,9.526
+United Kingdom,Food,Revenue Change,Fish & Seafood,percent,Statista,,2.536,5.318,51.85,16.783,3.278,35.075,22.573,22.637,8.685,9.996
+United Kingdom,Food,Revenue Change,Fruits & Nuts,percent,Statista,,2.202,6.431,52.157,0,1.822,33.092,20.77,20.7,6.632,8.212
+United Kingdom,Food,Revenue Change,Meat,percent,Statista,,3.653,4.095,53.248,5.313,3.118,34.799,22.349,22.4,7.952,9.46
+United Kingdom,Food,Revenue Change,Oils & Fats,percent,Statista,,2.258,5.397,45.229,9.989,3.448,35.352,22.789,22.881,8.276,9.788
+United Kingdom,Food,Revenue Change,Sauces & Spices,percent,Statista,,2.528,5.723,33.875,8.429,3.514,35.375,22.825,23,7.927,9.542
+United Kingdom,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,2.005,6.3,32.67,5.325,3.461,35.028,22.346,22.216,7.781,9.405
+United Kingdom,Food,Revenue Change,Vegetables,percent,Statista,,2.68,5.678,52.08,10.541,3.093,34.917,22.359,22.413,7.175,8.773
+United Kingdom,Food,Average Revenue per User,Total,USD (US$),Statista,498.9,471.3,453.6,663.3,657.2,620.5,774.7,887,"1,018","1,036","1,072"
+United Kingdom,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,95.57,90.1,86.22,148.9,154.8,144.2,177.7,200.6,227,233,241.9
+United Kingdom,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,177,167.1,161.1,243.8,223,207.7,255.7,288.4,326,329.3,338
+United Kingdom,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,86.13,81.08,78.17,134.4,157.3,146.9,181.3,205.2,232.6,236.9,244.2
+United Kingdom,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,283.6,267.7,259.3,345.4,333.9,319.6,404.6,469.8,547.2,558.9,581.6
+United Kingdom,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,81.59,76.89,73.96,102.4,109.3,104.4,131.9,152.8,177.6,182.6,190.8
+United Kingdom,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,111.6,104.8,101.9,141.3,129.2,121.7,151.4,172.9,197.8,199.5,205
+United Kingdom,Food,Average Revenue per User,Meat,USD (US$),Statista,331.8,316.2,300.7,419.9,404.4,385.5,486.2,562.3,652.2,665.8,692.4
+United Kingdom,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,47.02,44.2,42.54,56.32,56.62,54.18,68.58,79.61,92.71,94.95,99.02
+United Kingdom,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,9.898,9.33,9.006,10.99,10.89,10.43,13.21,15.34,17.87,18.24,18.99
+United Kingdom,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,5.792,5.433,5.273,6.376,6.141,5.875,7.421,8.582,9.94,10.13,10.53
+United Kingdom,Food,Average Revenue per User,Vegetables,USD (US$),Statista,128,120.8,116.6,161.7,163.4,155.8,196.5,227.3,263.7,267.3,276.2
+United Kingdom,Food,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Food,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Food,Online & Offline Split,Offline,percent,Statista,95.782,95.657,95.506,93.737,92.916,91.36,89.694,87.883,85.719,,
+United Kingdom,Food,Online & Offline Split,Online,percent,Statista,4.218,4.343,4.494,6.263,7.084,8.64,10.306,12.117,14.281,,
+United Kingdom,Food,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Food,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Food,Users,Total,million users,Statista,10.174,11.065,12.122,13.296,14.544,15.725,16.814,17.784,18.767,19.843,20.889
+United Kingdom,Food,Users,Bread & Cereal Products,million users,Statista,4.782,5.201,5.697,6.249,6.836,7.391,7.902,8.358,8.821,9.326,9.818
+United Kingdom,Food,Users,Confectionery & Snacks,million users,Statista,4.985,5.422,5.94,6.515,7.127,7.705,8.239,8.714,9.196,9.723,10.236
+United Kingdom,Food,Users,Convenience Food,million users,Statista,5.697,6.197,6.788,7.446,8.145,8.806,9.416,9.959,10.51,11.112,11.698
+United Kingdom,Food,Users,Dairy Products & Eggs,million users,Statista,2.34,2.545,2.788,3.058,3.345,3.617,3.867,4.09,4.316,4.564,4.804
+United Kingdom,Food,Users,Fish & Seafood,million users,Statista,1.933,2.102,2.303,2.526,2.763,2.988,3.195,3.379,3.566,3.77,3.969
+United Kingdom,Food,Users,Fruits & Nuts,million users,Statista,5.29,5.754,6.304,6.914,7.563,8.177,8.743,9.248,9.759,10.318,10.862
+United Kingdom,Food,Users,Meat,million users,Statista,3.052,3.32,3.637,3.989,4.363,4.718,5.044,5.335,5.63,5.953,6.267
+United Kingdom,Food,Users,Oils & Fats,million users,Statista,2.543,2.766,3.031,3.324,3.636,3.931,4.203,4.446,4.692,4.961,5.222
+United Kingdom,Food,Users,Sauces & Spices,million users,Statista,4.477,4.869,5.334,5.85,6.399,6.919,7.398,7.825,8.258,8.731,9.191
+United Kingdom,Food,Users,Spreads & Sweeteners,million users,Statista,3.357,3.652,4,4.388,4.8,5.189,5.549,5.869,6.193,6.548,6.893
+United Kingdom,Food,Users,Vegetables,million users,Statista,4.985,5.422,5.94,6.515,7.127,7.705,8.239,8.714,9.196,9.723,10.236
+United Kingdom,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,7.166,7.746,8.437,9.206,10.022,10.79,11.492,12.11,12.733,13.414,14.071
+United Kingdom,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,7.471,8.076,8.796,9.597,10.448,11.249,11.981,12.625,13.275,13.985,14.67
+United Kingdom,Food,Penetration Rate,Convenience Food,percent,Statista,8.538,9.229,10.053,10.968,11.941,12.856,13.692,14.429,15.171,15.983,16.766
+United Kingdom,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,3.507,3.791,4.129,4.505,4.904,5.28,5.624,5.926,6.231,6.564,6.886
+United Kingdom,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.897,3.131,3.411,3.721,4.051,4.362,4.646,4.895,5.147,5.423,5.688
+United Kingdom,Food,Penetration Rate,Food,percent,Statista,15.247,16.481,17.951,19.586,21.323,22.958,24.451,25.766,27.091,28.541,29.939
+United Kingdom,Food,Penetration Rate,Fruits & Nuts,percent,Statista,7.928,8.57,9.334,10.185,11.088,11.938,12.714,13.398,14.087,14.841,15.568
+United Kingdom,Food,Penetration Rate,Meat,percent,Statista,4.574,4.944,5.385,5.876,6.397,6.887,7.335,7.73,8.127,8.562,8.982
+United Kingdom,Food,Penetration Rate,Oils & Fats,percent,Statista,3.812,4.12,4.488,4.897,5.331,5.739,6.113,6.441,6.773,7.135,7.485
+United Kingdom,Food,Penetration Rate,Sauces & Spices,percent,Statista,6.709,7.252,7.898,8.618,9.382,10.101,10.758,11.337,11.92,12.558,13.173
+United Kingdom,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,5.032,5.439,5.924,6.463,7.037,7.576,8.069,8.503,8.94,9.418,9.88
+United Kingdom,Food,Penetration Rate,Vegetables,percent,Statista,7.471,8.076,8.796,9.597,10.448,11.249,11.981,12.625,13.275,13.985,14.67
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,95.57,90.1,86.22,148.9,154.8,144.2,177.7,200.6,227,233,241.9
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,82.85,77.79,74.38,135.7,135.5,125.5,153.5,172,193.1,197.2,203.7
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,21.28,20.48,19.17,27.11,31.31,29.89,37.72,43.67,50.71,52.29,54.73
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,29.63,27.94,26.73,46.18,47.99,44.72,55.08,62.19,70.37,72.63,75.76
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,7.696,7.014,7.126,12.72,14.15,13.13,16.1,18.09,20.36,21.1,22.04
+United Kingdom,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,6.125,5.859,5.63,9.805,10.19,9.48,11.65,13.13,14.82,15.31,15.97
+United Kingdom,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,457,468.6,491.3,930.8,"1,058","1,066","1,404","1,676","2,002","2,173","2,375"
+United Kingdom,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,249.6,254.9,267,534.2,583.7,584.3,764.1,905.8,"1,073","1,159","1,260"
+United Kingdom,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,84.46,88.41,90.64,140.6,177.6,183.3,247.4,303,371.2,404.8,446
+United Kingdom,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,63.76,65.38,68.54,129.9,147.6,148.7,195.9,233.9,279.3,304.8,334.7
+United Kingdom,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,33.12,32.83,36.54,71.56,87.08,87.37,114.5,136.1,161.7,177.1,194.7
+United Kingdom,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,26.06,27.12,28.55,54.54,61.99,62.36,81.97,97.68,116.4,127.1,139.5
+United Kingdom,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,2.538,4.844,89.457,13.666,0.756,31.707,19.373,19.451,8.541,9.296
+United Kingdom,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,2.123,4.747,100.075,9.266,0.103,30.772,18.545,18.459,8.015,8.714
+United Kingdom,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,4.677,2.522,55.119,26.316,3.209,34.97,22.474,22.508,9.052,10.178
+United Kingdom,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,2.541,4.833,89.524,13.626,0.745,31.742,19.398,19.41,9.13,9.81
+United Kingdom,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,-0.876,11.301,95.84,21.688,0.333,31.052,18.865,18.81,9.524,9.938
+United Kingdom,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,4.068,5.273,91.033,13.66,0.597,31.446,19.166,19.165,9.192,9.756
+United Kingdom,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+United Kingdom,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+United Kingdom,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,95.49,95.35,95.202,92.61,90.944,88.901,86.865,84.816,82.426,,
+United Kingdom,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,4.51,4.65,4.798,7.39,9.056,11.099,13.135,15.184,17.574,,
+United Kingdom,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Bread & Cereal Products,Users by Segment,Total,million users,Statista,4.782,5.201,5.697,6.249,6.836,7.391,7.902,8.358,8.821,9.326,9.818
+United Kingdom,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,3.013,3.276,3.589,3.937,4.306,4.656,4.979,5.266,5.557,5.875,6.185
+United Kingdom,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,3.969,4.317,4.729,5.187,5.674,6.134,6.559,6.938,7.321,7.741,8.149
+United Kingdom,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,2.152,2.34,2.564,2.812,3.076,3.326,3.556,3.761,3.969,4.197,4.418
+United Kingdom,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,4.304,4.681,5.128,5.624,6.152,6.652,7.112,7.523,7.938,8.393,8.836
+United Kingdom,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,4.256,4.629,5.071,5.562,6.084,6.578,7.033,7.439,7.85,8.3,8.738
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,4.515,4.88,5.315,5.8,6.314,6.798,7.24,7.629,8.022,8.451,8.865
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,7.166,7.746,8.437,9.206,10.022,10.79,11.492,12.11,12.733,13.414,14.071
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,5.948,6.429,7.003,7.641,8.318,8.956,9.538,10.051,10.568,11.134,11.679
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,3.225,3.486,3.797,4.143,4.51,4.856,5.171,5.449,5.73,6.036,6.332
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,6.449,6.971,7.593,8.285,9.02,9.711,10.343,10.899,11.46,12.073,12.664
+United Kingdom,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,6.378,6.894,7.509,8.193,8.92,9.603,10.228,10.778,11.332,11.938,12.523
+United Kingdom,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,177,167.1,161.1,243.8,223,207.7,255.7,288.4,326,329.3,338
+United Kingdom,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,178,167.9,161.9,244.7,223.7,208.1,255.8,288.2,325.4,327.6,335.5
+United Kingdom,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,3.442,3.248,3.133,4.74,4.337,4.039,4.972,5.608,6.339,6.485,6.727
+United Kingdom,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,31.41,29.64,28.59,43.62,40.05,37.51,46.42,52.66,59.87,61.31,63.7
+United Kingdom,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,882.5,905.8,957,"1,588","1,590","1,601","2,107","2,513","2,998","3,201","3,460"
+United Kingdom,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,727.4,746.6,788.8,"1,307","1,307","1,315","1,728","2,060","2,454","2,612","2,816"
+United Kingdom,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,9.438,9.687,10.23,16.99,17,17.12,22.53,26.88,32.06,34.68,37.87
+United Kingdom,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,145.6,149.5,157.9,264.3,265.4,268.8,355.7,426.7,512,554.4,606.4
+United Kingdom,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,2.64,5.652,65.935,0.126,0.692,31.605,19.269,19.3,6.771,8.091
+United Kingdom,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,2.64,5.652,65.695,0,0.612,31.407,19.213,19.126,6.438,7.81
+United Kingdom,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,2.638,5.605,66.08,0.059,0.706,31.6,19.308,19.271,8.172,9.198
+United Kingdom,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,2.679,5.619,67.384,0.416,1.281,32.329,19.961,19.991,8.281,9.38
+United Kingdom,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+United Kingdom,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+United Kingdom,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,94.96,94.795,94.581,92.291,91.834,90.074,88.246,86.353,84.131,,
+United Kingdom,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,5.04,5.205,5.419,7.709,8.166,9.926,11.754,13.647,15.869,,
+United Kingdom,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Confectionery & Snacks,Users by Segment,Total,million users,Statista,4.985,5.422,5.94,6.515,7.127,7.705,8.239,8.714,9.196,9.723,10.236
+United Kingdom,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,4.088,4.446,4.871,5.342,5.844,6.318,6.756,7.146,7.541,7.973,8.393
+United Kingdom,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,2.742,2.982,3.267,3.583,3.92,4.238,4.531,4.793,5.058,5.348,5.63
+United Kingdom,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,4.636,5.043,5.524,6.059,6.628,7.166,7.662,8.104,8.552,9.042,9.519
+United Kingdom,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,6.126,6.622,7.213,7.87,8.568,9.224,9.824,10.353,10.885,11.468,12.029
+United Kingdom,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,7.471,8.076,8.796,9.597,10.448,11.249,11.981,12.625,13.275,13.985,14.67
+United Kingdom,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,4.109,4.442,4.838,5.279,5.747,6.187,6.589,6.944,7.301,7.692,8.069
+United Kingdom,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,6.948,7.51,8.18,8.925,9.717,10.462,11.142,11.741,12.345,13.006,13.643
+United Kingdom,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,86.13,81.08,78.17,134.4,157.3,146.9,181.3,205.2,232.6,236.9,244.2
+United Kingdom,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,107.7,101.4,97.74,168,199.8,186.7,230.5,260.8,295.8,300.6,309.4
+United Kingdom,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,19.71,18.55,17.89,30.74,32.35,30.17,37.19,42.01,47.56,49.11,51.24
+United Kingdom,Convenience Food,Revenue,Total,billion USD (US$),Statista,0.491,0.502,0.531,1,1.281,1.294,1.708,2.043,2.445,2.632,2.857
+United Kingdom,Convenience Food,Revenue,Ready-to-Eat Meals,billion USD (US$),Statista,0.423,0.433,0.458,0.863,1.123,1.134,1.497,1.792,2.145,2.305,2.497
+United Kingdom,Convenience Food,Revenue,Soups,billion USD (US$),Statista,0.067,0.069,0.073,0.137,0.158,0.159,0.21,0.251,0.3,0.327,0.36
+United Kingdom,Convenience Food,Revenue Change,Total,percent,Statista,,2.384,5.633,88.43,28.1,1.015,31.994,19.614,19.677,7.648,8.549
+United Kingdom,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,2.385,5.606,88.532,30.112,0.98,32.011,19.706,19.699,7.459,8.33
+United Kingdom,Convenience Food,Revenue Change,Soups,percent,Statista,,2.39,5.625,88.444,15.149,0.822,31.807,19.467,19.482,9.17,9.866
+United Kingdom,Convenience Food,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Convenience Food,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Convenience Food,Online & Offline Split,Offline,percent,Statista,96.454,96.373,96.253,94.331,92.137,90.294,88.459,86.623,84.463,,
+United Kingdom,Convenience Food,Online & Offline Split,Online,percent,Statista,3.546,3.627,3.747,5.669,7.863,9.706,11.541,13.377,15.537,,
+United Kingdom,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Convenience Food,Users by Segment,Total,million users,Statista,5.697,6.197,6.788,7.446,8.145,8.806,9.416,9.959,10.51,11.112,11.698
+United Kingdom,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,3.931,4.276,4.684,5.138,5.62,6.076,6.497,6.872,7.252,7.667,8.072
+United Kingdom,Convenience Food,Users by Segment,Soups,million users,Statista,3.418,3.718,4.073,4.468,4.887,5.284,5.649,5.975,6.306,6.667,7.019
+United Kingdom,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,8.538,9.229,10.053,10.968,11.941,12.856,13.692,14.429,15.171,15.983,16.766
+United Kingdom,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,5.891,6.368,6.936,7.568,8.239,8.871,9.448,9.956,10.468,11.028,11.568
+United Kingdom,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,5.123,5.538,6.032,6.581,7.165,7.714,8.215,8.657,9.103,9.59,10.06
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,283.6,267.7,259.3,345.4,333.9,319.6,404.6,469.8,547.2,558.9,581.6
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,113,106.8,105.5,142.1,132.5,126.9,160.8,186.9,217.8,222.5,231.6
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,62.34,59.56,56.5,74.75,79.44,76.14,96.52,112.2,130.9,134.4,140.3
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,127.3,120.8,115.8,152.9,139.8,133.2,168,194.3,225.3,228.8,236.9
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,97.18,89.95,86.41,115.5,109.9,105.6,134.1,156.4,182.9,186.9,194.7
+United Kingdom,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,70.43,65.94,64.11,85.6,96.14,92.31,117.2,136.6,159.6,164.3,171.9
+United Kingdom,Dairy Products & Eggs,Revenue,Total,billion USD (US$),Statista,0.664,0.681,0.723,1.056,1.117,1.156,1.565,1.922,2.362,2.551,2.794
+United Kingdom,Dairy Products & Eggs,Revenue,Cheese,billion USD (US$),Statista,0.198,0.204,0.221,0.326,0.332,0.344,0.466,0.573,0.705,0.761,0.835
+United Kingdom,Dairy Products & Eggs,Revenue,Eggs,billion USD (US$),Statista,0.063,0.065,0.068,0.098,0.114,0.118,0.161,0.197,0.243,0.264,0.29
+United Kingdom,Dairy Products & Eggs,Revenue,Milk,billion USD (US$),Statista,0.232,0.24,0.252,0.365,0.365,0.376,0.507,0.62,0.759,0.814,0.888
+United Kingdom,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,billion USD (US$),Statista,0.08,0.08,0.084,0.124,0.129,0.134,0.182,0.224,0.276,0.298,0.328
+United Kingdom,Dairy Products & Eggs,Revenue,Yogurt,billion USD (US$),Statista,0.091,0.092,0.098,0.144,0.177,0.184,0.249,0.307,0.379,0.412,0.454
+United Kingdom,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,2.652,6.122,46.078,5.777,3.491,35.381,22.812,22.893,8.002,9.526
+United Kingdom,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,2.774,8.243,47.733,1.994,3.55,35.474,22.947,23.007,7.984,9.613
+United Kingdom,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,3.906,3.912,45.12,16.289,3.587,35.557,22.991,23.1,8.519,9.973
+United Kingdom,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,3.184,5.046,44.74,0,3.099,34.823,22.316,22.375,7.356,9.025
+United Kingdom,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,0.666,5.255,46.567,4.126,3.807,35.928,23.293,23.359,8.074,9.715
+United Kingdom,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,1.831,6.5,46.475,22.847,3.787,35.839,23.216,23.332,8.813,10.16
+United Kingdom,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+United Kingdom,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+United Kingdom,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,96.017,95.895,95.72,94.33,93.867,92.503,90.964,89.199,87.053,,
+United Kingdom,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,3.983,4.105,4.28,5.67,6.133,7.497,9.036,10.801,12.947,,
+United Kingdom,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,2.34,2.545,2.788,3.058,3.345,3.617,3.867,4.09,4.316,4.564,4.804
+United Kingdom,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,1.755,1.909,2.091,2.294,2.509,2.713,2.9,3.068,3.237,3.423,3.603
+United Kingdom,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,1.006,1.094,1.199,1.315,1.438,1.555,1.663,1.759,1.856,1.962,2.066
+United Kingdom,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,1.825,1.985,2.175,2.385,2.609,2.821,3.016,3.19,3.367,3.56,3.748
+United Kingdom,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.819,0.891,0.976,1.07,1.171,1.266,1.353,1.432,1.511,1.597,1.682
+United Kingdom,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,1.287,1.4,1.533,1.682,1.84,1.989,2.127,2.25,2.374,2.51,2.642
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,2.63,2.843,3.097,3.379,3.678,3.96,4.218,4.445,4.673,4.923,5.164
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,3.507,3.791,4.129,4.505,4.904,5.28,5.624,5.926,6.231,6.564,6.886
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.508,1.63,1.775,1.937,2.109,2.271,2.418,2.548,2.679,2.823,2.961
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,2.735,2.957,3.22,3.514,3.825,4.119,4.386,4.622,4.86,5.12,5.371
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,1.227,1.327,1.445,1.577,1.717,1.848,1.968,2.074,2.181,2.298,2.41
+United Kingdom,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.929,2.085,2.271,2.478,2.697,2.904,3.093,3.259,3.427,3.61,3.787
+United Kingdom,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,81.59,76.89,73.96,102.4,109.3,104.4,131.9,152.8,177.6,182.6,190.8
+United Kingdom,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,103.9,97.68,91.64,128.5,135,128.9,162.8,188.6,219.2,225.1,235
+United Kingdom,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,58.96,55.71,54.67,75,71.7,68.42,86.33,99.92,116,118.8,123.9
+United Kingdom,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,29.91,28.25,27.88,38.09,43.81,41.88,52.96,61.43,71.46,73.67,77.11
+United Kingdom,Fish & Seafood,Revenue,Total,million USD (US$),Statista,157.7,161.7,170.3,258.6,302,311.9,421.3,516.4,633.3,688.3,757.1
+United Kingdom,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,78.33,80.09,82.32,126.6,145.5,150.2,202.9,248.6,304.8,331,363.8
+United Kingdom,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,27.35,28.11,30.22,45.48,47.55,49.06,66.19,81.03,99.25,107.4,117.9
+United Kingdom,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,52.04,53.46,57.8,86.6,108.9,112.6,152.3,186.8,229.3,250,275.4
+United Kingdom,Fish & Seafood,Revenue Change,Total,percent,Statista,,2.536,5.318,51.85,16.783,3.278,35.075,22.573,22.637,8.685,9.996
+United Kingdom,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,2.247,2.784,53.79,14.929,3.23,35.087,22.523,22.607,8.596,9.909
+United Kingdom,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,2.779,7.506,50.496,4.551,3.176,34.916,22.42,22.485,8.212,9.777
+United Kingdom,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,2.729,8.118,49.827,25.751,3.398,35.258,22.653,22.752,9.027,10.16
+United Kingdom,Fish & Seafood,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Fish & Seafood,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,96.327,96.238,96.123,94.792,93.741,92.349,90.816,89.095,87.016,,
+United Kingdom,Fish & Seafood,Online & Offline Split,Online,percent,Statista,3.673,3.762,3.877,5.208,6.259,7.651,9.184,10.905,12.984,,
+United Kingdom,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Fish & Seafood,Users by Segment,Total,million users,Statista,1.933,2.102,2.303,2.526,2.763,2.988,3.195,3.379,3.566,3.77,3.969
+United Kingdom,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.754,0.82,0.898,0.985,1.078,1.165,1.246,1.318,1.391,1.47,1.548
+United Kingdom,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.464,0.505,0.553,0.606,0.663,0.717,0.767,0.811,0.856,0.904,0.952
+United Kingdom,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,1.74,1.892,2.073,2.274,2.487,2.689,2.875,3.041,3.209,3.393,3.572
+United Kingdom,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.897,3.131,3.411,3.721,4.051,4.362,4.646,4.895,5.147,5.423,5.688
+United Kingdom,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,1.13,1.221,1.33,1.451,1.58,1.701,1.812,1.909,2.007,2.115,2.219
+United Kingdom,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.695,0.752,0.819,0.893,0.972,1.047,1.115,1.175,1.235,1.301,1.364
+United Kingdom,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,2.607,2.818,3.07,3.349,3.646,3.926,4.181,4.406,4.633,4.88,5.12
+United Kingdom,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,111.6,104.8,101.9,141.3,129.2,121.7,151.4,172.9,197.8,199.5,205
+United Kingdom,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,133.8,125.7,122.2,169.4,154.9,145.4,180.5,205.4,234.2,235.5,241.4
+United Kingdom,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,19.52,18.33,17.8,24.7,22.58,21.64,27.42,31.88,37.18,38,39.58
+United Kingdom,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,16.32,15.35,14.92,20.71,18.93,18.05,22.77,26.33,30.55,31.22,32.49
+United Kingdom,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,590.3,603.3,642.1,977,977,994.8,"1,324","1,599","1,930","2,058","2,227"
+United Kingdom,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,495.5,506.4,539,820,820,832.5,"1,105","1,329","1,600","1,701","1,836"
+United Kingdom,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,51.64,52.74,56.1,85.38,85.38,88.46,119.9,147.4,181.4,196,215
+United Kingdom,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,43.17,44.15,47.02,71.58,71.58,73.81,99.53,121.8,149.1,161,176.5
+United Kingdom,Fruits & Nuts,Revenue Change,Total,percent,Statista,,2.202,6.431,52.157,0,1.822,33.092,20.77,20.7,6.632,8.212
+United Kingdom,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,2.2,6.438,52.134,0,1.524,32.733,20.271,20.391,6.312,7.937
+United Kingdom,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,2.13,6.371,52.193,0,3.607,35.541,22.936,23.066,8.049,9.694
+United Kingdom,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,2.27,6.501,52.233,0,3.115,34.846,22.375,22.414,7.981,9.627
+United Kingdom,Fruits & Nuts,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Fruits & Nuts,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,94.88,94.829,94.674,92.908,92.777,91.387,89.916,88.325,86.45,,
+United Kingdom,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,5.12,5.171,5.326,7.092,7.223,8.613,10.084,11.675,13.55,,
+United Kingdom,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Fruits & Nuts,Users by Segment,Total,million users,Statista,5.29,5.754,6.304,6.914,7.563,8.177,8.743,9.248,9.759,10.318,10.862
+United Kingdom,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,3.703,4.028,4.413,4.84,5.294,5.724,6.12,6.473,6.831,7.223,7.604
+United Kingdom,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,2.645,2.877,3.152,3.457,3.781,4.089,4.372,4.624,4.879,5.159,5.431
+United Kingdom,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,2.645,2.877,3.152,3.457,3.781,4.089,4.372,4.624,4.879,5.159,5.431
+United Kingdom,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,5.55,5.999,6.534,7.129,7.762,8.357,8.9,9.379,9.861,10.389,10.898
+United Kingdom,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,7.928,8.57,9.334,10.185,11.088,11.938,12.714,13.398,14.087,14.841,15.568
+United Kingdom,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,3.964,4.285,4.667,5.092,5.544,5.969,6.357,6.699,7.044,7.421,7.784
+United Kingdom,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,3.964,4.285,4.667,5.092,5.544,5.969,6.357,6.699,7.044,7.421,7.784
+United Kingdom,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,331.8,316.2,300.7,419.9,404.4,385.5,486.2,562.3,652.2,665.8,692.4
+United Kingdom,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,298.8,284.7,270.7,381.1,349.8,335,424.4,493.2,574.9,587.1,611.1
+United Kingdom,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,144.4,137.6,130.9,180.4,187.4,177.5,222.2,255.1,293.7,299.7,311.2
+United Kingdom,Meat,Revenue,Total,billion USD (US$),Statista,1.013,1.05,1.093,1.675,1.764,1.819,2.452,3,3.672,3.964,4.339
+United Kingdom,Meat,Revenue,Fresh Meat,billion USD (US$),Statista,0.629,0.652,0.679,1.049,1.053,1.091,1.477,1.816,2.233,2.411,2.642
+United Kingdom,Meat,Revenue,Processed Meat,billion USD (US$),Statista,0.384,0.398,0.414,0.626,0.711,0.728,0.975,1.184,1.439,1.552,1.697
+United Kingdom,Meat,Revenue Change,Total,percent,Statista,,3.653,4.095,53.248,5.313,3.118,34.799,22.349,22.4,7.952,9.46
+United Kingdom,Meat,Revenue Change,Fresh Meat,percent,Statista,,3.623,4.171,54.424,0.381,3.609,35.38,22.952,22.963,7.971,9.581
+United Kingdom,Meat,Revenue Change,Processed Meat,percent,Statista,,3.651,4.176,51.147,13.628,2.404,33.887,21.423,21.537,7.853,9.343
+United Kingdom,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+United Kingdom,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+United Kingdom,Meat,Online & Offline Split,Offline,percent,Statista,95.964,95.807,95.706,94.151,93.628,92.191,90.599,88.808,86.638,,
+United Kingdom,Meat,Online & Offline Split,Online,percent,Statista,4.036,4.193,4.294,5.849,6.372,7.809,9.401,11.192,13.362,,
+United Kingdom,Meat,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Meat,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Meat,Users by Segment,Total,million users,Statista,3.052,3.32,3.637,3.989,4.363,4.718,5.044,5.335,5.63,5.953,6.267
+United Kingdom,Meat,Users by Segment,Fresh Meat,million users,Statista,2.106,2.291,2.509,2.752,3.011,3.255,3.48,3.681,3.885,4.107,4.324
+United Kingdom,Meat,Users by Segment,Processed Meat,million users,Statista,2.655,2.888,3.164,3.47,3.796,4.104,4.388,4.642,4.898,5.179,5.452
+United Kingdom,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,3.156,3.412,3.716,4.054,4.414,4.752,5.061,5.333,5.608,5.908,6.197
+United Kingdom,Meat,Penetration Rate by Segment,Meat,percent,Statista,4.574,4.944,5.385,5.876,6.397,6.887,7.335,7.73,8.127,8.562,8.982
+United Kingdom,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,3.979,4.301,4.685,5.112,5.565,5.992,6.382,6.725,7.071,7.449,7.814
+United Kingdom,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,47.02,44.2,42.54,56.32,56.62,54.18,68.58,79.61,92.71,94.95,99.02
+United Kingdom,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,23.89,22.4,21.67,28.67,26.21,25.07,31.72,36.81,42.85,43.71,45.47
+United Kingdom,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,13.72,13.07,12.44,16.5,16.89,16.2,20.55,23.91,27.9,28.6,29.85
+United Kingdom,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,5.624,5.295,5.148,6.779,7.592,7.257,9.175,10.64,12.37,12.73,13.3
+United Kingdom,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,20.72,19.31,18.55,24.61,26.77,25.6,32.37,37.55,43.69,44.87,46.87
+United Kingdom,Oils & Fats,Revenue,Total,million USD (US$),Statista,119.6,122.3,128.9,187.2,205.9,213,288.3,354,435,471,517.1
+United Kingdom,Oils & Fats,Revenue,Butter,million USD (US$),Statista,48.61,49.56,52.55,76.24,76.24,78.86,106.7,130.9,160.8,173.4,190
+United Kingdom,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,27.93,28.93,30.16,43.87,49.14,50.95,69.09,85.03,104.7,113.5,124.7
+United Kingdom,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,11.44,11.72,12.48,18.03,22.08,22.83,30.85,37.84,46.45,50.51,55.58
+United Kingdom,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,31.62,32.04,33.74,49.08,58.4,60.38,81.64,100.2,123,133.6,146.9
+United Kingdom,Oils & Fats,Revenue Change,Total,percent,Statista,,2.258,5.397,45.229,9.989,3.448,35.352,22.789,22.881,8.276,9.788
+United Kingdom,Oils & Fats,Revenue Change,Butter,percent,Statista,,1.954,6.033,45.081,0,3.437,35.303,22.68,22.842,7.836,9.573
+United Kingdom,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,3.58,4.252,45.458,12.013,3.683,35.604,23.071,23.133,8.405,9.868
+United Kingdom,Oils & Fats,Revenue Change,Margarine,percent,Statista,,2.448,6.485,44.471,22.463,3.397,35.129,22.658,22.754,8.741,10.038
+United Kingdom,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,1.328,5.306,45.465,18.989,3.39,35.21,22.734,22.754,8.618,9.955
+United Kingdom,Oils & Fats,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Oils & Fats,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Oils & Fats,Online & Offline Split,Offline,percent,Statista,96.146,96.032,95.875,94.552,93.851,92.46,90.885,89.071,86.858,,
+United Kingdom,Oils & Fats,Online & Offline Split,Online,percent,Statista,3.854,3.968,4.125,5.448,6.149,7.54,9.115,10.929,13.142,,
+United Kingdom,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Oils & Fats,Users by Segment,Total,million users,Statista,2.543,2.766,3.031,3.324,3.636,3.931,4.203,4.446,4.692,4.961,5.222
+United Kingdom,Oils & Fats,Users by Segment,Butter,million users,Statista,2.035,2.213,2.424,2.659,2.909,3.145,3.363,3.557,3.753,3.969,4.178
+United Kingdom,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,2.035,2.213,2.424,2.659,2.909,3.145,3.363,3.557,3.753,3.969,4.178
+United Kingdom,Oils & Fats,Users by Segment,Margarine,million users,Statista,2.035,2.213,2.424,2.659,2.909,3.145,3.363,3.557,3.753,3.969,4.178
+United Kingdom,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,1.526,1.66,1.818,1.994,2.182,2.359,2.522,2.668,2.815,2.976,3.133
+United Kingdom,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,3.049,3.296,3.59,3.917,4.265,4.592,4.89,5.153,5.418,5.708,5.988
+United Kingdom,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,3.049,3.296,3.59,3.917,4.265,4.592,4.89,5.153,5.418,5.708,5.988
+United Kingdom,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,3.049,3.296,3.59,3.917,4.265,4.592,4.89,5.153,5.418,5.708,5.988
+United Kingdom,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,3.812,4.12,4.488,4.897,5.331,5.739,6.113,6.441,6.773,7.135,7.485
+United Kingdom,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,2.287,2.472,2.693,2.938,3.198,3.444,3.668,3.865,4.064,4.281,4.491
+United Kingdom,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,9.898,9.33,9.006,10.99,10.89,10.43,13.21,15.34,17.87,18.24,18.99
+United Kingdom,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,8.039,7.537,7.284,9.052,8.428,8.093,10.28,11.98,14,14.26,14.84
+United Kingdom,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,5.778,5.501,5.297,6.25,6.921,6.593,8.305,9.595,11.12,11.39,11.87
+United Kingdom,Sauces & Spices,Revenue,Total,million USD (US$),Statista,44.31,45.43,48.03,64.3,69.72,72.17,97.7,120,147.6,159.3,174.5
+United Kingdom,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,28.79,29.36,31.08,42.37,43.15,44.8,60.83,74.97,92.47,99.62,109.1
+United Kingdom,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,15.52,16.07,16.95,21.94,26.57,27.37,36.86,45.05,55.08,59.65,65.45
+United Kingdom,Sauces & Spices,Revenue Change,Total,percent,Statista,,2.528,5.723,33.875,8.429,3.514,35.375,22.825,23,7.927,9.542
+United Kingdom,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,1.98,5.858,36.326,1.841,3.824,35.781,23.245,23.343,7.732,9.516
+United Kingdom,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,3.544,5.476,29.44,21.103,3.011,34.673,22.219,22.264,8.297,9.723
+United Kingdom,Sauces & Spices,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Sauces & Spices,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Sauces & Spices,Online & Offline Split,Online,percent,Statista,3.714,3.932,4.207,5.457,6.122,7.64,9.479,11.733,14.586,,
+United Kingdom,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Sauces & Spices,Users by Segment,Total,million users,Statista,4.477,4.869,5.334,5.85,6.399,6.919,7.398,7.825,8.258,8.731,9.191
+United Kingdom,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,3.581,3.895,4.267,4.68,5.119,5.535,5.918,6.26,6.606,6.985,7.353
+United Kingdom,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,2.686,2.921,3.2,3.51,3.84,4.152,4.439,4.695,4.955,5.238,5.515
+United Kingdom,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,6.709,7.252,7.898,8.618,9.382,10.101,10.758,11.337,11.92,12.558,13.173
+United Kingdom,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,5.367,5.801,6.319,6.894,7.506,8.081,8.607,9.07,9.536,10.046,10.539
+United Kingdom,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,4.025,4.351,4.739,5.171,5.629,6.061,6.455,6.802,7.152,7.535,7.904
+United Kingdom,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,5.792,5.433,5.273,6.376,6.141,5.875,7.421,8.582,9.94,10.13,10.53
+United Kingdom,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,2.66,2.495,2.421,2.923,3.059,3.002,3.879,4.578,5.4,5.535,5.787
+United Kingdom,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,7.635,7.161,6.95,8.413,7.695,7.236,8.994,10.25,11.71,11.89,12.29
+United Kingdom,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,19.45,19.84,21.09,27.98,29.47,30.49,41.17,50.37,61.56,66.35,72.59
+United Kingdom,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,7.144,7.288,7.749,10.26,11.75,12.46,17.22,21.5,26.76,29,31.91
+United Kingdom,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,12.3,12.55,13.35,17.72,17.73,18.02,23.95,28.87,34.8,37.36,40.68
+United Kingdom,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,2.005,6.3,32.67,5.325,3.461,35.028,22.346,22.216,7.781,9.405
+United Kingdom,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,2.016,6.325,32.404,14.522,6.043,38.202,24.855,24.465,8.371,10.034
+United Kingdom,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,2.033,6.375,32.734,0.056,1.636,32.908,20.543,20.54,7.356,8.887
+United Kingdom,Spreads & Sweeteners,Comparable Estimates - Food (United Kingdom),*Statista,billion USD (US$),,5.076,5.215,5.498,8.819,9.558,9.758,13.03,15.77,19.11,20.56,22.4
+United Kingdom,Spreads & Sweeteners,Comparable Estimates - Food (United Kingdom),Common Thread Collective,billion USD (US$),,,,,,,,,,7,,
+United Kingdom,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,96.055,95.783,95.41,94.058,93.484,91.852,89.918,87.509,84.517,,
+United Kingdom,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,3.945,4.217,4.59,5.942,6.516,8.148,10.082,12.491,15.483,,
+United Kingdom,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,3.357,3.652,4,4.388,4.8,5.189,5.549,5.869,6.193,6.548,6.893
+United Kingdom,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,2.686,2.921,3.2,3.51,3.84,4.152,4.439,4.695,4.955,5.238,5.515
+United Kingdom,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,1.612,1.753,1.92,2.106,2.304,2.491,2.663,2.817,2.973,3.143,3.309
+United Kingdom,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,4.025,4.351,4.739,5.171,5.629,6.061,6.455,6.802,7.152,7.535,7.904
+United Kingdom,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,5.032,5.439,5.924,6.463,7.037,7.576,8.069,8.503,8.94,9.418,9.88
+United Kingdom,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,2.415,2.611,2.843,3.102,3.378,3.636,3.873,4.081,4.291,4.521,4.742
+United Kingdom,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,128,120.8,116.6,161.7,163.4,155.8,196.5,227.3,263.7,267.3,276.2
+United Kingdom,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,147.2,139,134.1,185.9,182.9,174.3,219.8,254.2,294.7,297.5,306.3
+United Kingdom,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,49.92,47.13,45.46,63.06,70.71,67.52,85.25,98.74,114.7,118.1,123.6
+United Kingdom,Vegetables,Revenue,Total,billion USD (US$),Statista,0.638,0.655,0.692,1.053,1.164,1.2,1.619,1.981,2.425,2.599,2.827
+United Kingdom,Vegetables,Revenue,Fresh Vegetables,billion USD (US$),Statista,0.514,0.527,0.557,0.848,0.912,0.94,1.268,1.55,1.897,2.025,2.195
+United Kingdom,Vegetables,Revenue,Processed & Frozen Vegetables,billion USD (US$),Statista,0.124,0.128,0.135,0.205,0.252,0.26,0.351,0.43,0.527,0.574,0.632
+United Kingdom,Vegetables,Revenue Change,Total,percent,Statista,,2.68,5.678,52.08,10.541,3.093,34.917,22.359,22.413,7.175,8.773
+United Kingdom,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,2.667,5.688,52.099,7.596,3.08,34.851,22.24,22.387,6.747,8.395
+United Kingdom,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,2.733,5.634,52.148,22.687,3.214,35.025,22.494,22.571,8.913,10.117
+United Kingdom,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+United Kingdom,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+United Kingdom,Vegetables,Online & Offline Split,Offline,percent,Statista,96.133,96.018,95.87,94.423,93.633,92.204,90.626,88.852,86.706,,
+United Kingdom,Vegetables,Online & Offline Split,Online,percent,Statista,3.867,3.982,4.13,5.577,6.367,7.796,9.374,11.148,13.294,,
+United Kingdom,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,54.893,52.428,49.871,46.906,43.322,39.325,36.168,34.062,31.89,,
+United Kingdom,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,45.107,47.572,50.129,53.094,56.678,60.675,63.832,65.938,68.11,,
+United Kingdom,Vegetables,Users by Segment,Total,million users,Statista,4.985,5.422,5.94,6.515,7.127,7.705,8.239,8.714,9.196,9.723,10.236
+United Kingdom,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,3.49,3.795,4.158,4.561,4.989,5.394,5.767,6.1,6.437,6.806,7.165
+United Kingdom,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,2.493,2.711,2.97,3.258,3.563,3.853,4.119,4.357,4.598,4.861,5.118
+United Kingdom,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,5.23,5.653,6.157,6.718,7.314,7.874,8.387,8.838,9.292,9.789,10.269
+United Kingdom,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,3.736,4.038,4.398,4.799,5.224,5.625,5.99,6.313,6.637,6.992,7.335
+United Kingdom,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,7.471,8.076,8.796,9.597,10.448,11.249,11.981,12.625,13.275,13.985,14.67

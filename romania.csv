@@ -1,0 +1,688 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Romania,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.213,,,,,,
+Romania,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.824,,,,,,
+Romania,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.847,,,,,,
+Romania,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.517,,,,,,
+Romania,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.599,,,,,,
+Romania,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,51.125,,,,,,
+Romania,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,48.875,,,,,,
+Romania,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,33.333,,,,,,
+Romania,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.203,,,,,,
+Romania,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.463,,,,,,
+Romania,eCommerce,Revenue,Total,billion USD (US$),Statista,1.4,1.798,2.374,4.177,5.966,5.597,7.582,8.89,10.43,11.46,12.58
+Romania,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.211,0.291,0.408,0.631,0.911,0.886,1.199,1.437,1.73,1.908,2.109
+Romania,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.008,0.011,0.015,0.024,0.035,0.032,0.041,0.046,0.052,0.057,0.062
+Romania,eCommerce,Revenue,Electronics,billion USD (US$),Statista,0.237,0.337,0.485,0.821,1.228,1.099,1.618,1.939,2.321,2.571,2.85
+Romania,eCommerce,Revenue,Fashion,billion USD (US$),Statista,0.662,0.805,1.004,1.935,2.744,2.628,3.486,4.077,4.762,5.218,5.712
+Romania,eCommerce,Revenue,Food,billion USD (US$),Statista,0.033,0.044,0.061,0.111,0.163,0.146,0.181,0.197,0.215,0.233,0.25
+Romania,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.04,0.051,0.068,0.108,0.152,0.126,0.188,0.218,0.252,0.279,0.306
+Romania,eCommerce,Revenue,Media,billion USD (US$),Statista,0.051,0.057,0.066,0.091,0.103,0.089,0.105,0.108,0.111,0.114,0.117
+Romania,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.158,0.203,0.268,0.455,0.629,0.591,0.764,0.867,0.985,1.077,1.173
+Romania,eCommerce,Revenue Change,Total,percent,Statista,,28.41,32.029,75.94,42.805,-6.181,35.468,17.257,17.294,9.86,9.802
+Romania,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,38.086,40.069,54.784,44.347,-2.783,35.327,19.888,20.396,10.249,10.578
+Romania,eCommerce,Revenue Change,Beverages,percent,Statista,,33.777,36.726,64.193,43.789,-8.314,27.452,12.771,13.115,8.936,8.496
+Romania,eCommerce,Revenue Change,Electronics,percent,Statista,,42.048,43.864,69.432,49.482,-10.447,47.199,19.846,19.67,10.78,10.851
+Romania,eCommerce,Revenue Change,Fashion,percent,Statista,,21.534,24.698,92.765,41.82,-4.241,32.668,16.94,16.804,9.574,9.468
+Romania,eCommerce,Revenue Change,Food,percent,Statista,,33.854,36.77,83.132,47.486,-10.597,23.771,9.043,8.893,8.541,7.299
+Romania,eCommerce,Revenue Change,Furniture,percent,Statista,,28.692,33.334,58.996,40.858,-17.565,49.732,16.042,15.533,10.377,10.038
+Romania,eCommerce,Revenue Change,Media,percent,Statista,,10.292,16.894,38.144,12.617,-13.525,17.715,3.064,2.456,3.016,2.292
+Romania,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,28.236,32.53,69.551,38.133,-6.014,29.27,13.525,13.564,9.364,8.885
+Romania,eCommerce,Average Revenue per User,Total,USD (US$),Statista,268.6,298.8,315,500.6,648.1,576,741.9,851.9,979.2,"1,049","1,132"
+Romania,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,83.1,101.4,122.9,159.6,204,178.5,221.9,249.3,283.5,292.9,306.1
+Romania,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,6.026,6.91,7.875,11.06,13.76,11.14,12.85,13.44,14.18,14.33,14.54
+Romania,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,63.36,77.38,93.43,134.7,176,140.2,187.9,210.6,236.9,245.1,256
+Romania,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,177.5,187,197.4,328,407.2,348.1,420.5,457.6,500.1,510.5,524.7
+Romania,eCommerce,Average Revenue per User,Food,USD (US$),Statista,26.06,29.89,34.08,53.37,68.12,53.79,60.26,60.93,61.89,62.31,62.54
+Romania,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,25.71,27.38,29.51,39.11,46.18,32.79,43.59,46.27,49.29,49.96,50.95
+Romania,eCommerce,Average Revenue per User,Media,USD (US$),Statista,17.64,17.05,17.41,21.47,22.03,17.65,19.55,19.13,18.66,18.39,18.09
+Romania,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,56.32,60.9,66.41,95.24,111.7,91.04,105.4,110.3,123.9,125.9,129.8
+Romania,eCommerce,Online & Offline Split,Offline,percent,Statista,97.91,97.529,96.965,95.021,93.192,92.58,91.808,90.867,89.791,,
+Romania,eCommerce,Online & Offline Split,Online,percent,Statista,2.09,2.471,3.035,4.979,6.808,7.42,8.192,9.133,10.209,,
+Romania,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,66.227,63.544,61.373,59.929,58.698,57.891,57.365,56.863,56.363,,
+Romania,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,33.773,36.456,38.627,40.071,41.302,42.109,42.635,43.137,43.637,,
+Romania,eCommerce,Users,Total,million users,Statista,5.213,6.019,7.537,8.344,9.204,9.717,10.22,10.436,10.65,10.918,11.116
+Romania,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,2.537,2.871,3.319,3.955,4.466,4.964,5.402,5.765,6.104,6.512,6.891
+Romania,eCommerce,Users,Beverages,million users,Statista,1.349,1.574,1.888,2.208,2.551,2.889,3.192,3.442,3.69,3.978,4.253
+Romania,eCommerce,Users,Electronics,million users,Statista,3.744,4.354,5.188,6.097,6.974,7.841,8.611,9.21,9.798,10.489,11.132
+Romania,eCommerce,Users,Fashion,million users,Statista,3.732,4.305,5.086,5.9,6.739,7.55,8.29,8.91,9.522,10.221,10.886
+Romania,eCommerce,Users,Food,million users,Statista,1.269,1.48,1.776,2.076,2.399,2.716,3.001,3.236,3.47,3.74,3.999
+Romania,eCommerce,Users,Furniture,million users,Statista,1.543,1.865,2.307,2.769,3.302,3.834,4.318,4.721,5.12,5.576,6.015
+Romania,eCommerce,Users,Media,million users,Statista,2.907,3.316,3.796,4.252,4.667,5.038,5.354,5.64,5.922,6.19,6.437
+Romania,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,2.805,3.326,4.042,4.779,5.627,6.491,7.248,7.862,7.951,8.557,9.035
+Romania,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,12.911,14.719,17.139,20.559,23.347,26.083,28.515,30.569,32.513,34.857,37.068
+Romania,eCommerce,Penetration Rate,Beverages,percent,Statista,6.864,8.07,9.751,11.479,13.339,15.18,16.847,18.25,19.655,21.292,22.876
+Romania,eCommerce,Penetration Rate,eCommerce,percent,Statista,26.526,30.856,38.921,43.374,48.12,51.056,53.947,55.335,56.729,58.436,59.793
+Romania,eCommerce,Penetration Rate,Electronics,percent,Statista,19.048,22.323,26.79,31.695,36.46,41.198,45.456,48.837,52.19,56.142,59.881
+Romania,eCommerce,Penetration Rate,Fashion,percent,Statista,18.989,22.069,26.265,30.667,35.231,39.671,43.76,47.244,50.722,54.706,58.558
+Romania,eCommerce,Penetration Rate,Food,percent,Statista,6.455,7.588,9.169,10.793,12.543,14.274,15.841,17.16,18.482,20.021,21.51
+Romania,eCommerce,Penetration Rate,Furniture,percent,Statista,7.852,9.563,11.915,14.391,17.263,20.146,22.794,25.033,27.275,29.844,32.357
+Romania,eCommerce,Penetration Rate,Media,percent,Statista,14.788,16.999,19.604,22.101,24.397,26.473,28.264,29.903,31.546,33.134,34.627
+Romania,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,14.27,17.049,20.873,24.842,29.416,34.105,38.258,41.687,42.351,45.803,48.599
+Romania,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.569,,,,,,
+Romania,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.566,,,,,,
+Romania,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.286,,,,,,
+Romania,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.599,,,,,,
+Romania,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,12.979,,,,,,
+Romania,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,42.92,,,,,,
+Romania,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,57.08,,,,,,
+Romania,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.863,,,,,,
+Romania,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.627,,,,,,
+Romania,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.51,,,,,,
+Romania,Electronics,Revenue,Total,billion USD (US$),Statista,0.237,0.337,0.485,0.821,1.228,1.099,1.618,1.939,2.321,2.571,2.85
+Romania,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.143,0.209,0.305,0.528,0.792,0.672,1.036,1.239,1.477,1.639,1.817
+Romania,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.094,0.127,0.18,0.294,0.435,0.427,0.582,0.701,0.844,0.933,1.033
+Romania,Electronics,Revenue Change,Total,percent,Statista,,42.048,43.864,69.432,49.482,-10.447,47.199,19.846,19.67,10.78,10.851
+Romania,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,46.404,45.579,73.01,50.133,-15.162,54.164,19.567,19.229,10.92,10.892
+Romania,Electronics,Revenue Change,Household Appliances,percent,Statista,,35.423,41.044,63.36,48.312,-1.869,36.242,20.343,20.45,10.535,10.777
+Romania,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,63.36,77.38,93.43,134.7,176,140.2,187.9,210.6,236.9,245.1,256
+Romania,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,40.05,51.04,63.46,95.11,127.5,98.46,141.1,160.4,182.3,192.2,204
+Romania,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,38.92,44.19,50.64,68.78,86.25,72.56,87.13,95.61,105.9,107.5,110.3
+Romania,Electronics,Online & Offline Split,Offline,percent,Statista,95.76,94.234,91.944,86.652,81.047,78.391,75.096,71.183,66.897,,
+Romania,Electronics,Online & Offline Split,Online,percent,Statista,4.24,5.766,8.056,13.348,18.953,21.609,24.904,28.817,33.103,,
+Romania,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Electronics,Users by Segment,Total,million users,Statista,3.744,4.354,5.188,6.097,6.974,7.841,8.611,9.21,9.798,10.489,11.132
+Romania,Electronics,Users by Segment,Consumer Electronics,million users,Statista,3.574,4.105,4.807,5.549,6.216,6.826,7.344,7.725,8.102,8.527,8.905
+Romania,Electronics,Users by Segment,Household Appliances,million users,Statista,2.417,2.883,3.549,4.268,5.048,5.888,6.681,7.327,7.967,8.675,9.365
+Romania,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,18.182,21.044,24.821,28.842,32.496,35.869,38.766,40.96,43.158,45.639,47.902
+Romania,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,19.048,22.323,26.79,31.695,36.46,41.198,45.456,48.837,52.19,56.142,59.881
+Romania,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,12.3,14.78,18.328,22.187,26.392,30.941,35.266,38.85,42.439,46.435,50.373
+Romania,Household Appliances,Revenue,Total,million USD (US$),Statista,94.08,127.4,179.7,293.6,435.4,427.3,582.1,700.5,843.8,932.7,"1,033"
+Romania,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,48.82,66.11,93.25,152.2,225.7,221.2,301,361.8,435.2,481.1,532.8
+Romania,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,17.73,24.01,33.86,55.31,82.04,80.5,109.7,132,159,175.7,194.7
+Romania,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,27.54,37.29,52.6,86.06,127.7,125.6,171.4,206.8,249.6,275.9,305.7
+Romania,Household Appliances,Revenue Change,Total,percent,Statista,,35.423,41.044,63.36,48.312,-1.869,36.242,20.343,20.45,10.535,10.777
+Romania,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,35.423,41.044,63.217,48.286,-1.99,36.075,20.194,20.301,10.535,10.757
+Romania,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,35.423,41.044,63.36,48.312,-1.869,36.242,20.343,20.45,10.535,10.777
+Romania,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,35.423,41.044,63.613,48.359,-1.656,36.538,20.603,20.711,10.535,10.814
+Romania,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,38.92,44.19,50.64,68.78,86.25,72.56,87.13,95.61,105.9,107.5,110.3
+Romania,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,50.49,57.33,65.69,89.15,111.8,93.91,112.6,123.4,136.6,138.6,142.2
+Romania,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,36.67,41.63,47.7,64.8,81.25,68.36,82.09,90.07,99.78,101.3,103.9
+Romania,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,14.24,16.17,18.53,25.2,31.61,26.65,32.08,35.27,39.16,39.75,40.81
+Romania,Household Appliances,Online & Offline Split,Offline,percent,Statista,96.098,94.775,92.744,87.522,81.456,80.405,77.465,74.143,70.02,,
+Romania,Household Appliances,Online & Offline Split,Online,percent,Statista,3.902,5.225,7.256,12.478,18.544,19.595,22.535,25.857,29.98,,
+Romania,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Household Appliances,Users,Total,million users,Statista,2.417,2.883,3.549,4.268,5.048,5.888,6.681,7.327,7.967,8.675,9.365
+Romania,Household Appliances,Users,Major Appliances,million users,Statista,0.967,1.153,1.42,1.707,2.019,2.355,2.672,2.931,3.187,3.47,3.746
+Romania,Household Appliances,Users,Other Household Appliances,million users,Statista,0.483,0.577,0.71,0.854,1.01,1.178,1.336,1.465,1.593,1.735,1.873
+Romania,Household Appliances,Users,Small Appliances,million users,Statista,1.934,2.306,2.839,3.415,4.039,4.711,5.345,5.862,6.374,6.94,7.492
+Romania,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,12.3,14.78,18.328,22.187,26.392,30.941,35.266,38.85,42.439,46.435,50.373
+Romania,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,4.92,5.912,7.331,8.875,10.557,12.376,14.106,15.54,16.976,18.574,20.149
+Romania,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,2.46,2.956,3.666,4.437,5.278,6.188,7.053,7.77,8.488,9.287,10.075
+Romania,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,9.84,11.824,14.662,17.749,21.114,24.753,28.213,31.08,33.951,37.148,40.298
+Romania,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.967,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.344,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.344,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.593,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.752,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,61.297,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,38.703,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.22,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.366,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.414,,,,,,
+Romania,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,210.9,291.2,407.8,631.2,911.2,885.8,"1,199","1,437","1,730","1,908","2,109"
+Romania,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,40.11,51.55,67.89,100.8,139.5,135.3,182,216.3,257.2,282.9,311.9
+Romania,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.702,1.048,1.573,2.442,3.689,4.24,6.766,9.536,13.45,14.79,16.68
+Romania,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,19.91,29.07,42.79,68.11,102,109.6,164.2,218.5,292.6,322.3,361.6
+Romania,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,150.1,209.5,295.6,459.9,665.9,636.8,845.8,992.9,"1,167","1,288","1,419"
+Romania,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,38.086,40.069,54.784,44.347,-2.783,35.327,19.888,20.396,10.249,10.578
+Romania,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,28.506,31.689,48.527,38.396,-3.059,34.559,18.828,18.907,10.003,10.251
+Romania,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,49.43,50.037,55.264,51.023,14.949,59.575,40.942,41.066,9.939,12.815
+Romania,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,46.028,47.183,59.178,49.822,7.36,49.849,33.079,33.915,10.156,12.195
+Romania,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,39.539,41.094,55.583,44.805,-4.377,32.83,17.387,17.547,10.331,10.219
+Romania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,83.1,101.4,122.9,159.6,204,178.5,221.9,249.3,283.5,292.9,306.1
+Romania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,22.58,25.65,29.22,36.42,44.64,38.93,48.14,53.6,60.2,62.06,64.66
+Romania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,0.432,0.571,0.741,0.965,1.291,1.335,1.957,2.585,3.444,3.548,3.783
+Romania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,20.65,26.64,33.93,45.32,60.13,58.08,79.97,99.72,126.1,130.2,138.1
+Romania,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,95.43,117.7,143.6,187.5,240.5,206.9,252.5,277.8,308.4,318.9,332.2
+Romania,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,94.278,92.422,89.881,84.421,79.533,77.483,74.999,71.89,68.359,,
+Romania,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,5.722,7.578,10.119,15.579,20.467,22.517,25.001,28.11,31.641,,
+Romania,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,2.537,2.871,3.319,3.955,4.466,4.964,5.402,5.765,6.104,6.512,6.891
+Romania,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,1.776,2.01,2.323,2.769,3.126,3.475,3.781,4.036,4.273,4.559,4.824
+Romania,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,1.624,1.838,2.124,2.531,2.858,3.177,3.457,3.69,3.906,4.168,4.411
+Romania,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.964,1.091,1.261,1.503,1.697,1.886,2.053,2.191,2.319,2.475,2.619
+Romania,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,1.573,1.78,2.058,2.452,2.769,3.078,3.349,3.574,3.784,4.038,4.273
+Romania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,12.911,14.719,17.139,20.559,23.347,26.083,28.515,30.569,32.513,34.857,37.068
+Romania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,9.037,10.304,11.997,14.391,16.343,18.258,19.961,21.399,22.759,24.401,25.949
+Romania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,8.263,9.42,10.969,13.158,14.942,16.693,18.25,19.564,20.808,22.309,23.725
+Romania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,4.906,5.593,6.513,7.812,8.872,9.911,10.836,11.616,12.355,13.246,14.087
+Romania,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,8.005,9.126,10.626,12.747,14.475,16.171,17.68,18.953,20.158,21.612,22.984
+Romania,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.733,,,,,,
+Romania,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.867,,,,,,
+Romania,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.2,,,,,,
+Romania,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.667,,,,,,
+Romania,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,12.533,,,,,,
+Romania,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,70.933,,,,,,
+Romania,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,29.067,,,,,,
+Romania,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.637,,,,,,
+Romania,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.758,,,,,,
+Romania,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.605,,,,,,
+Romania,Personal Care,Revenue,Total,million USD (US$),Statista,150.1,209.5,295.6,459.9,665.9,636.8,845.8,992.9,"1,167","1,288","1,419"
+Romania,Personal Care,Revenue,Body Care,million USD (US$),Statista,20.84,30.03,43.43,68.33,100.5,96.61,129,152.1,179.6,198.5,219.3
+Romania,Personal Care,Revenue,Eye Care,million USD (US$),Statista,12.16,15.75,20.85,31.23,42.87,38.18,47.2,51.55,56.35,60.79,65.04
+Romania,Personal Care,Revenue,Hair Care,million USD (US$),Statista,19.08,27.49,39.75,62.78,92.36,88.84,118.6,139.9,165.2,182.6,201.7
+Romania,Personal Care,Revenue,Oral Care,million USD (US$),Statista,9.62,13.86,20.04,31.68,46.62,45.03,60.38,71.51,84.76,93.72,103.6
+Romania,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,55.13,76.93,108.6,168.9,244.6,233.9,310.6,364.6,428.6,473.3,522
+Romania,Personal Care,Revenue,Skin Care,million USD (US$),Statista,33.29,45.42,62.96,96.96,139.1,134.3,180,213.1,252.6,278.7,307.7
+Romania,Personal Care,Revenue Change,Total,percent,Statista,,39.539,41.094,55.583,44.805,-4.377,32.83,17.387,17.547,10.331,10.219
+Romania,Personal Care,Revenue Change,Body Care,percent,Statista,,44.089,44.591,57.353,47.006,-3.828,33.518,17.932,18.034,10.561,10.446
+Romania,Personal Care,Revenue Change,Eye Care,percent,Statista,,29.52,32.396,49.776,37.304,-10.952,23.635,9.209,9.309,7.878,7.001
+Romania,Personal Care,Revenue Change,Hair Care,percent,Statista,,44.089,44.591,57.934,47.117,-3.814,33.537,17.948,18.049,10.569,10.453
+Romania,Personal Care,Revenue Change,Oral Care,percent,Statista,,44.089,44.591,58.082,47.145,-3.416,34.089,18.436,18.537,10.569,10.525
+Romania,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,39.539,41.094,55.583,44.805,-4.377,32.83,17.387,17.547,10.417,10.289
+Romania,Personal Care,Revenue Change,Skin Care,percent,Statista,,36.427,38.615,54.004,43.408,-3.444,34.061,18.419,18.529,10.332,10.386
+Romania,Personal Care,Average Revenue per User,Total,USD (US$),Statista,95.43,117.7,143.6,187.5,240.5,206.9,252.5,277.8,308.4,318.9,332.2
+Romania,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,19.48,24.81,31.04,40.98,53.35,46.16,56.64,62.58,69.78,72.3,75.46
+Romania,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,15.46,17.69,20.26,25.47,30.97,24.81,28.19,28.84,29.78,30.11,30.44
+Romania,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,23.32,29.7,37.15,49.23,64.15,55.51,68.12,75.28,83.94,86.99,90.81
+Romania,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,12.48,15.89,19.88,26.37,34.36,29.86,36.79,40.83,45.71,47.37,49.47
+Romania,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,77.88,96.04,117.2,153.1,196.3,168.9,206.1,226.7,251.7,260.5,271.5
+Romania,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,48.1,57.99,69.54,89.87,114.1,99.15,122.1,135.5,151.7,156.9,163.7
+Romania,Personal Care,Online & Offline Split,Offline,percent,Statista,89.443,86.125,81.774,71.69,64.382,62.241,59.834,56.434,52.752,,
+Romania,Personal Care,Online & Offline Split,Online,percent,Statista,10.557,13.875,18.226,28.31,35.618,37.759,40.166,43.566,47.248,,
+Romania,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Personal Care,Users,Total,million users,Statista,1.573,1.78,2.058,2.452,2.769,3.078,3.349,3.574,3.784,4.038,4.273
+Romania,Personal Care,Users,Body Care,million users,Statista,1.07,1.21,1.399,1.667,1.883,2.093,2.277,2.431,2.573,2.746,2.906
+Romania,Personal Care,Users,Eye Care,million users,Statista,0.787,0.89,1.029,1.226,1.384,1.539,1.675,1.787,1.892,2.019,2.137
+Romania,Personal Care,Users,Hair Care,million users,Statista,0.818,0.926,1.07,1.275,1.44,1.6,1.742,1.859,1.968,2.099,2.221
+Romania,Personal Care,Users,Oral Care,million users,Statista,0.771,0.872,1.008,1.202,1.357,1.508,1.641,1.751,1.854,1.979,2.094
+Romania,Personal Care,Users,Other Personal Care,million users,Statista,0.708,0.801,0.926,1.103,1.246,1.385,1.507,1.609,1.703,1.817,1.923
+Romania,Personal Care,Users,Skin Care,million users,Statista,0.692,0.783,0.905,1.079,1.218,1.354,1.474,1.573,1.665,1.777,1.88
+Romania,Personal Care,Penetration Rate,Body Care,percent,Statista,5.443,6.206,7.226,8.668,9.843,10.996,12.022,12.888,13.707,14.696,15.629
+Romania,Personal Care,Penetration Rate,Eye Care,percent,Statista,4.002,4.563,5.313,6.373,7.238,8.086,8.84,9.477,10.079,10.807,11.494
+Romania,Personal Care,Penetration Rate,Hair Care,percent,Statista,4.162,4.746,5.526,6.628,7.527,8.409,9.193,9.856,10.482,11.237,11.949
+Romania,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.922,4.472,5.207,6.246,7.093,7.924,8.663,9.287,9.877,10.59,11.263
+Romania,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,3.602,4.107,4.782,5.736,6.514,7.277,7.956,8.529,9.071,9.725,10.343
+Romania,Personal Care,Penetration Rate,Personal Care,percent,Statista,8.005,9.126,10.626,12.747,14.475,16.171,17.68,18.953,20.158,21.612,22.984
+Romania,Personal Care,Penetration Rate,Skin Care,percent,Statista,3.522,4.015,4.676,5.608,6.369,7.115,7.779,8.339,8.869,9.509,10.113
+Romania,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,22.58,25.65,29.22,36.42,44.64,38.93,48.14,53.6,60.2,62.06,64.66
+Romania,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,19.69,23.08,27.03,34.34,42.94,37.44,46.29,51.54,57.89,59.78,62.34
+Romania,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,4.951,4.784,4.583,4.96,5.083,4.444,5.503,6.129,6.879,6.974,7.194
+Romania,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,23.33,26.5,30.19,37.63,46.12,40.22,49.73,55.37,62.19,64.12,66.79
+Romania,Beauty Care,Revenue,Total,million USD (US$),Statista,40.11,51.55,67.89,100.8,139.5,135.3,182,216.3,257.2,282.9,311.9
+Romania,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,24.48,32.47,43.96,66.55,93.96,91.07,122.5,145.6,173.1,190.8,210.5
+Romania,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,5.277,5.769,6.389,8.239,9.534,9.265,12.48,14.84,17.63,19.08,20.82
+Romania,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,10.36,13.31,17.53,26.04,36.04,34.94,47.02,55.87,66.43,73.08,80.57
+Romania,Beauty Care,Revenue Change,Total,percent,Statista,,28.506,31.689,48.527,38.396,-3.059,34.559,18.828,18.907,10.003,10.251
+Romania,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,32.641,35.408,51.372,41.203,-3.083,34.54,18.824,18.915,10.189,10.36
+Romania,Beauty Care,Revenue Change,Fragrances,percent,Statista,,9.325,10.756,28.951,15.724,-2.821,34.746,18.87,18.83,8.178,9.162
+Romania,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,28.506,31.689,48.527,38.396,-3.059,34.559,18.828,18.907,10.003,10.251
+Romania,Beauty Care,Online & Offline Split,Offline,percent,Statista,89.386,87.229,84.266,75.364,69.816,67.595,64.989,61.413,57.413,,
+Romania,Beauty Care,Online & Offline Split,Online,percent,Statista,10.614,12.771,15.734,24.636,30.184,32.405,35.011,38.587,42.587,,
+Romania,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Beauty Care,Users by Segment,Total,million users,Statista,1.776,2.01,2.323,2.769,3.126,3.475,3.781,4.036,4.273,4.559,4.824
+Romania,Beauty Care,Users by Segment,Cosmetics,million users,Statista,1.243,1.407,1.626,1.938,2.188,2.432,2.647,2.825,2.991,3.191,3.377
+Romania,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.066,1.206,1.394,1.661,1.876,2.085,2.269,2.421,2.564,2.735,2.895
+Romania,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.444,0.502,0.581,0.692,0.782,0.869,0.945,1.009,1.068,1.14,1.206
+Romania,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,9.037,10.304,11.997,14.391,16.343,18.258,19.961,21.399,22.759,24.401,25.949
+Romania,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,6.326,7.213,8.398,10.074,11.44,12.781,13.973,14.979,15.931,17.081,18.165
+Romania,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,5.422,6.182,7.198,8.635,9.806,10.955,11.976,12.839,13.655,14.641,15.57
+Romania,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.259,2.576,2.999,3.598,4.086,4.564,4.99,5.35,5.69,6.1,6.488
+Romania,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,0.432,0.571,0.741,0.965,1.291,1.335,1.957,2.585,3.444,3.548,3.783
+Romania,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,1.602,2.116,2.746,3.578,4.786,4.95,7.258,9.585,12.77,13.16,14.03
+Romania,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,0.485,0.641,0.832,1.084,1.449,1.499,2.198,2.902,3.867,3.984,4.247
+Romania,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Total,million USD (US$),Statista,0.702,1.048,1.573,2.442,3.689,4.24,6.766,9.536,13.45,14.79,16.68
+Romania,Health Care,Revenue,Analgesics,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.52,0.778,1.167,1.812,2.736,3.145,5.018,7.073,9.978,10.97,12.38
+Romania,Health Care,Revenue,Other Health Care,million USD (US$),Statista,0.181,0.271,0.406,0.631,0.953,1.095,1.748,2.463,3.475,3.82,4.31
+Romania,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Romania,Health Care,Revenue Change,Total,percent,Statista,,49.43,50.037,55.264,51.023,14.949,59.575,40.942,41.066,9.939,12.815
+Romania,Health Care,Revenue Change,Incontinence,percent,Statista,,49.43,50.037,55.264,51.023,14.949,59.575,40.942,41.066,9.939,12.815
+Romania,Health Care,Revenue Change,Other Health Care,percent,Statista,,49.43,50.037,55.264,51.023,14.949,59.575,40.942,41.066,9.939,12.815
+Romania,Health Care,Online & Offline Split,Offline,percent,Statista,99.857,99.794,99.703,99.538,99.363,99.161,98.882,98.499,97.983,,
+Romania,Health Care,Online & Offline Split,Online,percent,Statista,0.143,0.206,0.297,0.462,0.637,0.839,1.118,1.501,2.017,,
+Romania,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Health Care,Users by Segment,Total,million users,Statista,1.624,1.838,2.124,2.531,2.858,3.177,3.457,3.69,3.906,4.168,4.411
+Romania,Health Care,Users by Segment,Analgesics,million users,Statista,0.325,0.368,0.425,0.506,0.572,0.635,0.691,0.738,0.781,0.834,0.882
+Romania,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.65,0.735,0.85,1.012,1.143,1.271,1.383,1.476,1.563,1.667,1.765
+Romania,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.487,0.551,0.637,0.759,0.857,0.953,1.037,1.107,1.172,1.25,1.323
+Romania,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.65,0.735,0.85,1.012,1.143,1.271,1.383,1.476,1.563,1.667,1.765
+Romania,Health Care,Users by Segment,Incontinence,million users,Statista,0.325,0.368,0.425,0.506,0.572,0.635,0.691,0.738,0.781,0.834,0.882
+Romania,Health Care,Users by Segment,Other Health Care,million users,Statista,0.374,0.423,0.489,0.582,0.657,0.731,0.795,0.849,0.898,0.959,1.015
+Romania,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.65,0.735,0.85,1.012,1.143,1.271,1.383,1.476,1.563,1.667,1.765
+Romania,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.812,0.919,1.062,1.266,1.429,1.588,1.729,1.845,1.953,2.084,2.205
+Romania,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.653,1.884,2.194,2.632,2.988,3.339,3.65,3.913,4.162,4.462,4.746
+Romania,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,3.305,3.768,4.388,5.263,5.977,6.677,7.3,7.826,8.323,8.925,9.492
+Romania,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.479,2.826,3.291,3.947,4.483,5.008,5.475,5.869,6.242,6.693,7.118
+Romania,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,3.305,3.768,4.388,5.263,5.977,6.677,7.3,7.826,8.323,8.925,9.492
+Romania,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,8.263,9.42,10.969,13.158,14.942,16.693,18.25,19.564,20.808,22.309,23.725
+Romania,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.653,1.884,2.194,2.632,2.988,3.339,3.65,3.913,4.162,4.462,4.746
+Romania,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.9,2.167,2.523,3.026,3.437,3.839,4.197,4.5,4.786,5.132,5.458
+Romania,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,3.305,3.768,4.388,5.263,5.977,6.677,7.3,7.826,8.323,8.925,9.492
+Romania,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,4.131,4.71,5.485,6.579,7.471,8.346,9.125,9.782,10.404,11.154,11.862
+Romania,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,20.65,26.64,33.93,45.32,60.13,58.08,79.97,99.72,126.1,130.2,138.1
+Romania,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,1.252,1.586,1.986,2.822,3.749,3.415,4.43,5.203,6.203,6.421,6.764
+Romania,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,2.286,2.894,3.624,5.293,7.073,6.415,8.284,9.685,11.49,11.9,12.54
+Romania,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,9.388,12.4,16.09,20.88,27.91,28.72,41.9,55.05,72.99,75.21,80.13
+Romania,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,11.07,14.01,17.55,23.06,30.15,27.6,35.99,42.49,50.94,52.65,55.46
+Romania,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,38.53,49.72,63.31,84.57,112.2,108.4,149.2,186.1,235.4,242.9,257.5
+Romania,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,1.379,1.822,2.364,3.155,4.24,4.365,6.371,8.375,11.11,11.45,12.2
+Romania,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,2.428,3.074,3.849,5.03,6.567,5.996,7.796,9.179,10.97,11.34,11.94
+Romania,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,8.171,10.79,14.01,18.85,25.38,25.92,37.55,48.98,64.47,66.49,70.81
+Romania,Household Care,Revenue,Total,million USD (US$),Statista,19.91,29.07,42.79,68.11,102,109.6,164.2,218.5,292.6,322.3,361.6
+Romania,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.507,0.727,1.052,1.782,2.672,2.706,3.819,4.787,6.043,6.675,7.44
+Romania,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.992,1.421,2.057,3.58,5.401,5.445,7.652,9.548,12,13.26,14.77
+Romania,Household Care,Revenue,Household Paper,million USD (US$),Statista,2.082,3.111,4.668,7.218,10.89,12.46,19.78,27.74,38.94,42.82,48.28
+Romania,Household Care,Revenue,Laundry Care,million USD (US$),Statista,4.268,6.115,8.851,13.87,20.46,20.83,29.55,37.24,47.26,52.13,58.1
+Romania,Household Care,Revenue,Other Household Care,million USD (US$),Statista,8.173,11.93,17.57,27.96,41.89,44.98,67.39,89.69,120.1,132.3,148.4
+Romania,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.426,0.636,0.954,1.518,2.302,2.634,4.185,5.871,8.244,9.068,10.23
+Romania,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.702,1.006,1.456,2.268,3.343,3.393,4.801,6.033,7.634,8.42,9.381
+Romania,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,2.757,4.12,6.182,9.916,15.07,17.11,26.98,37.56,52.33,57.6,64.92
+Romania,Household Care,Revenue Change,Total,percent,Statista,,46.028,47.183,59.178,49.822,7.36,49.849,33.079,33.915,10.156,12.195
+Romania,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,43.259,44.76,69.371,49.997,1.248,41.166,25.346,26.226,10.456,11.471
+Romania,Household Care,Revenue Change,Household Cleaners,percent,Statista,,43.259,44.76,74.045,50.88,0.805,40.538,24.778,25.64,10.519,11.434
+Romania,Household Care,Revenue Change,Household Paper,percent,Statista,,49.43,50.037,54.624,50.905,14.376,58.779,40.239,40.363,9.967,12.763
+Romania,Household Care,Revenue Change,Laundry Care,percent,Statista,,43.259,44.76,56.652,47.593,1.764,41.899,26.011,26.911,10.298,11.465
+Romania,Household Care,Revenue Change,Other Household Care,percent,Statista,,46.028,47.183,59.178,49.822,7.36,49.849,33.079,33.915,10.156,12.195
+Romania,Household Care,Revenue Change,Paper Tissues,percent,Statista,,49.43,50.037,59.03,51.719,14.425,58.847,40.299,40.423,9.995,12.785
+Romania,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,43.259,44.76,55.719,47.416,1.486,41.503,25.652,26.541,10.298,11.419
+Romania,Household Care,Revenue Change,Toilet Paper,percent,Statista,,49.43,50.037,60.39,51.998,13.546,57.629,39.224,39.348,10.054,12.713
+Romania,Household Care,Online & Offline Split,Offline,percent,Statista,98.573,97.952,97.043,95.427,93.38,91.729,89.503,86.659,83.065,,
+Romania,Household Care,Online & Offline Split,Online,percent,Statista,1.427,2.048,2.957,4.573,6.62,8.271,10.497,13.341,16.935,,
+Romania,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Household Care,Users by Segment,Total,million users,Statista,0.964,1.091,1.261,1.503,1.697,1.886,2.053,2.191,2.319,2.475,2.619
+Romania,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.405,0.458,0.53,0.631,0.713,0.792,0.862,0.92,0.974,1.039,1.1
+Romania,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.434,0.491,0.568,0.676,0.764,0.849,0.924,0.986,1.044,1.114,1.179
+Romania,Household Care,Users by Segment,Household Paper,million users,Statista,0.222,0.251,0.29,0.346,0.39,0.434,0.472,0.504,0.533,0.569,0.603
+Romania,Household Care,Users by Segment,Laundry Care,million users,Statista,0.386,0.436,0.504,0.601,0.679,0.755,0.821,0.876,0.928,0.99,1.048
+Romania,Household Care,Users by Segment,Other Household Care,million users,Statista,0.212,0.24,0.277,0.331,0.373,0.415,0.452,0.482,0.51,0.545,0.576
+Romania,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.309,0.349,0.404,0.481,0.543,0.604,0.657,0.701,0.742,0.792,0.838
+Romania,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.289,0.327,0.378,0.451,0.509,0.566,0.616,0.657,0.696,0.743,0.786
+Romania,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.337,0.382,0.441,0.526,0.594,0.66,0.718,0.767,0.812,0.866,0.917
+Romania,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.061,2.349,2.735,3.281,3.726,4.163,4.551,4.879,5.189,5.564,5.917
+Romania,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,4.906,5.593,6.513,7.812,8.872,9.911,10.836,11.616,12.355,13.246,14.087
+Romania,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.208,2.517,2.931,3.516,3.992,4.46,4.876,5.227,5.56,5.961,6.34
+Romania,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.128,1.286,1.498,1.797,2.041,2.28,2.492,2.672,2.842,3.047,3.241
+Romania,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.962,2.237,2.605,3.125,3.549,3.965,4.334,4.647,4.942,5.299,5.636
+Romania,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.079,1.231,1.433,1.719,1.952,2.181,2.384,2.556,2.718,2.915,3.101
+Romania,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.57,1.79,2.084,2.5,2.839,3.172,3.467,3.717,3.954,4.239,4.509
+Romania,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.472,1.678,1.954,2.344,2.662,2.973,3.251,3.485,3.706,3.974,4.227
+Romania,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.717,1.958,2.279,2.734,3.105,3.469,3.793,4.066,4.324,4.637,4.931
+Romania,Food,Revenue,Total,million USD (US$),Statista,33.05,44.24,60.51,110.8,163.4,146.1,180.8,197.2,214.7,233.1,250.1
+Romania,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,3.058,4.093,5.598,11.96,18.34,16.18,19.75,21.23,22.8,24.59,26.17
+Romania,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,7.125,9.537,13.04,24.79,36.85,32.82,40.47,43.96,47.68,51.64,55.25
+Romania,Food,Revenue,Convenience Food,million USD (US$),Statista,1.452,1.943,2.658,5.487,8.332,7.375,9.036,9.753,10.51,11.36,12.12
+Romania,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,4.807,6.434,8.8,15.06,21.83,19.64,24.47,26.85,29.42,32.03,34.49
+Romania,Food,Revenue,Fish & Seafood,million USD (US$),Statista,1.561,2.089,2.857,5.074,7.418,6.655,8.265,9.043,9.88,10.74,11.55
+Romania,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,2.912,3.897,5.33,9.47,13.85,12.43,15.45,16.92,18.51,20.13,21.66
+Romania,Food,Revenue,Meat,million USD (US$),Statista,7.043,9.428,12.89,22.75,33.21,29.8,37.02,40.52,44.3,48.16,51.8
+Romania,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.837,1.12,1.532,2.622,3.801,3.421,4.264,4.681,5.133,5.59,6.024
+Romania,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.388,0.52,0.711,1.106,1.569,1.427,1.796,1.992,2.207,2.418,2.625
+Romania,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.297,0.398,0.544,0.872,1.246,1.116,1.384,1.512,1.65,1.787,1.917
+Romania,Food,Revenue,Vegetables,million USD (US$),Statista,3.574,4.784,6.543,11.62,16.99,15.25,18.95,20.74,22.66,24.64,26.5
+Romania,Food,Revenue Change,Total,percent,Statista,,33.854,36.77,83.132,47.486,-10.597,23.771,9.043,8.893,8.541,7.299
+Romania,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,33.854,36.77,113.645,53.343,-11.807,22.079,7.533,7.359,7.87,6.423
+Romania,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,33.854,36.77,90.054,48.646,-10.928,23.302,8.62,8.458,8.302,7.007
+Romania,Food,Revenue Change,Convenience Food,percent,Statista,,33.854,36.77,106.436,51.851,-11.493,22.524,7.935,7.773,8.067,6.67
+Romania,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,33.854,36.77,71.162,44.945,-10.03,24.554,9.734,9.586,8.852,7.703
+Romania,Food,Revenue Change,Fish & Seafood,percent,Statista,,33.854,36.77,77.585,46.202,-10.29,24.192,9.411,9.26,8.701,7.503
+Romania,Food,Revenue Change,Fruits & Nuts,percent,Statista,,33.854,36.77,77.673,46.22,-10.215,24.297,9.505,9.354,8.775,7.577
+Romania,Food,Revenue Change,Meat,percent,Statista,,33.854,36.77,76.423,45.978,-10.261,24.237,9.455,9.308,8.732,7.544
+Romania,Food,Revenue Change,Oils & Fats,percent,Statista,,33.854,36.77,71.192,44.951,-9.981,24.624,9.796,9.649,8.906,7.757
+Romania,Food,Revenue Change,Sauces & Spices,percent,Statista,,33.854,36.77,55.606,41.899,-9.077,25.884,10.918,10.786,9.577,8.569
+Romania,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,33.854,36.77,60.348,42.828,-10.418,24.021,9.266,9.12,8.334,7.253
+Romania,Food,Revenue Change,Vegetables,percent,Statista,,33.854,36.77,77.63,46.211,-10.259,24.235,9.449,9.298,8.732,7.534
+Romania,Food,Average Revenue per User,Total,USD (US$),Statista,26.06,29.89,34.08,53.37,68.12,53.79,60.26,60.93,61.89,62.31,62.54
+Romania,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,5.129,5.884,6.708,12.26,16.27,12.67,14,13.96,13.98,13.99,13.92
+Romania,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,11.46,13.15,14.99,24.36,31.35,24.66,27.52,27.72,28.04,28.17,28.2
+Romania,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,2.044,2.345,2.673,4.719,6.202,4.848,5.377,5.381,5.41,5.423,5.411
+Romania,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,16.48,18.9,21.55,31.54,39.57,31.44,35.45,36.07,36.87,37.21,37.48
+Romania,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,6.475,7.428,8.469,12.86,16.27,12.89,14.49,14.71,14.99,15.1,15.18
+Romania,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,4.414,5.064,5.773,8.771,11.1,8.802,9.903,10.06,10.26,10.35,10.41
+Romania,Food,Average Revenue per User,Meat,USD (US$),Statista,18.51,21.23,24.21,36.52,46.14,36.57,41.12,41.74,42.56,42.91,43.16
+Romania,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,2.638,3.026,3.45,5.051,6.337,5.038,5.683,5.786,5.918,5.976,6.022
+Romania,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.695,0.798,0.909,1.21,1.486,1.194,1.36,1.399,1.446,1.469,1.492
+Romania,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.71,0.814,0.928,1.273,1.573,1.245,1.397,1.416,1.441,1.448,1.452
+Romania,Food,Average Revenue per User,Vegetables,USD (US$),Statista,5.75,6.596,7.52,11.42,14.45,11.46,12.88,13.08,13.33,13.44,13.52
+Romania,Food,Online & Offline Split,Offline,percent,Statista,99.901,99.873,99.837,99.741,99.625,99.606,99.587,99.567,99.548,,
+Romania,Food,Online & Offline Split,Online,percent,Statista,0.099,0.127,0.163,0.259,0.375,0.394,0.413,0.433,0.452,,
+Romania,Food,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Food,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Food,Users,Total,million users,Statista,1.269,1.48,1.776,2.076,2.399,2.716,3.001,3.236,3.47,3.74,3.999
+Romania,Food,Users,Bread & Cereal Products,million users,Statista,0.596,0.696,0.835,0.976,1.128,1.277,1.41,1.521,1.631,1.758,1.879
+Romania,Food,Users,Confectionery & Snacks,million users,Statista,0.622,0.725,0.87,1.017,1.176,1.331,1.471,1.586,1.7,1.833,1.959
+Romania,Food,Users,Convenience Food,million users,Statista,0.71,0.829,0.994,1.163,1.344,1.521,1.681,1.812,1.943,2.095,2.239
+Romania,Food,Users,Dairy Products & Eggs,million users,Statista,0.292,0.34,0.408,0.478,0.552,0.625,0.69,0.744,0.798,0.861,0.92
+Romania,Food,Users,Fish & Seafood,million users,Statista,0.241,0.281,0.337,0.395,0.456,0.516,0.57,0.615,0.659,0.711,0.761
+Romania,Food,Users,Fruits & Nuts,million users,Statista,0.66,0.77,0.923,1.08,1.248,1.413,1.561,1.683,1.804,1.945,2.08
+Romania,Food,Users,Meat,million users,Statista,0.381,0.444,0.533,0.623,0.72,0.815,0.9,0.971,1.041,1.122,1.2
+Romania,Food,Users,Oils & Fats,million users,Statista,0.317,0.37,0.444,0.519,0.6,0.679,0.75,0.809,0.867,0.935,1
+Romania,Food,Users,Sauces & Spices,million users,Statista,0.558,0.651,0.781,0.914,1.056,1.195,1.32,1.424,1.527,1.646,1.76
+Romania,Food,Users,Spreads & Sweeteners,million users,Statista,0.419,0.488,0.586,0.685,0.792,0.896,0.99,1.068,1.145,1.235,1.32
+Romania,Food,Users,Vegetables,million users,Statista,0.622,0.725,0.87,1.017,1.176,1.331,1.471,1.586,1.7,1.833,1.959
+Romania,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,3.034,3.566,4.31,5.073,5.895,6.709,7.445,8.065,8.686,9.41,10.11
+Romania,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,3.163,3.718,4.493,5.289,6.146,6.994,7.762,8.409,9.056,9.81,10.54
+Romania,Food,Penetration Rate,Convenience Food,percent,Statista,3.615,4.249,5.135,6.044,7.024,7.993,8.871,9.61,10.35,11.212,12.045
+Romania,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.485,1.745,2.109,2.482,2.885,3.283,3.644,3.947,4.251,4.606,4.951
+Romania,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.226,1.442,1.742,2.051,2.383,2.712,3.01,3.26,3.512,3.806,4.091
+Romania,Food,Penetration Rate,Food,percent,Statista,6.455,7.588,9.169,10.793,12.543,14.274,15.841,17.16,18.482,20.021,21.51
+Romania,Food,Penetration Rate,Fruits & Nuts,percent,Statista,3.356,3.946,4.768,5.613,6.522,7.422,8.238,8.923,9.61,10.411,11.186
+Romania,Food,Penetration Rate,Meat,percent,Statista,1.936,2.276,2.751,3.238,3.763,4.282,4.752,5.148,5.544,6.007,6.455
+Romania,Food,Penetration Rate,Oils & Fats,percent,Statista,1.614,1.897,2.292,2.698,3.136,3.568,3.96,4.29,4.62,5.007,5.38
+Romania,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.84,3.339,4.034,4.749,5.519,6.28,6.97,7.551,8.132,8.809,9.465
+Romania,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,2.13,2.504,3.026,3.562,4.139,4.71,5.228,5.663,6.099,6.608,7.101
+Romania,Food,Penetration Rate,Vegetables,percent,Statista,3.163,3.718,4.493,5.289,6.146,6.994,7.762,8.409,9.056,9.81,10.54
+Romania,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.909,,,,,,
+Romania,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.091,,,,,,
+Romania,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26.364,,,,,,
+Romania,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24,,,,,,
+Romania,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.636,,,,,,
+Romania,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,38,,,,,,
+Romania,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,62,,,,,,
+Romania,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.804,,,,,,
+Romania,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,28.571,,,,,,
+Romania,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.625,,,,,,
+Romania,Consumer Electronics,Revenue,Total,million USD (US$),Statista,143.1,209.5,305,527.7,792.3,672.1,"1,036","1,239","1,477","1,639","1,817"
+Romania,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,29.3,45.52,67.28,111,162.8,139.3,216.6,260.8,312.8,346.8,384.9
+Romania,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,45.38,66.44,96.72,167.3,251.2,213.1,328.6,392.9,468.4,519.6,576.2
+Romania,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,28.94,41.61,60.49,112.7,173.1,148.7,232.1,280.6,337.7,375,416.8
+Romania,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,38.46,54.46,78.36,133,199.3,167.3,255.3,302.2,356.3,395.1,437.3
+Romania,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,1.037,1.491,2.168,3.795,5.752,3.595,3.649,2.493,2.041,1.996,1.862
+Romania,Consumer Electronics,Revenue Change,Total,percent,Statista,,46.404,45.579,73.01,50.133,-15.162,54.164,19.567,19.229,10.92,10.892
+Romania,Consumer Electronics,Revenue Change,Computing,percent,Statista,,55.368,47.801,64.909,46.745,-14.426,55.424,20.448,19.916,10.881,10.969
+Romania,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,46.404,45.579,73.01,50.133,-15.162,54.164,19.567,19.229,10.927,10.894
+Romania,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,43.789,45.36,86.254,53.681,-14.084,56.024,20.896,20.345,11.068,11.136
+Romania,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,41.612,43.896,69.686,49.913,-16.054,52.592,18.345,17.909,10.88,10.681
+Romania,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,43.789,45.36,75.065,51.578,-37.495,1.482,-31.666,-18.126,-2.205,-6.717
+Romania,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,40.05,51.04,63.46,95.11,127.5,98.46,141.1,160.4,182.3,192.2,204
+Romania,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,11.71,15.84,20,28.57,37.42,29.16,42.13,48.24,55.15,58.1,61.73
+Romania,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,15.87,20.23,25.15,37.7,50.52,39.03,55.93,63.57,72.27,76.17,80.87
+Romania,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,10.12,12.67,15.73,25.38,34.82,27.24,39.5,45.4,52.09,54.98,58.5
+Romania,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,26.9,33.17,40.76,59.91,80.18,61.28,86.92,97.8,109.9,115.8,122.7
+Romania,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,0.967,1.211,1.503,2.28,3.085,1.756,1.656,1.076,0.84,0.78,0.697
+Romania,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,95.504,93.847,91.384,86.113,80.814,77.09,73.546,69.196,64.804,,
+Romania,Consumer Electronics,Online & Offline Split,Online,percent,Statista,4.496,6.153,8.616,13.887,19.186,22.91,26.454,30.804,35.196,,
+Romania,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Consumer Electronics,Users,Total,million users,Statista,3.574,4.105,4.807,5.549,6.216,6.826,7.344,7.725,8.102,8.527,8.905
+Romania,Consumer Electronics,Users,Computing,million users,Statista,2.501,2.873,3.365,3.884,4.351,4.778,5.141,5.407,5.671,5.969,6.234
+Romania,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,2.859,3.284,3.845,4.439,4.973,5.461,5.875,6.18,6.482,6.822,7.125
+Romania,Consumer Electronics,Users,Telephony,million users,Statista,2.859,3.284,3.845,4.439,4.973,5.461,5.875,6.18,6.482,6.822,7.125
+Romania,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,1.429,1.642,1.923,2.219,2.486,2.731,2.938,3.09,3.241,3.411,3.562
+Romania,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.072,1.231,1.442,1.665,1.865,2.048,2.203,2.317,2.431,2.558,2.672
+Romania,Consumer Electronics,Penetration Rate,Computing,percent,Statista,12.728,14.731,17.375,20.19,22.747,25.108,27.136,28.672,30.211,31.949,33.534
+Romania,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,18.182,21.044,24.821,28.842,32.496,35.869,38.766,40.96,43.158,45.639,47.902
+Romania,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,14.546,16.835,19.857,23.074,25.997,28.695,31.013,32.768,34.527,36.513,38.326
+Romania,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,14.546,16.835,19.857,23.074,25.997,28.695,31.013,32.768,34.527,36.513,38.326
+Romania,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,7.273,8.418,9.928,11.537,12.999,14.348,15.506,16.384,17.263,18.256,19.162
+Romania,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,5.455,6.313,7.446,8.653,9.749,10.761,11.63,12.288,12.948,13.692,14.371
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,5.129,5.884,6.708,12.26,16.27,12.67,14,13.96,13.98,13.99,13.92
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,5.48,6.286,7.167,13.25,17.62,13.71,15.14,15.08,15.08,15.08,15
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.338,0.387,0.442,0.672,0.85,0.675,0.761,0.774,0.792,0.8,0.806
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,1.69,1.939,2.211,4.039,5.36,4.175,4.614,4.6,4.607,4.607,4.584
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.5,0.574,0.654,1.208,1.607,1.25,1.379,1.373,1.372,1.372,1.364
+Romania,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.209,0.239,0.273,0.505,0.671,0.522,0.577,0.574,0.575,0.575,0.572
+Romania,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,3.058,4.093,5.598,11.96,18.34,16.18,19.75,21.23,22.8,24.59,26.17
+Romania,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,2.058,2.755,3.768,8.143,12.52,11.03,13.45,14.45,15.5,16.71,17.77
+Romania,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.167,0.224,0.306,0.544,0.796,0.716,0.891,0.978,1.071,1.167,1.258
+Romania,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.454,0.607,0.83,1.774,2.72,2.399,2.928,3.149,3.381,3.647,3.88
+Romania,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.268,0.359,0.491,1.061,1.631,1.436,1.751,1.879,2.014,2.171,2.308
+Romania,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.111,0.148,0.203,0.438,0.674,0.594,0.724,0.778,0.834,0.899,0.956
+Romania,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,33.854,36.77,113.645,53.343,-11.807,22.079,7.533,7.359,7.87,6.423
+Romania,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,33.854,36.77,116.115,53.746,-11.896,21.953,7.417,7.24,7.813,6.35
+Romania,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,33.854,36.77,77.815,46.247,-10.044,24.535,9.716,9.569,8.948,7.754
+Romania,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,33.854,36.77,113.645,53.343,-11.807,22.079,7.533,7.359,7.862,6.414
+Romania,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,33.854,36.77,115.999,53.723,-11.946,21.882,7.355,7.177,7.773,6.309
+Romania,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,33.854,36.77,116.101,53.743,-11.899,21.947,7.413,7.235,7.825,6.359
+Romania,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.885,99.854,99.813,99.677,99.507,99.484,99.464,99.444,99.425,,
+Romania,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.115,0.146,0.187,0.323,0.493,0.516,0.536,0.556,0.575,,
+Romania,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.596,0.696,0.835,0.976,1.128,1.277,1.41,1.521,1.631,1.758,1.879
+Romania,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.376,0.438,0.526,0.615,0.71,0.804,0.889,0.958,1.027,1.108,1.184
+Romania,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.495,0.577,0.693,0.81,0.936,1.06,1.171,1.263,1.353,1.459,1.56
+Romania,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.268,0.313,0.376,0.439,0.507,0.575,0.635,0.684,0.734,0.791,0.846
+Romania,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.537,0.626,0.751,0.878,1.015,1.149,1.269,1.369,1.468,1.582,1.692
+Romania,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.531,0.619,0.743,0.869,1.004,1.136,1.255,1.354,1.451,1.565,1.673
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.911,2.247,2.715,3.196,3.714,4.226,4.691,5.081,5.472,5.929,6.371
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,3.034,3.566,4.31,5.073,5.895,6.709,7.445,8.065,8.686,9.41,10.11
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.518,2.96,3.577,4.211,4.893,5.568,6.18,6.694,7.21,7.81,8.391
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.365,1.605,1.939,2.283,2.653,3.019,3.35,3.629,3.909,4.236,4.553
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.73,3.21,3.879,4.566,5.306,6.038,6.701,7.259,7.818,8.469,9.099
+Romania,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.7,3.174,3.836,4.515,5.247,5.971,6.626,7.178,7.731,8.375,8.998
+Romania,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,11.46,13.15,14.99,24.36,31.35,24.66,27.52,27.72,28.04,28.17,28.2
+Romania,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,9.506,10.91,12.43,20.09,25.81,20.33,22.73,22.93,23.23,23.36,23.41
+Romania,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.239,0.274,0.313,0.508,0.654,0.514,0.574,0.578,0.585,0.588,0.588
+Romania,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,3.802,4.361,4.972,8.186,10.57,8.284,9.215,9.25,9.326,9.349,9.336
+Romania,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,7.125,9.537,13.04,24.79,36.85,32.82,40.47,43.96,47.68,51.64,55.25
+Romania,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,4.845,6.486,8.871,16.76,24.88,22.19,27.4,29.81,32.38,35.11,37.61
+Romania,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.082,0.109,0.15,0.284,0.423,0.377,0.464,0.504,0.547,0.593,0.634
+Romania,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,2.198,2.942,4.023,7.746,11.55,10.25,12.6,13.64,14.75,15.94,17.01
+Romania,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,33.854,36.77,90.054,48.646,-10.928,23.302,8.62,8.458,8.302,7.007
+Romania,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,33.854,36.77,88.935,48.424,-10.792,23.492,8.788,8.628,8.406,7.122
+Romania,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,33.854,36.77,90.054,48.646,-10.928,23.302,8.62,8.458,8.301,7.007
+Romania,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,33.854,36.77,92.52,49.126,-11.222,22.892,8.254,8.087,8.075,6.755
+Romania,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.901,99.873,99.838,99.736,99.613,99.593,99.574,99.556,99.539,,
+Romania,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.099,0.127,0.162,0.264,0.387,0.407,0.426,0.444,0.461,,
+Romania,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.622,0.725,0.87,1.017,1.176,1.331,1.471,1.586,1.7,1.833,1.959
+Romania,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.51,0.595,0.713,0.834,0.964,1.091,1.206,1.3,1.394,1.503,1.607
+Romania,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.342,0.399,0.479,0.56,0.647,0.732,0.809,0.872,0.935,1.008,1.078
+Romania,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.578,0.674,0.809,0.946,1.093,1.238,1.368,1.475,1.581,1.705,1.822
+Romania,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.593,3.049,3.684,4.337,5.04,5.735,6.365,6.895,7.426,8.045,8.643
+Romania,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,3.163,3.718,4.493,5.289,6.146,6.994,7.762,8.409,9.056,9.81,10.54
+Romania,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.739,2.045,2.471,2.909,3.38,3.847,4.269,4.625,4.981,5.397,5.799
+Romania,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.941,3.458,4.178,4.919,5.716,6.504,7.219,7.82,8.422,9.124,9.802
+Romania,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,2.044,2.345,2.673,4.719,6.202,4.848,5.377,5.381,5.41,5.423,5.411
+Romania,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,2.567,2.945,3.358,5.933,7.798,6.117,6.808,6.837,6.896,6.927,6.927
+Romania,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.454,0.521,0.594,1.043,1.368,1.045,1.132,1.106,1.086,1.071,1.051
+Romania,Convenience Food,Revenue,Total,million USD (US$),Statista,1.452,1.943,2.658,5.487,8.332,7.375,9.036,9.753,10.51,11.36,12.12
+Romania,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,1.258,1.684,2.304,4.76,7.229,6.421,7.894,8.55,9.245,10.01,10.7
+Romania,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.194,0.259,0.354,0.727,1.103,0.954,1.142,1.203,1.266,1.347,1.413
+Romania,Convenience Food,Revenue Change,Total,percent,Statista,,33.854,36.77,106.436,51.851,-11.493,22.524,7.935,7.773,8.067,6.67
+Romania,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,33.854,36.77,106.604,51.884,-11.183,22.946,8.302,8.136,8.296,6.905
+Romania,Convenience Food,Revenue Change,Soups,percent,Statista,,33.854,36.77,105.349,51.638,-13.523,19.683,5.398,5.194,6.398,4.925
+Romania,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.841,99.731,99.594,99.575,99.558,99.541,99.525,,
+Romania,Convenience Food,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.159,0.269,0.406,0.425,0.442,0.459,0.475,,
+Romania,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Convenience Food,Users by Segment,Total,million users,Statista,0.71,0.829,0.994,1.163,1.344,1.521,1.681,1.812,1.943,2.095,2.239
+Romania,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.49,0.572,0.686,0.802,0.927,1.05,1.16,1.251,1.341,1.445,1.545
+Romania,Convenience Food,Users by Segment,Soups,million users,Statista,0.426,0.497,0.597,0.698,0.806,0.913,1.008,1.087,1.166,1.257,1.344
+Romania,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.615,4.249,5.135,6.044,7.024,7.993,8.871,9.61,10.35,11.212,12.045
+Romania,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.494,2.932,3.543,4.171,4.846,5.515,6.121,6.631,7.141,7.736,8.312
+Romania,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,2.169,2.55,3.081,3.627,4.214,4.796,5.323,5.766,6.21,6.728,7.23
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,16.48,18.9,21.55,31.54,39.57,31.44,35.45,36.07,36.87,37.21,37.48
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,8.593,9.858,11.24,16.45,20.64,16.4,18.49,18.81,19.23,19.4,19.53
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,3.707,4.253,4.849,7.099,8.906,7.081,7.988,8.134,8.32,8.395,8.453
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,4.385,5.031,5.736,8.39,10.52,8.352,9.405,9.557,9.757,9.835,9.893
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,8.837,10.14,11.56,16.92,21.23,16.89,19.06,19.41,19.86,20.05,20.19
+Romania,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,3.496,4.01,4.572,6.694,8.397,6.675,7.528,7.663,7.836,7.907,7.961
+Romania,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,4.807,6.434,8.8,15.06,21.83,19.64,24.47,26.85,29.42,32.03,34.49
+Romania,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,1.88,2.517,3.443,5.892,8.541,7.684,9.57,10.5,11.51,12.53,13.49
+Romania,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.465,0.623,0.852,1.458,2.113,1.902,2.371,2.603,2.855,3.109,3.35
+Romania,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.998,1.336,1.827,3.126,4.53,4.07,5.063,5.549,6.073,6.604,7.105
+Romania,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.902,1.208,1.652,2.829,4.101,3.693,4.604,5.057,5.547,6.042,6.513
+Romania,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.561,0.751,1.027,1.758,2.548,2.294,2.858,3.137,3.439,3.745,4.035
+Romania,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,33.854,36.77,71.162,44.945,-10.03,24.554,9.734,9.586,8.852,7.703
+Romania,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,33.854,36.77,71.162,44.945,-10.035,24.548,9.728,9.581,8.848,7.699
+Romania,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,33.854,36.77,71.209,44.954,-9.975,24.631,9.802,9.655,8.902,7.755
+Romania,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,33.854,36.77,71.064,44.926,-10.142,24.398,9.594,9.445,8.742,7.589
+Romania,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,33.854,36.77,71.229,44.958,-9.947,24.67,9.837,9.69,8.934,7.787
+Romania,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,33.854,36.77,71.192,44.951,-9.997,24.601,9.775,9.628,8.886,7.737
+Romania,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.84,99.755,99.652,99.633,99.614,99.593,99.572,,
+Romania,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.245,0.348,0.367,0.386,0.407,0.428,,
+Romania,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.292,0.34,0.408,0.478,0.552,0.625,0.69,0.744,0.798,0.861,0.92
+Romania,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.219,0.255,0.306,0.358,0.414,0.469,0.518,0.558,0.598,0.646,0.691
+Romania,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.125,0.146,0.176,0.205,0.237,0.269,0.297,0.32,0.343,0.37,0.396
+Romania,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.228,0.266,0.319,0.373,0.43,0.487,0.538,0.581,0.622,0.671,0.718
+Romania,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.102,0.119,0.143,0.167,0.193,0.219,0.242,0.261,0.279,0.301,0.323
+Romania,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.16,0.187,0.225,0.263,0.303,0.344,0.38,0.409,0.439,0.474,0.507
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.113,1.309,1.582,1.862,2.164,2.462,2.733,2.96,3.188,3.456,3.715
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.485,1.745,2.109,2.482,2.885,3.283,3.644,3.947,4.251,4.606,4.951
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.638,0.75,0.907,1.067,1.24,1.412,1.567,1.697,1.828,1.982,2.132
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.158,1.361,1.645,1.936,2.25,2.561,2.842,3.079,3.316,3.594,3.863
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.52,0.611,0.738,0.869,1.01,1.149,1.275,1.381,1.488,1.613,1.735
+Romania,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.816,0.96,1.16,1.365,1.587,1.806,2.004,2.171,2.338,2.535,2.726
+Romania,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,6.475,7.428,8.469,12.86,16.27,12.89,14.49,14.71,14.99,15.1,15.18
+Romania,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,8.789,10.08,11.5,17.47,22.11,17.54,19.74,20.06,20.47,20.64,20.76
+Romania,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,3.133,3.594,4.097,6.226,7.879,6.25,7.035,7.146,7.291,7.354,7.399
+Romania,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,2.551,2.926,3.336,5.06,6.4,5.059,5.674,5.743,5.839,5.872,5.89
+Romania,Fish & Seafood,Revenue,Total,million USD (US$),Statista,1.561,2.089,2.857,5.074,7.418,6.655,8.265,9.043,9.88,10.74,11.55
+Romania,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,0.826,1.106,1.513,2.688,3.931,3.531,4.39,4.81,5.262,5.726,6.162
+Romania,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.181,0.243,0.332,0.59,0.862,0.774,0.963,1.055,1.154,1.255,1.351
+Romania,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.553,0.741,1.013,1.797,2.626,2.35,2.912,3.178,3.464,3.758,4.033
+Romania,Fish & Seafood,Revenue Change,Total,percent,Statista,,33.854,36.77,77.585,46.202,-10.29,24.192,9.411,9.26,8.701,7.503
+Romania,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,33.854,36.77,77.716,46.228,-10.174,24.353,9.555,9.405,8.81,7.615
+Romania,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,33.854,36.77,77.693,46.223,-10.184,24.34,9.543,9.393,8.813,7.615
+Romania,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,33.854,36.77,77.354,46.157,-10.499,23.9,9.151,8.996,8.498,7.294
+Romania,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.84,99.75,99.643,99.624,99.605,99.585,99.565,,
+Romania,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.25,0.357,0.376,0.395,0.415,0.435,,
+Romania,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Fish & Seafood,Users by Segment,Total,million users,Statista,0.241,0.281,0.337,0.395,0.456,0.516,0.57,0.615,0.659,0.711,0.761
+Romania,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.094,0.11,0.132,0.154,0.178,0.201,0.222,0.24,0.257,0.277,0.297
+Romania,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.058,0.067,0.081,0.095,0.109,0.124,0.137,0.148,0.158,0.171,0.183
+Romania,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.217,0.253,0.304,0.355,0.41,0.465,0.513,0.553,0.593,0.64,0.685
+Romania,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.226,1.442,1.742,2.051,2.383,2.712,3.01,3.26,3.512,3.806,4.091
+Romania,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.478,0.562,0.679,0.8,0.929,1.058,1.174,1.272,1.369,1.485,1.597
+Romania,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.294,0.346,0.418,0.492,0.572,0.651,0.722,0.783,0.843,0.914,0.982
+Romania,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.104,1.298,1.568,1.846,2.145,2.441,2.709,2.934,3.16,3.426,3.683
+Romania,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,4.414,5.064,5.773,8.771,11.1,8.802,9.903,10.06,10.26,10.35,10.41
+Romania,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,5.078,5.826,6.642,10.09,12.77,10.12,11.39,11.56,11.79,11.9,11.97
+Romania,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.759,0.87,0.992,1.508,1.909,1.516,1.708,1.737,1.774,1.791,1.804
+Romania,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.959,1.101,1.255,1.907,2.413,1.914,2.154,2.187,2.232,2.252,2.266
+Romania,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,2.912,3.897,5.33,9.47,13.85,12.43,15.45,16.92,18.51,20.13,21.66
+Romania,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,2.345,3.139,4.293,7.627,11.15,10.01,12.44,13.62,14.89,16.2,17.42
+Romania,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.25,0.335,0.458,0.814,1.191,1.071,1.333,1.461,1.6,1.743,1.877
+Romania,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.316,0.424,0.579,1.029,1.505,1.352,1.68,1.841,2.013,2.19,2.357
+Romania,Fruits & Nuts,Revenue Change,Total,percent,Statista,,33.854,36.77,77.673,46.22,-10.215,24.297,9.505,9.354,8.775,7.577
+Romania,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,33.854,36.77,77.658,46.217,-10.23,24.275,9.485,9.335,8.76,7.562
+Romania,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,33.854,36.77,77.789,46.242,-10.092,24.468,9.657,9.508,8.888,7.695
+Romania,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,33.854,36.77,77.693,46.223,-10.196,24.323,9.528,9.377,8.792,7.595
+Romania,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.841,99.752,99.646,99.627,99.609,99.59,99.571,,
+Romania,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.159,0.248,0.354,0.373,0.391,0.41,0.429,,
+Romania,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.66,0.77,0.923,1.08,1.248,1.413,1.561,1.683,1.804,1.945,2.08
+Romania,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.462,0.539,0.646,0.756,0.873,0.989,1.092,1.178,1.263,1.362,1.456
+Romania,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.33,0.385,0.462,0.54,0.624,0.706,0.78,0.841,0.902,0.973,1.04
+Romania,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.33,0.385,0.462,0.54,0.624,0.706,0.78,0.841,0.902,0.973,1.04
+Romania,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.349,2.762,3.338,3.929,4.566,5.196,5.766,6.246,6.727,7.288,7.83
+Romania,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,3.356,3.946,4.768,5.613,6.522,7.422,8.238,8.923,9.61,10.411,11.186
+Romania,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.678,1.973,2.384,2.806,3.261,3.711,4.119,4.462,4.805,5.207,5.595
+Romania,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.678,1.973,2.384,2.806,3.261,3.711,4.119,4.462,4.805,5.207,5.595
+Romania,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,18.51,21.23,24.21,36.52,46.14,36.57,41.12,41.74,42.56,42.91,43.16
+Romania,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,16.19,18.57,21.18,32.21,40.78,32.47,36.69,37.42,38.34,38.79,39.16
+Romania,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,8.432,9.674,11.03,16.43,20.69,16.28,18.17,18.3,18.51,18.55,18.54
+Romania,Meat,Revenue,Total,million USD (US$),Statista,7.043,9.428,12.89,22.75,33.21,29.8,37.02,40.52,44.3,48.16,51.8
+Romania,Meat,Revenue,Fresh Meat,million USD (US$),Statista,4.251,5.691,7.783,13.85,20.25,18.26,22.79,25.07,27.53,30.05,32.44
+Romania,Meat,Revenue,Processed Meat,million USD (US$),Statista,2.792,3.737,5.111,8.903,12.96,11.54,14.23,15.46,16.76,18.11,19.35
+Romania,Meat,Revenue Change,Total,percent,Statista,,33.854,36.77,76.423,45.978,-10.261,24.237,9.455,9.308,8.732,7.544
+Romania,Meat,Revenue Change,Fresh Meat,percent,Statista,,33.854,36.77,77.894,46.263,-9.834,24.828,9.978,9.833,9.145,7.959
+Romania,Meat,Revenue Change,Processed Meat,percent,Statista,,33.854,36.77,74.183,45.536,-10.929,23.301,8.618,8.455,8.054,6.855
+Romania,Meat,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.84,99.751,99.644,99.625,99.605,99.585,99.564,,
+Romania,Meat,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.249,0.356,0.375,0.395,0.415,0.436,,
+Romania,Meat,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Meat,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Meat,Users by Segment,Total,million users,Statista,0.381,0.444,0.533,0.623,0.72,0.815,0.9,0.971,1.041,1.122,1.2
+Romania,Meat,Users by Segment,Fresh Meat,million users,Statista,0.263,0.306,0.368,0.43,0.497,0.562,0.621,0.67,0.718,0.775,0.829
+Romania,Meat,Users by Segment,Processed Meat,million users,Statista,0.331,0.386,0.463,0.542,0.626,0.709,0.783,0.845,0.906,0.976,1.044
+Romania,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.336,1.571,1.898,2.234,2.596,2.955,3.279,3.552,3.826,4.146,4.457
+Romania,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.936,2.276,2.751,3.238,3.763,4.282,4.752,5.148,5.544,6.007,6.455
+Romania,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.685,1.98,2.393,2.817,3.274,3.725,4.135,4.479,4.824,5.227,5.617
+Romania,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,2.638,3.026,3.45,5.051,6.337,5.038,5.683,5.786,5.918,5.976,6.022
+Romania,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,1.03,1.182,1.348,1.974,2.476,1.97,2.224,2.266,2.32,2.343,2.362
+Romania,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,0.964,1.106,1.261,1.846,2.316,1.843,2.08,2.12,2.17,2.192,2.21
+Romania,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.55,0.631,0.72,1.051,1.318,1.044,1.174,1.19,1.213,1.221,1.226
+Romania,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,1.004,1.152,1.313,1.923,2.413,1.92,2.167,2.208,2.26,2.282,2.3
+Romania,Oils & Fats,Revenue,Total,million USD (US$),Statista,0.837,1.12,1.532,2.622,3.801,3.421,4.264,4.681,5.133,5.59,6.024
+Romania,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.261,0.35,0.479,0.82,1.188,1.07,1.335,1.467,1.61,1.754,1.891
+Romania,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.244,0.327,0.448,0.767,1.111,1.001,1.249,1.372,1.506,1.641,1.769
+Romania,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.14,0.187,0.256,0.437,0.633,0.567,0.704,0.77,0.842,0.914,0.982
+Romania,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.191,0.256,0.35,0.599,0.868,0.782,0.976,1.072,1.176,1.282,1.382
+Romania,Oils & Fats,Revenue Change,Total,percent,Statista,,33.854,36.77,71.192,44.951,-9.981,24.624,9.796,9.649,8.906,7.757
+Romania,Oils & Fats,Revenue Change,Butter,percent,Statista,,33.854,36.77,71.261,44.964,-9.912,24.719,9.88,9.734,8.965,7.819
+Romania,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,33.854,36.77,71.26,44.964,-9.913,24.717,9.879,9.733,8.969,7.823
+Romania,Oils & Fats,Revenue Change,Margarine,percent,Statista,,33.854,36.77,70.855,44.885,-10.313,24.16,9.382,9.23,8.589,7.429
+Romania,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,33.854,36.77,71.256,44.963,-9.918,24.71,9.873,9.727,8.969,7.821
+Romania,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.84,99.756,99.654,99.635,99.617,99.597,99.576,,
+Romania,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.244,0.346,0.365,0.383,0.403,0.424,,
+Romania,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Oils & Fats,Users by Segment,Total,million users,Statista,0.317,0.37,0.444,0.519,0.6,0.679,0.75,0.809,0.867,0.935,1
+Romania,Oils & Fats,Users by Segment,Butter,million users,Statista,0.254,0.296,0.355,0.415,0.48,0.543,0.6,0.647,0.694,0.748,0.801
+Romania,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.254,0.296,0.355,0.415,0.48,0.543,0.6,0.647,0.694,0.748,0.801
+Romania,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.254,0.296,0.355,0.415,0.48,0.543,0.6,0.647,0.694,0.748,0.801
+Romania,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.19,0.222,0.266,0.311,0.36,0.407,0.45,0.485,0.52,0.562,0.601
+Romania,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.291,1.518,1.834,2.159,2.509,2.855,3.168,3.432,3.696,4.006,4.306
+Romania,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.291,1.518,1.834,2.159,2.509,2.855,3.168,3.432,3.696,4.006,4.306
+Romania,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.291,1.518,1.834,2.159,2.509,2.855,3.168,3.432,3.696,4.006,4.306
+Romania,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.614,1.897,2.292,2.698,3.136,3.568,3.96,4.29,4.62,5.007,5.38
+Romania,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.968,1.138,1.375,1.619,1.881,2.141,2.376,2.574,2.772,3.006,3.232
+Romania,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.695,0.798,0.909,1.21,1.486,1.194,1.36,1.399,1.446,1.469,1.492
+Romania,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.582,0.668,0.762,1.014,1.245,1,1.14,1.173,1.212,1.232,1.252
+Romania,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.383,0.439,0.5,0.666,0.818,0.656,0.747,0.768,0.793,0.805,0.817
+Romania,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.388,0.52,0.711,1.106,1.569,1.427,1.796,1.992,2.207,2.418,2.625
+Romania,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.26,0.348,0.476,0.741,1.051,0.956,1.204,1.336,1.481,1.623,1.763
+Romania,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.128,0.172,0.234,0.365,0.518,0.47,0.592,0.656,0.726,0.795,0.863
+Romania,Sauces & Spices,Revenue Change,Total,percent,Statista,,33.854,36.77,55.606,41.899,-9.077,25.884,10.918,10.786,9.577,8.569
+Romania,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,33.854,36.77,55.617,41.901,-9.044,25.93,10.958,10.827,9.611,8.605
+Romania,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,33.854,36.77,55.582,41.895,-9.144,25.791,10.835,10.702,9.505,8.495
+Romania,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.23,0.314,0.332,0.35,0.371,0.392,,
+Romania,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Sauces & Spices,Users by Segment,Total,million users,Statista,0.558,0.651,0.781,0.914,1.056,1.195,1.32,1.424,1.527,1.646,1.76
+Romania,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.447,0.521,0.625,0.731,0.844,0.956,1.056,1.139,1.221,1.317,1.408
+Romania,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.335,0.391,0.469,0.548,0.633,0.717,0.792,0.854,0.916,0.988,1.056
+Romania,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.84,3.339,4.034,4.749,5.519,6.28,6.97,7.551,8.132,8.809,9.465
+Romania,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.272,2.671,3.228,3.799,4.415,5.024,5.576,6.04,6.506,7.049,7.575
+Romania,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.704,2.003,2.421,2.849,3.311,3.768,4.182,4.53,4.879,5.287,5.681
+Romania,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.71,0.814,0.928,1.273,1.573,1.245,1.397,1.416,1.441,1.448,1.452
+Romania,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.524,0.602,0.686,0.941,1.163,0.927,1.047,1.068,1.094,1.105,1.114
+Romania,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.605,0.693,0.791,1.083,1.339,1.049,1.166,1.17,1.178,1.174,1.167
+Romania,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.297,0.398,0.544,0.872,1.246,1.116,1.384,1.512,1.65,1.787,1.917
+Romania,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.176,0.235,0.322,0.516,0.737,0.664,0.83,0.912,1.002,1.091,1.177
+Romania,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.121,0.163,0.222,0.356,0.509,0.451,0.554,0.6,0.648,0.696,0.74
+Romania,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,33.854,36.77,60.348,42.828,-10.418,24.021,9.266,9.12,8.334,7.253
+Romania,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,33.854,36.77,60.445,42.847,-9.823,24.844,9.991,9.847,8.888,7.819
+Romania,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,33.854,36.77,60.208,42.8,-11.281,22.809,8.18,8.012,7.477,6.366
+Romania,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.901,99.869,99.829,99.74,99.634,99.606,99.578,99.539,99.496,,
+Romania,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.099,0.131,0.171,0.26,0.366,0.394,0.422,0.461,0.504,,
+Romania,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.419,0.488,0.586,0.685,0.792,0.896,0.99,1.068,1.145,1.235,1.32
+Romania,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.335,0.391,0.469,0.548,0.633,0.717,0.792,0.854,0.916,0.988,1.056
+Romania,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.201,0.234,0.281,0.329,0.38,0.43,0.475,0.513,0.55,0.593,0.634
+Romania,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.704,2.003,2.421,2.849,3.311,3.768,4.182,4.53,4.879,5.287,5.681
+Romania,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,2.13,2.504,3.026,3.562,4.139,4.71,5.228,5.663,6.099,6.608,7.101
+Romania,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.022,1.202,1.452,1.71,1.987,2.261,2.509,2.718,2.927,3.174,3.413
+Romania,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,5.75,6.596,7.52,11.42,14.45,11.46,12.88,13.08,13.33,13.44,13.52
+Romania,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,6.709,7.697,8.775,13.33,16.87,13.38,15.05,15.27,15.58,15.71,15.8
+Romania,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,2.107,2.417,2.756,4.182,5.292,4.188,4.704,4.767,4.854,4.888,4.91
+Romania,Vegetables,Revenue,Total,million USD (US$),Statista,3.574,4.784,6.543,11.62,16.99,15.25,18.95,20.74,22.66,24.64,26.5
+Romania,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,2.919,3.907,5.344,9.494,13.88,12.46,15.49,16.96,18.54,20.16,21.69
+Romania,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.655,0.876,1.199,2.128,3.11,2.788,3.458,3.78,4.126,4.481,4.813
+Romania,Vegetables,Revenue Change,Total,percent,Statista,,33.854,36.77,77.63,46.211,-10.259,24.235,9.449,9.298,8.732,7.534
+Romania,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,33.854,36.77,77.66,46.217,-10.232,24.272,9.483,9.332,8.758,7.56
+Romania,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,33.854,36.77,77.499,46.185,-10.38,24.067,9.299,9.146,8.616,7.414
+Romania,Vegetables,Online & Offline Split,Offline,percent,Statista,99.902,99.875,99.84,99.751,99.644,99.625,99.607,99.587,99.567,,
+Romania,Vegetables,Online & Offline Split,Online,percent,Statista,0.098,0.125,0.16,0.249,0.356,0.375,0.393,0.413,0.433,,
+Romania,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,65.881,63.11,60.881,59.47,58.251,57.445,56.927,56.433,55.94,,
+Romania,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,34.119,36.89,39.119,40.53,41.749,42.555,43.073,43.567,44.06,,
+Romania,Vegetables,Users by Segment,Total,million users,Statista,0.622,0.725,0.87,1.017,1.176,1.331,1.471,1.586,1.7,1.833,1.959
+Romania,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.435,0.508,0.609,0.712,0.823,0.932,1.029,1.11,1.19,1.283,1.372
+Romania,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.311,0.363,0.435,0.509,0.588,0.666,0.735,0.793,0.85,0.917,0.98
+Romania,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,2.214,2.603,3.145,3.702,4.302,4.896,5.434,5.886,6.339,6.869,7.381
+Romania,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.581,1.859,2.246,2.644,3.073,3.497,3.881,4.204,4.528,4.907,5.273
+Romania,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,3.163,3.718,4.493,5.289,6.146,6.994,7.762,8.409,9.056,9.81,10.54

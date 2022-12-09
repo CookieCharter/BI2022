@@ -1,0 +1,751 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Turkey,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,21.15,,,,,,
+Turkey,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,28.558,,,,,,
+Turkey,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.731,,,,,,
+Turkey,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,16.764,,,,,,
+Turkey,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.8,,,,,,
+Turkey,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,45.906,,,,,,
+Turkey,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,54.094,,,,,,
+Turkey,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,35.21,,,,,,
+Turkey,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.009,,,,,,
+Turkey,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.781,,,,,,
+Turkey,eCommerce,Revenue,Total,billion USD (US$),Statista,11.16,11.56,12.65,18.32,21.58,20.87,29.58,36.05,43.93,47.3,51.58
+Turkey,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.552,0.618,0.725,1.042,1.292,1.335,1.815,2.25,2.804,3.058,3.377
+Turkey,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.019,0.026,0.036,0.06,0.085,0.085,0.111,0.132,0.159,0.174,0.192
+Turkey,eCommerce,Revenue,Electronics,billion USD (US$),Statista,4.734,4.918,5.356,7.908,9.197,8.374,12.6,15.36,18.64,20.08,21.91
+Turkey,eCommerce,Revenue,Fashion,billion USD (US$),Statista,3.067,3.084,3.3,4.54,5.271,5.575,7.725,9.721,12.24,13.12,14.32
+Turkey,eCommerce,Revenue,Food,billion USD (US$),Statista,0.08,0.111,0.154,0.311,0.462,0.412,0.48,0.507,0.536,0.57,0.598
+Turkey,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.724,0.757,0.838,1.122,1.319,1.198,1.868,2.322,2.879,3.128,3.446
+Turkey,eCommerce,Revenue,Media,billion USD (US$),Statista,0.181,0.202,0.252,0.38,0.519,0.541,0.691,0.759,0.826,0.913,0.995
+Turkey,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,1.802,1.845,1.995,2.955,3.435,3.351,4.29,4.998,5.844,6.253,6.745
+Turkey,eCommerce,Revenue Change,Total,percent,Statista,,3.584,9.429,44.822,17.795,-3.29,41.735,21.873,21.859,7.671,9.049
+Turkey,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,11.97,17.192,43.803,23.992,3.328,35.955,23.967,24.622,9.058,10.432
+Turkey,eCommerce,Revenue Change,Beverages,percent,Statista,,38.25,39.156,68.239,42.18,-0.481,30.825,19.297,20.03,9.824,10.206
+Turkey,eCommerce,Revenue Change,Electronics,percent,Statista,,3.887,8.906,47.647,16.3,-8.949,50.466,21.905,21.354,7.725,9.114
+Turkey,eCommerce,Revenue Change,Fashion,percent,Statista,,0.554,7.004,37.576,16.101,5.767,38.565,25.838,25.913,7.19,9.146
+Turkey,eCommerce,Revenue Change,Food,percent,Statista,,38.124,38.954,102.077,48.362,-10.844,16.533,5.687,5.717,6.228,4.88
+Turkey,eCommerce,Revenue Change,Furniture,percent,Statista,,4.657,10.696,33.842,17.558,-9.174,55.927,24.304,23.988,8.649,10.166
+Turkey,eCommerce,Revenue Change,Media,percent,Statista,,11.449,24.864,51.113,36.612,4.236,27.614,9.857,8.854,10.458,8.974
+Turkey,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,2.386,8.13,48.12,16.244,-2.445,28.021,16.503,16.927,6.999,7.868
+Turkey,eCommerce,Average Revenue per User,Total,USD (US$),Statista,444.1,392.7,381.1,492.4,528.5,474,602.8,674.3,756.9,762.8,780.4
+Turkey,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,52.24,48.94,50.12,63.33,70.2,64.17,78.61,89.43,102.5,103.9,107.2
+Turkey,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,3.636,3.979,4.606,6.524,7.96,6.912,8.007,8.738,9.635,9.744,9.961
+Turkey,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,295.7,256.5,243.8,311.9,320.8,263,363.4,413.8,470.1,475.5,490
+Turkey,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,211.6,173.6,157.9,185.1,186.3,172.9,215.4,248.6,288.2,285.5,290.1
+Turkey,eCommerce,Average Revenue per User,Food,USD (US$),Statista,16.77,18.34,21.19,36.06,45.91,35.72,36.87,35.65,34.61,33.85,32.94
+Turkey,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,118.1,96.72,88.02,97.42,96.57,74.5,102,114.9,129.7,129.2,131.5
+Turkey,eCommerce,Average Revenue per User,Media,USD (US$),Statista,17.13,15.63,16.6,21.5,25.67,24,27.9,28.31,28.54,29.38,30.03
+Turkey,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,165.7,134.7,120.3,148.7,146.5,122.5,137.2,145,154.5,151.8,151.4
+Turkey,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,7.398,7.252,7.483,7.667,7.722,7.754,7.73,7.715,7.699,,
+Turkey,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,80.219,80.608,80.519,80.556,80.353,80.253,80.198,80.116,80.034,,
+Turkey,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,4.934,4.837,4.486,4.167,3.858,3.598,3.377,3.185,2.993,,
+Turkey,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,1.829,1.793,1.85,1.806,1.819,1.826,1.821,1.817,1.813,,
+Turkey,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,1.321,1.295,1.33,1.361,1.378,1.394,1.408,1.42,1.432,,
+Turkey,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,3.236,3.172,3.257,3.333,3.75,4.051,4.346,4.629,4.913,,
+Turkey,eCommerce,Revenue Share Payment Types,Other,percent,Statista,1.063,1.042,1.075,1.111,1.119,1.124,1.12,1.118,1.116,,
+Turkey,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,eCommerce,Online & Offline Split,Offline,percent,Statista,95.402,95.531,95.4,93.919,93.22,92.281,91.196,89.9,88.389,,
+Turkey,eCommerce,Online & Offline Split,Online,percent,Statista,4.598,4.469,4.6,6.081,6.78,7.719,8.804,10.1,11.611,,
+Turkey,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,73.223,68.403,63.361,58.883,55.736,54.009,52.249,51.737,51.235,,
+Turkey,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,26.777,31.597,36.639,41.117,44.264,45.991,47.751,48.263,48.765,,
+Turkey,eCommerce,Users,Total,million users,Statista,25.123,29.44,33.208,37.203,40.836,44.032,49.079,53.465,58.037,62.008,66.096
+Turkey,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,10.57,12.635,14.457,16.447,18.399,20.804,23.085,25.157,27.365,29.427,31.506
+Turkey,eCommerce,Users,Beverages,million users,Statista,5.091,6.43,7.733,9.183,10.701,12.264,13.845,15.135,16.48,17.9,19.293
+Turkey,eCommerce,Users,Electronics,million users,Statista,16.011,19.175,21.97,25.356,28.666,31.836,34.684,37.124,39.648,42.242,44.715
+Turkey,eCommerce,Users,Fashion,million users,Statista,14.492,17.767,20.902,24.534,28.292,32.244,35.871,39.106,42.481,45.954,49.377
+Turkey,eCommerce,Users,Food,million users,Statista,4.787,6.046,7.271,8.635,10.062,11.532,13.018,14.231,15.496,16.831,18.141
+Turkey,eCommerce,Users,Furniture,million users,Statista,6.129,7.83,9.525,11.513,13.658,16.08,18.319,20.215,22.195,24.21,26.203
+Turkey,eCommerce,Users,Media,million users,Statista,10.556,12.891,15.159,17.681,20.233,22.556,24.762,26.813,28.948,31.059,33.119
+Turkey,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,10.876,13.7,16.585,19.874,23.446,27.343,31.275,34.479,37.825,41.206,44.558
+Turkey,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,13.031,15.344,17.329,19.502,21.635,24.315,26.856,29.145,31.561,33.769,35.961
+Turkey,eCommerce,Penetration Rate,Beverages,percent,Statista,6.277,7.809,9.268,10.888,12.583,14.334,16.107,17.534,19.007,20.541,22.021
+Turkey,eCommerce,Penetration Rate,eCommerce,percent,Statista,30.972,35.755,39.804,44.111,48.018,51.462,57.097,61.941,66.936,71.158,75.441
+Turkey,eCommerce,Penetration Rate,Electronics,percent,Statista,19.739,23.288,26.334,30.065,33.708,37.208,40.351,43.009,45.727,48.475,51.037
+Turkey,eCommerce,Penetration Rate,Fashion,percent,Statista,17.865,21.577,25.054,29.09,33.268,37.685,41.731,45.305,48.994,52.735,56.359
+Turkey,eCommerce,Penetration Rate,Food,percent,Statista,5.902,7.342,8.715,10.238,11.832,13.478,15.145,16.487,17.872,19.315,20.706
+Turkey,eCommerce,Penetration Rate,Furniture,percent,Statista,7.556,9.509,11.416,13.651,16.06,18.794,21.312,23.419,25.598,27.782,29.908
+Turkey,eCommerce,Penetration Rate,Media,percent,Statista,13.013,15.656,18.17,20.964,23.791,26.362,28.807,31.064,33.387,35.641,37.801
+Turkey,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,13.408,16.638,19.879,23.564,27.569,31.957,36.385,39.944,43.624,47.287,50.858
+Turkey,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.858,,,,,,
+Turkey,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.362,,,,,,
+Turkey,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,29.078,,,,,,
+Turkey,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,15.319,,,,,,
+Turkey,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,6.38,,,,,,
+Turkey,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,43.404,,,,,,
+Turkey,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,56.596,,,,,,
+Turkey,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.208,,,,,,
+Turkey,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.987,,,,,,
+Turkey,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.805,,,,,,
+Turkey,Electronics,Revenue,Total,billion USD (US$),Statista,4.734,4.918,5.356,7.908,9.197,8.374,12.6,15.36,18.64,20.08,21.91
+Turkey,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,4.138,4.317,4.71,6.977,8.119,7.18,10.87,13.09,15.65,16.85,18.33
+Turkey,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.597,0.602,0.646,0.931,1.078,1.194,1.73,2.275,2.988,3.231,3.575
+Turkey,Electronics,Revenue Change,Total,percent,Statista,,3.887,8.906,47.647,16.3,-8.949,50.466,21.905,21.354,7.725,9.114
+Turkey,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,4.326,9.104,48.132,16.368,-11.565,51.393,20.423,19.557,7.668,8.783
+Turkey,Electronics,Revenue Change,Household Appliances,percent,Statista,,0.821,7.414,44.011,15.839,10.761,44.891,31.503,31.341,8.133,10.647
+Turkey,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,295.7,256.5,243.8,311.9,320.8,263,363.4,413.8,470.1,475.5,490
+Turkey,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,270.8,239,231.6,302.4,319.2,260.5,369.9,423.2,481.6,496.3,519.4
+Turkey,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,57.34,47.34,43.24,52.43,51.66,49.92,64.68,77.78,93.84,93.57,96.19
+Turkey,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,Electronics,Online & Offline Split,Offline,percent,Statista,79.089,79.815,79.336,72.824,70.867,64.85,59.724,53.477,47.715,,
+Turkey,Electronics,Online & Offline Split,Online,percent,Statista,20.911,20.185,20.664,27.176,29.133,35.15,40.276,46.523,52.285,,
+Turkey,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Electronics,Users by Segment,Total,million users,Statista,16.011,19.175,21.97,25.356,28.666,31.836,34.684,37.124,39.648,42.242,44.715
+Turkey,Electronics,Users by Segment,Consumer Electronics,million users,Statista,15.279,18.064,20.338,23.074,25.435,27.561,29.4,30.926,32.496,33.96,35.297
+Turkey,Electronics,Users by Segment,Household Appliances,million users,Statista,10.407,12.71,14.946,17.75,20.87,23.919,26.754,29.246,31.845,34.525,37.166
+Turkey,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,18.836,21.938,24.377,27.359,29.909,32.211,34.203,35.829,37.478,38.971,40.287
+Turkey,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,19.739,23.288,26.334,30.065,33.708,37.208,40.351,43.009,45.727,48.475,51.037
+Turkey,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,12.83,15.436,17.914,21.045,24.541,27.955,31.124,33.882,36.728,39.619,42.42
+Turkey,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,19.92,,,,,,
+Turkey,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.98,,,,,,
+Turkey,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,29.175,,,,,,
+Turkey,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,13.28,,,,,,
+Turkey,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.65,,,,,,
+Turkey,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,37.223,,,,,,
+Turkey,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,62.777,,,,,,
+Turkey,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.581,,,,,,
+Turkey,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.938,,,,,,
+Turkey,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.481,,,,,,
+Turkey,Consumer Electronics,Revenue,Total,billion USD (US$),Statista,4.138,4.317,4.71,6.977,8.119,7.18,10.87,13.09,15.65,16.85,18.33
+Turkey,Consumer Electronics,Revenue,Computing,billion USD (US$),Statista,1.176,1.262,1.38,1.823,2.051,1.821,2.77,3.346,4.015,4.329,4.725
+Turkey,Consumer Electronics,Revenue,Other Consumer Electronics,billion USD (US$),Statista,0.725,0.757,0.826,1.223,1.423,1.259,1.906,2.294,2.743,2.939,3.185
+Turkey,Consumer Electronics,Revenue,Telephony,billion USD (US$),Statista,1.664,1.71,1.864,3.028,3.59,3.156,4.75,5.679,6.746,7.288,7.931
+Turkey,Consumer Electronics,Revenue,"TV, Radio & Multimedia",billion USD (US$),Statista,0.562,0.578,0.63,0.889,1.039,0.93,1.426,1.74,2.111,2.26,2.453
+Turkey,Consumer Electronics,Revenue,TV Peripheral Devices,billion USD (US$),Statista,0.009,0.01,0.011,0.013,0.016,0.014,0.022,0.027,0.034,0.037,0.04
+Turkey,Consumer Electronics,Revenue Change,Total,percent,Statista,,4.326,9.104,48.132,16.368,-11.565,51.393,20.423,19.557,7.668,8.783
+Turkey,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.313,9.35,32.101,12.507,-11.214,52.114,20.794,19.994,7.821,9.148
+Turkey,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,4.329,9.104,48.117,16.353,-11.525,51.39,20.357,19.573,7.145,8.37
+Turkey,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,2.764,9.006,62.446,18.56,-12.089,50.507,19.558,18.789,8.034,8.823
+Turkey,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,2.756,8.962,41.219,16.82,-10.5,53.35,22.02,21.322,7.058,8.54
+Turkey,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,2.75,9.014,28.164,15.813,-10.064,55.239,24.564,25.101,8.191,10.049
+Turkey,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,270.8,239,231.6,302.4,319.2,260.5,369.9,423.2,481.6,496.3,519.4
+Turkey,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,110,99.83,96.91,112.9,115.2,94.4,134.6,154.6,176.5,182.1,191.3
+Turkey,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,61.66,54.41,52.73,68.85,72.68,59.31,84.21,96.35,109.6,112.4,117.2
+Turkey,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,136.2,118.3,114.6,164,176.4,143.1,201.9,229.6,259.5,268.3,280.9
+Turkey,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,92.04,79.99,77.42,96.36,102.1,84.35,121.3,140.7,162.4,166.4,173.7
+Turkey,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,2.047,1.779,1.723,1.946,2.044,1.697,2.47,2.924,3.482,3.604,3.816
+Turkey,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Turkey,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Turkey,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,73.542,74.679,74.23,64.058,62.684,56.746,51.691,45.215,39.749,,
+Turkey,Consumer Electronics,Online & Offline Split,Online,percent,Statista,26.458,25.321,25.77,35.942,37.316,43.254,48.309,54.785,60.251,,
+Turkey,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Consumer Electronics,Users,Total,million users,Statista,15.279,18.064,20.338,23.074,25.435,27.561,29.4,30.926,32.496,33.96,35.297
+Turkey,Consumer Electronics,Users,Computing,million users,Statista,10.695,12.645,14.236,16.152,17.805,19.293,20.58,21.648,22.747,23.772,24.708
+Turkey,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,11.765,13.909,15.66,17.767,19.585,21.222,22.638,23.813,25.022,26.149,27.178
+Turkey,Consumer Electronics,Users,Telephony,million users,Statista,12.223,14.451,16.27,18.46,20.348,22.049,23.52,24.741,25.997,27.168,28.237
+Turkey,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,6.112,7.225,8.135,9.23,10.174,11.024,11.76,12.37,12.998,13.584,14.118
+Turkey,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,4.584,5.419,6.101,6.922,7.631,8.268,8.82,9.278,9.749,10.188,10.589
+Turkey,Consumer Electronics,Penetration Rate,Computing,percent,Statista,13.185,15.356,17.064,19.151,20.936,22.548,23.942,25.08,26.235,27.279,28.201
+Turkey,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,18.836,21.938,24.377,27.359,29.909,32.211,34.203,35.829,37.478,38.971,40.287
+Turkey,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,14.503,16.892,18.77,21.066,23.03,24.803,26.337,27.588,28.858,30.007,31.021
+Turkey,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,15.069,17.55,19.502,21.887,23.927,25.769,27.363,28.663,29.983,31.176,32.23
+Turkey,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,7.534,8.775,9.751,10.944,11.964,12.885,13.681,14.331,14.991,15.588,16.115
+Turkey,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,5.651,6.581,7.313,8.208,8.973,9.663,10.261,10.749,11.243,11.691,12.086
+Turkey,Household Appliances,Revenue,Total,billion USD (US$),Statista,0.597,0.602,0.646,0.931,1.078,1.194,1.73,2.275,2.988,3.231,3.575
+Turkey,Household Appliances,Revenue,Major Appliances,billion USD (US$),Statista,0.307,0.31,0.333,0.479,0.555,0.614,0.889,1.167,1.532,1.658,1.835
+Turkey,Household Appliances,Revenue,Other Household Appliances,billion USD (US$),Statista,0.125,0.126,0.136,0.195,0.226,0.251,0.363,0.477,0.627,0.676,0.746
+Turkey,Household Appliances,Revenue,Small Appliances,billion USD (US$),Statista,0.164,0.166,0.178,0.256,0.297,0.329,0.478,0.63,0.829,0.897,0.994
+Turkey,Household Appliances,Revenue Change,Total,percent,Statista,,0.821,7.414,44.011,15.839,10.761,44.891,31.503,31.341,8.133,10.647
+Turkey,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,0.847,7.394,44.047,15.863,10.629,44.781,31.256,31.277,8.225,10.676
+Turkey,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,0.798,7.443,43.994,15.865,10.733,44.914,31.434,31.372,7.763,10.325
+Turkey,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,0.852,7.363,43.957,15.853,10.954,45.231,31.709,31.618,8.229,10.803
+Turkey,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,57.34,47.34,43.24,52.43,51.66,49.92,64.68,77.78,93.84,93.57,96.19
+Turkey,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,73.78,60.91,55.63,67.48,66.5,64.19,83.08,99.8,120.3,120,123.5
+Turkey,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,60.19,49.69,45.38,55.03,54.23,52.4,67.89,81.64,98.5,97.9,100.3
+Turkey,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,19.73,16.29,14.88,18.04,17.77,17.21,22.34,26.91,32.53,32.48,33.43
+Turkey,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Turkey,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Turkey,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Turkey,Household Appliances,Online & Offline Split,Offline,percent,Statista,91.478,91.779,91.546,90.393,89.011,84.694,80.383,75.13,69.116,,
+Turkey,Household Appliances,Online & Offline Split,Online,percent,Statista,8.522,8.221,8.454,9.607,10.989,15.306,19.617,24.87,30.884,,
+Turkey,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Household Appliances,Users,Total,million users,Statista,10.407,12.71,14.946,17.75,20.87,23.919,26.754,29.246,31.845,34.525,37.166
+Turkey,Household Appliances,Users,Major Appliances,million users,Statista,4.163,5.084,5.978,7.1,8.348,9.567,10.701,11.698,12.738,13.81,14.866
+Turkey,Household Appliances,Users,Other Household Appliances,million users,Statista,2.081,2.542,2.989,3.55,4.174,4.784,5.351,5.849,6.369,6.905,7.433
+Turkey,Household Appliances,Users,Small Appliances,million users,Statista,8.326,10.168,11.957,14.2,16.696,19.135,21.403,23.397,25.476,27.62,29.732
+Turkey,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,12.83,15.436,17.914,21.045,24.541,27.955,31.124,33.882,36.728,39.619,42.42
+Turkey,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,5.132,6.174,7.166,8.418,9.816,11.182,12.45,13.553,14.691,15.848,16.968
+Turkey,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,2.566,3.087,3.583,4.209,4.908,5.591,6.225,6.776,7.346,7.924,8.484
+Turkey,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,10.264,12.349,14.332,16.836,19.632,22.364,24.899,27.106,29.382,31.695,33.936
+Turkey,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,17.63,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.337,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,28.35,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,17.348,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.33,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,51.058,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,48.942,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.994,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.245,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.761,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,0.552,0.618,0.725,1.042,1.292,1.335,1.815,2.25,2.804,3.058,3.377
+Turkey,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.085,0.096,0.116,0.174,0.223,0.228,0.304,0.368,0.447,0.489,0.539
+Turkey,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.102,0.108,0.12,0.175,0.207,0.215,0.292,0.36,0.444,0.484,0.533
+Turkey,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.043,0.05,0.059,0.083,0.104,0.124,0.194,0.277,0.398,0.434,0.488
+Turkey,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,0.323,0.364,0.43,0.609,0.757,0.769,1.025,1.244,1.515,1.651,1.816
+Turkey,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,11.97,17.192,43.803,23.992,3.328,35.955,23.967,24.622,9.058,10.432
+Turkey,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,14.031,20.241,50.129,28.391,1.835,33.451,21.245,21.434,9.441,10.262
+Turkey,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,6.49,10.619,46.494,17.721,3.872,35.974,23.406,23.41,8.821,10.194
+Turkey,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,14.421,19.471,40.693,25.33,18.792,56.497,42.96,43.543,8.997,12.497
+Turkey,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,12.864,18.044,41.694,24.368,1.532,33.29,21.366,21.785,8.977,9.994
+Turkey,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,52.24,48.94,50.12,63.33,70.2,64.17,78.61,89.43,102.5,103.9,107.2
+Turkey,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,9.996,9.536,10.02,13.22,15.18,13.67,16.44,18.29,20.42,20.78,21.4
+Turkey,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,15.04,13.39,12.94,16.67,17.54,16.12,19.75,22.36,25.37,25.68,26.43
+Turkey,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,10.77,10.31,10.77,13.32,14.92,15.67,22.11,28.99,38.27,38.79,40.76
+Turkey,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,49.23,46.48,47.95,59.72,66.39,59.62,71.63,79.78,89.3,90.5,92.99
+Turkey,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,94.139,93.755,93.044,89.934,88.473,87.004,85.153,82.738,79.856,,
+Turkey,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,5.861,6.245,6.956,10.066,11.527,12.996,14.847,17.262,20.144,,
+Turkey,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,10.57,12.635,14.457,16.447,18.399,20.804,23.085,25.157,27.365,29.427,31.506
+Turkey,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,8.456,10.108,11.566,13.158,14.72,16.644,18.468,20.125,21.892,23.542,25.205
+Turkey,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,6.765,8.086,9.253,10.526,11.776,13.315,14.774,16.1,17.514,18.833,20.164
+Turkey,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,4.017,4.801,5.494,6.25,6.992,7.906,8.772,9.56,10.399,11.182,11.972
+Turkey,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,6.554,7.833,8.963,10.197,11.408,12.899,14.312,15.597,16.967,18.245,19.534
+Turkey,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,13.031,15.344,17.329,19.502,21.635,24.315,26.856,29.145,31.561,33.769,35.961
+Turkey,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,10.425,12.276,13.863,15.601,17.308,19.452,21.485,23.316,25.249,27.015,28.769
+Turkey,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,8.34,9.82,11.09,12.481,13.847,15.562,17.188,18.653,20.199,21.612,23.015
+Turkey,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,4.952,5.831,6.585,7.411,8.221,9.24,10.205,11.075,11.993,12.832,13.665
+Turkey,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,8.079,9.514,10.744,12.091,13.414,15.075,16.651,18.07,19.568,20.937,22.296
+Turkey,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,17.808,,,,,,
+Turkey,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,29.746,,,,,,
+Turkey,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.789,,,,,,
+Turkey,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,17.613,,,,,,
+Turkey,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,7.05,,,,,,
+Turkey,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,56.947,,,,,,
+Turkey,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,43.053,,,,,,
+Turkey,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,42.151,,,,,,
+Turkey,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.527,,,,,,
+Turkey,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.323,,,,,,
+Turkey,Personal Care,Revenue,Total,million USD (US$),Statista,322.6,364.1,429.8,609,757.4,769,"1,025","1,244","1,515","1,651","1,816"
+Turkey,Personal Care,Revenue,Body Care,million USD (US$),Statista,24.87,27.98,32.88,45.2,55.7,58.23,79.75,99.22,123.6,134.8,148.9
+Turkey,Personal Care,Revenue,Eye Care,million USD (US$),Statista,31.97,36.34,43.29,66.29,83.75,76.35,91.2,99,107.7,115.6,123.3
+Turkey,Personal Care,Revenue,Hair Care,million USD (US$),Statista,57.63,64.85,76.2,105,129.4,134.2,182.3,224.9,277.7,302.8,334.1
+Turkey,Personal Care,Revenue,Oral Care,million USD (US$),Statista,24.87,27.99,32.89,45.49,56.08,58.27,79.28,97.97,121.2,132.2,145.9
+Turkey,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,128.8,145.3,171.6,243.1,302.3,307,409.2,496.7,604.8,659.7,726.3
+Turkey,Personal Care,Revenue,Skin Care,million USD (US$),Statista,54.51,61.62,72.99,103.9,130.1,135,183.5,226.6,280.2,306.1,338
+Turkey,Personal Care,Revenue Change,Total,percent,Statista,,12.864,18.044,41.694,24.368,1.532,33.29,21.366,21.785,8.977,9.994
+Turkey,Personal Care,Revenue Change,Body Care,percent,Statista,,12.505,17.513,37.47,23.23,4.542,36.957,24.414,24.572,9.061,10.46
+Turkey,Personal Care,Revenue Change,Eye Care,percent,Statista,,13.669,19.125,53.13,26.339,-8.836,19.45,8.553,8.788,7.335,6.661
+Turkey,Personal Care,Revenue Change,Hair Care,percent,Statista,,12.528,17.502,37.795,23.238,3.709,35.842,23.368,23.477,9.039,10.337
+Turkey,Personal Care,Revenue Change,Oral Care,percent,Statista,,12.545,17.506,38.31,23.28,3.905,36.056,23.575,23.711,9.076,10.363
+Turkey,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,12.811,18.1,41.667,24.352,1.555,33.29,21.383,21.764,9.077,10.095
+Turkey,Personal Care,Revenue Change,Skin Care,percent,Statista,,13.043,18.452,42.348,25.217,3.766,35.926,23.488,23.654,9.243,10.421
+Turkey,Personal Care,Average Revenue per User,Total,USD (US$),Statista,49.23,46.48,47.95,59.72,66.39,59.62,71.63,79.78,89.3,90.5,92.99
+Turkey,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,5.58,5.253,5.394,6.518,7.18,6.639,8.195,9.355,10.71,10.87,11.21
+Turkey,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,9.755,9.277,9.66,13,14.68,11.84,12.74,12.69,12.69,12.67,12.62
+Turkey,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,16.91,15.92,16.35,19.8,21.81,20.01,24.49,27.72,31.47,31.92,32.89
+Turkey,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,7.745,7.292,7.488,9.103,10.03,9.219,11.3,12.82,14.58,14.79,15.24
+Turkey,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,43.66,41.23,42.53,52.97,58.89,52.88,63.54,70.77,79.21,80.35,82.62
+Turkey,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,18.9,17.88,18.51,23.16,25.92,23.79,29.14,33.02,37.54,38.12,39.32
+Turkey,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,Personal Care,Online & Offline Split,Offline,percent,Statista,91.832,91.278,90.302,85.769,84.052,82.626,80.919,78.499,75.714,,
+Turkey,Personal Care,Online & Offline Split,Online,percent,Statista,8.168,8.722,9.698,14.231,15.948,17.374,19.081,21.501,24.286,,
+Turkey,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Personal Care,Users,Total,million users,Statista,6.554,7.833,8.963,10.197,11.408,12.899,14.312,15.597,16.967,18.245,19.534
+Turkey,Personal Care,Users,Body Care,million users,Statista,4.457,5.327,6.095,6.934,7.757,8.771,9.732,10.606,11.537,12.406,13.283
+Turkey,Personal Care,Users,Eye Care,million users,Statista,3.277,3.917,4.482,5.099,5.704,6.449,7.156,7.799,8.483,9.122,9.767
+Turkey,Personal Care,Users,Hair Care,million users,Statista,3.408,4.073,4.661,5.303,5.932,6.707,7.442,8.111,8.823,9.487,10.158
+Turkey,Personal Care,Users,Oral Care,million users,Statista,3.211,3.838,4.392,4.997,5.59,6.32,7.013,7.643,8.314,8.94,9.572
+Turkey,Personal Care,Users,Other Personal Care,million users,Statista,2.949,3.525,4.034,4.589,5.133,5.804,6.441,7.019,7.635,8.21,8.79
+Turkey,Personal Care,Users,Skin Care,million users,Statista,2.884,3.447,3.944,4.487,5.019,5.675,6.297,6.863,7.465,8.028,8.595
+Turkey,Personal Care,Penetration Rate,Body Care,percent,Statista,5.494,6.469,7.306,8.222,9.122,10.251,11.322,12.287,13.306,14.237,15.161
+Turkey,Personal Care,Penetration Rate,Eye Care,percent,Statista,4.04,4.757,5.372,6.045,6.707,7.538,8.325,9.035,9.784,10.468,11.148
+Turkey,Personal Care,Penetration Rate,Hair Care,percent,Statista,4.201,4.947,5.587,6.287,6.975,7.839,8.658,9.396,10.175,10.887,11.594
+Turkey,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.959,4.662,5.264,5.925,6.573,7.387,8.159,8.854,9.588,10.259,10.925
+Turkey,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,3.636,4.281,4.835,5.441,6.036,6.784,7.493,8.131,8.806,9.422,10.033
+Turkey,Personal Care,Penetration Rate,Personal Care,percent,Statista,8.079,9.514,10.744,12.091,13.414,15.075,16.651,18.07,19.568,20.937,22.296
+Turkey,Personal Care,Penetration Rate,Skin Care,percent,Statista,3.555,4.186,4.727,5.32,5.902,6.633,7.326,7.951,8.61,9.212,9.81
+Turkey,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,9.996,9.536,10.02,13.22,15.18,13.67,16.44,18.29,20.42,20.78,21.4
+Turkey,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,8.354,7.925,8.249,10.5,11.85,10.85,13.25,14.96,16.96,17.24,17.78
+Turkey,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,2.165,2.117,2.318,3.51,4.258,3.64,4.14,4.341,4.549,4.654,4.761
+Turkey,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,11.4,10.87,11.42,15.07,17.3,15.59,18.74,20.85,23.28,23.69,24.4
+Turkey,Beauty Care,Revenue,Total,million USD (US$),Statista,84.53,96.39,115.9,174,223.4,227.5,303.6,368.1,447,489.2,539.4
+Turkey,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,49.45,56.08,66.78,96.67,122.1,126.3,171.2,210.8,259.9,284.1,313.7
+Turkey,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,10.99,12.84,16.09,27.71,37.61,36.35,45.88,52.42,59.75,65.74,72
+Turkey,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,24.09,27.47,33.03,49.58,63.67,64.85,86.54,104.9,127.4,139.4,153.7
+Turkey,Beauty Care,Revenue Change,Total,percent,Statista,,14.031,20.241,50.129,28.391,1.835,33.451,21.245,21.434,9.441,10.262
+Turkey,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,13.407,19.08,44.759,26.306,3.44,35.55,23.131,23.292,9.311,10.419
+Turkey,Beauty Care,Revenue Change,Fragrances,percent,Statista,,16.833,25.312,72.219,35.727,-3.35,26.217,14.255,13.983,10.025,9.522
+Turkey,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,14.031,20.24,50.106,28.419,1.853,33.446,21.216,21.449,9.419,10.258
+Turkey,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,Beauty Care,Online & Offline Split,Offline,percent,Statista,93.244,92.914,92.13,87.293,85.733,84.649,83.269,81.297,78.99,,
+Turkey,Beauty Care,Online & Offline Split,Online,percent,Statista,6.756,7.086,7.87,12.707,14.267,15.351,16.731,18.703,21.01,,
+Turkey,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Beauty Care,Users by Segment,Total,million users,Statista,8.456,10.108,11.566,13.158,14.72,16.644,18.468,20.125,21.892,23.542,25.205
+Turkey,Beauty Care,Users by Segment,Cosmetics,million users,Statista,5.919,7.075,8.096,9.211,10.304,11.65,12.927,14.088,15.325,16.479,17.644
+Turkey,Beauty Care,Users by Segment,Fragrances,million users,Statista,5.074,6.065,6.939,7.895,8.832,9.986,11.081,12.075,13.135,14.125,15.123
+Turkey,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,2.114,2.527,2.891,3.289,3.68,4.161,4.617,5.031,5.473,5.885,6.301
+Turkey,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,10.425,12.276,13.863,15.601,17.308,19.452,21.485,23.316,25.249,27.015,28.769
+Turkey,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,7.297,8.593,9.704,10.921,12.116,13.616,15.039,16.321,17.674,18.911,20.138
+Turkey,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,6.255,7.365,8.318,9.361,10.385,11.671,12.891,13.989,15.15,16.209,17.261
+Turkey,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.606,3.069,3.466,3.9,4.327,4.863,5.371,5.829,6.312,6.754,7.192
+Turkey,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,15.04,13.39,12.94,16.67,17.54,16.12,19.75,22.36,25.37,25.68,26.43
+Turkey,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,17.88,15.91,15.37,18.72,19.46,17.91,21.97,24.9,28.25,28.54,29.34
+Turkey,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.498,0.443,0.428,0.578,0.607,0.581,0.741,0.872,1.027,1.042,1.079
+Turkey,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,8.181,7.281,7.033,8.526,8.858,8.176,10.06,11.44,13.01,13.14,13.52
+Turkey,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,1.317,1.172,1.132,3.009,3.493,3.158,3.807,4.239,4.727,4.864,5.04
+Turkey,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.311,0.301,0.317,0.383,0.433,0.472,0.694,0.947,1.301,1.316,1.388
+Turkey,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,18.64,16.59,16.04,20.66,21.74,19.97,24.47,27.71,31.44,31.82,32.75
+Turkey,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,5.153,4.586,4.43,5.37,5.58,5.057,6.111,6.821,7.625,7.696,7.889
+Turkey,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,3.934,3.502,3.382,4.108,4.269,3.932,4.828,5.475,6.216,6.279,6.456
+Turkey,Health Care,Revenue,Total,million USD (US$),Statista,101.7,108.3,119.8,175.5,206.6,214.6,291.8,360.1,444.4,483.6,532.9
+Turkey,Health Care,Revenue,Analgesics,million USD (US$),Statista,24.19,25.74,28.44,39.41,45.82,47.68,64.92,80.17,98.95,107.5,118.3
+Turkey,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,1.414,1.504,1.662,2.555,3.003,3.248,4.595,5.893,7.552,8.238,9.139
+Turkey,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,16.6,17.66,19.52,26.92,31.29,32.66,44.6,55.23,68.37,74.27,81.78
+Turkey,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,3.563,3.791,4.189,12.67,16.45,16.82,22.5,27.3,33.11,36.64,40.65
+Turkey,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.42,0.486,0.587,0.806,1.019,1.258,2.05,3.051,4.556,4.958,5.599
+Turkey,Health Care,Revenue,Other Health Care,million USD (US$),Statista,29,30.86,34.13,50.01,58.87,61.16,83.16,102.6,126.6,137.8,151.9
+Turkey,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,13.25,14.09,15.58,21.48,24.97,25.59,34.31,41.73,50.75,55.08,60.45
+Turkey,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,13.31,14.16,15.65,21.62,25.13,26.17,35.66,44.07,54.43,59.13,65.09
+Turkey,Health Care,Revenue Change,Total,percent,Statista,,6.49,10.619,46.494,17.721,3.872,35.974,23.406,23.41,8.821,10.194
+Turkey,Health Care,Revenue Change,Analgesics,percent,Statista,,6.408,10.49,38.572,16.265,4.059,36.158,23.49,23.425,8.641,10.047
+Turkey,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,6.365,10.505,53.73,17.534,8.159,41.472,28.248,28.152,9.084,10.937
+Turkey,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,6.386,10.532,37.91,16.233,4.378,36.558,23.834,23.791,8.63,10.112
+Turkey,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,6.399,10.499,202.459,29.834,2.249,33.769,21.333,21.282,10.661,10.944
+Turkey,Health Care,Revenue Change,Incontinence,percent,Statista,,15.703,20.769,37.306,26.364,23.454,62.957,48.829,49.328,8.824,12.929
+Turkey,Health Care,Revenue Change,Other Health Care,percent,Statista,,6.414,10.596,46.528,17.716,3.89,35.971,23.377,23.392,8.847,10.232
+Turkey,Health Care,Revenue Change,Skin Treatment,percent,Statista,,6.34,10.575,37.869,16.248,2.483,34.076,21.626,21.615,8.532,9.749
+Turkey,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,6.386,10.523,38.147,16.235,4.138,36.263,23.584,23.508,8.635,10.079
+Turkey,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,Health Care,Online & Offline Split,Offline,percent,Statista,89.316,88.931,88.121,83.23,81.21,78.239,74.668,70.591,65.999,,
+Turkey,Health Care,Online & Offline Split,Online,percent,Statista,10.684,11.069,11.879,16.77,18.79,21.761,25.332,29.409,34.001,,
+Turkey,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Health Care,Users by Segment,Total,million users,Statista,6.765,8.086,9.253,10.526,11.776,13.315,14.774,16.1,17.514,18.833,20.164
+Turkey,Health Care,Users by Segment,Analgesics,million users,Statista,1.353,1.617,1.851,2.105,2.355,2.663,2.955,3.22,3.503,3.767,4.033
+Turkey,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,2.841,3.396,3.886,4.421,4.946,5.592,6.205,6.762,7.356,7.91,8.469
+Turkey,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,2.03,2.426,2.776,3.158,3.533,3.994,4.432,4.83,5.254,5.65,6.049
+Turkey,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,2.706,3.234,3.701,4.211,4.71,5.326,5.91,6.44,7.006,7.533,8.066
+Turkey,Health Care,Users by Segment,Incontinence,million users,Statista,1.353,1.617,1.851,2.105,2.355,2.663,2.955,3.22,3.503,3.767,4.033
+Turkey,Health Care,Users by Segment,Other Health Care,million users,Statista,1.556,1.86,2.128,2.421,2.708,3.062,3.398,3.703,4.028,4.332,4.638
+Turkey,Health Care,Users by Segment,Skin Treatment,million users,Statista,2.571,3.073,3.516,4,4.475,5.06,5.614,6.118,6.655,7.157,7.662
+Turkey,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,3.383,4.043,4.626,5.263,5.888,6.657,7.387,8.05,8.757,9.417,10.082
+Turkey,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.668,1.964,2.218,2.496,2.769,3.112,3.438,3.731,4.04,4.322,4.603
+Turkey,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,3.503,4.125,4.658,5.242,5.816,6.536,7.219,7.834,8.484,9.077,9.666
+Turkey,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.502,2.946,3.327,3.744,4.154,4.668,5.156,5.596,6.06,6.484,6.904
+Turkey,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,3.336,3.928,4.436,4.992,5.539,6.225,6.875,7.461,8.08,8.645,9.206
+Turkey,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,8.34,9.82,11.09,12.481,13.847,15.562,17.188,18.653,20.199,21.612,23.015
+Turkey,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.668,1.964,2.218,2.496,2.769,3.112,3.438,3.731,4.04,4.322,4.603
+Turkey,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.918,2.259,2.551,2.871,3.185,3.579,3.953,4.29,4.646,4.971,5.293
+Turkey,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,3.169,3.732,4.214,4.743,5.262,5.913,6.531,7.088,7.676,8.213,8.746
+Turkey,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,4.17,4.91,5.545,6.241,6.923,7.781,8.594,9.326,10.1,10.806,11.507
+Turkey,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,10.77,10.31,10.77,13.32,14.92,15.67,22.11,28.99,38.27,38.79,40.76
+Turkey,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,2.48,2.348,2.426,3.162,3.526,3.576,4.857,6.118,7.744,7.865,8.231
+Turkey,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,0.783,0.741,0.766,1.028,1.15,1.176,1.61,2.044,2.609,2.65,2.777
+Turkey,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,5.426,5.251,5.543,6.637,7.49,8.137,11.89,16.16,22.07,22.34,23.55
+Turkey,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,3.801,3.599,3.719,4.471,4.951,5.051,6.903,8.75,11.14,11.3,11.83
+Turkey,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,21.72,20.79,21.71,26.85,30.09,31.59,44.57,58.46,77.15,78.2,82.17
+Turkey,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.619,0.599,0.632,0.782,0.885,0.964,1.411,1.921,2.629,2.662,2.807
+Turkey,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,0.542,0.513,0.53,0.629,0.696,0.707,0.963,1.215,1.541,1.562,1.634
+Turkey,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,4.207,4.071,4.297,5.326,6.028,6.5,9.428,12.71,17.23,17.45,18.39
+Turkey,Household Care,Revenue,Total,million USD (US$),Statista,43.27,49.51,59.15,83.22,104.3,123.9,193.9,277.2,397.9,433.7,487.9
+Turkey,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,4.183,4.735,5.598,8.3,10.36,11.87,17.9,24.56,33.82,36.94,41.39
+Turkey,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,1.415,1.601,1.893,2.892,3.618,4.182,6.354,8.794,12.21,13.34,14.96
+Turkey,Household Care,Revenue,Household Paper,million USD (US$),Statista,5.013,5.799,7.003,9.541,12.04,14.8,23.99,35.52,52.78,57.45,64.84
+Turkey,Household Care,Revenue,Laundry Care,million USD (US$),Statista,6.107,6.912,8.172,11.18,13.85,15.97,24.22,33.46,46.36,50.55,56.64
+Turkey,Household Care,Revenue,Other Household Care,million USD (US$),Statista,19.2,21.96,26.24,36.91,46.28,54.95,86.02,122.9,176.5,192.4,216.4
+Turkey,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.795,0.92,1.111,1.565,1.981,2.438,3.961,5.876,8.748,9.526,10.76
+Turkey,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.653,0.739,0.874,1.18,1.46,1.678,2.533,3.485,4.807,5.241,5.869
+Turkey,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,5.914,6.842,8.263,11.65,14.75,17.99,28.95,42.53,62.7,68.31,77.06
+Turkey,Household Care,Revenue Change,Total,percent,Statista,,14.421,19.471,40.693,25.33,18.792,56.497,42.96,43.543,8.997,12.497
+Turkey,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,13.196,18.226,48.267,24.819,14.575,50.8,37.207,37.704,9.225,12.047
+Turkey,Household Care,Revenue Change,Household Cleaners,percent,Statista,,13.145,18.239,52.773,25.104,15.589,51.937,38.401,38.845,9.255,12.144
+Turkey,Household Care,Revenue Change,Household Paper,percent,Statista,,15.679,20.762,36.242,26.192,22.924,62.095,48.062,48.592,8.848,12.863
+Turkey,Household Care,Revenue Change,Laundry Care,percent,Statista,,13.182,18.229,36.809,23.882,15.307,51.659,38.15,38.553,9.038,12.047
+Turkey,Household Care,Revenue Change,Other Household Care,percent,Statista,,14.375,19.49,40.663,25.386,18.734,56.542,42.874,43.613,9.008,12.474
+Turkey,Household Care,Revenue Change,Paper Tissues,percent,Statista,,15.678,20.748,40.864,26.581,23.069,62.469,48.346,48.877,8.893,12.954
+Turkey,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,13.207,18.216,35.089,23.729,14.932,50.954,37.584,37.934,9.029,11.982
+Turkey,Household Care,Revenue Change,Toilet Paper,percent,Statista,,15.692,20.769,40.99,26.609,21.966,60.923,46.908,47.425,8.947,12.809
+Turkey,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Turkey,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Turkey,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Turkey,Household Care,Online & Offline Split,Offline,percent,Statista,98.676,98.538,98.312,97.722,97.248,96.333,95.005,93.161,90.634,,
+Turkey,Household Care,Online & Offline Split,Online,percent,Statista,1.324,1.462,1.688,2.278,2.752,3.667,4.995,6.839,9.366,,
+Turkey,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Household Care,Users by Segment,Total,million users,Statista,4.017,4.801,5.494,6.25,6.992,7.906,8.772,9.56,10.399,11.182,11.972
+Turkey,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,1.687,2.016,2.307,2.625,2.937,3.32,3.684,4.015,4.368,4.697,5.028
+Turkey,Household Care,Users by Segment,Household Cleaners,million users,Statista,1.808,2.161,2.472,2.813,3.146,3.558,3.947,4.302,4.679,5.032,5.388
+Turkey,Household Care,Users by Segment,Household Paper,million users,Statista,0.924,1.104,1.264,1.438,1.608,1.818,2.018,2.199,2.392,2.572,2.754
+Turkey,Household Care,Users by Segment,Laundry Care,million users,Statista,1.607,1.92,2.197,2.5,2.797,3.162,3.509,3.824,4.16,4.473,4.789
+Turkey,Household Care,Users by Segment,Other Household Care,million users,Statista,0.884,1.056,1.209,1.375,1.538,1.739,1.93,2.103,2.288,2.46,2.634
+Turkey,Household Care,Users by Segment,Paper Tissues,million users,Statista,1.285,1.536,1.758,2,2.237,2.53,2.807,3.059,3.328,3.578,3.831
+Turkey,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,1.205,1.44,1.648,1.875,2.098,2.372,2.632,2.868,3.12,3.355,3.592
+Turkey,Household Care,Users by Segment,Toilet Paper,million users,Statista,1.406,1.68,1.923,2.188,2.447,2.767,3.07,3.346,3.64,3.914,4.19
+Turkey,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.08,2.449,2.766,3.112,3.453,3.881,4.286,4.651,5.037,5.39,5.739
+Turkey,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,4.952,5.831,6.585,7.411,8.221,9.24,10.205,11.075,11.993,12.832,13.665
+Turkey,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.228,2.624,2.963,3.335,3.7,4.158,4.592,4.984,5.397,5.774,6.149
+Turkey,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.139,1.341,1.515,1.704,1.891,2.125,2.347,2.547,2.758,2.951,3.143
+Turkey,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.981,2.332,2.634,2.964,3.289,3.696,4.082,4.43,4.797,5.133,5.466
+Turkey,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.089,1.283,1.449,1.63,1.809,2.033,2.245,2.436,2.639,2.823,3.006
+Turkey,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.585,1.866,2.107,2.371,2.631,2.957,3.266,3.544,3.838,4.106,4.373
+Turkey,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.486,1.749,1.975,2.223,2.466,2.772,3.062,3.322,3.598,3.85,4.1
+Turkey,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.733,2.041,2.305,2.594,2.878,3.234,3.572,3.876,4.198,4.491,4.783
+Turkey,Food,Revenue,Total,million USD (US$),Statista,80.29,110.9,154.1,311.4,462,411.9,480,507.3,536.3,569.7,597.5
+Turkey,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,10.37,14.31,19.89,43.91,72.52,64.23,74.34,78.01,81.87,87.2,91.47
+Turkey,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,15.71,21.7,30.16,66.45,96.63,85.61,99.12,104,109.2,115.6,120.7
+Turkey,Food,Revenue,Convenience Food,million USD (US$),Statista,4.114,5.68,7.894,17.71,29.95,26.26,30.09,31.26,32.46,34.43,35.93
+Turkey,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,11.8,16.29,22.64,41.45,59.21,53.27,62.64,66.8,71.26,75.83,79.81
+Turkey,Food,Revenue,Fish & Seafood,million USD (US$),Statista,5.752,7.942,11.04,21.38,30.69,27.47,32.16,34.16,36.3,38.63,40.64
+Turkey,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,7.343,10.14,14.09,27.64,39.73,35.64,41.79,44.43,47.24,50.24,52.8
+Turkey,Food,Revenue,Meat,million USD (US$),Statista,11.58,15.99,22.22,43.46,62.46,55.91,65.41,69.4,73.63,78.21,82.09
+Turkey,Food,Revenue,Oils & Fats,million USD (US$),Statista,2.57,3.549,4.932,9.041,12.91,11.61,13.64,14.53,15.48,16.46,17.31
+Turkey,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.856,1.183,1.644,2.772,3.932,3.57,4.237,4.561,4.911,5.248,5.551
+Turkey,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,1.363,1.882,2.616,4.371,6.195,5.541,6.478,6.868,7.284,7.711,8.077
+Turkey,Food,Revenue,Vegetables,million USD (US$),Statista,8.836,12.2,16.96,33.24,47.77,42.81,50.15,53.26,56.58,60.13,63.16
+Turkey,Food,Revenue Change,Total,percent,Statista,,38.124,38.954,102.077,48.362,-10.844,16.533,5.688,5.717,6.228,4.88
+Turkey,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,37.994,38.994,120.764,65.156,-11.431,15.74,4.937,4.948,6.51,4.897
+Turkey,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,38.129,38.986,120.325,45.418,-11.404,15.781,4.923,5,5.861,4.412
+Turkey,Food,Revenue Change,Convenience Food,percent,Statista,,38.065,38.979,124.348,69.113,-12.321,14.585,3.888,3.839,6.069,4.357
+Turkey,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,38.051,38.981,83.083,42.847,-10.032,17.59,6.641,6.677,6.413,5.249
+Turkey,Food,Revenue Change,Fish & Seafood,percent,Statista,,38.074,39.008,93.659,43.545,-10.492,17.073,6.219,6.265,6.419,5.203
+Turkey,Food,Revenue Change,Fruits & Nuts,percent,Statista,,38.091,38.955,96.167,43.741,-10.294,17.256,6.317,6.325,6.351,5.096
+Turkey,Food,Revenue Change,Meat,percent,Statista,,38.083,38.962,95.59,43.718,-10.487,16.992,6.1,6.095,6.22,4.961
+Turkey,Food,Revenue Change,Oils & Fats,percent,Statista,,38.093,38.969,83.313,42.794,-10.07,17.485,6.525,6.538,6.331,5.164
+Turkey,Food,Revenue Change,Sauces & Spices,percent,Statista,,38.136,38.969,68.613,41.847,-9.207,18.683,7.647,7.674,6.862,5.774
+Turkey,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,38.078,39.001,67.087,41.73,-10.557,16.91,6.02,6.057,5.862,4.746
+Turkey,Food,Revenue Change,Vegetables,percent,Statista,,38.072,39.016,95.991,43.712,-10.383,17.146,6.201,6.234,6.274,5.039
+Turkey,Food,Average Revenue per User,Total,USD (US$),Statista,16.77,18.34,21.19,36.06,45.91,35.72,36.87,35.65,34.61,33.85,32.94
+Turkey,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,4.607,5.037,5.821,10.82,15.33,11.85,12.15,11.66,11.24,11.02,10.73
+Turkey,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,6.699,7.325,8.464,15.7,19.6,15.15,15.54,14.92,14.38,14.01,13.58
+Turkey,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,1.534,1.678,1.939,3.662,5.315,4.067,4.127,3.922,3.741,3.653,3.537
+Turkey,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,10.71,11.71,13.54,20.87,25.58,20.08,20.92,20.41,19.99,19.59,19.13
+Turkey,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,6.324,6.914,7.99,13.03,16.05,12.54,13,12.63,12.33,12.08,11.79
+Turkey,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,2.95,3.225,3.727,6.156,7.593,5.943,6.173,6.004,5.863,5.74,5.598
+Turkey,Food,Average Revenue per User,Meat,USD (US$),Statista,8.061,8.813,10.18,16.78,20.69,16.16,16.75,16.25,15.84,15.49,15.08
+Turkey,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,2.148,2.348,2.713,4.188,5.134,4.027,4.19,4.083,3.996,3.912,3.816
+Turkey,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.407,0.445,0.514,0.73,0.888,0.704,0.74,0.728,0.72,0.709,0.695
+Turkey,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.863,0.944,1.09,1.534,1.866,1.456,1.508,1.462,1.424,1.388,1.349
+Turkey,Food,Average Revenue per User,Vegetables,USD (US$),Statista,3.767,4.118,4.759,7.855,9.689,7.577,7.861,7.638,7.451,7.291,7.105
+Turkey,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Food,Online & Offline Split,Offline,percent,Statista,99.911,99.877,99.83,99.71,99.553,99.523,99.5,99.481,99.458,,
+Turkey,Food,Online & Offline Split,Online,percent,Statista,0.089,0.123,0.17,0.29,0.447,0.477,0.5,0.519,0.542,,
+Turkey,Food,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Food,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Food,Users,Total,million users,Statista,4.787,6.046,7.271,8.635,10.062,11.532,13.018,14.231,15.496,16.831,18.141
+Turkey,Food,Users,Bread & Cereal Products,million users,Statista,2.25,2.842,3.417,4.058,4.729,5.42,6.119,6.689,7.283,7.911,8.526
+Turkey,Food,Users,Confectionery & Snacks,million users,Statista,2.346,2.962,3.563,4.231,4.931,5.651,6.379,6.973,7.593,8.247,8.889
+Turkey,Food,Users,Convenience Food,million users,Statista,2.681,3.386,4.072,4.836,5.635,6.458,7.29,7.969,8.678,9.426,10.159
+Turkey,Food,Users,Dairy Products & Eggs,million users,Statista,1.101,1.391,1.672,1.986,2.314,2.652,2.994,3.273,3.564,3.871,4.172
+Turkey,Food,Users,Fish & Seafood,million users,Statista,0.91,1.149,1.381,1.641,1.912,2.191,2.474,2.704,2.944,3.198,3.447
+Turkey,Food,Users,Fruits & Nuts,million users,Statista,2.489,3.144,3.781,4.49,5.232,5.997,6.77,7.4,8.058,8.752,9.433
+Turkey,Food,Users,Meat,million users,Statista,1.436,1.814,2.181,2.59,3.019,3.46,3.906,4.269,4.649,5.049,5.442
+Turkey,Food,Users,Oils & Fats,million users,Statista,1.197,1.511,1.818,2.159,2.516,2.883,3.255,3.558,3.874,4.208,4.535
+Turkey,Food,Users,Sauces & Spices,million users,Statista,2.106,2.66,3.199,3.799,4.427,5.074,5.728,6.262,6.818,7.406,7.982
+Turkey,Food,Users,Spreads & Sweeteners,million users,Statista,1.58,1.995,2.399,2.85,3.321,3.806,4.296,4.696,5.114,5.554,5.987
+Turkey,Food,Users,Vegetables,million users,Statista,2.346,2.962,3.563,4.231,4.931,5.651,6.379,6.973,7.593,8.247,8.889
+Turkey,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,2.774,3.451,4.096,4.812,5.561,6.335,7.118,7.749,8.4,9.078,9.732
+Turkey,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,2.892,3.598,4.27,5.017,5.798,6.604,7.421,8.079,8.757,9.464,10.146
+Turkey,Food,Penetration Rate,Convenience Food,percent,Statista,3.305,4.112,4.88,5.733,6.626,7.548,8.481,9.233,10.008,10.816,11.595
+Turkey,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.357,1.689,2.004,2.355,2.721,3.1,3.483,3.792,4.111,4.442,4.762
+Turkey,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.121,1.395,1.656,1.945,2.248,2.561,2.878,3.133,3.396,3.67,3.934
+Turkey,Food,Penetration Rate,Food,percent,Statista,5.902,7.342,8.715,10.238,11.832,13.478,15.145,16.487,17.872,19.315,20.706
+Turkey,Food,Penetration Rate,Fruits & Nuts,percent,Statista,3.069,3.818,4.532,5.324,6.153,7.009,7.876,8.573,9.293,10.044,10.767
+Turkey,Food,Penetration Rate,Meat,percent,Statista,1.771,2.203,2.615,3.071,3.55,4.043,4.544,4.946,5.362,5.795,6.212
+Turkey,Food,Penetration Rate,Oils & Fats,percent,Statista,1.475,1.836,2.179,2.56,2.958,3.37,3.786,4.122,4.468,4.829,5.176
+Turkey,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.597,3.231,3.835,4.505,5.206,5.93,6.664,7.254,7.864,8.499,9.111
+Turkey,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.948,2.423,2.876,3.379,3.905,4.448,4.998,5.441,5.898,6.374,6.833
+Turkey,Food,Penetration Rate,Vegetables,percent,Statista,2.892,3.598,4.27,5.017,5.798,6.604,7.421,8.079,8.757,9.464,10.146
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,4.607,5.037,5.821,10.82,15.33,11.85,12.15,11.66,11.24,11.02,10.73
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,3.778,4.131,4.774,9.043,13.08,10.07,10.29,9.845,9.455,9.264,9.004
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.696,0.761,0.88,1.457,1.797,1.413,1.474,1.439,1.412,1.386,1.355
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,1.701,1.86,2.15,3.995,5.663,4.376,4.486,4.307,4.151,4.071,3.962
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.662,0.724,0.837,1.587,2.292,1.773,1.82,1.748,1.687,1.657,1.614
+Turkey,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.323,0.353,0.407,0.772,1.116,0.862,0.884,0.848,0.817,0.802,0.781
+Turkey,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,10.37,14.31,19.89,43.91,72.52,64.23,74.34,78.01,81.87,87.2,91.47
+Turkey,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,5.356,7.396,10.28,23.12,38.96,34.39,39.67,41.48,43.38,46.17,48.37
+Turkey,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,1.3,1.795,2.495,4.907,7.055,6.356,7.484,7.991,8.535,9.101,9.592
+Turkey,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,1.723,2.379,3.306,7.297,12.05,10.67,12.35,12.96,13.61,14.49,15.2
+Turkey,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,1.342,1.853,2.575,5.796,9.757,8.649,10.02,10.53,11.06,11.79,12.39
+Turkey,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.646,0.892,1.239,2.789,4.697,4.159,4.812,5.049,5.297,5.647,5.928
+Turkey,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,37.994,38.994,120.764,65.156,-11.431,15.74,4.937,4.948,6.51,4.897
+Turkey,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,38.088,38.994,124.903,68.512,-11.73,15.353,4.563,4.581,6.432,4.765
+Turkey,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,38.077,38.997,96.673,43.774,-9.908,17.747,6.774,6.808,6.632,5.395
+Turkey,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,38.073,38.966,120.72,65.136,-11.452,15.745,4.939,5.015,6.466,4.9
+Turkey,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,38.077,38.964,125.087,68.34,-11.356,15.852,5.09,5.033,6.6,5.089
+Turkey,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,38.092,38.932,125.101,68.412,-11.454,15.701,4.925,4.912,6.608,4.976
+Turkey,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Turkey,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Turkey,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.895,99.858,99.807,99.682,99.443,99.405,99.378,99.358,99.335,,
+Turkey,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.105,0.142,0.193,0.318,0.557,0.595,0.622,0.642,0.665,,
+Turkey,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Bread & Cereal Products,Users by Segment,Total,million users,Statista,2.25,2.842,3.417,4.058,4.729,5.42,6.119,6.689,7.283,7.911,8.526
+Turkey,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,1.418,1.79,2.153,2.557,2.979,3.415,3.855,4.214,4.588,4.984,5.372
+Turkey,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,1.868,2.358,2.836,3.368,3.925,4.499,5.079,5.552,6.045,6.566,7.077
+Turkey,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,1.013,1.279,1.538,1.826,2.128,2.439,2.753,3.01,3.277,3.56,3.837
+Turkey,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,2.025,2.557,3.076,3.653,4.256,4.878,5.507,6.02,6.555,7.12,7.674
+Turkey,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,2.003,2.529,3.041,3.612,4.209,4.824,5.446,5.953,6.482,7.041,7.588
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.748,2.174,2.581,3.032,3.503,3.991,4.485,4.882,5.292,5.719,6.131
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.774,3.451,4.096,4.812,5.561,6.335,7.118,7.749,8.4,9.078,9.732
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.302,2.864,3.4,3.994,4.616,5.258,5.908,6.432,6.972,7.535,8.077
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.248,1.553,1.843,2.165,2.502,2.851,3.203,3.487,3.78,4.085,4.379
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.496,3.106,3.686,4.331,5.005,5.701,6.406,6.974,7.56,8.17,8.759
+Turkey,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.469,3.071,3.646,4.283,4.949,5.638,6.335,6.897,7.476,8.079,8.661
+Turkey,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,6.699,7.325,8.464,15.7,19.6,15.15,15.54,14.92,14.38,14.01,13.58
+Turkey,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,6.287,6.874,7.944,14.69,18.32,14.16,14.52,13.94,13.44,13.09,12.68
+Turkey,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.16,0.175,0.202,0.374,0.467,0.361,0.37,0.356,0.343,0.334,0.324
+Turkey,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,1.565,1.711,1.978,3.716,4.645,3.592,3.685,3.541,3.415,3.328,3.226
+Turkey,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,15.71,21.7,30.16,66.45,96.63,85.61,99.12,104,109.2,115.6,120.7
+Turkey,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,12.09,16.7,23.21,50.95,74.07,65.61,75.96,79.72,83.68,88.53,92.43
+Turkey,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.206,0.284,0.395,0.871,1.267,1.123,1.3,1.364,1.432,1.515,1.582
+Turkey,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,3.415,4.715,6.553,14.62,21.3,18.88,21.86,22.96,24.11,25.53,26.67
+Turkey,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,38.129,38.986,120.325,45.418,-11.404,15.781,4.923,5,5.861,4.412
+Turkey,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,38.131,38.982,119.517,45.378,-11.422,15.775,4.95,4.967,5.796,4.405
+Turkey,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,38.04,38.981,120.359,45.415,-11.365,15.761,4.923,4.985,5.796,4.422
+Turkey,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,38.067,38.982,123.104,45.691,-11.362,15.784,5.032,5.009,5.89,4.465
+Turkey,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Turkey,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Turkey,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.912,99.878,99.831,99.692,99.529,99.496,99.47,99.451,99.427,,
+Turkey,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.088,0.122,0.169,0.308,0.471,0.504,0.53,0.549,0.573,,
+Turkey,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Confectionery & Snacks,Users by Segment,Total,million users,Statista,2.346,2.962,3.563,4.231,4.931,5.651,6.379,6.973,7.593,8.247,8.889
+Turkey,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,1.924,2.429,2.921,3.47,4.043,4.634,5.231,5.718,6.226,6.763,7.289
+Turkey,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,1.29,1.629,1.96,2.327,2.712,3.108,3.508,3.835,4.176,4.536,4.889
+Turkey,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,2.182,2.755,3.313,3.935,4.585,5.255,5.933,6.485,7.062,7.67,8.267
+Turkey,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,2.371,2.95,3.502,4.114,4.754,5.416,6.085,6.625,7.181,7.761,8.32
+Turkey,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.892,3.598,4.27,5.017,5.798,6.604,7.421,8.079,8.757,9.464,10.146
+Turkey,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.591,1.979,2.349,2.759,3.189,3.632,4.082,4.443,4.817,5.205,5.58
+Turkey,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.689,3.346,3.971,4.666,5.392,6.142,6.902,7.513,8.144,8.802,9.436
+Turkey,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,1.534,1.678,1.939,3.662,5.315,4.067,4.127,3.922,3.741,3.653,3.537
+Turkey,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,1.585,1.733,2.002,3.782,5.489,4.202,4.268,4.059,3.874,3.784,3.666
+Turkey,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.735,0.804,0.929,1.754,2.547,1.945,1.971,1.869,1.779,1.736,1.679
+Turkey,Convenience Food,Revenue,Total,million USD (US$),Statista,4.114,5.68,7.894,17.71,29.95,26.26,30.09,31.26,32.46,34.43,35.93
+Turkey,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,2.931,4.047,5.625,12.62,21.34,18.73,21.47,22.32,23.2,24.61,25.7
+Turkey,Convenience Food,Revenue,Soups,million USD (US$),Statista,1.183,1.633,2.269,5.09,8.61,7.536,8.62,8.938,9.265,9.817,10.24
+Turkey,Convenience Food,Revenue Change,Total,percent,Statista,,38.065,38.979,124.348,69.113,-12.321,14.585,3.888,3.839,6.069,4.357
+Turkey,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,38.076,38.992,124.356,69.097,-12.231,14.629,3.959,3.943,6.078,4.429
+Turkey,Convenience Food,Revenue Change,Soups,percent,Statista,,38.039,38.947,124.328,69.155,-12.474,14.384,3.689,3.659,5.958,4.309
+Turkey,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.913,99.879,99.833,99.72,99.487,99.446,99.415,99.391,99.364,,
+Turkey,Convenience Food,Online & Offline Split,Online,percent,Statista,0.087,0.121,0.167,0.28,0.513,0.554,0.585,0.609,0.636,,
+Turkey,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Convenience Food,Users by Segment,Total,million users,Statista,2.681,3.386,4.072,4.836,5.635,6.458,7.29,7.969,8.678,9.426,10.159
+Turkey,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,1.85,2.336,2.81,3.337,3.888,4.456,5.03,5.499,5.988,6.504,7.01
+Turkey,Convenience Food,Users by Segment,Soups,million users,Statista,1.609,2.031,2.443,2.901,3.381,3.875,4.374,4.782,5.207,5.655,6.095
+Turkey,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,3.305,4.112,4.88,5.733,6.626,7.548,8.481,9.233,10.008,10.816,11.595
+Turkey,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.28,2.837,3.368,3.956,4.572,5.208,5.852,6.371,6.906,7.463,8.001
+Turkey,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.983,2.467,2.928,3.44,3.976,4.529,5.089,5.54,6.005,6.49,6.957
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,10.71,11.71,13.54,20.87,25.58,20.08,20.92,20.41,19.99,19.59,19.13
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,5.845,6.39,7.385,11.42,14.01,11.03,11.52,11.27,11.08,10.87,10.64
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,2.237,2.446,2.826,4.365,5.351,4.201,4.375,4.268,4.18,4.094,3.996
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,3.316,3.625,4.189,6.481,7.946,6.258,6.54,6.4,6.29,6.174,6.04
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,4.029,4.405,5.091,7.69,9.408,7.247,7.405,7.086,6.806,6.588,6.352
+Turkey,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,2.493,2.726,3.15,4.873,5.975,4.705,4.917,4.812,4.728,4.641,4.541
+Turkey,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,11.8,16.29,22.64,41.45,59.21,53.27,62.64,66.8,71.26,75.83,79.81
+Turkey,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,4.827,6.664,9.262,17.02,24.31,21.94,25.88,27.68,29.61,31.57,33.28
+Turkey,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,1.059,1.462,2.032,3.728,5.325,4.791,5.633,6.006,6.406,6.815,7.17
+Turkey,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,2.848,3.932,5.464,10.04,14.34,12.95,15.27,16.34,17.49,18.64,19.66
+Turkey,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,1.553,2.144,2.98,5.345,7.621,6.727,7.761,8.117,8.49,8.927,9.277
+Turkey,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,1.51,2.085,2.897,5.323,7.605,6.864,8.097,8.662,9.269,9.882,10.42
+Turkey,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,38.051,38.981,83.083,42.847,-10.032,17.59,6.641,6.677,6.413,5.249
+Turkey,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,38.057,38.986,83.762,42.832,-9.749,17.958,6.955,6.973,6.619,5.417
+Turkey,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,38.055,38.988,83.465,42.838,-10.028,17.575,6.622,6.66,6.385,5.209
+Turkey,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,38.062,38.962,83.748,42.829,-9.693,17.915,7.007,7.038,6.575,5.472
+Turkey,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,38.055,38.993,79.362,42.582,-11.731,15.371,4.587,4.595,5.147,3.921
+Turkey,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,38.079,38.945,83.742,42.871,-9.744,17.963,6.978,7.008,6.613,5.444
+Turkey,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Turkey,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Turkey,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.913,99.879,99.833,99.726,99.6,99.574,99.552,99.533,99.509,,
+Turkey,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.087,0.121,0.167,0.274,0.4,0.426,0.448,0.467,0.491,,
+Turkey,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,1.101,1.391,1.672,1.986,2.314,2.652,2.994,3.273,3.564,3.871,4.172
+Turkey,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.826,1.043,1.254,1.49,1.736,1.989,2.246,2.455,2.673,2.903,3.129
+Turkey,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.473,0.598,0.719,0.854,0.995,1.141,1.288,1.407,1.533,1.665,1.794
+Turkey,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.859,1.085,1.304,1.549,1.805,2.069,2.336,2.553,2.78,3.02,3.254
+Turkey,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.385,0.487,0.585,0.695,0.81,0.928,1.048,1.146,1.247,1.355,1.46
+Turkey,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.606,0.765,0.92,1.092,1.273,1.459,1.647,1.8,1.96,2.129,2.295
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.018,1.267,1.503,1.766,2.041,2.325,2.613,2.844,3.083,3.332,3.572
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.357,1.689,2.004,2.355,2.721,3.1,3.483,3.792,4.111,4.442,4.762
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.584,0.726,0.862,1.013,1.17,1.333,1.498,1.631,1.768,1.91,2.048
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.059,1.317,1.563,1.837,2.123,2.418,2.717,2.958,3.206,3.465,3.715
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.475,0.591,0.702,0.824,0.952,1.085,1.219,1.327,1.439,1.555,1.667
+Turkey,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.747,0.929,1.102,1.295,1.497,1.705,1.916,2.086,2.261,2.443,2.619
+Turkey,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,6.324,6.914,7.99,13.03,16.05,12.54,13,12.63,12.33,12.08,11.79
+Turkey,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,8.994,9.833,11.36,18.63,22.96,17.59,17.88,17.01,16.25,15.71,15.12
+Turkey,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,4.966,5.429,6.274,10.11,12.44,9.986,10.64,10.61,10.63,10.58,10.5
+Turkey,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,1.805,1.974,2.281,3.708,4.567,3.647,3.865,3.836,3.824,3.793,3.75
+Turkey,Fish & Seafood,Revenue,Total,million USD (US$),Statista,5.752,7.942,11.04,21.38,30.69,27.47,32.16,34.16,36.3,38.63,40.64
+Turkey,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,3.19,4.405,6.122,11.92,17.12,15.03,17.25,17.94,18.66,19.6,20.33
+Turkey,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,1.084,1.497,2.08,3.982,5.71,5.252,6.313,6.885,7.512,8.121,8.685
+Turkey,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,1.478,2.04,2.836,5.475,7.858,7.192,8.603,9.335,10.13,10.92,11.63
+Turkey,Fish & Seafood,Revenue Change,Total,percent,Statista,,38.074,39.008,93.659,43.545,-10.492,17.073,6.219,6.265,6.419,5.203
+Turkey,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,38.088,38.978,94.708,43.624,-12.208,14.77,4,4.013,5.038,3.724
+Turkey,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,38.1,38.945,91.442,43.395,-8.021,20.202,9.061,9.107,8.107,6.945
+Turkey,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,38.024,39.02,93.054,43.525,-8.475,19.619,8.509,8.516,7.799,6.502
+Turkey,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.913,99.88,99.834,99.721,99.588,99.562,99.541,99.523,99.5,,
+Turkey,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.087,0.12,0.166,0.279,0.412,0.438,0.459,0.477,0.5,,
+Turkey,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Fish & Seafood,Users by Segment,Total,million users,Statista,0.91,1.149,1.381,1.641,1.912,2.191,2.474,2.704,2.944,3.198,3.447
+Turkey,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.355,0.448,0.539,0.64,0.746,0.855,0.965,1.055,1.148,1.247,1.344
+Turkey,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.218,0.276,0.332,0.394,0.459,0.526,0.594,0.649,0.707,0.768,0.827
+Turkey,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.819,1.034,1.243,1.477,1.721,1.972,2.226,2.434,2.65,2.878,3.102
+Turkey,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.121,1.395,1.656,1.945,2.248,2.561,2.878,3.133,3.396,3.67,3.934
+Turkey,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.437,0.544,0.646,0.759,0.877,0.999,1.122,1.222,1.324,1.431,1.534
+Turkey,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.269,0.335,0.397,0.467,0.54,0.615,0.691,0.752,0.815,0.881,0.944
+Turkey,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.009,1.256,1.49,1.751,2.023,2.305,2.59,2.819,3.056,3.303,3.541
+Turkey,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,2.95,3.225,3.727,6.156,7.593,5.943,6.173,6.004,5.863,5.74,5.598
+Turkey,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,3.614,3.952,4.566,7.542,9.303,7.282,7.562,7.354,7.182,7.031,6.856
+Turkey,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.35,0.383,0.442,0.73,0.901,0.705,0.732,0.712,0.696,0.681,0.664
+Turkey,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.471,0.515,0.595,0.983,1.213,0.95,0.987,0.96,0.938,0.919,0.896
+Turkey,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,7.343,10.14,14.09,27.64,39.73,35.64,41.79,44.43,47.24,50.24,52.8
+Turkey,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,6.298,8.696,12.09,23.7,34.07,30.57,35.83,38.1,40.51,43.08,45.27
+Turkey,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.435,0.601,0.836,1.639,2.356,2.114,2.479,2.636,2.803,2.981,3.133
+Turkey,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.61,0.842,1.17,2.295,3.3,2.962,3.474,3.695,3.931,4.182,4.397
+Turkey,Fruits & Nuts,Revenue Change,Total,percent,Statista,,38.091,38.955,96.167,43.741,-10.294,17.256,6.317,6.325,6.351,5.096
+Turkey,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,38.076,39.029,96.03,43.755,-10.273,17.206,6.335,6.325,6.344,5.084
+Turkey,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,38.08,38.989,96.146,43.746,-10.272,17.266,6.333,6.335,6.35,5.099
+Turkey,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,38.074,39.004,96.154,43.791,-10.242,17.286,6.362,6.387,6.385,5.141
+Turkey,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.913,99.88,99.835,99.72,99.588,99.562,99.542,99.525,99.504,,
+Turkey,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.087,0.12,0.165,0.28,0.412,0.438,0.458,0.475,0.496,,
+Turkey,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Fruits & Nuts,Users by Segment,Total,million users,Statista,2.489,3.144,3.781,4.49,5.232,5.997,6.77,7.4,8.058,8.752,9.433
+Turkey,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,1.743,2.201,2.647,3.143,3.663,4.198,4.739,5.18,5.641,6.127,6.603
+Turkey,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,1.245,1.572,1.89,2.245,2.616,2.998,3.385,3.7,4.029,4.376,4.717
+Turkey,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,1.294,1.635,1.966,2.335,2.721,3.118,3.52,3.848,4.19,4.551,4.905
+Turkey,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,2.148,2.673,3.172,3.727,4.307,4.906,5.513,6.001,6.505,7.031,7.537
+Turkey,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,3.069,3.818,4.532,5.324,6.153,7.009,7.876,8.573,9.293,10.044,10.767
+Turkey,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.534,1.909,2.266,2.662,3.076,3.504,3.938,4.287,4.647,5.022,5.384
+Turkey,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.596,1.985,2.357,2.768,3.199,3.644,4.095,4.458,4.833,5.223,5.599
+Turkey,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,8.061,8.813,10.18,16.78,20.69,16.16,16.75,16.25,15.84,15.49,15.08
+Turkey,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,7.536,8.239,9.521,15.75,19.42,15.24,15.86,15.46,15.13,14.83,14.48
+Turkey,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,3.288,3.596,4.155,6.798,8.377,6.492,6.674,6.425,6.21,6.043,5.854
+Turkey,Meat,Revenue,Total,million USD (US$),Statista,11.58,15.99,22.22,43.46,62.46,55.91,65.41,69.4,73.63,78.21,82.09
+Turkey,Meat,Revenue,Fresh Meat,million USD (US$),Statista,7.468,10.31,14.33,28.14,40.46,36.37,42.73,45.53,48.52,51.67,54.37
+Turkey,Meat,Revenue,Processed Meat,million USD (US$),Statista,4.109,5.674,7.885,15.32,22,19.54,22.68,23.87,25.12,26.54,27.72
+Turkey,Meat,Revenue Change,Total,percent,Statista,,38.083,38.962,95.59,43.718,-10.487,16.992,6.1,6.095,6.22,4.961
+Turkey,Meat,Revenue Change,Fresh Meat,percent,Statista,,38.056,38.991,96.371,43.781,-10.109,17.487,6.553,6.567,6.492,5.225
+Turkey,Meat,Revenue Change,Processed Meat,percent,Statista,,38.087,38.967,94.293,43.603,-11.182,16.07,5.247,5.237,5.653,4.446
+Turkey,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Turkey,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Turkey,Meat,Online & Offline Split,Offline,percent,Statista,99.913,99.88,99.834,99.716,99.58,99.552,99.529,99.51,99.487,,
+Turkey,Meat,Online & Offline Split,Online,percent,Statista,0.087,0.12,0.166,0.284,0.42,0.448,0.471,0.49,0.513,,
+Turkey,Meat,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Meat,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Meat,Users by Segment,Total,million users,Statista,1.436,1.814,2.181,2.59,3.019,3.46,3.906,4.269,4.649,5.049,5.442
+Turkey,Meat,Users by Segment,Fresh Meat,million users,Statista,0.991,1.251,1.505,1.787,2.083,2.387,2.695,2.946,3.208,3.484,3.755
+Turkey,Meat,Users by Segment,Processed Meat,million users,Statista,1.249,1.578,1.898,2.254,2.626,3.01,3.398,3.714,4.044,4.393,4.735
+Turkey,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.222,1.52,1.804,2.119,2.449,2.79,3.135,3.413,3.7,3.998,4.286
+Turkey,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.771,2.203,2.615,3.071,3.55,4.043,4.544,4.946,5.362,5.795,6.212
+Turkey,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.54,1.916,2.275,2.672,3.088,3.518,3.953,4.303,4.665,5.041,5.404
+Turkey,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,2.148,2.348,2.713,4.188,5.134,4.027,4.19,4.083,3.996,3.912,3.816
+Turkey,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.829,0.906,1.047,1.617,1.983,1.557,1.623,1.584,1.552,1.521,1.485
+Turkey,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,1.184,1.294,1.496,2.308,2.829,2.217,2.306,2.246,2.197,2.149,2.096
+Turkey,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.262,0.286,0.331,0.51,0.625,0.489,0.508,0.494,0.482,0.471,0.459
+Turkey,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,0.535,0.585,0.676,1.043,1.279,1.003,1.044,1.018,0.996,0.975,0.951
+Turkey,Oils & Fats,Revenue,Total,million USD (US$),Statista,2.57,3.549,4.932,9.041,12.91,11.61,13.64,14.53,15.48,16.46,17.31
+Turkey,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.813,1.123,1.561,2.863,4.09,3.681,4.331,4.62,4.93,5.247,5.522
+Turkey,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,1.119,1.545,2.148,3.935,5.621,5.05,5.929,6.313,6.723,7.145,7.51
+Turkey,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.254,0.35,0.487,0.891,1.273,1.142,1.339,1.423,1.512,1.606,1.686
+Turkey,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.384,0.53,0.737,1.351,1.93,1.735,2.039,2.172,2.315,2.462,2.588
+Turkey,Oils & Fats,Revenue Change,Total,percent,Statista,,38.093,38.969,83.313,42.794,-10.07,17.485,6.525,6.538,6.331,5.164
+Turkey,Oils & Fats,Revenue Change,Butter,percent,Statista,,38.079,39.003,83.408,42.857,-10,17.658,6.673,6.71,6.43,5.241
+Turkey,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,38.07,39.029,83.194,42.846,-10.158,17.406,6.477,6.495,6.277,5.108
+Turkey,Oils & Fats,Revenue Change,Margarine,percent,Statista,,38.061,38.984,83.06,42.793,-10.291,17.25,6.273,6.254,6.217,4.981
+Turkey,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,38.063,38.997,83.286,42.857,-10.104,17.522,6.523,6.584,6.35,5.118
+Turkey,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.913,99.879,99.832,99.724,99.596,99.568,99.545,99.525,99.5,,
+Turkey,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.087,0.121,0.168,0.276,0.404,0.432,0.455,0.475,0.5,,
+Turkey,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Oils & Fats,Users by Segment,Total,million users,Statista,1.197,1.511,1.818,2.159,2.516,2.883,3.255,3.558,3.874,4.208,4.535
+Turkey,Oils & Fats,Users by Segment,Butter,million users,Statista,0.981,1.239,1.491,1.77,2.063,2.364,2.669,2.917,3.177,3.45,3.719
+Turkey,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.945,1.194,1.436,1.705,1.987,2.278,2.571,2.811,3.06,3.324,3.583
+Turkey,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.969,1.224,1.472,1.749,2.038,2.335,2.636,2.882,3.138,3.408,3.673
+Turkey,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.718,0.907,1.091,1.295,1.509,1.73,1.953,2.135,2.324,2.525,2.721
+Turkey,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.21,1.505,1.787,2.099,2.426,2.763,3.105,3.38,3.664,3.96,4.245
+Turkey,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.166,1.45,1.721,2.022,2.337,2.662,2.991,3.256,3.53,3.815,4.089
+Turkey,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.195,1.487,1.765,2.073,2.396,2.729,3.067,3.339,3.619,3.911,4.193
+Turkey,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.475,1.836,2.179,2.56,2.958,3.37,3.786,4.122,4.468,4.829,5.176
+Turkey,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.885,1.101,1.307,1.536,1.775,2.022,2.272,2.473,2.681,2.897,3.106
+Turkey,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.407,0.445,0.514,0.73,0.888,0.704,0.74,0.728,0.72,0.709,0.695
+Turkey,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.309,0.338,0.391,0.555,0.676,0.536,0.564,0.556,0.551,0.542,0.533
+Turkey,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.276,0.301,0.348,0.494,0.601,0.476,0.499,0.491,0.484,0.476,0.466
+Turkey,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.856,1.183,1.644,2.772,3.932,3.57,4.237,4.561,4.911,5.248,5.551
+Turkey,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.508,0.702,0.975,1.646,2.334,2.122,2.521,2.717,2.93,3.133,3.317
+Turkey,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.348,0.481,0.668,1.127,1.598,1.448,1.716,1.843,1.981,2.115,2.234
+Turkey,Sauces & Spices,Revenue Change,Total,percent,Statista,,38.136,38.969,68.613,41.847,-9.207,18.683,7.647,7.674,6.862,5.774
+Turkey,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,38.076,38.977,68.786,41.798,-9.083,18.803,7.775,7.84,6.928,5.873
+Turkey,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,38.071,38.969,68.637,41.792,-9.387,18.508,7.401,7.488,6.764,5.626
+Turkey,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.087,0.12,0.165,0.258,0.367,0.389,0.409,0.426,0.448,,
+Turkey,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Sauces & Spices,Users by Segment,Total,million users,Statista,2.106,2.66,3.199,3.799,4.427,5.074,5.728,6.262,6.818,7.406,7.982
+Turkey,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,1.643,2.075,2.495,2.963,3.453,3.958,4.468,4.884,5.318,5.777,6.226
+Turkey,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,1.264,1.596,1.92,2.28,2.656,3.044,3.437,3.757,4.091,4.444,4.789
+Turkey,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.597,3.231,3.835,4.505,5.206,5.93,6.664,7.254,7.864,8.499,9.111
+Turkey,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,2.025,2.52,2.991,3.514,4.061,4.626,5.198,5.658,6.134,6.629,7.106
+Turkey,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.558,1.938,2.301,2.703,3.124,3.558,3.998,4.353,4.718,5.099,5.466
+Turkey,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.863,0.944,1.09,1.534,1.866,1.456,1.508,1.462,1.424,1.388,1.349
+Turkey,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.486,0.531,0.614,0.864,1.051,0.831,0.873,0.858,0.847,0.833,0.816
+Turkey,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.988,1.08,1.248,1.756,2.135,1.647,1.686,1.616,1.555,1.504,1.45
+Turkey,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,1.363,1.882,2.616,4.371,6.195,5.541,6.478,6.868,7.284,7.711,8.077
+Turkey,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.614,0.848,1.178,1.97,2.791,2.531,3,3.224,3.467,3.7,3.909
+Turkey,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.749,1.034,1.438,2.402,3.403,3.009,3.478,3.644,3.818,4.011,4.168
+Turkey,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,38.078,39.001,67.087,41.73,-10.557,16.91,6.02,6.057,5.862,4.746
+Turkey,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,38.072,38.931,67.233,41.675,-9.316,18.53,7.467,7.537,6.721,5.649
+Turkey,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,38.014,39.072,67.038,41.674,-11.578,15.587,4.773,4.775,5.055,3.914
+Turkey,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Turkey,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Turkey,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.912,99.874,99.819,99.71,99.573,99.538,99.505,99.472,99.432,,
+Turkey,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.088,0.126,0.181,0.29,0.427,0.462,0.495,0.528,0.568,,
+Turkey,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,1.58,1.995,2.399,2.85,3.321,3.806,4.296,4.696,5.114,5.554,5.987
+Turkey,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,1.264,1.596,1.92,2.28,2.656,3.044,3.437,3.757,4.091,4.444,4.789
+Turkey,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.758,0.958,1.152,1.368,1.594,1.827,2.062,2.254,2.455,2.666,2.874
+Turkey,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.558,1.938,2.301,2.703,3.124,3.558,3.998,4.353,4.718,5.099,5.466
+Turkey,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.948,2.423,2.876,3.379,3.905,4.448,4.998,5.441,5.898,6.374,6.833
+Turkey,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.935,1.163,1.38,1.622,1.874,2.135,2.399,2.612,2.831,3.059,3.28
+Turkey,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,3.767,4.118,4.759,7.855,9.689,7.577,7.861,7.638,7.451,7.291,7.105
+Turkey,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,4.642,5.075,5.865,9.681,11.94,9.339,9.69,9.416,9.187,8.989,8.761
+Turkey,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,1.035,1.131,1.307,2.157,2.66,2.079,2.156,2.094,2.041,1.997,1.945
+Turkey,Vegetables,Revenue,Total,million USD (US$),Statista,8.836,12.2,16.96,33.24,47.77,42.81,50.15,53.26,56.58,60.13,63.16
+Turkey,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,7.622,10.52,14.63,28.67,41.21,36.94,43.27,45.96,48.83,51.9,54.51
+Turkey,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,1.214,1.676,2.329,4.563,6.558,5.874,6.877,7.3,7.75,8.234,8.645
+Turkey,Vegetables,Revenue Change,Total,percent,Statista,,38.072,39.016,95.991,43.712,-10.383,17.146,6.201,6.234,6.274,5.039
+Turkey,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,38.022,39.068,95.967,43.739,-10.362,17.136,6.217,6.245,6.287,5.029
+Turkey,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,38.056,38.962,95.921,43.721,-10.43,17.075,6.151,6.164,6.245,4.991
+Turkey,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Turkey,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Turkey,Vegetables,Online & Offline Split,Offline,percent,Statista,99.913,99.88,99.835,99.718,99.584,99.557,99.536,99.518,99.496,,
+Turkey,Vegetables,Online & Offline Split,Online,percent,Statista,0.087,0.12,0.165,0.282,0.416,0.443,0.464,0.482,0.504,,
+Turkey,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,72.33,67.256,61.93,57.16,53.795,52.041,50.278,49.854,49.437,,
+Turkey,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,27.67,32.744,38.07,42.84,46.205,47.959,49.722,50.146,50.563,,
+Turkey,Vegetables,Users by Segment,Total,million users,Statista,2.346,2.962,3.563,4.231,4.931,5.651,6.379,6.973,7.593,8.247,8.889
+Turkey,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,1.642,2.074,2.494,2.962,3.451,3.956,4.465,4.881,5.315,5.773,6.222
+Turkey,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,1.173,1.481,1.781,2.116,2.465,2.825,3.19,3.487,3.797,4.124,4.445
+Turkey,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,2.024,2.518,2.989,3.512,4.058,4.623,5.195,5.655,6.13,6.625,7.102
+Turkey,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.446,1.799,2.135,2.508,2.899,3.302,3.711,4.039,4.379,4.732,5.073
+Turkey,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,2.892,3.598,4.27,5.017,5.798,6.604,7.421,8.079,8.757,9.464,10.146

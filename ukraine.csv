@@ -1,0 +1,644 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Ukraine,eCommerce,Revenue,Total,million USD (US$),Statista,"1,268","1,605","1,979","2,916","3,728","1,050","2,951","3,594","4,355","4,586","4,923"
+Ukraine,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,226.5,265.1,304,363.2,432.8,121.2,316,361.3,413.6,422.4,439.3
+Ukraine,eCommerce,Revenue,Beverages,million USD (US$),Statista,25.24,35.53,49.82,112.8,151.7,43.26,114.1,136.3,163.8,172.4,184.3
+Ukraine,eCommerce,Revenue,Electronics,million USD (US$),Statista,492.4,588.9,694.6,944.5,"1,120",293.8,866.9,"1,046","1,243","1,282","1,349"
+Ukraine,eCommerce,Revenue,Fashion,million USD (US$),Statista,284,384.2,490.5,794.6,"1,006",284.2,769.2,930.6,"1,120","1,187","1,280"
+Ukraine,eCommerce,Revenue,Food,million USD (US$),Statista,106.1,153.2,218.9,380.6,590.5,186.8,552.8,729.9,963.6,"1,052","1,174"
+Ukraine,eCommerce,Revenue,Furniture,million USD (US$),Statista,46.23,53.98,62.95,76.56,95.03,24.14,73.93,87.76,102.8,104.8,108.8
+Ukraine,eCommerce,Revenue,Media,million USD (US$),Statista,19.37,30.77,38.47,56.77,66.74,17.83,43.39,45.75,47.52,48.27,49.15
+Ukraine,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,67.72,93.33,119.9,186.7,266.6,78.91,214.9,255.8,300.3,317.1,338.8
+Ukraine,eCommerce,Revenue Change,Total,percent,Statista,,26.627,23.308,47.325,27.866,-71.833,181.031,21.762,21.181,5.313,7.347
+Ukraine,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,17.024,14.684,19.472,19.149,-71.997,160.756,14.319,14.495,2.118,3.994
+Ukraine,eCommerce,Revenue Change,Beverages,percent,Statista,,40.788,40.208,126.403,34.502,-71.484,163.777,19.459,20.134,5.268,6.902
+Ukraine,eCommerce,Revenue Change,Electronics,percent,Statista,,19.612,17.935,35.986,18.532,-73.753,195.024,20.672,18.805,3.12,5.243
+Ukraine,eCommerce,Revenue Change,Fashion,percent,Statista,,35.28,27.682,61.992,26.535,-71.734,170.632,20.991,20.376,5.999,7.813
+Ukraine,eCommerce,Revenue Change,Food,percent,Statista,,44.432,42.865,73.881,55.12,-68.369,196,32.037,32.008,9.19,11.553
+Ukraine,eCommerce,Revenue Change,Furniture,percent,Statista,,16.762,16.621,21.608,24.136,-74.597,206.229,18.716,17.14,1.9,3.821
+Ukraine,eCommerce,Revenue Change,Media,percent,Statista,,58.854,25.031,47.578,17.565,-73.283,143.328,5.435,3.868,1.588,1.816
+Ukraine,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,37.816,28.466,55.709,42.804,-70.402,172.361,19.006,17.421,5.576,6.862
+Ukraine,eCommerce,Average Revenue per User,Total,USD (US$),Statista,119.4,125.8,126.9,168.4,196.8,51.58,136.6,159.6,185.9,189.6,198.2
+Ukraine,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,50.68,49.11,48.79,51.93,56.15,14.3,34.66,37.55,40.98,39.94,39.91
+Ukraine,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,10.73,12.41,14.72,28.88,34.17,8.713,20.94,23.38,26.39,26.06,26.35
+Ukraine,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,72.54,72.66,73.82,87.59,92.37,21.97,59.91,68.28,76.95,75.21,75.57
+Ukraine,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,43.02,48.58,53.65,76.16,85.72,21.8,54.11,61.22,69.27,69.04,70.47
+Ukraine,eCommerce,Average Revenue per User,Food,USD (US$),Statista,47.95,56.94,68.78,103.7,141.4,40,107.9,133.1,165.1,169.2,178.5
+Ukraine,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,17.12,16.01,15.3,15.64,16.54,3.635,9.933,10.89,11.87,11.16,10.8
+Ukraine,eCommerce,Average Revenue per User,Media,USD (US$),Statista,4.085,5.335,5.856,7.55,7.865,1.904,4.263,4.229,4.152,3.986,3.863
+Ukraine,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,14.03,15.64,16.65,22.09,27.1,7.01,17.24,19.05,20.89,20.49,20.54
+Ukraine,eCommerce,Online & Offline Split,Offline,percent,Statista,98.327,98.072,97.808,96.919,96.211,95.786,95.242,94.546,93.722,,
+Ukraine,eCommerce,Online & Offline Split,Online,percent,Statista,1.673,1.928,2.192,3.081,3.789,4.214,4.758,5.454,6.278,,
+Ukraine,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,72.3,69.542,67.616,65.943,64.471,63.181,62.044,61.065,60.246,,
+Ukraine,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,27.7,30.458,32.384,34.057,35.529,36.819,37.956,38.935,39.754,,
+Ukraine,eCommerce,Users,Total,million users,Statista,10.613,12.762,15.591,17.316,18.941,20.36,21.606,22.522,23.423,24.185,24.839
+Ukraine,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,4.47,5.398,6.231,6.995,7.707,8.475,9.118,9.622,10.094,10.576,11.007
+Ukraine,eCommerce,Users,Beverages,million users,Statista,2.353,2.862,3.385,3.905,4.439,4.965,5.45,5.831,6.206,6.614,6.994
+Ukraine,eCommerce,Users,Electronics,million users,Statista,6.787,8.105,9.409,10.783,12.12,13.374,14.469,15.32,16.15,17.041,17.849
+Ukraine,eCommerce,Users,Fashion,million users,Statista,6.601,7.909,9.144,10.434,11.73,13.035,14.216,15.202,16.171,17.199,18.167
+Ukraine,eCommerce,Users,Food,million users,Statista,2.212,2.691,3.183,3.672,4.174,4.669,5.125,5.483,5.836,6.219,6.576
+Ukraine,eCommerce,Users,Furniture,million users,Statista,2.701,3.372,4.114,4.896,5.746,6.642,7.442,8.058,8.664,9.388,10.071
+Ukraine,eCommerce,Users,Media,million users,Statista,4.742,5.767,6.569,7.519,8.486,9.365,10.178,10.817,11.446,12.11,12.722
+Ukraine,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,4.826,5.969,7.2,8.452,9.837,11.257,12.466,13.429,14.376,15.471,16.496
+Ukraine,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,10.048,12.201,14.163,15.994,17.731,19.621,21.248,22.573,23.841,25.15,26.359
+Ukraine,eCommerce,Penetration Rate,Beverages,percent,Statista,5.289,6.468,7.693,8.93,10.213,11.495,12.701,13.679,14.658,15.729,16.748
+Ukraine,eCommerce,Penetration Rate,eCommerce,percent,Statista,23.856,28.843,35.439,39.593,43.576,47.138,50.35,52.835,55.323,57.517,59.482
+Ukraine,eCommerce,Penetration Rate,Electronics,percent,Statista,15.257,18.319,21.388,24.657,27.883,30.965,33.719,35.941,38.146,40.526,42.743
+Ukraine,eCommerce,Penetration Rate,Fashion,percent,Statista,14.839,17.874,20.784,23.857,26.985,30.178,33.129,35.663,38.195,40.902,43.504
+Ukraine,eCommerce,Penetration Rate,Food,percent,Statista,4.973,6.082,7.234,8.397,9.603,10.809,11.942,12.862,13.783,14.79,15.749
+Ukraine,eCommerce,Penetration Rate,Furniture,percent,Statista,6.071,7.621,9.351,11.195,13.22,15.377,17.344,18.903,20.463,22.325,24.117
+Ukraine,eCommerce,Penetration Rate,Media,percent,Statista,10.658,13.035,14.933,17.193,19.524,21.682,23.72,25.377,27.035,28.8,30.466
+Ukraine,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,10.847,13.491,16.367,19.326,22.631,26.063,29.051,31.505,33.955,36.792,39.503
+Ukraine,Electronics,Revenue,Total,billion USD (US$),Statista,0.492,0.589,0.695,0.945,1.12,0.294,0.867,1.046,1.243,1.282,1.349
+Ukraine,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.37,0.445,0.523,0.728,0.835,0.211,0.636,0.763,0.896,0.913,0.948
+Ukraine,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.122,0.144,0.172,0.216,0.284,0.083,0.23,0.283,0.347,0.368,0.401
+Ukraine,Electronics,Revenue Change,Total,percent,Statista,,19.612,17.935,35.986,18.532,-73.753,195.024,20.672,18.805,3.12,5.243
+Ukraine,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,19.95,17.609,39.306,14.668,-74.738,201.748,19.913,17.427,1.877,3.851
+Ukraine,Electronics,Revenue Change,Household Appliances,percent,Statista,,18.584,18.938,25.887,31.543,-70.861,177.914,22.767,22.523,6.336,8.692
+Ukraine,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,72.54,72.66,73.82,87.59,92.37,21.97,59.91,68.28,76.95,75.21,75.57
+Ukraine,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,56.27,57.54,59.73,74.21,77.8,18.3,52.27,60.12,67.88,66.75,67.28
+Ukraine,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,28.26,27.41,27.06,28.65,32.09,8.137,20.17,22.84,25.99,25.46,25.74
+Ukraine,Electronics,Online & Offline Split,Offline,percent,Statista,91.237,89.747,88.205,84.834,83.017,80.077,77.668,74.616,71.417,,
+Ukraine,Electronics,Online & Offline Split,Online,percent,Statista,8.763,10.253,11.795,15.166,16.983,19.923,22.332,25.384,28.583,,
+Ukraine,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.482,61.438,58.725,56.566,54.967,53.857,53.113,52.626,52.313,,
+Ukraine,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.518,38.562,41.275,43.434,45.033,46.143,46.887,47.374,47.687,,
+Ukraine,Electronics,Users by Segment,Total,million users,Statista,6.787,8.105,9.409,10.783,12.12,13.374,14.469,15.32,16.15,17.041,17.849
+Ukraine,Electronics,Users by Segment,Consumer Electronics,million users,Statista,6.586,7.725,8.751,9.813,10.733,11.525,12.178,12.695,13.204,13.679,14.094
+Ukraine,Electronics,Users by Segment,Household Appliances,million users,Statista,4.311,5.27,6.349,7.548,8.867,10.188,11.424,12.386,13.334,14.475,15.562
+Ukraine,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,14.803,17.459,19.892,22.438,24.694,26.684,28.379,29.782,31.187,32.53,33.751
+Ukraine,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,15.257,18.319,21.388,24.657,27.883,30.965,33.719,35.941,38.146,40.526,42.743
+Ukraine,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,9.691,11.912,14.431,17.26,20.399,23.588,26.623,29.058,31.494,34.423,37.267
+Ukraine,Household Appliances,Revenue,Total,million USD (US$),Statista,121.8,144.5,171.8,216.3,284.5,82.91,230.4,282.9,346.6,368.5,400.6
+Ukraine,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,63.12,74.89,89.14,112.3,146.8,42.75,119,145.8,178.6,189.9,206.4
+Ukraine,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,24.31,28.83,34.29,43.16,56.78,16.54,45.98,56.45,69.16,73.54,79.93
+Ukraine,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,34.39,40.74,48.39,60.81,80.94,23.61,65.45,80.61,98.77,105.1,114.3
+Ukraine,Household Appliances,Revenue Change,Total,percent,Statista,,18.584,18.938,25.887,31.543,-70.861,177.914,22.767,22.523,6.336,8.692
+Ukraine,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,18.653,19.029,25.996,30.701,-70.879,178.3,22.556,22.52,6.3,8.665
+Ukraine,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,18.584,18.938,25.887,31.543,-70.861,177.914,22.767,22.523,6.336,8.692
+Ukraine,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,18.457,18.771,25.685,33.097,-70.829,177.217,23.15,22.527,6.4,8.74
+Ukraine,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,28.26,27.41,27.06,28.65,32.09,8.137,20.17,22.84,25.99,25.46,25.74
+Ukraine,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,36.6,35.53,35.1,37.2,41.39,10.49,26.04,29.43,33.49,32.8,33.15
+Ukraine,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,28.19,27.35,27,28.59,32.02,8.119,20.12,22.79,25.93,25.4,25.68
+Ukraine,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,9.972,9.662,9.527,10.07,11.41,2.897,7.162,8.135,9.259,9.075,9.179
+Ukraine,Household Appliances,Online & Offline Split,Offline,percent,Statista,94.366,93.45,92.373,91.102,89.165,86.629,84.255,81.448,78.288,,
+Ukraine,Household Appliances,Online & Offline Split,Online,percent,Statista,5.634,6.55,7.627,8.898,10.835,13.371,15.745,18.552,21.712,,
+Ukraine,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,64.136,61.113,58.416,56.267,54.689,53.593,52.861,52.385,52.081,,
+Ukraine,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,35.864,38.887,41.584,43.733,45.311,46.407,47.139,47.615,47.919,,
+Ukraine,Household Appliances,Users,Total,million users,Statista,4.311,5.27,6.349,7.548,8.867,10.188,11.424,12.386,13.334,14.475,15.562
+Ukraine,Household Appliances,Users,Major Appliances,million users,Statista,1.724,2.108,2.539,3.019,3.547,4.075,4.57,4.954,5.334,5.79,6.225
+Ukraine,Household Appliances,Users,Other Household Appliances,million users,Statista,0.862,1.054,1.27,1.51,1.773,2.038,2.285,2.477,2.667,2.895,3.112
+Ukraine,Household Appliances,Users,Small Appliances,million users,Statista,3.449,4.216,5.079,6.039,7.093,8.151,9.139,9.909,10.667,11.58,12.45
+Ukraine,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,9.691,11.912,14.431,17.26,20.399,23.588,26.623,29.058,31.494,34.423,37.267
+Ukraine,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,3.876,4.765,5.772,6.904,8.159,9.435,10.649,11.623,12.598,13.769,14.907
+Ukraine,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,1.938,2.382,2.886,3.452,4.08,4.718,5.325,5.812,6.299,6.885,7.453
+Ukraine,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,7.752,9.529,11.545,13.808,16.319,18.87,21.299,23.246,25.195,27.538,29.813
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,226.5,265.1,304,363.2,432.8,121.2,316,361.3,413.6,422.4,439.3
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,34.92,43.28,51.38,66.47,81.53,22.79,59.44,67.57,76.91,78.16,80.67
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,32.66,33.28,33.94,30.97,33.72,8.89,21.33,22.41,23.39,23.02,23.11
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,62.01,67.24,72.95,82.52,95.41,26.92,71.02,84,99.53,103.9,111.1
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,96.95,121.3,145.8,183.3,222.1,62.59,164.2,187.3,213.8,217.3,224.4
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,17.024,14.684,19.472,19.149,-71.997,160.756,14.319,14.495,2.118,3.994
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,23.966,18.711,29.36,22.661,-72.043,160.768,13.685,13.823,1.624,3.211
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,1.899,1.975,-8.754,8.886,-73.639,139.964,5.046,4.358,-1.575,0.397
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,8.432,8.492,13.123,15.624,-71.789,163.862,18.281,18.483,4.407,6.908
+Ukraine,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,25.115,20.166,25.736,21.197,-71.821,162.37,14.04,14.162,1.634,3.262
+Ukraine,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,50.68,49.11,48.79,51.93,56.15,14.3,34.66,37.55,40.98,39.94,39.91
+Ukraine,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,11.16,11.45,11.78,13.58,15.11,3.842,9.313,10.03,10.89,10.56,10.47
+Ukraine,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,11.42,9.634,8.512,6.919,6.837,1.639,3.656,3.639,3.62,3.401,3.28
+Ukraine,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,36.51,32.78,30.81,31.05,32.58,8.358,20.5,22.98,25.95,25.86,26.56
+Ukraine,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,34.98,36.24,37.73,42.26,46.48,11.91,29.05,31.39,34.16,33.14,32.88
+Ukraine,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,94.405,93.522,92.621,90.554,89.198,88.265,87.124,85.73,84.042,,
+Ukraine,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,5.595,6.478,7.379,9.446,10.802,11.735,12.876,14.27,15.958,,
+Ukraine,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,64.573,61.803,59.483,57.547,56.057,54.988,54.175,53.688,53.349,,
+Ukraine,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,35.427,38.197,40.517,42.453,43.943,45.012,45.825,46.312,46.651,,
+Ukraine,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,4.47,5.398,6.231,6.995,7.707,8.475,9.118,9.622,10.094,10.576,11.007
+Ukraine,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,3.129,3.779,4.362,4.896,5.395,5.932,6.382,6.735,7.066,7.403,7.705
+Ukraine,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,2.861,3.455,3.988,4.477,4.933,5.424,5.835,6.158,6.46,6.768,7.045
+Ukraine,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,1.699,2.051,2.368,2.658,2.929,3.22,3.465,3.656,3.836,4.019,4.183
+Ukraine,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,2.771,3.347,3.863,4.337,4.778,5.254,5.653,5.966,6.258,6.557,6.825
+Ukraine,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,10.048,12.201,14.163,15.994,17.731,19.621,21.248,22.573,23.841,25.15,26.359
+Ukraine,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,7.033,8.541,9.914,11.195,12.412,13.735,14.873,15.801,16.689,17.606,18.452
+Ukraine,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,6.431,7.808,9.064,10.236,11.348,12.558,13.599,14.446,15.258,16.097,16.87
+Ukraine,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,3.818,4.636,5.382,6.078,6.738,7.456,8.074,8.578,9.06,9.558,10.017
+Ukraine,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,6.23,7.564,8.781,9.916,10.993,12.165,13.174,13.995,14.782,15.594,16.343
+Ukraine,Consumer Electronics,Revenue,Total,million USD (US$),Statista,370.5,444.5,522.7,728.2,835,210.9,636.5,763.3,896.3,913.1,948.3
+Ukraine,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,68.97,82.54,96.9,126.7,144.1,34.1,100.5,115.7,132.3,134,138.1
+Ukraine,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,120.9,145,170.4,236.6,270.1,68.18,205.7,246.8,289.7,295.1,306.4
+Ukraine,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,109.1,130.5,152.9,222.2,246.7,65.91,202,250.1,298.7,305.2,318.3
+Ukraine,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,69.2,83.64,99.04,137.5,168.7,41.46,124.7,146.7,171.3,174.5,181
+Ukraine,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,2.371,2.845,3.48,5.274,5.412,1.29,3.628,3.959,4.243,4.29,4.381
+Ukraine,Consumer Electronics,Revenue Change,Total,percent,Statista,,19.95,17.609,39.306,14.668,-74.738,201.748,19.913,17.427,1.877,3.851
+Ukraine,Consumer Electronics,Revenue Change,Computing,percent,Statista,,19.677,17.389,30.737,13.735,-76.336,194.618,15.206,14.359,1.23,3.111
+Ukraine,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,19.951,17.565,38.805,14.184,-74.758,201.704,19.95,17.415,1.856,3.84
+Ukraine,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,19.547,17.179,45.312,11.06,-73.288,206.534,23.796,19.409,2.199,4.276
+Ukraine,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,20.855,18.414,38.852,22.649,-75.417,200.718,17.668,16.764,1.867,3.735
+Ukraine,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,19.982,22.327,51.533,2.625,-76.157,181.109,9.143,7.159,1.123,2.11
+Ukraine,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,56.27,57.54,59.73,74.21,77.8,18.3,52.27,60.12,67.88,66.75,67.28
+Ukraine,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,14.96,15.27,15.82,18.44,19.18,4.226,11.78,13.02,14.32,13.99,14
+Ukraine,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,22.94,23.46,24.34,30.13,31.46,7.395,21.12,24.3,27.43,26.97,27.18
+Ukraine,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,20.72,21.11,21.84,28.3,28.73,7.148,20.74,24.63,28.27,27.89,28.23
+Ukraine,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,26.27,27.07,28.29,35.03,39.28,8.993,25.6,28.89,32.43,31.89,32.11
+Ukraine,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,1.2,1.228,1.326,1.791,1.681,0.373,0.993,1.04,1.071,1.045,1.036
+Ukraine,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,89.28,87.438,85.624,80.823,78.947,76.056,73.71,70.616,67.434,,
+Ukraine,Consumer Electronics,Online & Offline Split,Online,percent,Statista,10.72,12.562,14.376,19.177,21.053,23.944,26.29,29.384,32.566,,
+Ukraine,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,64.596,61.543,58.827,56.655,55.062,53.948,53.204,52.715,52.402,,
+Ukraine,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,35.404,38.457,41.173,43.345,44.938,46.052,46.796,47.285,47.598,,
+Ukraine,Consumer Electronics,Users,Total,million users,Statista,6.586,7.725,8.751,9.813,10.733,11.525,12.178,12.695,13.204,13.679,14.094
+Ukraine,Consumer Electronics,Users,Computing,million users,Statista,4.61,5.407,6.126,6.869,7.513,8.068,8.524,8.886,9.243,9.575,9.866
+Ukraine,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,5.268,6.18,7.001,7.85,8.587,9.22,9.742,10.156,10.563,10.943,11.275
+Ukraine,Consumer Electronics,Users,Telephony,million users,Statista,5.268,6.18,7.001,7.85,8.587,9.22,9.742,10.156,10.563,10.943,11.275
+Ukraine,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,2.634,3.09,3.5,3.925,4.293,4.61,4.871,5.078,5.282,5.472,5.638
+Ukraine,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,1.976,2.317,2.625,2.944,3.22,3.458,3.653,3.808,3.961,4.104,4.228
+Ukraine,Consumer Electronics,Penetration Rate,Computing,percent,Statista,10.362,12.221,13.924,15.706,17.285,18.679,19.865,20.847,21.831,22.771,23.625
+Ukraine,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,14.803,17.459,19.892,22.438,24.694,26.684,28.379,29.782,31.187,32.53,33.751
+Ukraine,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,11.842,13.967,15.913,17.95,19.755,21.347,22.703,23.826,24.95,26.024,27.001
+Ukraine,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,11.842,13.967,15.913,17.95,19.755,21.347,22.703,23.826,24.95,26.024,27.001
+Ukraine,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,5.921,6.983,7.957,8.975,9.877,10.674,11.351,11.913,12.475,13.012,13.5
+Ukraine,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,4.441,5.238,5.967,6.731,7.408,8.005,8.514,8.935,9.356,9.759,10.125
+Ukraine,Personal Care,Revenue,Total,million USD (US$),Statista,96.95,121.3,145.8,183.3,222.1,62.59,164.2,187.3,213.8,217.3,224.4
+Ukraine,Personal Care,Revenue,Body Care,million USD (US$),Statista,17.79,22.3,26.82,32.88,38.72,11.03,29.18,33.43,38.32,38.93,40.22
+Ukraine,Personal Care,Revenue,Eye Care,million USD (US$),Statista,6.309,7.416,8.645,12.46,14.03,3.499,8.196,8.598,9.026,9.019,9.11
+Ukraine,Personal Care,Revenue,Hair Care,million USD (US$),Statista,15.85,20.13,24.48,30.4,36.82,10.53,27.99,32.22,37.11,37.77,39.08
+Ukraine,Personal Care,Revenue,Oral Care,million USD (US$),Statista,6.442,8.178,9.886,12.21,14.77,4.198,11.09,12.7,14.56,14.81,15.31
+Ukraine,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,24.98,31.54,38.14,47.05,56.28,16.05,42.54,48.83,56.09,57.04,58.96
+Ukraine,Personal Care,Revenue,Skin Care,million USD (US$),Statista,25.59,31.74,37.79,48.27,61.5,17.28,45.22,51.49,58.69,59.73,61.7
+Ukraine,Personal Care,Revenue Change,Total,percent,Statista,,25.115,20.166,25.736,21.197,-71.821,162.37,14.04,14.162,1.634,3.262
+Ukraine,Personal Care,Revenue Change,Body Care,percent,Statista,,25.381,20.272,22.602,17.742,-71.518,164.604,14.569,14.611,1.604,3.309
+Ukraine,Personal Care,Revenue Change,Eye Care,percent,Statista,,17.542,16.574,44.099,12.633,-75.063,134.222,4.909,4.984,-0.086,1.018
+Ukraine,Personal Care,Revenue Change,Hair Care,percent,Statista,,27.022,21.634,24.179,21.115,-71.398,165.775,15.122,15.188,1.773,3.466
+Ukraine,Personal Care,Revenue Change,Oral Care,percent,Statista,,26.956,20.879,23.518,20.946,-71.572,164.269,14.503,14.64,1.696,3.356
+Ukraine,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,26.283,20.912,23.381,19.619,-71.478,165.028,14.785,14.853,1.688,3.381
+Ukraine,Personal Care,Revenue Change,Skin Care,percent,Statista,,24.013,19.074,27.726,27.413,-71.898,161.638,13.868,13.988,1.762,3.306
+Ukraine,Personal Care,Average Revenue per User,Total,USD (US$),Statista,34.98,36.24,37.73,42.26,46.48,11.91,29.05,31.39,34.16,33.14,32.88
+Ukraine,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,9.438,9.799,10.21,11.15,11.92,3.086,7.591,8.241,9.004,8.731,8.667
+Ukraine,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,4.553,4.432,4.476,5.745,5.873,1.332,2.9,2.883,2.885,2.751,2.67
+Ukraine,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,11,11.56,12.19,13.48,14.82,3.854,9.521,10.39,11.4,11.08,11.01
+Ukraine,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,4.744,4.987,5.222,5.746,6.307,1.631,4.005,4.346,4.749,4.61,4.578
+Ukraine,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,20.03,20.94,21.94,24.11,26.17,6.789,16.72,18.19,19.92,19.33,19.2
+Ukraine,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,20.99,21.55,22.23,25.3,29.25,7.476,18.18,19.62,21.31,20.7,20.55
+Ukraine,Personal Care,Online & Offline Split,Offline,percent,Statista,94.354,93.039,91.703,88.152,86.377,85.295,84.039,82.346,80.301,,
+Ukraine,Personal Care,Online & Offline Split,Online,percent,Statista,5.646,6.961,8.297,11.848,13.623,14.705,15.961,17.654,19.699,,
+Ukraine,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,64.101,61.077,58.379,56.23,54.651,53.554,52.822,52.346,52.042,,
+Ukraine,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,35.899,38.923,41.621,43.77,45.349,46.446,47.178,47.654,47.958,,
+Ukraine,Personal Care,Users,Total,million users,Statista,2.771,3.347,3.863,4.337,4.778,5.254,5.653,5.966,6.258,6.557,6.825
+Ukraine,Personal Care,Users,Body Care,million users,Statista,1.885,2.276,2.627,2.949,3.249,3.573,3.844,4.057,4.256,4.459,4.641
+Ukraine,Personal Care,Users,Eye Care,million users,Statista,1.386,1.673,1.932,2.168,2.389,2.627,2.826,2.983,3.129,3.278,3.412
+Ukraine,Personal Care,Users,Hair Care,million users,Statista,1.441,1.74,2.009,2.255,2.485,2.732,2.94,3.102,3.254,3.41,3.549
+Ukraine,Personal Care,Users,Oral Care,million users,Statista,1.358,1.64,1.893,2.125,2.341,2.575,2.77,2.923,3.067,3.213,3.344
+Ukraine,Personal Care,Users,Other Personal Care,million users,Statista,1.247,1.506,1.738,1.951,2.15,2.365,2.544,2.684,2.816,2.951,3.071
+Ukraine,Personal Care,Users,Skin Care,million users,Statista,1.219,1.473,1.7,1.908,2.102,2.312,2.487,2.625,2.754,2.885,3.003
+Ukraine,Personal Care,Penetration Rate,Body Care,percent,Statista,4.236,5.144,5.971,6.743,7.475,8.272,8.958,9.517,10.052,10.604,11.113
+Ukraine,Personal Care,Penetration Rate,Eye Care,percent,Statista,3.115,3.782,4.391,4.958,5.497,6.083,6.587,6.998,7.391,7.797,8.171
+Ukraine,Personal Care,Penetration Rate,Hair Care,percent,Statista,3.239,3.934,4.566,5.156,5.716,6.326,6.85,7.277,7.686,8.109,8.498
+Ukraine,Personal Care,Penetration Rate,Oral Care,percent,Statista,3.052,3.707,4.303,4.859,5.387,5.961,6.455,6.858,7.243,7.641,8.008
+Ukraine,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,2.803,3.404,3.952,4.462,4.947,5.474,5.928,6.298,6.652,7.017,7.355
+Ukraine,Personal Care,Penetration Rate,Personal Care,percent,Statista,6.23,7.564,8.781,9.916,10.993,12.165,13.174,13.995,14.782,15.594,16.343
+Ukraine,Personal Care,Penetration Rate,Skin Care,percent,Statista,2.741,3.328,3.864,4.363,4.837,5.353,5.796,6.158,6.504,6.861,7.192
+Ukraine,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,11.16,11.45,11.78,13.58,15.11,3.842,9.313,10.03,10.89,10.56,10.47
+Ukraine,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,6.808,6.944,7.08,8.147,8.92,2.269,5.503,5.946,6.469,6.27,6.218
+Ukraine,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,1.511,1.462,1.426,2.184,2.111,0.502,1.16,1.227,1.307,1.258,1.239
+Ukraine,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,21.95,22.87,23.88,26.25,30.41,7.811,19.06,20.54,22.29,21.66,21.5
+Ukraine,Beauty Care,Revenue,Total,million USD (US$),Statista,34.92,43.28,51.38,66.47,81.53,22.79,59.44,67.57,76.91,78.16,80.67
+Ukraine,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,14.91,18.37,21.62,27.92,33.69,9.422,24.59,28.03,32,32.49,33.54
+Ukraine,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,2.837,3.314,3.733,6.416,6.832,1.788,4.442,4.96,5.539,5.589,5.73
+Ukraine,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,17.17,21.6,26.04,32.13,41.01,11.58,30.41,34.58,39.38,40.08,41.41
+Ukraine,Beauty Care,Revenue Change,Total,percent,Statista,,23.966,18.711,29.36,22.661,-72.043,160.768,13.685,13.823,1.624,3.211
+Ukraine,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,23.177,17.679,29.182,20.644,-72.032,160.94,14.024,14.136,1.552,3.214
+Ukraine,Beauty Care,Revenue Change,Fragrances,percent,Statista,,16.82,12.623,71.877,6.494,-73.834,148.436,11.682,11.665,0.897,2.528
+Ukraine,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,25.832,20.522,23.411,27.642,-71.754,162.532,13.703,13.88,1.784,3.304
+Ukraine,Beauty Care,Online & Offline Split,Offline,percent,Statista,92.49,91.057,89.69,85.102,83.173,82.135,80.878,79.318,77.462,,
+Ukraine,Beauty Care,Online & Offline Split,Online,percent,Statista,7.51,8.943,10.31,14.898,16.827,17.865,19.122,20.682,22.538,,
+Ukraine,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.267,62.099,60,58.654,57.506,56.644,55.931,55.454,55.202,,
+Ukraine,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.733,37.901,40,41.346,42.494,43.356,44.069,44.546,44.798,,
+Ukraine,Beauty Care,Users by Segment,Total,million users,Statista,3.129,3.779,4.362,4.896,5.395,5.932,6.382,6.735,7.066,7.403,7.705
+Ukraine,Beauty Care,Users by Segment,Cosmetics,million users,Statista,2.19,2.645,3.053,3.427,3.776,4.153,4.468,4.715,4.946,5.182,5.394
+Ukraine,Beauty Care,Users by Segment,Fragrances,million users,Statista,1.877,2.267,2.617,2.938,3.237,3.559,3.829,4.041,4.24,4.442,4.623
+Ukraine,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.782,0.945,1.09,1.224,1.349,1.483,1.596,1.684,1.766,1.851,1.926
+Ukraine,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,7.033,8.541,9.914,11.195,12.412,13.735,14.873,15.801,16.689,17.606,18.452
+Ukraine,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,4.923,5.978,6.94,7.837,8.688,9.615,10.411,11.061,11.682,12.324,12.916
+Ukraine,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,4.22,5.124,5.948,6.717,7.447,8.241,8.924,9.48,10.013,10.563,11.071
+Ukraine,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,1.758,2.135,2.479,2.799,3.103,3.434,3.718,3.95,4.172,4.401,4.613
+Ukraine,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,11.42,9.634,8.512,6.919,6.837,1.639,3.656,3.639,3.62,3.401,3.28
+Ukraine,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0.481,0.487,0.515,0.501,0.591,0.169,0.446,0.526,0.617,0.628,0.657
+Ukraine,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.18,0.186,0.202,0.201,0.242,0.071,0.193,0.233,0.281,0.287,0.303
+Ukraine,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.212,0.214,0.226,0.219,0.257,0.073,0.193,0.228,0.267,0.271,0.284
+Ukraine,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.012,0.011,0.011,0.014,0.013,0.003,0.008,0.009,0.01,0.01,0.01
+Ukraine,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.029,0.025,0.023,0.021,0.02,0.005,0.011,0.011,0.011,0.01,0.01
+Ukraine,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,13.5,11.39,10.07,8.182,8.086,1.938,4.323,4.304,4.281,4.005,3.846
+Ukraine,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,9.704,7.998,6.888,5.443,5.22,1.211,2.605,2.489,2.365,2.174,2.05
+Ukraine,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,8.377,7.137,6.362,5.207,5.175,1.245,2.78,2.763,2.736,2.565,2.464
+Ukraine,Health Care,Revenue,Total,million USD (US$),Statista,32.66,33.28,33.94,30.97,33.72,8.89,21.33,22.41,23.39,23.02,23.11
+Ukraine,Health Care,Revenue,Analgesics,million USD (US$),Statista,0.275,0.337,0.411,0.448,0.583,0.183,0.521,0.647,0.797,0.85,0.926
+Ukraine,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,0.206,0.257,0.322,0.359,0.478,0.154,0.449,0.574,0.725,0.778,0.854
+Ukraine,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,0.182,0.222,0.27,0.293,0.38,0.119,0.339,0.42,0.517,0.55,0.599
+Ukraine,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.013,0.015,0.018,0.025,0.026,0.007,0.018,0.021,0.025,0.026,0.027
+Ukraine,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.017,0.017,0.018,0.019,0.02,0.005,0.013,0.013,0.014,0.014,0.013
+Ukraine,Health Care,Revenue,Other Health Care,million USD (US$),Statista,8.886,9.054,9.233,8.424,9.173,2.418,5.803,6.095,6.361,6.236,6.233
+Ukraine,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,11.1,11.05,10.99,9.747,10.3,2.627,6.08,6.132,6.11,5.885,5.777
+Ukraine,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,11.98,12.33,12.68,11.65,12.76,3.377,8.11,8.506,8.836,8.679,8.679
+Ukraine,Health Care,Revenue Change,Total,percent,Statista,,1.899,1.975,-8.754,8.886,-73.639,139.964,5.046,4.358,-1.575,0.397
+Ukraine,Health Care,Revenue Change,Analgesics,percent,Statista,,22.292,22.179,9.067,29.938,-68.624,184.794,24.344,23.148,6.602,8.98
+Ukraine,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,25,24.962,11.638,33.116,-67.827,192.28,27.626,26.411,7.273,9.808
+Ukraine,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,21.874,21.787,8.749,29.603,-68.694,184.262,24.128,22.949,6.52,8.903
+Ukraine,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,15.313,15.441,44.393,1.677,-73.176,160.691,18.257,17.133,3.417,5.993
+Ukraine,Health Care,Revenue Change,Incontinence,percent,Statista,,4.818,4.73,3.69,4.483,-73.7,141.491,6.832,5.802,-3.934,-1.308
+Ukraine,Health Care,Revenue Change,Other Health Care,percent,Statista,,1.897,1.974,-8.76,8.889,-73.639,139.963,5.045,4.357,-1.969,-0.048
+Ukraine,Health Care,Revenue Change,Skin Treatment,percent,Statista,,-0.466,-0.596,-11.283,5.671,-74.491,131.428,0.842,-0.347,-3.69,-1.838
+Ukraine,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,2.904,2.874,-8.116,9.517,-73.545,140.19,4.88,3.881,-1.775,-0.005
+Ukraine,Health Care,Online & Offline Split,Offline,percent,Statista,91.825,91.674,91.512,91.502,91.216,90.962,90.712,90.459,90.175,,
+Ukraine,Health Care,Online & Offline Split,Online,percent,Statista,8.175,8.326,8.488,8.498,8.784,9.038,9.288,9.541,9.825,,
+Ukraine,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,68.36,64.787,61.692,59.133,57.291,55.912,54.738,53.805,52.819,,
+Ukraine,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,31.64,35.213,38.308,40.867,42.709,44.088,45.262,46.195,47.181,,
+Ukraine,Health Care,Users by Segment,Total,million users,Statista,2.861,3.455,3.988,4.477,4.933,5.424,5.835,6.158,6.46,6.768,7.045
+Ukraine,Health Care,Users by Segment,Analgesics,million users,Statista,0.572,0.691,0.798,0.895,0.987,1.085,1.167,1.232,1.292,1.354,1.409
+Ukraine,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,1.144,1.382,1.595,1.791,1.973,2.17,2.334,2.463,2.584,2.708,2.818
+Ukraine,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.858,1.036,1.196,1.343,1.48,1.627,1.751,1.847,1.938,2.03,2.113
+Ukraine,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,1.144,1.382,1.595,1.791,1.973,2.17,2.334,2.463,2.584,2.708,2.818
+Ukraine,Health Care,Users by Segment,Incontinence,million users,Statista,0.572,0.691,0.798,0.895,0.987,1.085,1.167,1.232,1.292,1.354,1.409
+Ukraine,Health Care,Users by Segment,Other Health Care,million users,Statista,0.658,0.795,0.917,1.03,1.134,1.248,1.342,1.416,1.486,1.557,1.621
+Ukraine,Health Care,Users by Segment,Skin Treatment,million users,Statista,1.144,1.382,1.595,1.791,1.973,2.17,2.334,2.463,2.584,2.708,2.818
+Ukraine,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,1.43,1.727,1.994,2.238,2.466,2.712,2.918,3.079,3.23,3.384,3.522
+Ukraine,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,1.286,1.562,1.813,2.047,2.27,2.512,2.72,2.889,3.052,3.22,3.374
+Ukraine,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,2.572,3.123,3.626,4.094,4.539,5.023,5.439,5.779,6.103,6.439,6.749
+Ukraine,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,1.929,2.343,2.719,3.071,3.404,3.767,4.08,4.334,4.578,4.829,5.061
+Ukraine,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,2.572,3.123,3.626,4.094,4.539,5.023,5.439,5.779,6.103,6.439,6.749
+Ukraine,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,6.431,7.808,9.064,10.236,11.348,12.558,13.599,14.446,15.258,16.097,16.87
+Ukraine,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,1.286,1.562,1.813,2.047,2.27,2.512,2.72,2.889,3.052,3.22,3.374
+Ukraine,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,1.479,1.796,2.085,2.354,2.61,2.888,3.128,3.323,3.509,3.703,3.881
+Ukraine,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,2.572,3.123,3.626,4.094,4.539,5.023,5.439,5.779,6.103,6.439,6.749
+Ukraine,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,3.215,3.904,4.532,5.118,5.674,6.279,6.799,7.223,7.629,8.048,8.435
+Ukraine,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,36.51,32.78,30.81,31.05,32.58,8.358,20.5,22.98,25.95,25.86,26.56
+Ukraine,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,1.476,1.594,1.736,2.259,2.905,0.813,2.165,2.614,3.152,3.254,3.45
+Ukraine,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,1.597,1.743,1.915,2.585,3.387,0.954,2.55,3.093,3.747,3.877,4.118
+Ukraine,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,127.1,108.2,96.26,87.27,81.28,19.11,42.19,42.01,41.68,38.96,37.38
+Ukraine,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,4.811,5.267,5.806,7.086,8.774,2.5,6.768,8.319,10.21,10.52,11.17
+Ukraine,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,12.51,13.65,15.01,18.86,23.76,6.727,18.1,22.1,26.94,27.8,29.5
+Ukraine,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.006,0.005,0.004,0.004,0.059,0.077,0.367,0.504,0.565,0.62,0.677
+Ukraine,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,1.389,1.519,1.669,2.008,2.452,0.693,1.864,2.275,2.772,2.852,3.022
+Ukraine,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,2.368,2.503,2.719,3.643,4.712,1.371,3.924,5.114,6.654,6.879,7.371
+Ukraine,Household Care,Revenue,Total,million USD (US$),Statista,62.01,67.24,72.95,82.52,95.41,26.92,71.02,84,99.53,103.9,111.1
+Ukraine,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,1.053,1.374,1.726,2.521,3.573,1.1,3.15,4.015,5.078,5.493,6.061
+Ukraine,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,1.22,1.609,2.041,3.091,4.464,1.382,3.975,5.089,6.467,7.012,7.752
+Ukraine,Household Care,Revenue,Household Paper,million USD (US$),Statista,49.67,51.03,52.42,53.35,54.75,14.15,33.62,35.33,36.77,36.01,35.95
+Ukraine,Household Care,Revenue,Laundry Care,million USD (US$),Statista,3.268,4.322,5.499,7.534,10.28,3.221,9.38,12.17,15.66,16.91,18.69
+Ukraine,Household Care,Revenue,Other Household Care,million USD (US$),Statista,4.674,6.162,7.817,11.03,15.31,4.766,13.79,17.77,22.73,24.57,27.15
+Ukraine,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.003,0.003,0.003,0.003,0.055,0.079,0.407,0.59,0.694,0.797,0.907
+Ukraine,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.708,0.935,1.185,1.601,2.154,0.67,1.938,2.495,3.189,3.439,3.793
+Ukraine,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,1.408,1.797,2.253,3.389,4.83,1.545,4.758,6.545,8.933,9.676,10.79
+Ukraine,Household Care,Revenue Change,Total,percent,Statista,,8.432,8.492,13.123,15.624,-71.789,163.862,18.281,18.483,4.407,6.908
+Ukraine,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,30.468,25.671,46.054,41.708,-69.209,186.349,27.448,26.486,8.176,10.337
+Ukraine,Household Care,Revenue Change,Household Cleaners,percent,Statista,,31.851,26.807,51.495,44.389,-69.04,187.653,28.026,27.082,8.42,10.554
+Ukraine,Household Care,Revenue Change,Household Paper,percent,Statista,,2.739,2.719,1.77,2.623,-74.149,137.547,5.088,4.075,-2.067,-0.153
+Ukraine,Household Care,Revenue Change,Laundry Care,percent,Statista,,32.239,27.233,36.998,36.434,-68.665,191.225,29.704,28.747,7.984,10.496
+Ukraine,Household Care,Revenue Change,Other Household Care,percent,Statista,,31.841,26.843,41.103,38.797,-68.866,189.396,28.86,27.911,8.092,10.46
+Ukraine,Household Care,Revenue Change,Paper Tissues,percent,Statista,,1.546,1.385,-0.604,"1,583.678",43.775,415.858,44.849,17.61,14.957,13.707
+Ukraine,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,32.032,26.825,35.05,34.537,-68.897,189.206,28.784,27.82,7.825,10.29
+Ukraine,Household Care,Revenue Change,Toilet Paper,percent,Statista,,27.649,25.352,50.438,42.509,-68.01,207.931,37.559,36.492,8.317,11.542
+Ukraine,Household Care,Online & Offline Split,Offline,percent,Statista,95.774,95.414,95.022,94.455,93.672,92.938,91.975,90.761,89.267,,
+Ukraine,Household Care,Online & Offline Split,Online,percent,Statista,4.226,4.586,4.978,5.545,6.328,7.062,8.025,9.239,10.733,,
+Ukraine,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,63.489,61.443,60.295,58.985,57.657,56.614,55.664,55.229,54.85,,
+Ukraine,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,36.511,38.557,39.705,41.015,42.343,43.386,44.336,44.771,45.15,,
+Ukraine,Household Care,Users by Segment,Total,million users,Statista,1.699,2.051,2.368,2.658,2.929,3.22,3.465,3.656,3.836,4.019,4.183
+Ukraine,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.713,0.862,0.994,1.116,1.23,1.353,1.455,1.536,1.611,1.688,1.757
+Ukraine,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.764,0.923,1.065,1.196,1.318,1.449,1.559,1.645,1.726,1.808,1.882
+Ukraine,Household Care,Users by Segment,Household Paper,million users,Statista,0.391,0.472,0.545,0.611,0.674,0.741,0.797,0.841,0.882,0.924,0.962
+Ukraine,Household Care,Users by Segment,Laundry Care,million users,Statista,0.679,0.821,0.947,1.063,1.171,1.288,1.386,1.463,1.534,1.608,1.674
+Ukraine,Household Care,Users by Segment,Other Household Care,million users,Statista,0.374,0.451,0.521,0.585,0.644,0.709,0.762,0.804,0.844,0.884,0.92
+Ukraine,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.544,0.656,0.758,0.851,0.937,1.031,1.109,1.17,1.227,1.286,1.339
+Ukraine,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.51,0.615,0.71,0.797,0.879,0.966,1.039,1.097,1.151,1.206,1.255
+Ukraine,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.595,0.718,0.829,0.93,1.025,1.127,1.213,1.28,1.343,1.407,1.464
+Ukraine,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,1.604,1.947,2.26,2.553,2.83,3.132,3.391,3.603,3.805,4.015,4.208
+Ukraine,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,3.818,4.636,5.382,6.078,6.738,7.456,8.074,8.578,9.06,9.558,10.017
+Ukraine,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,1.718,2.086,2.422,2.735,3.032,3.355,3.633,3.86,4.077,4.301,4.508
+Ukraine,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.878,1.066,1.238,1.398,1.55,1.715,1.857,1.973,2.084,2.198,2.304
+Ukraine,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,1.527,1.855,2.153,2.431,2.695,2.982,3.23,3.431,3.624,3.823,4.008
+Ukraine,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.84,1.02,1.184,1.337,1.482,1.64,1.776,1.887,1.993,2.103,2.203
+Ukraine,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.222,1.484,1.722,1.945,2.156,2.386,2.584,2.745,2.899,3.059,3.206
+Ukraine,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.145,1.391,1.615,1.823,2.021,2.237,2.422,2.573,2.718,2.867,3.005
+Ukraine,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.336,1.623,1.884,2.127,2.358,2.61,2.826,3.002,3.171,3.345,3.506
+Ukraine,Food,Revenue,Total,million USD (US$),Statista,106.1,153.2,218.9,380.6,590.5,186.8,552.8,729.9,963.6,"1,052","1,174"
+Ukraine,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,11.37,16.35,23.29,47.69,79.85,24.9,72.37,93.68,121.1,132.8,148.1
+Ukraine,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,22.16,31.81,45.11,81.55,127.5,39.99,117.2,152.4,198,216.5,241.2
+Ukraine,Food,Revenue,Convenience Food,million USD (US$),Statista,4.724,6.803,9.698,17.37,26.85,8.522,25.29,33.48,44.25,48.34,53.95
+Ukraine,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,12.94,18.67,26.68,42.93,64.33,20.49,61.21,81.73,109.1,118.9,132.6
+Ukraine,Food,Revenue,Fish & Seafood,million USD (US$),Statista,5.195,7.506,10.74,18.09,27.67,8.812,26.28,35.02,46.65,50.88,56.8
+Ukraine,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,9.622,13.9,19.88,33.46,50.99,16.18,48.06,63.76,84.56,92.23,102.9
+Ukraine,Food,Revenue,Meat,million USD (US$),Statista,22.96,33.31,47.78,80.65,123.5,39.24,116.8,155.3,206.3,225,251.1
+Ukraine,Food,Revenue,Oils & Fats,million USD (US$),Statista,2.719,3.948,5.667,9.139,13.73,4.384,13.12,17.55,23.47,25.57,28.54
+Ukraine,Food,Revenue,Sauces & Spices,million USD (US$),Statista,1.263,1.872,2.757,4.217,6.643,2.213,6.969,9.94,14.51,15.75,17.73
+Ukraine,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,1.479,2.184,3.194,4.883,7.355,2.342,6.966,9.358,12.56,13.67,15.26
+Ukraine,Food,Revenue,Vegetables,million USD (US$),Statista,11.66,16.86,24.13,40.67,62.05,19.7,58.54,77.71,103.1,112.5,125.5
+Ukraine,Food,Revenue Change,Total,percent,Statista,,44.432,42.865,73.881,55.12,-68.369,196,32.037,32.008,9.19,11.553
+Ukraine,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,43.822,42.396,104.784,67.448,-68.819,190.67,29.445,29.237,9.678,11.525
+Ukraine,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,43.582,41.788,80.805,56.352,-68.64,193.13,30.061,29.896,9.323,11.397
+Ukraine,Food,Revenue Change,Convenience Food,percent,Statista,,44.03,42.55,79.108,54.574,-68.261,196.781,32.368,32.178,9.244,11.606
+Ukraine,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,44.299,42.871,60.902,49.87,-68.146,198.695,33.519,33.509,8.937,11.569
+Ukraine,Food,Revenue Change,Fish & Seafood,percent,Statista,,44.484,43.142,68.33,52.992,-68.155,198.283,33.233,33.199,9.087,11.623
+Ukraine,Food,Revenue Change,Fruits & Nuts,percent,Statista,,44.5,42.951,68.374,52.378,-68.274,197.081,32.67,32.611,9.08,11.556
+Ukraine,Food,Revenue Change,Meat,percent,Statista,,45.064,43.411,68.809,53.091,-68.219,197.628,32.938,32.855,9.105,11.597
+Ukraine,Food,Revenue Change,Oils & Fats,percent,Statista,,45.184,43.546,61.282,50.263,-68.073,199.27,33.741,33.737,8.964,11.609
+Ukraine,Food,Revenue Change,Sauces & Spices,percent,Statista,,48.215,47.267,52.961,57.557,-66.687,214.879,42.639,45.983,8.568,12.516
+Ukraine,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,47.594,46.289,52.852,50.629,-68.161,197.494,34.332,34.221,8.851,11.594
+Ukraine,Food,Revenue Change,Vegetables,percent,Statista,,44.644,43.107,68.543,52.573,-68.256,197.24,32.734,32.668,9.089,11.567
+Ukraine,Food,Average Revenue per User,Total,USD (US$),Statista,47.95,56.94,68.78,103.7,141.4,40,107.9,133.1,165.1,169.2,178.5
+Ukraine,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,10.94,12.93,15.57,27.63,40.7,11.35,30.05,36.35,44.14,45.43,47.91
+Ukraine,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,20.44,24.12,28.92,45.32,62.34,17.48,46.68,56.75,69.25,71.04,74.83
+Ukraine,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,3.813,4.514,5.442,8.447,11.49,3.26,8.813,10.9,13.54,13.88,14.65
+Ukraine,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,25.43,30.17,36.45,50.82,67.01,19.08,51.93,64.81,81.29,83.09,87.66
+Ukraine,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,12.36,14.68,17.77,25.92,34.89,9.934,27,33.62,42.07,43.06,45.46
+Ukraine,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,8.364,9.935,12.01,17.53,23.49,6.664,18.04,22.37,27.87,28.52,30.08
+Ukraine,Food,Average Revenue per User,Meat,USD (US$),Statista,34.6,41.26,50.04,73.21,98.59,28.02,75.96,94.39,117.8,120.6,127.3
+Ukraine,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,4.916,5.867,7.122,9.955,13.16,3.757,10.24,12.8,16.09,16.45,17.36
+Ukraine,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,1.297,1.581,1.969,2.61,3.617,1.077,3.091,4.12,5.651,5.757,6.125
+Ukraine,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,2.026,2.459,3.042,4.029,5.339,1.52,4.119,5.172,6.522,6.662,7.03
+Ukraine,Food,Average Revenue per User,Vegetables,USD (US$),Statista,10.75,12.79,15.47,22.6,30.34,8.61,23.31,28.93,36.05,36.9,38.93
+Ukraine,Food,Online & Offline Split,Offline,percent,Statista,99.733,99.65,99.54,99.279,98.891,98.616,98.277,97.842,97.281,,
+Ukraine,Food,Online & Offline Split,Online,percent,Statista,0.267,0.35,0.46,0.721,1.109,1.384,1.723,2.158,2.719,,
+Ukraine,Food,Mobile/Desktop Split,Desktop,percent,Statista,64.472,61.37,58.767,56.956,55.549,54.517,53.682,53.112,52.736,,
+Ukraine,Food,Mobile/Desktop Split,Mobile,percent,Statista,35.528,38.63,41.233,43.044,44.451,45.483,46.318,46.888,47.264,,
+Ukraine,Food,Users,Total,million users,Statista,2.212,2.691,3.183,3.672,4.174,4.669,5.125,5.483,5.836,6.219,6.576
+Ukraine,Food,Users,Bread & Cereal Products,million users,Statista,1.04,1.265,1.496,1.726,1.962,2.194,2.409,2.577,2.743,2.923,3.091
+Ukraine,Food,Users,Confectionery & Snacks,million users,Statista,1.084,1.319,1.559,1.799,2.045,2.288,2.511,2.687,2.859,3.048,3.223
+Ukraine,Food,Users,Convenience Food,million users,Statista,1.239,1.507,1.782,2.056,2.338,2.614,2.87,3.07,3.268,3.483,3.683
+Ukraine,Food,Users,Dairy Products & Eggs,million users,Statista,0.509,0.619,0.732,0.845,0.96,1.074,1.179,1.261,1.342,1.431,1.513
+Ukraine,Food,Users,Fish & Seafood,million users,Statista,0.42,0.511,0.605,0.698,0.793,0.887,0.974,1.042,1.109,1.182,1.25
+Ukraine,Food,Users,Fruits & Nuts,million users,Statista,1.15,1.399,1.655,1.91,2.171,2.428,2.665,2.851,3.034,3.234,3.42
+Ukraine,Food,Users,Meat,million users,Statista,0.664,0.807,0.955,1.102,1.252,1.401,1.537,1.645,1.751,1.866,1.973
+Ukraine,Food,Users,Oils & Fats,million users,Statista,0.553,0.673,0.796,0.918,1.044,1.167,1.281,1.371,1.459,1.555,1.644
+Ukraine,Food,Users,Sauces & Spices,million users,Statista,0.973,1.184,1.4,1.616,1.837,2.054,2.255,2.412,2.568,2.737,2.894
+Ukraine,Food,Users,Spreads & Sweeteners,million users,Statista,0.73,0.888,1.05,1.212,1.378,1.541,1.691,1.809,1.926,2.052,2.17
+Ukraine,Food,Users,Vegetables,million users,Statista,1.084,1.319,1.559,1.799,2.045,2.288,2.511,2.687,2.859,3.048,3.223
+Ukraine,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,2.337,2.859,3.4,3.946,4.514,5.08,5.613,6.045,6.478,6.952,7.403
+Ukraine,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,2.437,2.98,3.545,4.114,4.706,5.296,5.852,6.303,6.754,7.248,7.718
+Ukraine,Food,Penetration Rate,Convenience Food,percent,Statista,2.785,3.406,4.051,4.702,5.378,6.053,6.688,7.203,7.719,8.283,8.82
+Ukraine,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.144,1.399,1.664,1.931,2.209,2.486,2.747,2.958,3.17,3.402,3.623
+Ukraine,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.945,1.156,1.374,1.595,1.825,2.054,2.269,2.444,2.619,2.81,2.992
+Ukraine,Food,Penetration Rate,Food,percent,Statista,4.973,6.082,7.234,8.397,9.603,10.809,11.942,12.862,13.783,14.79,15.749
+Ukraine,Food,Penetration Rate,Fruits & Nuts,percent,Statista,2.586,3.163,3.762,4.366,4.994,5.621,6.21,6.688,7.167,7.691,8.19
+Ukraine,Food,Penetration Rate,Meat,percent,Statista,1.492,1.825,2.17,2.519,2.881,3.243,3.583,3.859,4.135,4.437,4.725
+Ukraine,Food,Penetration Rate,Oils & Fats,percent,Statista,1.243,1.521,1.809,2.099,2.401,2.702,2.986,3.216,3.446,3.698,3.938
+Ukraine,Food,Penetration Rate,Sauces & Spices,percent,Statista,2.188,2.676,3.183,3.695,4.225,4.756,5.255,5.659,6.065,6.508,6.93
+Ukraine,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.641,2.007,2.387,2.771,3.169,3.567,3.941,4.245,4.548,4.881,5.197
+Ukraine,Food,Penetration Rate,Vegetables,percent,Statista,2.437,2.98,3.545,4.114,4.706,5.296,5.852,6.303,6.754,7.248,7.718
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,10.94,12.93,15.57,27.63,40.7,11.35,30.05,36.35,44.14,45.43,47.91
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,10.67,12.6,15.15,27.18,40.19,11.18,29.53,35.62,43.12,44.38,46.8
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.699,0.831,1.006,1.47,1.972,0.561,1.524,1.895,2.369,2.424,2.559
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,4.995,5.916,7.138,12.7,18.75,5.23,13.86,16.78,20.39,20.98,22.13
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,1.031,1.217,1.468,2.644,3.929,1.099,2.918,3.542,4.314,4.441,4.687
+Ukraine,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.516,0.612,0.74,1.336,1.99,0.557,1.482,1.801,2.196,2.261,2.387
+Ukraine,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,11.37,16.35,23.29,47.69,79.85,24.9,72.37,93.68,121.1,132.8,148.1
+Ukraine,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,6.988,10.04,14.27,29.56,49.67,15.45,44.8,57.83,74.5,81.73,91.13
+Ukraine,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.604,0.873,1.249,2.106,3.212,1.022,3.046,4.054,5.392,5.882,6.565
+Ukraine,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,2.337,3.367,4.804,9.864,16.55,5.164,15.02,19.45,25.17,27.6,30.79
+Ukraine,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.964,1.386,1.976,4.107,6.938,2.169,6.326,8.214,10.65,11.68,13.04
+Ukraine,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.477,0.689,0.985,2.051,3.475,1.088,3.178,4.131,5.361,5.883,6.566
+Ukraine,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,43.822,42.396,104.784,67.448,-68.819,190.67,29.445,29.237,9.678,11.525
+Ukraine,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,43.66,42.17,107.096,68.053,-68.888,189.916,29.068,28.831,9.71,11.497
+Ukraine,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,44.609,43.064,68.718,52.467,-68.172,198.021,33.076,33.004,9.089,11.604
+Ukraine,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,44.072,42.677,105.318,67.822,-68.806,190.825,29.537,29.37,9.684,11.543
+Ukraine,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,43.686,42.623,107.828,68.909,-68.729,191.571,29.862,29.649,9.714,11.593
+Ukraine,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,44.247,43.012,108.3,69.385,-68.679,191.956,30.008,29.774,9.732,11.619
+Ukraine,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.673,99.573,99.442,99.009,98.342,97.951,97.489,96.913,96.193,,
+Ukraine,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.327,0.427,0.558,0.991,1.658,2.049,2.511,3.087,3.807,,
+Ukraine,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,71.894,66.939,62.938,59.64,57.337,55.753,54.449,53.403,52.473,,
+Ukraine,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,28.106,33.061,37.062,40.36,42.663,44.247,45.551,46.597,47.527,,
+Ukraine,Bread & Cereal Products,Users by Segment,Total,million users,Statista,1.04,1.265,1.496,1.726,1.962,2.194,2.409,2.577,2.743,2.923,3.091
+Ukraine,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.655,0.797,0.942,1.087,1.236,1.382,1.517,1.623,1.728,1.842,1.947
+Ukraine,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.863,1.05,1.242,1.433,1.628,1.821,1.999,2.139,2.276,2.426,2.566
+Ukraine,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.468,0.569,0.673,0.777,0.883,0.987,1.084,1.16,1.234,1.315,1.391
+Ukraine,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.936,1.138,1.346,1.553,1.766,1.975,2.168,2.319,2.468,2.631,2.782
+Ukraine,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.925,1.126,1.331,1.536,1.746,1.953,2.144,2.293,2.441,2.602,2.751
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,1.473,1.801,2.142,2.486,2.844,3.201,3.536,3.809,4.081,4.379,4.663
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.337,2.859,3.4,3.946,4.514,5.08,5.613,6.045,6.478,6.952,7.403
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,1.94,2.373,2.822,3.276,3.746,4.217,4.659,5.018,5.377,5.77,6.144
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.052,1.286,1.53,1.776,2.031,2.286,2.526,2.72,2.915,3.128,3.331
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,2.104,2.573,3.06,3.552,4.062,4.572,5.052,5.441,5.83,6.257,6.662
+Ukraine,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,2.08,2.544,3.026,3.512,4.017,4.521,4.995,5.38,5.765,6.187,6.588
+Ukraine,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,20.44,24.12,28.92,45.32,62.34,17.48,46.68,56.75,69.25,71.04,74.83
+Ukraine,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,18.44,21.85,26.28,41.5,57.33,16.07,42.89,52.2,63.78,65.44,68.95
+Ukraine,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.458,0.54,0.647,1.015,1.395,0.391,1.045,1.27,1.55,1.59,1.675
+Ukraine,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,5.446,6.359,7.545,11.55,15.66,4.397,11.76,14.24,17.31,17.75,18.68
+Ukraine,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,22.16,31.81,45.11,81.55,127.5,39.99,117.2,152.4,198,216.5,241.2
+Ukraine,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,16.39,23.62,33.61,61.23,96.16,30.14,88.32,115,149.5,163.5,182.2
+Ukraine,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.273,0.392,0.555,1.004,1.57,0.492,1.443,1.877,2.438,2.665,2.969
+Ukraine,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,5.49,7.799,10.94,19.32,29.78,9.354,27.45,35.57,46.04,50.3,55.99
+Ukraine,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,43.582,41.788,80.805,56.352,-68.64,193.13,30.061,29.896,9.323,11.397
+Ukraine,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,44.098,42.277,82.179,57.052,-68.655,193.017,30.217,30.036,9.343,11.424
+Ukraine,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,43.582,41.788,80.805,56.352,-68.64,193.13,30.061,29.896,9.324,11.397
+Ukraine,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,42.039,40.305,76.587,54.136,-68.593,193.494,29.56,29.442,9.259,11.308
+Ukraine,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.736,99.657,99.553,99.279,98.88,98.614,98.29,97.891,97.386,,
+Ukraine,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.264,0.343,0.447,0.721,1.12,1.386,1.71,2.109,2.614,,
+Ukraine,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,72.122,67.207,63.238,59.968,57.685,56.113,54.819,53.781,52.858,,
+Ukraine,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,27.878,32.793,36.762,40.032,42.315,43.887,45.181,46.219,47.142,,
+Ukraine,Confectionery & Snacks,Users by Segment,Total,million users,Statista,1.084,1.319,1.559,1.799,2.045,2.288,2.511,2.687,2.859,3.048,3.223
+Ukraine,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.889,1.081,1.279,1.475,1.677,1.876,2.059,2.203,2.345,2.499,2.643
+Ukraine,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.596,0.725,0.858,0.99,1.125,1.258,1.381,1.478,1.573,1.676,1.772
+Ukraine,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,1.008,1.226,1.45,1.673,1.902,2.127,2.335,2.498,2.659,2.834,2.997
+Ukraine,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,1.998,2.444,2.907,3.374,3.859,4.343,4.798,5.168,5.538,5.943,6.328
+Ukraine,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.437,2.98,3.545,4.114,4.706,5.296,5.852,6.303,6.754,7.248,7.718
+Ukraine,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.34,1.639,1.95,2.263,2.588,2.913,3.218,3.466,3.715,3.986,4.244
+Ukraine,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,2.266,2.772,3.297,3.826,4.376,4.926,5.442,5.861,6.281,6.74,7.177
+Ukraine,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,3.813,4.514,5.442,8.447,11.49,3.26,8.813,10.9,13.54,13.88,14.65
+Ukraine,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,5.133,6.08,7.334,11.4,15.53,4.415,11.96,14.82,18.43,18.9,19.95
+Ukraine,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.452,0.532,0.635,0.97,1.285,0.355,0.936,1.128,1.368,1.401,1.472
+Ukraine,Convenience Food,Revenue,Total,million USD (US$),Statista,4.724,6.803,9.698,17.37,26.85,8.522,25.29,33.48,44.25,48.34,53.95
+Ukraine,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,4.388,6.322,9.019,16.17,25.05,7.965,23.68,31.4,41.57,45.41,50.7
+Ukraine,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.336,0.481,0.679,1.197,1.803,0.557,1.611,2.079,2.683,2.927,3.253
+Ukraine,Convenience Food,Revenue Change,Total,percent,Statista,,44.03,42.55,79.108,54.574,-68.261,196.781,32.368,32.178,9.244,11.606
+Ukraine,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,44.085,42.658,79.321,54.866,-68.201,197.317,32.594,32.385,9.254,11.635
+Ukraine,Convenience Food,Revenue Change,Soups,percent,Statista,,43.312,41.138,76.274,50.622,-69.096,189.132,29.047,29.047,9.091,11.157
+Ukraine,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.74,99.661,99.557,99.297,98.922,98.652,98.32,97.896,97.352,,
+Ukraine,Convenience Food,Online & Offline Split,Online,percent,Statista,0.26,0.339,0.443,0.703,1.078,1.348,1.68,2.104,2.648,,
+Ukraine,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,64.136,61.113,58.416,56.267,54.689,53.593,52.861,52.385,52.081,,
+Ukraine,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,35.864,38.887,41.584,43.733,45.311,46.407,47.139,47.615,47.919,,
+Ukraine,Convenience Food,Users by Segment,Total,million users,Statista,1.239,1.507,1.782,2.056,2.338,2.614,2.87,3.07,3.268,3.483,3.683
+Ukraine,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.855,1.04,1.23,1.419,1.613,1.804,1.98,2.119,2.255,2.403,2.541
+Ukraine,Convenience Food,Users by Segment,Soups,million users,Statista,0.743,0.904,1.069,1.234,1.403,1.569,1.722,1.842,1.961,2.09,2.21
+Ukraine,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,2.785,3.406,4.051,4.702,5.378,6.053,6.688,7.203,7.719,8.283,8.82
+Ukraine,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,1.922,2.35,2.795,3.244,3.711,4.177,4.615,4.97,5.326,5.715,6.086
+Ukraine,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,1.671,2.044,2.431,2.821,3.227,3.632,4.013,4.322,4.631,4.97,5.292
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,25.43,30.17,36.45,50.82,67.01,19.08,51.93,64.81,81.29,83.09,87.66
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,15.97,18.91,22.81,31.77,41.87,11.91,32.36,40.33,50.5,51.62,54.45
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,6.918,8.205,9.898,13.78,18.09,5.136,13.92,17.31,21.61,22.08,23.27
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,1.633,1.94,2.341,3.254,4.247,1.202,3.249,4.022,5.002,5.112,5.388
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,16.11,19.27,23.47,32.96,43.86,12.59,34.54,43.51,55.11,56.35,59.54
+Ukraine,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,6.485,7.637,9.167,12.72,16.66,4.727,12.81,15.92,19.89,20.32,21.42
+Ukraine,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,12.94,18.67,26.68,42.93,64.33,20.49,61.21,81.73,109.1,118.9,132.6
+Ukraine,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,6.095,8.778,12.52,20.13,30.15,9.591,28.61,38.14,50.83,55.37,61.76
+Ukraine,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,1.514,2.184,3.115,5.003,7.468,2.371,7.057,9.384,12.47,13.59,15.15
+Ukraine,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.648,0.937,1.337,2.144,3.18,1.007,2.987,3.956,5.237,5.704,6.356
+Ukraine,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,2.869,4.175,6.014,9.743,14.74,4.731,14.25,19.2,25.89,28.21,31.52
+Ukraine,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,1.815,2.6,3.691,5.908,8.797,2.791,8.305,11.04,14.68,15.99,17.82
+Ukraine,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,44.299,42.871,60.902,49.87,-68.146,198.695,33.519,33.509,8.937,11.569
+Ukraine,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,44.019,42.654,60.742,49.791,-68.188,198.287,33.317,33.277,8.933,11.542
+Ukraine,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,44.275,42.656,60.603,49.269,-68.246,197.596,32.959,32.91,8.928,11.5
+Ukraine,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,44.516,42.7,60.35,48.365,-68.333,196.602,32.443,32.378,8.917,11.436
+Ukraine,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,45.526,44.046,62.01,51.265,-67.897,201.205,34.748,34.829,8.976,11.73
+Ukraine,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,43.243,41.96,60.092,48.89,-68.269,197.532,32.97,32.931,8.895,11.483
+Ukraine,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.74,99.658,99.55,99.336,99.016,98.763,98.445,98.029,97.486,,
+Ukraine,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.26,0.342,0.45,0.664,0.984,1.237,1.555,1.971,2.514,,
+Ukraine,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,64.136,61.113,58.416,56.267,54.689,53.593,52.861,52.385,52.081,,
+Ukraine,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,35.864,38.887,41.584,43.733,45.311,46.407,47.139,47.615,47.919,,
+Ukraine,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.509,0.619,0.732,0.845,0.96,1.074,1.179,1.261,1.342,1.431,1.513
+Ukraine,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.382,0.464,0.549,0.633,0.72,0.805,0.884,0.946,1.007,1.073,1.134
+Ukraine,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.219,0.266,0.315,0.363,0.413,0.462,0.507,0.542,0.577,0.615,0.651
+Ukraine,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.397,0.483,0.571,0.659,0.749,0.838,0.919,0.984,1.047,1.116,1.18
+Ukraine,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.178,0.217,0.256,0.296,0.336,0.376,0.413,0.441,0.47,0.501,0.529
+Ukraine,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.28,0.34,0.403,0.465,0.528,0.591,0.648,0.694,0.738,0.787,0.832
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.858,1.049,1.248,1.448,1.657,1.865,2.06,2.219,2.378,2.551,2.717
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.144,1.399,1.664,1.931,2.209,2.486,2.747,2.958,3.17,3.402,3.623
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.492,0.602,0.715,0.83,0.95,1.069,1.181,1.272,1.363,1.463,1.559
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.892,1.091,1.298,1.506,1.723,1.939,2.142,2.307,2.473,2.653,2.825
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.4,0.49,0.582,0.676,0.773,0.87,0.961,1.035,1.11,1.191,1.268
+Ukraine,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.629,0.769,0.915,1.062,1.215,1.367,1.511,1.627,1.744,1.871,1.992
+Ukraine,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,12.36,14.68,17.77,25.92,34.89,9.934,27,33.62,42.07,43.06,45.46
+Ukraine,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,16.89,20.6,25.52,37.95,51.85,14.9,40.81,51.2,64.54,66.13,69.91
+Ukraine,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,5.935,6.851,8.097,11.56,15.37,4.367,11.86,14.78,18.51,18.92,19.95
+Ukraine,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,4.831,5.557,6.528,9.276,12.2,3.418,9.146,11.22,13.84,14.14,14.88
+Ukraine,Fish & Seafood,Revenue,Total,million USD (US$),Statista,5.195,7.506,10.74,18.09,27.67,8.812,26.28,35.02,46.65,50.88,56.8
+Ukraine,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,2.769,4.108,6.017,10.33,16.04,5.154,15.5,20.8,27.91,30.48,34.07
+Ukraine,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.599,0.841,1.175,1.936,2.925,0.93,2.772,3.695,4.926,5.366,5.986
+Ukraine,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,1.828,2.557,3.552,5.825,8.707,2.728,8.015,10.52,13.81,15.04,16.74
+Ukraine,Fish & Seafood,Revenue Change,Total,percent,Statista,,44.484,43.142,68.33,52.992,-68.155,198.283,33.233,33.199,9.087,11.623
+Ukraine,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,48.369,46.465,71.611,55.319,-67.866,200.717,34.22,34.151,9.216,11.801
+Ukraine,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,40.424,39.757,64.734,51.121,-68.218,198.13,33.313,33.313,8.937,11.548
+Ukraine,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,39.929,38.916,63.964,49.488,-68.665,193.739,31.296,31.277,8.879,11.29
+Ukraine,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.74,99.659,99.552,99.317,98.966,98.705,98.378,97.955,97.405,,
+Ukraine,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.26,0.341,0.448,0.683,1.034,1.295,1.622,2.045,2.595,,
+Ukraine,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,64.136,61.113,58.416,56.267,54.689,53.593,52.861,52.385,52.081,,
+Ukraine,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,35.864,38.887,41.584,43.733,45.311,46.407,47.139,47.615,47.919,,
+Ukraine,Fish & Seafood,Users by Segment,Total,million users,Statista,0.42,0.511,0.605,0.698,0.793,0.887,0.974,1.042,1.109,1.182,1.25
+Ukraine,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.164,0.199,0.236,0.272,0.309,0.346,0.38,0.406,0.432,0.461,0.487
+Ukraine,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.101,0.123,0.145,0.167,0.19,0.213,0.234,0.25,0.266,0.284,0.3
+Ukraine,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.378,0.46,0.544,0.628,0.714,0.798,0.876,0.938,0.998,1.063,1.125
+Ukraine,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.945,1.156,1.374,1.595,1.825,2.054,2.269,2.444,2.619,2.81,2.992
+Ukraine,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.369,0.451,0.536,0.622,0.712,0.801,0.885,0.953,1.021,1.096,1.167
+Ukraine,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.227,0.277,0.33,0.383,0.438,0.493,0.545,0.587,0.629,0.675,0.719
+Ukraine,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.85,1.04,1.237,1.436,1.642,1.848,2.042,2.199,2.357,2.529,2.693
+Ukraine,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,8.364,9.935,12.01,17.53,23.49,6.664,18.04,22.37,27.87,28.52,30.08
+Ukraine,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,9.604,11.42,13.81,20.17,27.07,7.684,20.81,25.82,32.18,32.94,34.75
+Ukraine,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,1.437,1.706,2.062,3.008,4.009,1.137,3.078,3.816,4.755,4.866,5.133
+Ukraine,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,1.845,2.181,2.621,3.805,5.071,1.433,3.863,4.771,5.921,6.058,6.386
+Ukraine,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,9.622,13.9,19.88,33.46,50.99,16.18,48.06,63.76,84.56,92.23,102.9
+Ukraine,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,7.734,11.18,16,26.96,41.14,13.06,38.81,51.52,68.36,74.57,83.2
+Ukraine,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.827,1.194,1.706,2.872,4.351,1.38,4.101,5.44,7.214,7.868,8.777
+Ukraine,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,1.061,1.526,2.169,3.633,5.504,1.739,5.147,6.801,8.983,9.795,10.92
+Ukraine,Fruits & Nuts,Revenue Change,Total,percent,Statista,,44.5,42.951,68.374,52.378,-68.274,197.081,32.67,32.611,9.08,11.556
+Ukraine,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,44.604,43.072,68.498,52.586,-68.257,197.237,32.741,32.68,9.087,11.567
+Ukraine,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,44.456,42.893,68.308,51.53,-68.276,197.068,32.657,32.621,9.063,11.546
+Ukraine,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,43.774,42.111,67.507,51.503,-68.399,195.919,32.144,32.081,9.042,11.476
+Ukraine,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.74,99.659,99.552,99.316,98.969,98.712,98.394,97.981,97.449,,
+Ukraine,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.26,0.341,0.448,0.684,1.031,1.288,1.606,2.019,2.551,,
+Ukraine,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Ukraine,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Ukraine,Fruits & Nuts,Users by Segment,Total,million users,Statista,1.15,1.399,1.655,1.91,2.171,2.428,2.665,2.851,3.034,3.234,3.42
+Ukraine,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.805,0.98,1.158,1.337,1.519,1.699,1.865,1.996,2.124,2.264,2.394
+Ukraine,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.575,0.7,0.827,0.955,1.085,1.214,1.332,1.426,1.517,1.617,1.71
+Ukraine,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.575,0.7,0.827,0.955,1.085,1.214,1.332,1.426,1.517,1.617,1.71
+Ukraine,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,1.81,2.214,2.633,3.056,3.496,3.934,4.347,4.682,5.017,5.384,5.733
+Ukraine,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,2.586,3.163,3.762,4.366,4.994,5.621,6.21,6.688,7.167,7.691,8.19
+Ukraine,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,1.293,1.581,1.881,2.183,2.497,2.81,3.105,3.344,3.584,3.845,4.095
+Ukraine,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.293,1.581,1.881,2.183,2.497,2.81,3.105,3.344,3.584,3.845,4.095
+Ukraine,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,34.6,41.26,50.04,73.21,98.59,28.02,75.96,94.39,117.8,120.6,127.3
+Ukraine,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,29.91,35.73,43.46,63.91,86.36,24.72,67.5,84.46,106.2,108.7,114.8
+Ukraine,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,16.04,19.09,23.05,33.46,44.83,12.6,33.78,41.51,51.23,52.43,55.24
+Ukraine,Meat,Revenue,Total,million USD (US$),Statista,22.96,33.31,47.78,80.65,123.5,39.24,116.8,155.3,206.3,225,251.1
+Ukraine,Meat,Revenue,Fresh Meat,million USD (US$),Statista,13.7,19.9,28.63,48.58,74.62,23.89,71.6,95.85,128.2,139.9,156.3
+Ukraine,Meat,Revenue,Processed Meat,million USD (US$),Statista,9.265,13.41,19.15,32.07,48.84,15.35,45.18,59.4,78.03,85.1,94.81
+Ukraine,Meat,Revenue Change,Total,percent,Statista,,45.064,43.411,68.809,53.091,-68.219,197.628,32.938,32.855,9.105,11.597
+Ukraine,Meat,Revenue Change,Fresh Meat,percent,Statista,,45.285,43.834,69.698,53.602,-67.99,199.761,33.867,33.782,9.127,11.71
+Ukraine,Meat,Revenue Change,Processed Meat,percent,Statista,,44.739,42.784,67.479,52.317,-68.569,194.31,31.465,31.361,9.069,11.411
+Ukraine,Meat,Online & Offline Split,Offline,percent,Statista,99.74,99.657,99.547,99.304,98.944,98.676,98.341,97.906,97.342,,
+Ukraine,Meat,Online & Offline Split,Online,percent,Statista,0.26,0.343,0.453,0.696,1.056,1.324,1.659,2.094,2.658,,
+Ukraine,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Ukraine,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Ukraine,Meat,Users by Segment,Total,million users,Statista,0.664,0.807,0.955,1.102,1.252,1.401,1.537,1.645,1.751,1.866,1.973
+Ukraine,Meat,Users by Segment,Fresh Meat,million users,Statista,0.458,0.557,0.659,0.76,0.864,0.966,1.061,1.135,1.208,1.287,1.361
+Ukraine,Meat,Users by Segment,Processed Meat,million users,Statista,0.577,0.702,0.831,0.958,1.089,1.218,1.338,1.431,1.523,1.623,1.716
+Ukraine,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.029,1.259,1.497,1.738,1.988,2.237,2.472,2.662,2.853,3.062,3.26
+Ukraine,Meat,Penetration Rate by Segment,Meat,percent,Statista,1.492,1.825,2.17,2.519,2.881,3.243,3.583,3.859,4.135,4.437,4.725
+Ukraine,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,1.298,1.587,1.888,2.192,2.506,2.821,3.117,3.357,3.597,3.86,4.111
+Ukraine,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,4.916,5.867,7.122,9.955,13.16,3.757,10.24,12.8,16.09,16.45,17.36
+Ukraine,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,1.926,2.308,2.808,3.933,5.21,1.49,4.068,5.093,6.41,6.555,6.92
+Ukraine,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,2.077,2.49,3.034,4.256,5.639,1.612,4.4,5.507,6.926,7.083,7.478
+Ukraine,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.922,1.099,1.331,1.855,2.439,0.692,1.873,2.324,2.899,2.964,3.124
+Ukraine,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,1.625,1.918,2.306,3.201,4.214,1.203,3.282,4.106,5.164,5.277,5.569
+Ukraine,Oils & Fats,Revenue,Total,million USD (US$),Statista,2.719,3.948,5.667,9.139,13.73,4.384,13.12,17.55,23.47,25.57,28.54
+Ukraine,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.852,1.242,1.787,2.888,4.35,1.391,4.169,5.585,7.481,8.153,9.102
+Ukraine,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.919,1.34,1.931,3.126,4.708,1.505,4.51,6.038,8.084,8.81,9.836
+Ukraine,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.408,0.591,0.847,1.362,2.036,0.646,1.919,2.549,3.384,3.686,4.11
+Ukraine,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.539,0.774,1.101,1.763,2.639,0.843,2.523,3.377,4.52,4.923,5.494
+Ukraine,Oils & Fats,Revenue Change,Total,percent,Statista,,45.184,43.546,61.282,50.263,-68.073,199.27,33.741,33.737,8.964,11.609
+Ukraine,Oils & Fats,Revenue Change,Butter,percent,Statista,,45.71,43.895,61.619,50.595,-68.022,199.731,33.949,33.963,8.979,11.642
+Ukraine,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,45.8,44.111,61.854,50.622,-68.03,199.628,33.89,33.878,8.988,11.639
+Ukraine,Oils & Fats,Revenue Change,Margarine,percent,Statista,,44.915,43.284,60.733,49.494,-68.285,197.21,32.784,32.77,8.941,11.492
+Ukraine,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,43.507,42.206,60.154,49.677,-68.072,199.449,33.86,33.842,8.913,11.591
+Ukraine,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.74,99.657,99.547,99.331,99.006,98.751,98.429,98.009,97.461,,
+Ukraine,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.26,0.343,0.453,0.669,0.994,1.249,1.571,1.991,2.539,,
+Ukraine,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Ukraine,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Ukraine,Oils & Fats,Users by Segment,Total,million users,Statista,0.553,0.673,0.796,0.918,1.044,1.167,1.281,1.371,1.459,1.555,1.644
+Ukraine,Oils & Fats,Users by Segment,Butter,million users,Statista,0.442,0.538,0.637,0.734,0.835,0.934,1.025,1.097,1.167,1.244,1.315
+Ukraine,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.442,0.538,0.637,0.734,0.835,0.934,1.025,1.097,1.167,1.244,1.315
+Ukraine,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.442,0.538,0.637,0.734,0.835,0.934,1.025,1.097,1.167,1.244,1.315
+Ukraine,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.332,0.404,0.477,0.551,0.626,0.7,0.769,0.822,0.875,0.933,0.986
+Ukraine,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.995,1.216,1.447,1.679,1.921,2.162,2.388,2.572,2.757,2.958,3.15
+Ukraine,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.995,1.216,1.447,1.679,1.921,2.162,2.388,2.572,2.757,2.958,3.15
+Ukraine,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.995,1.216,1.447,1.679,1.921,2.162,2.388,2.572,2.757,2.958,3.15
+Ukraine,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.243,1.521,1.809,2.099,2.401,2.702,2.986,3.216,3.446,3.698,3.938
+Ukraine,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.746,0.912,1.085,1.259,1.441,1.621,1.791,1.929,2.067,2.218,2.362
+Ukraine,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,1.297,1.581,1.969,2.61,3.617,1.077,3.091,4.12,5.651,5.757,6.125
+Ukraine,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,1.087,1.333,1.674,2.231,3.133,0.943,2.743,3.724,5.238,5.33,5.684
+Ukraine,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.713,0.857,1.049,1.375,1.852,0.538,1.494,1.902,2.435,2.488,2.631
+Ukraine,Sauces & Spices,Revenue,Total,million USD (US$),Statista,1.263,1.872,2.757,4.217,6.643,2.213,6.969,9.94,14.51,15.75,17.73
+Ukraine,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.846,1.263,1.876,2.884,4.603,1.55,4.948,7.187,10.76,11.67,13.16
+Ukraine,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.417,0.609,0.881,1.333,2.04,0.663,2.021,2.754,3.751,4.085,4.568
+Ukraine,Sauces & Spices,Revenue Change,Total,percent,Statista,,48.215,47.267,52.961,57.557,-66.687,214.879,42.639,45.983,8.568,12.516
+Ukraine,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,49.218,48.517,53.752,59.621,-66.325,219.218,45.24,49.727,8.45,12.754
+Ukraine,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,46.176,44.674,51.276,53.093,-67.503,204.735,36.27,36.211,8.909,11.839
+Ukraine,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.26,0.35,0.473,0.688,1.057,1.376,1.809,2.434,3.374,,
+Ukraine,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ukraine,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ukraine,Sauces & Spices,Users by Segment,Total,million users,Statista,0.973,1.184,1.4,1.616,1.837,2.054,2.255,2.412,2.568,2.737,2.894
+Ukraine,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.779,0.947,1.12,1.293,1.469,1.643,1.804,1.93,2.054,2.189,2.315
+Ukraine,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.584,0.71,0.84,0.969,1.102,1.233,1.353,1.447,1.541,1.642,1.736
+Ukraine,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.188,2.676,3.183,3.695,4.225,4.756,5.255,5.659,6.065,6.508,6.93
+Ukraine,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.751,2.141,2.546,2.956,3.38,3.805,4.204,4.528,4.852,5.206,5.544
+Ukraine,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.313,1.606,1.91,2.217,2.535,2.854,3.153,3.396,3.639,3.905,4.158
+Ukraine,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,2.026,2.459,3.042,4.029,5.339,1.52,4.119,5.172,6.522,6.662,7.03
+Ukraine,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,1.292,1.56,1.92,2.531,3.35,0.962,2.631,3.331,4.236,4.326,4.57
+Ukraine,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,2.068,2.522,3.137,4.176,5.539,1.563,4.197,5.223,6.528,6.669,7.03
+Ukraine,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,1.479,2.184,3.194,4.883,7.355,2.342,6.966,9.358,12.56,13.67,15.26
+Ukraine,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.755,1.108,1.613,2.454,3.692,1.186,3.559,4.822,6.526,7.103,7.934
+Ukraine,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.725,1.075,1.581,2.429,3.663,1.156,3.407,4.536,6.034,6.569,7.323
+Ukraine,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,47.594,46.289,52.852,50.629,-68.161,197.494,34.332,34.221,8.851,11.594
+Ukraine,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,46.884,45.529,52.12,50.458,-67.884,200.178,35.476,35.345,8.834,11.704
+Ukraine,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,48.333,47.073,53.599,50.803,-68.44,194.741,33.138,33.027,8.87,11.476
+Ukraine,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.737,99.64,99.508,99.274,98.916,98.63,98.27,97.78,97.134,,
+Ukraine,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.263,0.36,0.492,0.726,1.084,1.37,1.73,2.22,2.866,,
+Ukraine,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ukraine,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ukraine,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.73,0.888,1.05,1.212,1.378,1.541,1.691,1.809,1.926,2.052,2.17
+Ukraine,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.584,0.71,0.84,0.969,1.102,1.233,1.353,1.447,1.541,1.642,1.736
+Ukraine,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.35,0.426,0.504,0.582,0.661,0.74,0.812,0.868,0.924,0.985,1.042
+Ukraine,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,1.313,1.606,1.91,2.217,2.535,2.854,3.153,3.396,3.639,3.905,4.158
+Ukraine,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.641,2.007,2.387,2.771,3.169,3.567,3.941,4.245,4.548,4.881,5.197
+Ukraine,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.788,0.963,1.146,1.33,1.521,1.712,1.892,2.037,2.183,2.343,2.495
+Ukraine,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,10.75,12.79,15.47,22.6,30.34,8.61,23.31,28.93,36.05,36.9,38.93
+Ukraine,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,12.5,14.88,18.01,26.32,35.35,10.04,27.2,33.76,42.11,43.1,45.48
+Ukraine,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,3.998,4.746,5.731,8.352,11.18,3.167,8.553,10.59,13.16,13.47,14.2
+Ukraine,Vegetables,Revenue,Total,million USD (US$),Statista,11.66,16.86,24.13,40.67,62.05,19.7,58.54,77.71,103.1,112.5,125.5
+Ukraine,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,9.489,13.73,19.66,33.15,50.61,16.07,47.81,63.49,84.28,91.94,102.6
+Ukraine,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,2.167,3.129,4.468,7.514,11.44,3.622,10.74,14.22,18.82,20.52,22.89
+Ukraine,Vegetables,Revenue Change,Total,percent,Statista,,44.644,43.107,68.543,52.573,-68.256,197.24,32.734,32.668,9.089,11.567
+Ukraine,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,44.705,43.176,68.629,52.655,-68.239,197.405,32.808,32.742,9.092,11.577
+Ukraine,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,44.381,42.805,68.164,52.211,-68.334,196.504,32.405,32.335,9.075,11.522
+Ukraine,Vegetables,Online & Offline Split,Offline,percent,Statista,99.74,99.658,99.551,99.314,98.964,98.705,98.384,97.968,97.43,,
+Ukraine,Vegetables,Online & Offline Split,Online,percent,Statista,0.26,0.342,0.449,0.686,1.036,1.295,1.616,2.032,2.57,,
+Ukraine,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ukraine,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ukraine,Vegetables,Users by Segment,Total,million users,Statista,1.084,1.319,1.559,1.799,2.045,2.288,2.511,2.687,2.859,3.048,3.223
+Ukraine,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.759,0.923,1.092,1.26,1.432,1.601,1.758,1.881,2.002,2.133,2.256
+Ukraine,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.542,0.659,0.78,0.9,1.023,1.144,1.256,1.343,1.43,1.524,1.612
+Ukraine,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,1.706,2.086,2.481,2.88,3.294,3.707,4.096,4.412,4.728,5.073,5.402
+Ukraine,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.218,1.49,1.772,2.057,2.353,2.648,2.926,3.151,3.377,3.624,3.859
+Ukraine,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,2.437,2.98,3.545,4.114,4.706,5.296,5.852,6.303,6.754,7.248,7.718

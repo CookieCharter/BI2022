@@ -1,0 +1,644 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Qatar,eCommerce,Revenue,Total,billion USD (US$),Statista,2.002,2.216,2.363,2.972,3.409,3.66,4.667,5.351,6.1,6.606,7.167
+Qatar,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.133,0.145,0.159,0.192,0.224,0.245,0.303,0.356,0.42,0.454,0.494
+Qatar,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.037,0.042,0.049,0.07,0.086,0.101,0.135,0.168,0.208,0.228,0.252
+Qatar,eCommerce,Revenue,Electronics,billion USD (US$),Statista,0.519,0.551,0.577,0.708,0.751,0.677,0.81,0.877,0.933,0.984,1.036
+Qatar,eCommerce,Revenue,Fashion,billion USD (US$),Statista,0.627,0.668,0.693,0.757,0.898,1.019,1.265,1.466,1.695,1.827,1.98
+Qatar,eCommerce,Revenue,Food,billion USD (US$),Statista,0.192,0.245,0.272,0.443,0.527,0.662,0.934,1.062,1.189,1.321,1.452
+Qatar,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.28,0.297,0.316,0.401,0.433,0.414,0.557,0.66,0.784,0.842,0.914
+Qatar,eCommerce,Revenue,Media,billion USD (US$),Statista,0.037,0.058,0.065,0.092,0.11,0.117,0.139,0.157,0.176,0.193,0.21
+Qatar,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.176,0.21,0.233,0.31,0.38,0.424,0.523,0.604,0.695,0.758,0.828
+Qatar,eCommerce,Revenue Change,Total,percent,Statista,,10.716,6.612,25.794,14.684,7.374,27.529,14.657,13.982,8.296,8.494
+Qatar,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,9.175,9.288,21.248,16.25,9.648,23.679,17.489,17.883,8.03,8.891
+Qatar,eCommerce,Revenue Change,Beverages,percent,Statista,,11.297,17.924,41.902,23.023,18.033,33.37,24.402,24.093,9.493,10.652
+Qatar,eCommerce,Revenue Change,Electronics,percent,Statista,,6.177,4.72,22.604,6.207,-9.881,19.648,8.268,6.36,5.425,5.327
+Qatar,eCommerce,Revenue Change,Fashion,percent,Statista,,6.605,3.634,9.265,18.597,13.512,24.106,15.93,15.632,7.75,8.408
+Qatar,eCommerce,Revenue Change,Food,percent,Statista,,27.395,11.091,62.813,19.156,25.55,41.098,13.691,11.907,11.13,9.924
+Qatar,eCommerce,Revenue Change,Furniture,percent,Statista,,6.315,6.143,27.087,7.891,-4.359,34.749,18.434,18.683,7.399,8.658
+Qatar,eCommerce,Revenue Change,Media,percent,Statista,,56.596,12.425,40.845,19.73,6.635,18.831,12.77,11.978,9.469,8.853
+Qatar,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,18.891,10.805,33.394,22.535,11.599,23.352,15.521,14.973,9.156,9.161
+Qatar,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,1.748,1.619,1.344,1.602,1.702,1.71,2.06,2.297,2.547,2.699,2.878
+Qatar,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.267,0.242,0.238,0.259,0.265,0.258,0.291,0.314,0.342,0.344,0.351
+Qatar,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.142,0.131,0.136,0.168,0.181,0.188,0.225,0.254,0.287,0.291,0.3
+Qatar,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.756,0.65,0.589,0.619,0.564,0.442,0.47,0.458,0.442,0.43,0.42
+Qatar,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.881,0.777,0.713,0.684,0.715,0.719,0.804,0.851,0.903,0.904,0.915
+Qatar,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.773,0.817,0.8,1.137,1.184,1.312,1.658,1.708,1.742,1.796,1.838
+Qatar,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,0.952,0.796,0.718,0.773,0.701,0.577,0.687,0.721,0.766,0.757,0.759
+Qatar,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.073,0.094,0.093,0.115,0.121,0.115,0.124,0.128,0.132,0.134,0.136
+Qatar,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.352,0.326,0.306,0.346,0.359,0.342,0.369,0.38,0.393,0.394,0.397
+Qatar,eCommerce,Online & Offline Split,Offline,percent,Statista,88.838,89,88.795,86.656,85.834,84.555,83.021,81.762,80.249,,
+Qatar,eCommerce,Online & Offline Split,Online,percent,Statista,11.162,11,11.205,13.344,14.166,15.445,16.979,18.238,19.751,,
+Qatar,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,69.606,68.523,67.674,65.812,65.472,64.624,63.758,63.548,63.514,,
+Qatar,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,30.394,31.477,32.326,34.188,34.528,35.376,36.242,36.452,36.486,,
+Qatar,eCommerce,Users,Total,million users,Statista,1.145,1.369,1.758,1.855,2.003,2.14,2.266,2.33,2.395,2.448,2.49
+Qatar,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,0.499,0.601,0.667,0.741,0.844,0.949,1.043,1.135,1.229,1.318,1.409
+Qatar,eCommerce,Users,Beverages,million users,Statista,0.264,0.319,0.361,0.414,0.474,0.537,0.599,0.662,0.726,0.782,0.84
+Qatar,eCommerce,Users,Electronics,million users,Statista,0.687,0.847,0.98,1.143,1.332,1.533,1.725,1.916,2.111,2.287,2.466
+Qatar,eCommerce,Users,Fashion,million users,Statista,0.712,0.86,0.972,1.106,1.256,1.416,1.572,1.723,1.877,2.02,2.164
+Qatar,eCommerce,Users,Food,million users,Statista,0.248,0.3,0.34,0.389,0.446,0.505,0.563,0.622,0.682,0.735,0.79
+Qatar,eCommerce,Users,Furniture,million users,Statista,0.294,0.373,0.44,0.519,0.617,0.718,0.811,0.916,1.023,1.112,1.205
+Qatar,eCommerce,Users,Media,million users,Statista,0.511,0.616,0.698,0.797,0.909,1.018,1.124,1.229,1.336,1.437,1.539
+Qatar,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.501,0.643,0.76,0.896,1.058,1.24,1.417,1.591,1.769,1.926,2.086
+Qatar,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,18.306,21.601,23.567,25.731,28.798,31.841,34.419,36.904,39.356,41.656,43.917
+Qatar,eCommerce,Penetration Rate,Beverages,percent,Statista,9.693,11.451,12.763,14.366,16.171,18.017,19.781,21.503,23.242,24.712,26.194
+Qatar,eCommerce,Penetration Rate,eCommerce,percent,Statista,42.021,49.222,62.061,64.379,68.348,71.816,74.8,75.726,76.707,77.34,77.64
+Qatar,eCommerce,Penetration Rate,Electronics,percent,Statista,25.212,30.462,34.605,39.668,45.468,51.431,56.947,62.268,67.626,72.244,76.875
+Qatar,eCommerce,Penetration Rate,Fashion,percent,Statista,26.128,30.925,34.306,38.382,42.854,47.532,51.91,55.996,60.113,63.81,67.48
+Qatar,eCommerce,Penetration Rate,Food,percent,Statista,9.114,10.767,12.001,13.509,15.206,16.942,18.6,20.219,21.854,23.236,24.63
+Qatar,eCommerce,Penetration Rate,Furniture,percent,Statista,10.777,13.418,15.525,18.012,21.063,24.085,26.784,29.773,32.785,35.145,37.571
+Qatar,eCommerce,Penetration Rate,Media,percent,Statista,18.745,22.15,24.648,27.661,31.023,34.173,37.113,39.934,42.786,45.395,47.971
+Qatar,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,18.38,23.127,26.83,31.091,36.089,41.622,46.789,51.719,56.683,60.846,65.051
+Qatar,Electronics,Revenue,Total,billion USD (US$),Statista,0.519,0.551,0.577,0.708,0.751,0.677,0.81,0.877,0.933,0.984,1.036
+Qatar,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,0.4,0.422,0.439,0.554,0.574,0.502,0.612,0.667,0.712,0.75,0.79
+Qatar,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.119,0.129,0.138,0.153,0.178,0.175,0.198,0.21,0.221,0.234,0.246
+Qatar,Electronics,Revenue Change,Total,percent,Statista,,6.177,4.72,22.604,6.207,-9.881,19.648,8.268,6.36,5.425,5.327
+Qatar,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,5.469,4.106,26.288,3.45,-12.444,21.851,8.975,6.724,5.344,5.373
+Qatar,Electronics,Revenue Change,Household Appliances,percent,Statista,,8.554,6.722,10.891,16.191,-1.618,13.325,6.086,5.208,5.684,5.18
+Qatar,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,755.6,650.4,588.9,619.1,564,441.9,469.8,458,442,430.2,420.2
+Qatar,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,626.1,538.4,488.3,533.1,477.8,368.6,403.1,395.8,383.5,374.1,366.3
+Qatar,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,262.9,228.1,206.1,191.4,186.9,155.8,153.7,146,138.6,134.5,130.5
+Qatar,Electronics,Online & Offline Split,Offline,percent,Statista,64.354,63.486,62.857,57.439,56.674,54.284,52.86,50.798,49.186,,
+Qatar,Electronics,Online & Offline Split,Online,percent,Statista,35.646,36.514,37.143,42.561,43.326,45.716,47.14,49.202,50.814,,
+Qatar,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.55,55.465,54.603,53.926,53.412,53.013,52.709,52.479,52.304,,
+Qatar,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.45,44.535,45.397,46.074,46.588,46.987,47.291,47.521,47.696,,
+Qatar,Electronics,Users by Segment,Total,million users,Statista,0.687,0.847,0.98,1.143,1.332,1.533,1.725,1.916,2.111,2.287,2.466
+Qatar,Electronics,Users by Segment,Consumer Electronics,million users,Statista,0.639,0.783,0.899,1.04,1.201,1.362,1.518,1.685,1.856,2.004,2.157
+Qatar,Electronics,Users by Segment,Household Appliances,million users,Statista,0.453,0.567,0.67,0.8,0.952,1.123,1.291,1.442,1.597,1.74,1.885
+Qatar,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,23.439,28.16,31.75,36.098,40.967,45.722,50.118,54.765,59.456,63.323,67.244
+Qatar,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,25.212,30.462,34.605,39.668,45.468,51.431,56.947,62.268,67.626,72.244,76.875
+Qatar,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,16.638,20.389,23.651,27.768,32.486,37.689,42.607,46.86,51.15,54.97,58.771
+Qatar,Consumer Electronics,Revenue,Total,million USD (US$),Statista,399.9,421.7,439,554.5,573.6,502.2,611.9,666.9,711.7,749.7,790
+Qatar,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,65.91,71.18,74.76,88.66,93.57,79.61,96.66,102.5,108.5,113.1,118
+Qatar,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,142.4,150.3,156.4,196.4,201.2,175.7,213.2,231.6,245.9,258.7,272.2
+Qatar,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,117.4,122.5,127.6,171.3,169.5,154.3,188.1,210.5,226.3,240,254.5
+Qatar,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,72.69,76.32,78.87,96.52,107.8,91.39,112.7,121.1,129.7,136.7,144.2
+Qatar,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,1.411,1.382,1.415,1.576,1.526,1.256,1.379,1.294,1.175,1.172,1.15
+Qatar,Consumer Electronics,Revenue Change,Total,percent,Statista,,5.469,4.106,26.288,3.45,-12.444,21.851,8.975,6.724,5.344,5.373
+Qatar,Consumer Electronics,Revenue Change,Computing,percent,Statista,,7.997,5.032,18.585,5.539,-14.922,21.418,5.993,5.913,4.25,4.308
+Qatar,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,5.541,4.056,25.543,2.476,-12.704,21.356,8.628,6.211,5.197,5.198
+Qatar,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,4.347,4.119,34.303,-1.084,-8.964,21.887,11.911,7.536,6.028,6.059
+Qatar,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,4.993,3.351,22.368,11.667,-15.207,23.284,7.476,7.15,5.395,5.441
+Qatar,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,-2.013,2.396,11.323,-3.144,-17.715,9.808,-6.131,-9.216,-0.299,-1.822
+Qatar,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,626.1,538.4,488.3,533.1,477.8,368.6,403.1,395.8,383.5,374.1,366.3
+Qatar,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,147.4,129.8,118.8,121.8,111.3,83.47,90.96,86.87,83.52,80.63,78.15
+Qatar,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,278.7,239.9,217.4,236,209.5,161.2,175.5,171.8,165.6,161.4,157.7
+Qatar,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,229.8,195.5,177.4,205.9,176.5,141.6,154.9,156.2,152.4,149.7,147.5
+Qatar,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,284.5,243.6,219.3,232,224.4,167.7,185.5,179.7,174.8,170.6,167.1
+Qatar,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,7.363,5.882,5.247,5.05,4.237,3.072,3.028,2.561,2.11,1.948,1.778
+Qatar,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,62.845,62.161,61.686,55.061,54.874,52.595,51.331,49.161,47.43,,
+Qatar,Consumer Electronics,Online & Offline Split,Online,percent,Statista,37.155,37.839,38.314,44.939,45.126,47.405,48.669,50.839,52.57,,
+Qatar,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,56.467,55.376,54.509,53.842,53.319,52.923,52.619,52.391,52.218,,
+Qatar,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,43.533,44.624,45.491,46.158,46.681,47.077,47.381,47.609,47.782,,
+Qatar,Consumer Electronics,Users,Total,million users,Statista,0.639,0.783,0.899,1.04,1.201,1.362,1.518,1.685,1.856,2.004,2.157
+Qatar,Consumer Electronics,Users,Computing,million users,Statista,0.447,0.548,0.629,0.728,0.84,0.954,1.063,1.179,1.299,1.403,1.51
+Qatar,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,0.511,0.627,0.719,0.832,0.96,1.09,1.214,1.348,1.485,1.603,1.726
+Qatar,Consumer Electronics,Users,Telephony,million users,Statista,0.511,0.627,0.719,0.832,0.96,1.09,1.214,1.348,1.485,1.603,1.726
+Qatar,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.255,0.313,0.36,0.416,0.48,0.545,0.607,0.674,0.742,0.802,0.863
+Qatar,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.192,0.235,0.27,0.312,0.36,0.409,0.455,0.505,0.557,0.601,0.647
+Qatar,Consumer Electronics,Penetration Rate,Computing,percent,Statista,16.407,19.712,22.225,25.269,28.677,32.005,35.082,38.335,41.619,44.328,47.074
+Qatar,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,23.439,28.16,31.75,36.098,40.967,45.722,50.118,54.765,59.456,63.323,67.244
+Qatar,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,18.751,22.528,25.4,28.879,32.774,36.577,40.094,43.812,47.564,50.66,53.799
+Qatar,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,18.751,22.528,25.4,28.879,32.774,36.577,40.094,43.812,47.564,50.66,53.799
+Qatar,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,9.376,11.264,12.7,14.439,16.387,18.289,20.047,21.906,23.782,25.33,26.9
+Qatar,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,7.032,8.448,9.525,10.829,12.29,13.716,15.035,16.429,17.837,18.998,20.175
+Qatar,Household Appliances,Revenue,Total,million USD (US$),Statista,119.2,129.4,138.1,153.1,177.9,175,198.4,210.4,221.4,234,246.1
+Qatar,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,54.24,58.88,62.56,69.3,81.98,82.55,94.18,100.6,106.7,113.4,120.1
+Qatar,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,26.8,29.1,31.05,34.44,40.01,39.36,44.61,47.32,49.79,52.74,55.59
+Qatar,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,38.14,41.41,44.46,49.39,55.92,53.12,59.56,62.53,64.94,67.78,70.42
+Qatar,Household Appliances,Revenue Change,Total,percent,Statista,,8.554,6.722,10.891,16.191,-1.618,13.325,6.086,5.208,5.684,5.18
+Qatar,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,8.552,6.259,10.761,18.31,0.694,14.088,6.787,6.048,6.361,5.847
+Qatar,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,8.554,6.722,10.891,16.191,-1.618,13.325,6.086,5.208,5.937,5.405
+Qatar,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,8.558,7.38,11.075,13.217,-5.007,12.139,4.977,3.856,4.379,3.888
+Qatar,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,262.9,228.1,206.1,191.4,186.9,155.8,153.7,146,138.6,134.5,130.5
+Qatar,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,299.1,259.5,233.5,216.5,215.3,183.8,182.4,174.4,167,163,159.2
+Qatar,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,295.6,256.5,231.8,215.2,210.1,175.2,172.8,164.1,155.9,151.6,147.4
+Qatar,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,105.2,91.26,82.98,77.17,73.42,59.12,57.69,54.22,50.84,48.7,46.7
+Qatar,Household Appliances,Online & Offline Split,Offline,percent,Statista,68.629,67.228,66.145,64.283,61.611,59.094,57.248,55.579,54.349,,
+Qatar,Household Appliances,Online & Offline Split,Online,percent,Statista,31.371,32.772,33.855,35.717,38.389,40.906,42.752,44.421,45.651,,
+Qatar,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,56.828,55.756,54.901,54.229,53.709,53.309,53.004,52.772,52.596,,
+Qatar,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,43.172,44.244,45.099,45.771,46.291,46.691,46.996,47.228,47.404,,
+Qatar,Household Appliances,Users,Total,million users,Statista,0.453,0.567,0.67,0.8,0.952,1.123,1.291,1.442,1.597,1.74,1.885
+Qatar,Household Appliances,Users,Major Appliances,million users,Statista,0.181,0.227,0.268,0.32,0.381,0.449,0.516,0.577,0.639,0.696,0.754
+Qatar,Household Appliances,Users,Other Household Appliances,million users,Statista,0.091,0.113,0.134,0.16,0.19,0.225,0.258,0.288,0.319,0.348,0.377
+Qatar,Household Appliances,Users,Small Appliances,million users,Statista,0.363,0.454,0.536,0.64,0.762,0.898,1.032,1.153,1.277,1.392,1.508
+Qatar,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,16.638,20.389,23.651,27.768,32.486,37.689,42.607,46.86,51.15,54.97,58.771
+Qatar,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,6.655,8.155,9.46,11.107,12.994,15.076,17.043,18.744,20.46,21.988,23.509
+Qatar,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,3.328,4.078,4.73,5.554,6.497,7.538,8.521,9.372,10.23,10.995,11.755
+Qatar,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,13.31,16.311,18.921,22.214,25.989,30.151,34.086,37.488,40.92,43.976,47.017
+Qatar,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,132.9,145.1,158.6,192.3,223.6,245.2,303.2,356.2,419.9,453.7,494
+Qatar,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,33.92,36.04,38.96,46.56,55.57,59.92,72.75,83.79,96.64,104.2,112.9
+Qatar,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.547,0.659,0.798,0.939,1.182,1.399,1.871,2.38,3.056,3.332,3.695
+Qatar,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,14.7,15.95,17.36,21.34,24.97,30.76,42.58,55.72,72.75,79.14,87.88
+Qatar,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,83.78,92.5,101.5,123.5,141.9,153.1,186,214.4,247.5,267,289.5
+Qatar,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,9.175,9.288,21.248,16.25,9.648,23.679,17.489,17.883,8.03,8.891
+Qatar,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,6.247,8.105,19.501,19.367,7.814,21.415,15.173,15.346,7.829,8.383
+Qatar,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,20.511,21.167,17.681,25.846,18.337,33.728,27.246,28.371,9.047,10.898
+Qatar,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,8.493,8.836,22.927,17.01,23.174,38.432,30.842,30.567,8.782,11.042
+Qatar,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,10.406,9.742,21.66,14.871,7.913,21.509,15.24,15.462,7.875,8.426
+Qatar,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,266.5,241.6,237.7,259.4,264.9,258.4,290.8,313.8,341.8,344.1,350.7
+Qatar,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,97.15,85.68,83.39,89.72,94.07,90.21,99.68,105.4,112.4,112.9,114.5
+Qatar,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,1.712,1.713,1.869,1.98,2.189,2.304,2.804,3.276,3.886,3.949,4.099
+Qatar,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,77.58,69.87,68.46,75.77,77.87,85.31,107.5,129.1,155.8,158,164.2
+Qatar,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,270.9,248.3,245.3,268.7,271.1,260.2,287.8,304.5,324.9,326.6,331.5
+Qatar,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,84.79,84.162,83.487,80.136,78.514,76.622,74.451,71.769,68.749,,
+Qatar,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,15.21,15.838,16.513,19.864,21.486,23.378,25.549,28.231,31.251,,
+Qatar,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,58.663,57.088,55.782,54.792,53.993,53.223,52.544,51.966,51.434,,
+Qatar,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,41.337,42.912,44.218,45.208,46.007,46.777,47.456,48.034,48.566,,
+Qatar,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,0.499,0.601,0.667,0.741,0.844,0.949,1.043,1.135,1.229,1.318,1.409
+Qatar,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.349,0.421,0.467,0.519,0.591,0.664,0.73,0.795,0.86,0.923,0.986
+Qatar,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.319,0.385,0.427,0.474,0.54,0.607,0.667,0.727,0.786,0.844,0.902
+Qatar,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.19,0.228,0.254,0.282,0.321,0.361,0.396,0.431,0.467,0.501,0.535
+Qatar,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.309,0.373,0.414,0.46,0.523,0.588,0.646,0.704,0.762,0.817,0.873
+Qatar,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,18.306,21.601,23.567,25.731,28.798,31.841,34.419,36.904,39.356,41.656,43.917
+Qatar,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,12.815,15.121,16.497,18.012,20.159,22.289,24.093,25.833,27.549,29.159,30.742
+Qatar,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,11.716,13.824,15.083,16.468,18.431,20.379,22.028,23.619,25.188,26.66,28.107
+Qatar,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,6.956,8.208,8.956,9.778,10.943,12.1,13.079,14.024,14.955,15.829,16.689
+Qatar,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,11.35,13.392,14.612,15.953,17.855,19.742,21.34,22.881,24.401,25.827,27.228
+Qatar,Personal Care,Revenue,Total,million USD (US$),Statista,83.78,92.5,101.5,123.5,141.9,153.1,186,214.4,247.5,267,289.5
+Qatar,Personal Care,Revenue,Body Care,million USD (US$),Statista,12.95,14.66,16.1,19.87,22.78,24.76,30.26,35.01,40.6,43.88,47.66
+Qatar,Personal Care,Revenue,Eye Care,million USD (US$),Statista,7.888,8.348,9.032,10.57,12.56,13.2,15.88,18.35,21.23,22.8,24.67
+Qatar,Personal Care,Revenue,Hair Care,million USD (US$),Statista,13.62,15.7,17.17,21.21,22.66,24.42,29.59,33.94,39.02,42,45.44
+Qatar,Personal Care,Revenue,Oral Care,million USD (US$),Statista,7.146,7.94,8.508,10.47,12.01,13,15.81,18.22,21.03,22.68,24.6
+Qatar,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,24.45,27.78,30.3,37.4,41.67,45.1,54.88,63.23,73.01,78.74,85.37
+Qatar,Personal Care,Revenue,Skin Care,million USD (US$),Statista,17.73,18.07,20.39,23.97,30.19,32.6,39.6,45.61,52.62,56.88,61.74
+Qatar,Personal Care,Revenue Change,Total,percent,Statista,,10.406,9.742,21.66,14.871,7.913,21.509,15.24,15.462,7.875,8.426
+Qatar,Personal Care,Revenue Change,Body Care,percent,Statista,,13.219,9.831,23.423,14.633,8.714,22.201,15.707,15.953,8.077,8.628
+Qatar,Personal Care,Revenue Change,Eye Care,percent,Statista,,5.828,8.195,17.001,18.866,5.124,20.227,15.562,15.7,7.427,8.181
+Qatar,Personal Care,Revenue Change,Hair Care,percent,Statista,,15.298,9.368,23.537,6.801,7.781,21.157,14.73,14.955,7.63,8.194
+Qatar,Personal Care,Revenue Change,Oral Care,percent,Statista,,11.106,7.158,23.068,14.667,8.24,21.658,15.204,15.45,7.873,8.424
+Qatar,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,13.611,9.087,23.398,11.417,8.247,21.678,15.22,15.459,7.861,8.418
+Qatar,Personal Care,Revenue Change,Skin Care,percent,Statista,,1.927,12.852,17.58,25.925,7.977,21.472,15.177,15.374,8.1,8.553
+Qatar,Personal Care,Average Revenue per User,Total,USD (US$),Statista,270.9,248.3,245.3,268.7,271.1,260.2,287.8,304.5,324.9,326.6,331.5
+Qatar,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,61.56,57.86,57.21,63.58,64.02,61.9,68.85,73.15,78.38,78.93,80.26
+Qatar,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,51.01,44.82,43.65,45.98,48.01,44.89,49.12,52.13,55.73,55.79,56.5
+Qatar,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,84.68,81.05,79.8,88.76,83.27,79.83,88.02,92.73,98.51,98.81,100.1
+Qatar,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,47.16,43.5,41.96,46.49,46.83,45.09,49.92,52.81,56.34,56.64,57.48
+Qatar,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,175.7,165.7,162.7,180.8,177,170.4,188.7,199.6,213,214.1,217.2
+Qatar,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,130.3,110.2,112,118.5,131.1,125.9,139.2,147.2,157,158.1,160.7
+Qatar,Personal Care,Online & Offline Split,Offline,percent,Statista,77.852,76.886,75.914,70.112,68.249,66.305,64.166,61.253,58.023,,
+Qatar,Personal Care,Online & Offline Split,Online,percent,Statista,22.148,23.114,24.086,29.888,31.751,33.695,35.834,38.747,41.977,,
+Qatar,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,56.81,55.738,54.882,54.21,53.691,53.291,52.985,52.753,52.577,,
+Qatar,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,43.19,44.262,45.118,45.79,46.309,46.709,47.015,47.247,47.423,,
+Qatar,Personal Care,Users,Total,million users,Statista,0.309,0.373,0.414,0.46,0.523,0.588,0.646,0.704,0.762,0.817,0.873
+Qatar,Personal Care,Users,Body Care,million users,Statista,0.21,0.253,0.281,0.313,0.356,0.4,0.44,0.479,0.518,0.556,0.594
+Qatar,Personal Care,Users,Eye Care,million users,Statista,0.155,0.186,0.207,0.23,0.262,0.294,0.323,0.352,0.381,0.409,0.437
+Qatar,Personal Care,Users,Hair Care,million users,Statista,0.161,0.194,0.215,0.239,0.272,0.306,0.336,0.366,0.396,0.425,0.454
+Qatar,Personal Care,Users,Oral Care,million users,Statista,0.152,0.183,0.203,0.225,0.256,0.288,0.317,0.345,0.373,0.401,0.428
+Qatar,Personal Care,Users,Other Personal Care,million users,Statista,0.139,0.168,0.186,0.207,0.235,0.265,0.291,0.317,0.343,0.368,0.393
+Qatar,Personal Care,Users,Skin Care,million users,Statista,0.136,0.164,0.182,0.202,0.23,0.259,0.284,0.31,0.335,0.36,0.384
+Qatar,Personal Care,Penetration Rate,Body Care,percent,Statista,7.718,9.107,9.936,10.848,12.141,13.424,14.511,15.559,16.592,17.562,18.516
+Qatar,Personal Care,Penetration Rate,Eye Care,percent,Statista,5.675,6.696,7.306,7.977,8.927,9.871,10.67,11.44,12.2,12.913,13.613
+Qatar,Personal Care,Penetration Rate,Hair Care,percent,Statista,5.902,6.964,7.598,8.296,9.285,10.266,11.097,11.898,12.688,13.429,14.158
+Qatar,Personal Care,Penetration Rate,Oral Care,percent,Statista,5.561,6.562,7.16,7.817,8.749,9.673,10.457,11.212,11.956,12.655,13.341
+Qatar,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,5.107,6.027,6.575,7.179,8.035,8.884,9.603,10.296,10.98,11.622,12.252
+Qatar,Personal Care,Penetration Rate,Personal Care,percent,Statista,11.35,13.392,14.612,15.953,17.855,19.742,21.34,22.881,24.401,25.827,27.228
+Qatar,Personal Care,Penetration Rate,Skin Care,percent,Statista,4.994,5.893,6.429,7.019,7.856,8.686,9.39,10.067,10.736,11.363,11.98
+Qatar,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,97.15,85.68,83.39,89.72,94.07,90.21,99.68,105.4,112.4,112.9,114.5
+Qatar,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,57.94,51.67,48.87,52.9,54.19,51.92,57.33,60.56,64.49,64.68,65.53
+Qatar,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,11.42,10.97,11.79,12.19,12.54,12.05,13.53,14.71,16.04,16.17,16.51
+Qatar,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,198.9,171.7,168.4,181.5,194.5,186.5,205.7,216.8,230.4,232,235.6
+Qatar,Beauty Care,Revenue,Total,million USD (US$),Statista,33.92,36.04,38.96,46.56,55.57,59.92,72.75,83.79,96.64,104.2,112.9
+Qatar,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,14.16,15.21,15.98,19.21,22.41,24.14,29.29,33.69,38.82,41.79,45.23
+Qatar,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,2.393,2.768,3.305,3.795,4.444,4.801,5.924,7.015,8.275,8.956,9.765
+Qatar,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,17.36,18.06,19.67,23.55,28.72,30.97,37.54,43.08,49.54,53.47,57.95
+Qatar,Beauty Care,Revenue Change,Total,percent,Statista,,6.247,8.105,19.501,19.367,7.814,21.415,15.173,15.346,7.829,8.383
+Qatar,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,7.427,5.054,20.222,16.619,7.739,21.307,15.045,15.231,7.635,8.245
+Qatar,Beauty Care,Revenue Change,Fragrances,percent,Statista,,15.68,19.398,14.823,17.088,8.028,23.414,18.414,17.956,8.228,9.039
+Qatar,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,3.985,8.945,19.701,21.977,7.839,21.19,14.762,15.01,7.914,8.38
+Qatar,Beauty Care,Online & Offline Split,Offline,percent,Statista,73.956,73.837,73.724,68.094,66.509,65.144,63.548,61.39,59.054,,
+Qatar,Beauty Care,Online & Offline Split,Online,percent,Statista,26.044,26.163,26.276,31.906,33.491,34.856,36.452,38.61,40.946,,
+Qatar,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.332,62.103,59.997,58.689,57.526,56.658,55.94,55.459,55.203,,
+Qatar,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.668,37.897,40.003,41.311,42.474,43.342,44.06,44.541,44.797,,
+Qatar,Beauty Care,Users by Segment,Total,million users,Statista,0.349,0.421,0.467,0.519,0.591,0.664,0.73,0.795,0.86,0.923,0.986
+Qatar,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.244,0.294,0.327,0.363,0.414,0.465,0.511,0.556,0.602,0.646,0.69
+Qatar,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.209,0.252,0.28,0.311,0.354,0.399,0.438,0.477,0.516,0.554,0.592
+Qatar,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.087,0.105,0.117,0.13,0.148,0.166,0.182,0.199,0.215,0.23,0.246
+Qatar,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,12.815,15.121,16.497,18.012,20.159,22.289,24.093,25.833,27.549,29.159,30.742
+Qatar,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,8.97,10.584,11.548,12.608,14.111,15.602,16.865,18.083,19.284,20.412,21.519
+Qatar,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,7.689,9.072,9.898,10.807,12.095,13.373,14.456,15.5,16.529,17.496,18.445
+Qatar,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,3.204,3.78,4.124,4.503,5.04,5.572,6.023,6.458,6.887,7.281,7.668
+Qatar,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,1.712,1.713,1.869,1.98,2.189,2.304,2.804,3.276,3.886,3.949,4.099
+Qatar,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,3.939,3.707,3.765,3.67,3.701,3.513,3.812,3.927,4.066,4.073,4.106
+Qatar,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.41,0.49,0.633,0.785,1.006,1.212,1.669,2.18,2.861,2.928,3.093
+Qatar,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.59,0.654,0.782,0.898,1.068,1.195,1.528,1.852,2.254,2.311,2.422
+Qatar,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.016,0.016,0.017,0.023,0.021,0.02,0.022,0.025,0.027,0.028,0.028
+Qatar,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.057,0.061,0.071,0.082,0.093,0.102,0.126,0.15,0.179,0.183,0.19
+Qatar,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,2.243,2.242,2.445,2.589,2.861,3.01,3.663,4.279,5.076,5.165,5.368
+Qatar,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,0.054,0.049,0.049,0.046,0.045,0.041,0.044,0.044,0.044,0.043,0.043
+Qatar,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.056,0.051,0.05,0.047,0.045,0.041,0.042,0.042,0.041,0.04,0.04
+Qatar,Health Care,Revenue,Total,thousand USD (US$),Statista,546.6,658.7,798.2,939.3,"1,182","1,399","1,871","2,380","3,056","3,332","3,695"
+Qatar,Health Care,Revenue,Analgesics,thousand USD (US$),Statista,251.5,285.1,321.7,348.2,399.8,426.7,508.7,570.8,639.4,686.5,738.4
+Qatar,Health Care,Revenue,Cold & Cough Remedies,thousand USD (US$),Statista,52.37,75.44,108.2,148.9,217.3,294.4,445.4,633.7,899.7,988.3,"1,115"
+Qatar,Health Care,Revenue,Digestives & Intestinal Remedies,thousand USD (US$),Statista,56.53,75.4,100.2,127.9,173.1,217.7,305.8,403.8,531.7,584.4,653.6
+Qatar,Health Care,Revenue,Hand Sanitizer,thousand USD (US$),Statista,2.012,2.408,2.88,4.312,4.552,4.787,5.944,7.166,8.635,9.338,10.2
+Qatar,Health Care,Revenue,Incontinence,thousand USD (US$),Statista,3.62,4.701,6.086,7.796,10.07,12.34,16.87,21.79,28.09,30.77,34.21
+Qatar,Health Care,Revenue,Other Health Care,thousand USD (US$),Statista,164.7,198.3,240.2,282.5,355.4,420.4,562.1,715.2,918.1,"1,001","1,110"
+Qatar,Health Care,Revenue,Skin Treatment,thousand USD (US$),Statista,6.932,7.591,8.3,8.717,9.714,10.06,11.66,12.7,13.81,14.64,15.52
+Qatar,Health Care,Revenue,Vitamins & Minerals,thousand USD (US$),Statista,8.989,9.802,10.63,11.05,12.17,12.43,14.17,15.19,16.23,17.07,17.95
+Qatar,Health Care,Revenue Change,Total,percent,Statista,,20.511,21.167,17.681,25.846,18.337,33.728,27.246,28.371,9.047,10.898
+Qatar,Health Care,Revenue Change,Analgesics,percent,Statista,,13.344,12.835,8.249,14.828,6.709,19.223,12.206,12.02,7.365,7.563
+Qatar,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,44.046,43.441,37.604,45.913,35.51,51.277,42.285,41.971,9.845,12.844
+Qatar,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,33.38,32.911,27.587,35.369,25.779,40.47,32.043,31.682,9.912,11.825
+Qatar,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,19.673,19.63,49.719,5.561,5.164,24.174,20.55,20.504,8.142,9.272
+Qatar,Health Care,Revenue Change,Incontinence,percent,Statista,,29.874,29.457,28.109,29.112,22.599,36.685,29.181,28.913,9.526,11.206
+Qatar,Health Care,Revenue Change,Other Health Care,percent,Statista,,20.449,21.107,17.601,25.819,18.301,33.701,27.228,28.366,9.045,10.897
+Qatar,Health Care,Revenue Change,Skin Treatment,percent,Statista,,9.507,9.347,5.016,11.44,3.612,15.813,8.963,8.752,5.965,6.048
+Qatar,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,9.043,8.467,3.942,10.111,2.174,13.987,7.158,6.874,5.151,5.166
+Qatar,Health Care,Online & Offline Split,Offline,percent,Statista,99.429,99.339,99.229,99.105,98.926,98.704,98.423,98.065,97.605,,
+Qatar,Health Care,Online & Offline Split,Online,percent,Statista,0.571,0.661,0.771,0.895,1.074,1.296,1.577,1.935,2.395,,
+Qatar,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,68.229,64.84,62.189,59.573,57.023,54.516,51.864,49.293,46.669,,
+Qatar,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,31.771,35.16,37.811,40.427,42.977,45.484,48.136,50.707,53.331,,
+Qatar,Health Care,Users by Segment,Total,million users,Statista,0.319,0.385,0.427,0.474,0.54,0.607,0.667,0.727,0.786,0.844,0.902
+Qatar,Health Care,Users by Segment,Analgesics,million users,Statista,0.064,0.077,0.085,0.095,0.108,0.121,0.133,0.145,0.157,0.169,0.18
+Qatar,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.128,0.154,0.171,0.19,0.216,0.243,0.267,0.291,0.315,0.338,0.361
+Qatar,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.096,0.115,0.128,0.142,0.162,0.182,0.2,0.218,0.236,0.253,0.27
+Qatar,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.128,0.154,0.171,0.19,0.216,0.243,0.267,0.291,0.315,0.338,0.361
+Qatar,Health Care,Users by Segment,Incontinence,million users,Statista,0.064,0.077,0.085,0.095,0.108,0.121,0.133,0.145,0.157,0.169,0.18
+Qatar,Health Care,Users by Segment,Other Health Care,million users,Statista,0.073,0.088,0.098,0.109,0.124,0.14,0.153,0.167,0.181,0.194,0.207
+Qatar,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.128,0.154,0.171,0.19,0.216,0.243,0.267,0.291,0.315,0.338,0.361
+Qatar,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.16,0.192,0.214,0.237,0.27,0.304,0.334,0.363,0.393,0.422,0.451
+Qatar,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,2.343,2.765,3.017,3.294,3.686,4.076,4.406,4.724,5.038,5.325,5.607
+Qatar,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,4.686,5.53,6.033,6.587,7.372,8.151,8.811,9.447,10.075,10.664,11.242
+Qatar,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,3.515,4.147,4.525,4.94,5.529,6.114,6.608,7.086,7.556,7.989,8.414
+Qatar,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,4.686,5.53,6.033,6.587,7.372,8.151,8.811,9.447,10.075,10.664,11.242
+Qatar,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,11.716,13.824,15.083,16.468,18.431,20.379,22.028,23.619,25.188,26.66,28.107
+Qatar,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,2.343,2.765,3.017,3.294,3.686,4.076,4.406,4.724,5.038,5.325,5.607
+Qatar,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,2.695,3.18,3.469,3.788,4.239,4.687,5.066,5.432,5.793,6.124,6.448
+Qatar,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,4.686,5.53,6.033,6.587,7.372,8.151,8.811,9.447,10.075,10.664,11.242
+Qatar,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,5.858,6.912,7.542,8.234,9.215,10.189,11.014,11.809,12.594,13.329,14.052
+Qatar,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,77.58,69.87,68.46,75.77,77.87,85.31,107.5,129.1,155.8,158,164.2
+Qatar,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,13.54,12.18,11.92,13.76,14.42,15.72,19.65,23.41,28.01,28.48,29.63
+Qatar,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,18.47,16.52,16.07,18.96,19.98,21.72,27.06,32.14,38.35,39,40.56
+Qatar,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,0.67,0.599,0.579,0.549,0.516,0.472,0.488,0.481,0.477,0.468,0.462
+Qatar,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,43.44,39.18,38.42,41.2,41.75,45.9,57.89,69.61,84.06,85.23,88.65
+Qatar,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,145.5,130.8,127.9,141.5,145.4,159.2,199.8,239.2,287.6,292,303.7
+Qatar,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.302,0.273,0.267,0.258,0.245,0.224,0.234,0.233,0.232,0.229,0.227
+Qatar,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,17.99,16.13,15.74,16.57,16.65,18.31,23.08,27.75,33.51,33.94,35.29
+Qatar,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,24.44,22.32,22.2,24.75,25.57,28.25,36.64,45.3,56.18,57.05,59.61
+Qatar,Household Care,Revenue,Total,million USD (US$),Statista,14.7,15.95,17.36,21.34,24.97,30.76,42.58,55.72,72.75,79.14,87.88
+Qatar,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,1.078,1.168,1.269,1.628,1.942,2.381,3.27,4.243,5.493,5.985,6.644
+Qatar,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,1.575,1.697,1.835,2.404,2.884,3.524,4.824,6.24,8.057,8.782,9.747
+Qatar,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.029,0.031,0.034,0.036,0.038,0.039,0.044,0.048,0.051,0.054,0.057
+Qatar,Household Care,Revenue,Laundry Care,million USD (US$),Statista,3.293,3.578,3.898,4.642,5.355,6.62,9.174,12.01,15.7,17.06,18.93
+Qatar,Household Care,Revenue,Other Household Care,million USD (US$),Statista,6.066,6.57,7.137,8.769,10.26,12.63,17.42,22.71,29.54,32.14,35.67
+Qatar,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.018,0.02,0.022,0.023,0.025,0.026,0.03,0.032,0.035,0.037,0.039
+Qatar,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,1.023,1.105,1.197,1.401,1.602,1.98,2.743,3.592,4.693,5.095,5.651
+Qatar,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,1.621,1.784,1.971,2.441,2.87,3.565,5.08,6.841,9.18,9.991,11.14
+Qatar,Household Care,Revenue Change,Total,percent,Statista,,8.493,8.836,22.927,17.01,23.174,38.432,30.842,30.567,8.782,11.042
+Qatar,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,8.361,8.7,28.285,19.288,22.582,37.327,29.75,29.478,8.955,11.016
+Qatar,Household Care,Revenue Change,Household Cleaners,percent,Statista,,7.721,8.11,31.018,19.979,22.187,36.915,29.354,29.104,9,10.997
+Qatar,Household Care,Revenue Change,Household Paper,percent,Statista,,7.7,7.398,5.337,7.101,2.861,13.561,7.365,7.177,5.211,5.256
+Qatar,Household Care,Revenue Change,Laundry Care,percent,Statista,,8.646,8.945,19.085,15.361,23.624,38.569,30.958,30.664,8.669,10.989
+Qatar,Household Care,Revenue Change,Other Household Care,percent,Statista,,8.301,8.633,22.871,16.963,23.095,37.958,30.37,30.097,8.779,10.986
+Qatar,Household Care,Revenue Change,Paper Tissues,percent,Statista,,8.923,8.569,7.436,8.276,2.813,14.626,8.307,8.059,5.684,5.734
+Qatar,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,8.021,8.353,16.973,14.394,23.585,38.53,30.931,30.656,8.563,10.926
+Qatar,Household Care,Revenue Change,Toilet Paper,percent,Statista,,10.045,10.475,23.836,17.597,24.224,42.486,34.656,34.19,8.832,11.481
+Qatar,Household Care,Online & Offline Split,Offline,percent,Statista,94.552,94.279,93.958,92.983,92.143,90.22,87.816,84.885,81.375,,
+Qatar,Household Care,Online & Offline Split,Online,percent,Statista,5.448,5.721,6.042,7.017,7.857,9.78,12.184,15.115,18.625,,
+Qatar,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,55.783,53.273,51.287,49.445,47.701,46.133,44.842,43.797,42.739,,
+Qatar,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,44.217,46.727,48.713,50.555,52.299,53.867,55.158,56.203,57.261,,
+Qatar,Household Care,Users by Segment,Total,million users,Statista,0.19,0.228,0.254,0.282,0.321,0.361,0.396,0.431,0.467,0.501,0.535
+Qatar,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.08,0.096,0.107,0.118,0.135,0.151,0.166,0.181,0.196,0.21,0.224
+Qatar,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.085,0.103,0.114,0.127,0.144,0.162,0.178,0.194,0.21,0.225,0.24
+Qatar,Household Care,Users by Segment,Household Paper,million users,Statista,0.044,0.053,0.058,0.065,0.074,0.083,0.091,0.099,0.107,0.115,0.123
+Qatar,Household Care,Users by Segment,Laundry Care,million users,Statista,0.076,0.091,0.101,0.113,0.128,0.144,0.158,0.173,0.187,0.2,0.214
+Qatar,Household Care,Users by Segment,Other Household Care,million users,Statista,0.042,0.05,0.056,0.062,0.071,0.079,0.087,0.095,0.103,0.11,0.117
+Qatar,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.061,0.073,0.081,0.09,0.103,0.115,0.127,0.138,0.149,0.16,0.171
+Qatar,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.057,0.068,0.076,0.085,0.096,0.108,0.119,0.129,0.14,0.15,0.16
+Qatar,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.066,0.08,0.089,0.099,0.112,0.126,0.139,0.151,0.163,0.175,0.187
+Qatar,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.922,3.447,3.761,4.107,4.596,5.082,5.493,5.89,6.281,6.64,6.992
+Qatar,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,6.956,8.208,8.956,9.778,10.943,12.1,13.079,14.024,14.955,15.829,16.689
+Qatar,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,3.13,3.694,4.03,4.4,4.925,5.445,5.886,6.311,6.73,7.114,7.492
+Qatar,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,1.6,1.888,2.06,2.249,2.517,2.783,3.008,3.225,3.44,3.635,3.827
+Qatar,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,2.783,3.283,3.582,3.911,4.377,4.84,5.232,5.609,5.982,6.323,6.659
+Qatar,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,1.53,1.806,1.97,2.151,2.408,2.662,2.877,3.085,3.29,3.477,3.661
+Qatar,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.226,2.627,2.866,3.129,3.502,3.872,4.185,4.488,4.786,5.058,5.326
+Qatar,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.087,2.462,2.687,2.933,3.283,3.63,3.924,4.207,4.487,4.742,4.993
+Qatar,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,2.435,2.873,3.134,3.422,3.83,4.235,4.578,4.908,5.234,5.533,5.826
+Qatar,Food,Revenue,Total,million USD (US$),Statista,192.1,244.7,271.9,442.6,527.4,662.2,934.3,"1,062","1,189","1,321","1,452"
+Qatar,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,24.48,31.07,34.95,68.27,85.88,97.09,124.3,133.1,139.2,153.8,166.3
+Qatar,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,21.68,27.9,31.32,53.57,60.16,78.73,114.3,125.7,135,151.4,166.3
+Qatar,Food,Revenue,Convenience Food,million USD (US$),Statista,12.04,14.95,16.41,32.11,45.3,45.69,52.09,55.77,58.23,62.79,66.55
+Qatar,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,13.75,18.14,20.08,30.11,34.27,45.36,66.91,79.07,91.81,102.1,113
+Qatar,Food,Revenue,Fish & Seafood,million USD (US$),Statista,41.02,50.31,57,85.63,106.6,139.9,204.7,221.5,233.7,262.6,288.1
+Qatar,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,18.62,24.24,26.66,40.74,44,56.86,81.83,92.12,101.8,113.4,124.6
+Qatar,Food,Revenue,Meat,million USD (US$),Statista,34.33,44.78,49.21,76.17,85.2,111.3,162,212.8,274.3,301.9,337
+Qatar,Food,Revenue,Oils & Fats,million USD (US$),Statista,3.438,4.222,4.718,7.02,8.818,11.71,17.34,18.84,19.96,22.44,24.64
+Qatar,Food,Revenue,Sauces & Spices,million USD (US$),Statista,1.76,2.2,2.388,3.192,3.5,4.538,6.581,8.493,10.8,11.84,13.17
+Qatar,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,1.146,1.476,1.724,2.372,2.776,3.764,5.7,7.519,9.816,10.81,12.09
+Qatar,Food,Revenue,Vegetables,million USD (US$),Statista,19.82,25.42,27.39,43.43,50.92,67.14,98.57,107.3,114,128,140.4
+Qatar,Food,Revenue Change,Total,percent,Statista,,27.395,11.091,62.813,19.156,25.55,41.098,13.691,11.907,11.13,9.924
+Qatar,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,26.925,12.462,95.357,25.794,13.049,28.019,7.1,4.574,10.509,8.091
+Qatar,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,28.675,12.279,71.04,12.301,30.858,45.124,10.004,7.392,12.154,9.874
+Qatar,Food,Revenue Change,Convenience Food,percent,Statista,,24.156,9.805,95.661,41.075,0.844,14.022,7.06,4.407,7.831,5.989
+Qatar,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,31.946,10.653,49.965,13.816,32.36,47.52,18.172,16.114,11.183,10.67
+Qatar,Food,Revenue Change,Fish & Seafood,percent,Statista,,22.644,13.294,50.218,24.468,31.306,46.261,8.193,5.539,12.367,9.685
+Qatar,Food,Revenue Change,Fruits & Nuts,percent,Statista,,30.159,9.99,52.807,8.009,29.227,43.919,12.569,10.56,11.307,9.884
+Qatar,Food,Revenue Change,Meat,percent,Statista,,30.437,9.895,54.776,11.856,30.682,45.524,31.337,28.902,10.04,11.642
+Qatar,Food,Revenue Change,Oils & Fats,percent,Statista,,22.795,11.731,48.794,25.617,32.768,48.148,8.641,5.941,12.423,9.797
+Qatar,Food,Revenue Change,Sauces & Spices,percent,Statista,,24.949,8.574,33.652,9.639,29.669,45.021,29.056,27.112,9.687,11.223
+Qatar,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,28.792,16.83,37.568,17.04,35.584,51.426,31.924,30.548,10.109,11.865
+Qatar,Food,Revenue Change,Vegetables,percent,Statista,,28.288,7.752,58.557,17.229,31.866,46.806,8.89,6.224,12.241,9.734
+Qatar,Food,Average Revenue per User,Total,USD (US$),Statista,773.5,817.1,799.9,"1,137","1,184","1,312","1,658","1,708","1,742","1,796","1,838"
+Qatar,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,209.8,220.7,218.8,373.2,410.1,409.2,469.4,455.3,434.1,445,447.8
+Qatar,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,178.2,190.1,188.1,280.9,275.5,318.2,413.9,412.3,403.7,420,429.7
+Qatar,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,86.57,89.12,86.23,147.3,181.5,161.6,165.1,160.1,152.4,152.5,150.4
+Qatar,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,240.8,263.4,256.8,336.4,334.4,390.6,516.4,552.7,585.1,604.3,623.4
+Qatar,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,869.5,884.2,882.7,"1,158","1,259","1,459","1,912","1,874","1,803","1,882","1,925"
+Qatar,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,144.2,155.6,150.8,201.3,189.9,216.6,279.3,284.8,287.1,296.4,303.2
+Qatar,Food,Average Revenue per User,Meat,USD (US$),Statista,460.9,498.4,482.7,652.4,637.3,735.2,958.7,"1,140","1,340","1,368","1,422"
+Qatar,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,55.39,56.39,55.52,72.14,79.15,92.76,123.1,121.2,117,122.2,125
+Qatar,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,16.11,16.69,15.97,18.64,17.85,20.43,26.55,31.03,35.96,36.59,37.89
+Qatar,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,13.98,14.93,15.37,18.47,18.88,22.59,30.66,36.63,43.6,44.54,46.38
+Qatar,Food,Average Revenue per User,Vegetables,USD (US$),Statista,162.9,173.2,164.5,227.8,233.2,271.4,357.1,352.2,341.1,355.1,362.8
+Qatar,Food,Online & Offline Split,Offline,percent,Statista,97.081,96.919,96.706,95.548,94.844,93.483,91.823,91.344,90.757,,
+Qatar,Food,Online & Offline Split,Online,percent,Statista,2.919,3.081,3.294,4.452,5.156,6.517,8.177,8.656,9.243,,
+Qatar,Food,Mobile/Desktop Split,Desktop,percent,Statista,54.157,52.068,50.387,48.319,47.045,46.296,45.727,45.616,45.693,,
+Qatar,Food,Mobile/Desktop Split,Mobile,percent,Statista,45.843,47.932,49.613,51.681,52.955,53.704,54.273,54.384,54.307,,
+Qatar,Food,Users,Total,million users,Statista,0.248,0.3,0.34,0.389,0.446,0.505,0.563,0.622,0.682,0.735,0.79
+Qatar,Food,Users,Bread & Cereal Products,million users,Statista,0.117,0.141,0.16,0.183,0.209,0.237,0.265,0.292,0.321,0.346,0.371
+Qatar,Food,Users,Confectionery & Snacks,million users,Statista,0.122,0.147,0.167,0.191,0.218,0.247,0.276,0.305,0.334,0.36,0.387
+Qatar,Food,Users,Convenience Food,million users,Statista,0.139,0.168,0.19,0.218,0.25,0.283,0.315,0.348,0.382,0.412,0.442
+Qatar,Food,Users,Dairy Products & Eggs,million users,Statista,0.057,0.069,0.078,0.09,0.102,0.116,0.13,0.143,0.157,0.169,0.181
+Qatar,Food,Users,Fish & Seafood,million users,Statista,0.047,0.057,0.065,0.074,0.085,0.096,0.107,0.118,0.13,0.14,0.15
+Qatar,Food,Users,Fruits & Nuts,million users,Statista,0.129,0.156,0.177,0.202,0.232,0.263,0.293,0.323,0.355,0.382,0.411
+Qatar,Food,Users,Meat,million users,Statista,0.074,0.09,0.102,0.117,0.134,0.151,0.169,0.187,0.205,0.221,0.237
+Qatar,Food,Users,Oils & Fats,million users,Statista,0.062,0.075,0.085,0.097,0.111,0.126,0.141,0.156,0.171,0.184,0.197
+Qatar,Food,Users,Sauces & Spices,million users,Statista,0.109,0.132,0.15,0.171,0.196,0.222,0.248,0.274,0.3,0.324,0.348
+Qatar,Food,Users,Spreads & Sweeteners,million users,Statista,0.082,0.099,0.112,0.128,0.147,0.167,0.186,0.205,0.225,0.243,0.261
+Qatar,Food,Users,Vegetables,million users,Statista,0.122,0.147,0.167,0.191,0.218,0.247,0.276,0.305,0.334,0.36,0.387
+Qatar,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,4.284,5.061,5.64,6.349,7.147,7.963,8.742,9.503,10.272,10.921,11.576
+Qatar,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,4.466,5.276,5.88,6.619,7.451,8.301,9.114,9.907,10.709,11.386,12.069
+Qatar,Food,Penetration Rate,Convenience Food,percent,Statista,5.104,6.03,6.72,7.565,8.515,9.487,10.416,11.323,12.238,13.013,13.793
+Qatar,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.096,2.476,2.76,3.107,3.497,3.897,4.278,4.65,5.027,5.337,5.65
+Qatar,Food,Penetration Rate,Fish & Seafood,percent,Statista,1.732,2.046,2.28,2.567,2.889,3.219,3.534,3.842,4.152,4.408,4.667
+Qatar,Food,Penetration Rate,Food,percent,Statista,9.114,10.767,12.001,13.509,15.206,16.942,18.6,20.219,21.854,23.236,24.63
+Qatar,Food,Penetration Rate,Fruits & Nuts,percent,Statista,4.739,5.599,6.24,7.025,7.907,8.81,9.672,10.514,11.364,12.083,12.808
+Qatar,Food,Penetration Rate,Meat,percent,Statista,2.734,3.23,3.6,4.053,4.562,5.083,5.58,6.066,6.556,6.971,7.389
+Qatar,Food,Penetration Rate,Oils & Fats,percent,Statista,2.279,2.692,3,3.377,3.801,4.235,4.65,5.055,5.464,5.804,6.147
+Qatar,Food,Penetration Rate,Sauces & Spices,percent,Statista,4.01,4.738,5.28,5.944,6.691,7.454,8.184,8.896,9.616,10.224,10.838
+Qatar,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.008,3.553,3.96,4.458,5.018,5.591,6.138,6.672,7.212,7.668,8.128
+Qatar,Food,Penetration Rate,Vegetables,percent,Statista,4.466,5.276,5.88,6.619,7.451,8.301,9.114,9.907,10.709,11.386,12.069
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,209.8,220.7,218.8,373.2,410.1,409.2,469.4,455.3,434.1,445,447.8
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,123.9,127,129.4,230,247.4,220.4,225.5,219,208.9,207.4,203.7
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,5.921,6.224,5.898,8.403,9.685,11.41,15.21,15.15,14.82,15.49,15.88
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,105.6,110.2,109.5,186.1,208.6,215,253.8,246.7,235.7,245.4,250
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,18.3,18.82,18.71,32.17,38.04,33.85,34.6,33.57,31.98,31.92,31.45
+Qatar,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,70.54,77.61,74.4,122.1,132.6,150.2,190.3,183.8,174.6,182.6,186.4
+Qatar,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,24.48,31.07,34.95,68.27,85.88,97.09,124.3,133.1,139.2,153.8,166.3
+Qatar,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,9.112,11.26,13.03,26.51,32.64,32.95,37.62,40.34,42.2,45.17,47.64
+Qatar,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.574,0.727,0.782,1.276,1.684,2.248,3.343,3.677,3.945,4.444,4.895
+Qatar,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,5.547,6.979,7.87,15.32,19.66,22.96,30.24,32.45,34.01,38.11,41.65
+Qatar,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,1.922,2.385,2.69,5.295,7.17,7.229,8.245,8.833,9.229,9.93,10.51
+Qatar,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,7.327,9.723,10.58,19.87,24.72,31.71,44.84,47.81,49.82,56.17,61.59
+Qatar,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,26.925,12.462,95.357,25.794,13.049,28.019,7.1,4.574,10.509,8.091
+Qatar,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,23.575,15.685,103.505,23.126,0.933,14.181,7.241,4.603,7.049,5.455
+Qatar,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,26.774,7.54,63.141,31.972,33.517,48.703,10,7.294,12.633,10.153
+Qatar,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,25.818,12.772,94.635,28.369,16.75,31.736,7.309,4.805,12.053,9.287
+Qatar,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,24.044,12.817,96.833,35.394,0.823,14.058,7.126,4.491,7.594,5.829
+Qatar,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,32.697,8.787,87.866,24.413,28.256,41.423,6.62,4.199,12.756,9.637
+Qatar,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,96.405,96.218,95.909,94.008,92.538,91.421,90.182,90.116,90.059,,
+Qatar,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,3.595,3.782,4.091,5.992,7.462,8.579,9.818,9.884,9.941,,
+Qatar,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,41.383,37.464,34.663,31.646,28.849,26.221,24.052,22.736,21.395,,
+Qatar,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,58.617,62.536,65.337,68.354,71.151,73.779,75.948,77.264,78.605,,
+Qatar,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.117,0.141,0.16,0.183,0.209,0.237,0.265,0.292,0.321,0.346,0.371
+Qatar,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.074,0.089,0.101,0.115,0.132,0.149,0.167,0.184,0.202,0.218,0.234
+Qatar,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.097,0.117,0.133,0.152,0.174,0.197,0.22,0.243,0.266,0.287,0.308
+Qatar,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.053,0.063,0.072,0.082,0.094,0.107,0.119,0.132,0.144,0.155,0.167
+Qatar,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.105,0.127,0.144,0.165,0.188,0.214,0.238,0.263,0.289,0.311,0.334
+Qatar,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.104,0.125,0.142,0.163,0.186,0.211,0.236,0.26,0.285,0.308,0.33
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,2.699,3.188,3.553,4,4.502,5.016,5.507,5.987,6.471,6.88,7.293
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,4.284,5.061,5.64,6.349,7.147,7.963,8.742,9.503,10.272,10.921,11.576
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,3.555,4.2,4.682,5.27,5.932,6.609,7.256,7.887,8.525,9.064,9.608
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.928,2.277,2.538,2.857,3.216,3.583,3.934,4.276,4.622,4.907,5.195
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,3.855,4.555,5.076,5.714,6.432,7.166,7.868,8.553,9.244,9.829,10.419
+Qatar,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,3.812,4.504,5.02,5.651,6.361,7.087,7.78,8.458,9.142,9.72,10.303
+Qatar,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,178.2,190.1,188.1,280.9,275.5,318.2,413.9,412.3,403.7,420,429.7
+Qatar,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,172.5,183.5,181.3,270,263.2,303.3,393.4,392,383.8,399.2,408.2
+Qatar,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,4.632,4.942,4.89,7.304,7.164,8.274,10.76,10.72,10.5,10.92,11.17
+Qatar,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,36.76,39.65,39.46,59.67,59.96,69.92,91.78,91.42,89.5,93.29,95.53
+Qatar,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,21.68,27.9,31.32,53.57,60.16,78.73,114.3,125.7,135,151.4,166.3
+Qatar,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,17.21,22.09,24.76,42.22,47.13,61.52,89.06,97.97,105.2,117.9,129.6
+Qatar,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.31,0.399,0.448,0.766,0.86,1.126,1.634,1.797,1.93,2.165,2.378
+Qatar,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,4.16,5.412,6.111,10.58,12.18,16.09,23.56,25.92,27.82,31.27,34.39
+Qatar,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,28.675,12.279,71.04,12.301,30.858,45.124,10.004,7.392,12.154,9.874
+Qatar,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,28.333,12.12,70.512,11.612,30.535,44.769,10.008,7.398,12.098,9.841
+Qatar,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,28.675,12.279,71.04,12.301,30.858,45.124,10.004,7.392,12.157,9.876
+Qatar,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,30.089,12.926,73.179,15.046,32.108,46.484,9.987,7.366,12.368,9.999
+Qatar,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,96.527,96.352,96.117,94.674,94.24,92.498,90.437,90.342,90.245,,
+Qatar,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,3.473,3.648,3.883,5.326,5.76,7.502,9.563,9.658,9.755,,
+Qatar,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,41.7,37.795,35.016,32.025,29.24,26.595,24.409,23.1,21.765,,
+Qatar,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,58.3,62.205,64.984,67.975,70.76,73.405,75.591,76.9,78.235,,
+Qatar,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.122,0.147,0.167,0.191,0.218,0.247,0.276,0.305,0.334,0.36,0.387
+Qatar,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.1,0.12,0.137,0.156,0.179,0.203,0.226,0.25,0.274,0.295,0.317
+Qatar,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.067,0.081,0.092,0.105,0.12,0.136,0.152,0.168,0.184,0.198,0.213
+Qatar,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.113,0.136,0.155,0.177,0.203,0.23,0.257,0.283,0.311,0.335,0.36
+Qatar,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,3.662,4.326,4.822,5.428,6.11,6.807,7.473,8.124,8.781,9.336,9.895
+Qatar,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,4.466,5.276,5.88,6.619,7.451,8.301,9.114,9.907,10.709,11.386,12.069
+Qatar,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.456,2.902,3.234,3.641,4.098,4.566,5.013,5.449,5.89,6.262,6.638
+Qatar,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,4.153,4.907,5.469,6.156,6.929,7.72,8.476,9.214,9.959,10.589,11.224
+Qatar,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,86.57,89.12,86.23,147.3,181.5,161.6,165.1,160.1,152.4,152.5,150.4
+Qatar,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,109.9,112.8,109.2,186.6,231.7,206.4,211.1,204.9,195.1,195.4,193
+Qatar,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,17.92,18.82,18.2,31.02,36.12,31.93,32.42,31.25,29.6,29.38,28.8
+Qatar,Convenience Food,Revenue,Total,million USD (US$),Statista,12.04,14.95,16.41,32.11,45.3,45.69,52.09,55.77,58.23,62.79,66.55
+Qatar,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,10.54,13.05,14.33,28.06,39.9,40.27,45.96,49.24,51.44,55.53,58.9
+Qatar,Convenience Food,Revenue,Soups,million USD (US$),Statista,1.496,1.894,2.078,4.057,5.408,5.415,6.136,6.532,6.785,7.261,7.644
+Qatar,Convenience Food,Revenue Change,Total,percent,Statista,,24.156,9.805,95.661,41.075,0.844,14.022,7.06,4.407,7.831,5.989
+Qatar,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,23.808,9.815,95.724,42.2,0.939,14.118,7.141,4.478,7.939,6.081
+Qatar,Convenience Food,Revenue Change,Soups,percent,Statista,,26.615,9.737,95.227,33.298,0.146,13.307,6.452,3.87,7.016,5.283
+Qatar,Convenience Food,Online & Offline Split,Offline,percent,Statista,97.423,97.348,97.197,95.818,94.134,93.958,93.808,93.777,93.758,,
+Qatar,Convenience Food,Online & Offline Split,Online,percent,Statista,2.577,2.652,2.803,4.182,5.866,6.042,6.192,6.223,6.242,,
+Qatar,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,56.828,55.756,54.901,54.229,53.709,53.309,53.004,52.772,52.596,,
+Qatar,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,43.172,44.244,45.099,45.771,46.291,46.691,46.996,47.228,47.404,,
+Qatar,Convenience Food,Users by Segment,Total,million users,Statista,0.139,0.168,0.19,0.218,0.25,0.283,0.315,0.348,0.382,0.412,0.442
+Qatar,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.096,0.116,0.131,0.15,0.172,0.195,0.218,0.24,0.264,0.284,0.305
+Qatar,Convenience Food,Users by Segment,Soups,million users,Statista,0.083,0.101,0.114,0.131,0.15,0.17,0.189,0.209,0.229,0.247,0.265
+Qatar,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,5.104,6.03,6.72,7.565,8.515,9.487,10.416,11.323,12.238,13.013,13.793
+Qatar,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,3.522,4.16,4.637,5.22,5.876,6.546,7.187,7.813,8.445,8.978,9.516
+Qatar,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.062,3.618,4.032,4.539,5.109,5.692,6.249,6.794,7.343,7.807,8.275
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,240.8,263.4,256.8,336.4,334.4,390.6,516.4,552.7,585.1,604.3,623.4
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,18.8,20.27,20,26.87,26.11,30.53,40.41,39.94,38.75,40.37,41.29
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,97.02,103.7,99.72,128.4,138.8,162.1,214.4,211.6,205,213.9,218.9
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,126.2,141.6,142.7,191.7,188.3,223.9,300.8,302.3,297.7,310.4,318.5
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,229.5,247.6,232.7,295.4,283.2,322.4,415.3,510.1,612.3,623.3,649.1
+Qatar,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,11.17,11.73,11.35,14.7,16.51,19.19,25.25,31.73,39.01,39.82,41.65
+Qatar,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,13.75,18.14,20.08,30.11,34.27,45.36,66.91,79.07,91.81,102.1,113
+Qatar,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.805,1.047,1.173,1.804,2.007,2.659,3.927,4.286,4.56,5.114,5.61
+Qatar,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,2.383,3.072,3.352,4.943,6.119,8.095,11.95,13.02,13.83,15.53,17.05
+Qatar,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,5.624,7.61,8.699,13.38,15.05,20.28,30.4,33.73,36.43,40.9,45.01
+Qatar,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,4.588,5.97,6.366,9.256,10.16,13.1,18.83,25.54,33.62,36.84,41.15
+Qatar,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.351,0.445,0.488,0.724,0.931,1.225,1.8,2.496,3.367,3.698,4.15
+Qatar,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,31.946,10.653,49.965,13.816,32.36,47.52,18.172,16.114,11.183,10.67
+Qatar,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,30.097,11.949,53.833,11.27,32.465,47.711,9.121,6.411,12.133,9.708
+Qatar,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,28.942,9.097,47.488,23.776,32.302,47.589,8.946,6.239,12.312,9.783
+Qatar,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,35.305,14.307,53.838,12.485,34.696,49.946,10.951,8.003,12.257,10.067
+Qatar,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,30.12,6.637,45.391,9.755,28.981,43.746,35.603,31.654,9.56,11.692
+Qatar,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,26.638,9.727,48.323,28.671,31.634,46.853,38.724,34.864,9.85,12.202
+Qatar,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,97.21,96.981,96.815,95.874,95.49,94.046,92.241,91.518,90.651,,
+Qatar,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,2.79,3.019,3.185,4.126,4.51,5.954,7.759,8.482,9.349,,
+Qatar,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,56.828,55.756,54.901,54.229,53.709,53.309,53.004,52.772,52.596,,
+Qatar,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,43.172,44.244,45.099,45.771,46.291,46.691,46.996,47.228,47.404,,
+Qatar,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.057,0.069,0.078,0.09,0.102,0.116,0.13,0.143,0.157,0.169,0.181
+Qatar,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.043,0.052,0.059,0.067,0.077,0.087,0.097,0.107,0.118,0.127,0.136
+Qatar,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.025,0.03,0.034,0.038,0.044,0.05,0.056,0.062,0.067,0.073,0.078
+Qatar,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.045,0.054,0.061,0.07,0.08,0.091,0.101,0.112,0.122,0.132,0.141
+Qatar,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.02,0.024,0.027,0.031,0.036,0.041,0.045,0.05,0.055,0.059,0.063
+Qatar,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.031,0.038,0.043,0.049,0.056,0.064,0.071,0.079,0.086,0.093,0.1
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.572,1.857,2.07,2.33,2.623,2.922,3.208,3.488,3.77,4.002,4.236
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.096,2.476,2.76,3.107,3.497,3.897,4.278,4.65,5.027,5.337,5.65
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.901,1.065,1.187,1.336,1.504,1.676,1.84,2,2.161,2.294,2.428
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.635,1.932,2.153,2.423,2.728,3.039,3.337,3.627,3.921,4.162,4.406
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.734,0.867,0.966,1.087,1.224,1.364,1.497,1.628,1.759,1.867,1.976
+Qatar,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.153,1.362,1.518,1.709,1.924,2.143,2.353,2.558,2.765,2.935,3.106
+Qatar,Fish & Seafood,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.87,0.884,0.883,1.158,1.259,1.459,1.912,1.874,1.803,1.882,1.925
+Qatar,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,thousand USD (US$),Statista,1.499,1.501,1.556,2.017,2.267,2.666,3.545,3.52,3.433,3.588,3.68
+Qatar,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,thousand USD (US$),Statista,0.567,0.598,0.564,0.737,0.701,0.78,0.98,0.921,0.849,0.882,0.892
+Qatar,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,thousand USD (US$),Statista,0.165,0.172,0.156,0.216,0.229,0.258,0.327,0.311,0.289,0.302,0.307
+Qatar,Fish & Seafood,Revenue,Total,million USD (US$),Statista,41.02,50.31,57,85.63,106.6,139.9,204.7,221.5,233.7,262.6,288.1
+Qatar,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,27.59,33.31,39.19,58.17,74.87,99.73,148,162.3,173.6,195.2,214.7
+Qatar,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,6.421,8.169,8.743,13.08,14.24,17.97,25.17,26.14,26.41,29.52,32.01
+Qatar,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,7.011,8.831,9.067,14.37,17.47,22.25,31.51,33.05,33.75,37.9,41.3
+Qatar,Fish & Seafood,Revenue Change,Total,percent,Statista,,22.644,13.294,50.218,24.468,31.306,46.261,8.193,5.539,12.367,9.685
+Qatar,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,20.735,17.651,48.424,28.697,33.211,48.404,9.639,6.959,12.477,10.004
+Qatar,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,27.224,7.017,49.645,8.88,26.119,40.112,3.843,1.033,11.764,8.466
+Qatar,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,25.964,2.666,58.524,21.543,27.373,41.625,4.876,2.134,12.275,8.987
+Qatar,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,97.377,97.321,97.063,96.236,95.448,93.971,92.136,92.056,91.974,,
+Qatar,Fish & Seafood,Online & Offline Split,Online,percent,Statista,2.623,2.679,2.937,3.764,4.552,6.029,7.864,7.944,8.026,,
+Qatar,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,56.828,55.756,54.901,54.229,53.709,53.309,53.004,52.772,52.596,,
+Qatar,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,43.172,44.244,45.099,45.771,46.291,46.691,46.996,47.228,47.404,,
+Qatar,Fish & Seafood,Users by Segment,Total,million users,Statista,0.047,0.057,0.065,0.074,0.085,0.096,0.107,0.118,0.13,0.14,0.15
+Qatar,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.018,0.022,0.025,0.029,0.033,0.037,0.042,0.046,0.051,0.054,0.058
+Qatar,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.011,0.014,0.015,0.018,0.02,0.023,0.026,0.028,0.031,0.033,0.036
+Qatar,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.042,0.051,0.058,0.067,0.076,0.086,0.096,0.106,0.117,0.126,0.135
+Qatar,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.732,2.046,2.28,2.567,2.889,3.219,3.534,3.842,4.152,4.408,4.667
+Qatar,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.675,0.798,0.889,1.001,1.127,1.255,1.378,1.498,1.619,1.719,1.819
+Qatar,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.416,0.491,0.547,0.616,0.693,0.773,0.848,0.922,0.997,1.058,1.12
+Qatar,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.558,1.841,2.052,2.31,2.6,2.897,3.181,3.457,3.737,3.967,4.2
+Qatar,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,144.2,155.6,150.8,201.3,189.9,216.6,279.3,284.8,287.1,296.4,303.2
+Qatar,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,171.6,185.7,180.1,240.4,226.2,257.4,331.1,326.4,316,327.4,333.5
+Qatar,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,36.72,39.31,37.96,50.62,48.34,55.84,72.97,90.94,110.9,112.8,117.6
+Qatar,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,11.44,11.97,11.58,15.38,14.7,16.95,22.09,21.64,20.83,21.62,22.02
+Qatar,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,18.62,24.24,26.66,40.74,44,56.86,81.83,92.12,101.8,113.4,124.6
+Qatar,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,15.51,20.24,22.28,34.06,36.7,47.3,67.91,73.91,78.47,87.65,95.89
+Qatar,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,2.371,3.061,3.355,5.122,5.601,7.33,10.69,14.71,19.68,21.57,24.15
+Qatar,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.738,0.932,1.023,1.556,1.703,2.224,3.235,3.5,3.695,4.134,4.522
+Qatar,Fruits & Nuts,Revenue Change,Total,percent,Statista,,30.159,9.99,52.807,8.009,29.227,43.919,12.569,10.56,11.307,9.884
+Qatar,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,30.511,10.056,52.858,7.744,28.911,43.553,8.837,6.172,11.704,9.397
+Qatar,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,29.094,9.601,52.693,9.338,30.875,45.821,37.598,33.805,9.617,11.955
+Qatar,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,26.202,9.825,52.064,9.433,30.606,45.441,8.203,5.549,11.884,9.401
+Qatar,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,96.597,96.334,96.123,94.976,94.761,93.215,91.347,90.963,90.498,,
+Qatar,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,3.403,3.666,3.877,5.024,5.239,6.785,8.653,9.037,9.502,,
+Qatar,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Qatar,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Qatar,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.129,0.156,0.177,0.202,0.232,0.263,0.293,0.323,0.355,0.382,0.411
+Qatar,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.09,0.109,0.124,0.142,0.162,0.184,0.205,0.226,0.248,0.268,0.288
+Qatar,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.065,0.078,0.088,0.101,0.116,0.131,0.146,0.162,0.177,0.191,0.205
+Qatar,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.065,0.078,0.088,0.101,0.116,0.131,0.146,0.162,0.177,0.191,0.205
+Qatar,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,3.318,3.919,4.368,4.917,5.535,6.167,6.77,7.36,7.955,8.458,8.965
+Qatar,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,4.739,5.599,6.24,7.025,7.907,8.81,9.672,10.514,11.364,12.083,12.808
+Qatar,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.37,2.799,3.12,3.512,3.954,4.405,4.836,5.257,5.682,6.042,6.404
+Qatar,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.37,2.799,3.12,3.512,3.954,4.405,4.836,5.257,5.682,6.042,6.404
+Qatar,Meat,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.461,0.498,0.483,0.652,0.637,0.735,0.959,1.14,1.34,1.368,1.422
+Qatar,Meat,Average Revenue per User by Segment,Fresh Meat,thousand USD (US$),Statista,0.545,0.588,0.574,0.777,0.746,0.862,1.126,1.402,1.708,1.741,1.817
+Qatar,Meat,Average Revenue per User by Segment,Processed Meat,thousand USD (US$),Statista,0.098,0.106,0.1,0.134,0.141,0.161,0.209,0.199,0.186,0.194,0.197
+Qatar,Meat,Revenue,Total,million USD (US$),Statista,34.33,44.78,49.21,76.17,85.2,111.3,162,212.8,274.3,301.9,337
+Qatar,Meat,Revenue,Fresh Meat,million USD (US$),Statista,28,36.48,40.38,62.6,68.85,90.1,131.3,180.5,241.3,264.7,296.4
+Qatar,Meat,Revenue,Processed Meat,million USD (US$),Statista,6.333,8.305,8.836,13.58,16.36,21.24,30.71,32.28,33.07,37.2,40.62
+Qatar,Meat,Revenue Change,Total,percent,Statista,,30.437,9.895,54.776,11.856,30.682,45.524,31.337,28.902,10.04,11.642
+Qatar,Meat,Revenue Change,Fresh Meat,percent,Statista,,30.278,10.693,55.026,9.984,30.873,45.75,37.47,33.635,9.703,11.987
+Qatar,Meat,Revenue Change,Processed Meat,percent,Statista,,31.139,6.393,53.633,20.49,29.879,44.567,5.11,2.435,12.496,9.185
+Qatar,Meat,Online & Offline Split,Offline,percent,Statista,97.228,96.99,96.801,95.777,95.413,93.957,92.161,90.393,88.153,,
+Qatar,Meat,Online & Offline Split,Online,percent,Statista,2.772,3.01,3.199,4.223,4.587,6.043,7.839,9.607,11.847,,
+Qatar,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Qatar,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Qatar,Meat,Users by Segment,Total,million users,Statista,0.074,0.09,0.102,0.117,0.134,0.151,0.169,0.187,0.205,0.221,0.237
+Qatar,Meat,Users by Segment,Fresh Meat,million users,Statista,0.051,0.062,0.07,0.081,0.092,0.105,0.117,0.129,0.141,0.152,0.163
+Qatar,Meat,Users by Segment,Processed Meat,million users,Statista,0.065,0.078,0.089,0.102,0.116,0.132,0.147,0.162,0.178,0.192,0.206
+Qatar,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.887,2.229,2.484,2.796,3.148,3.507,3.85,4.185,4.524,4.803,5.084
+Qatar,Meat,Penetration Rate by Segment,Meat,percent,Statista,2.734,3.23,3.6,4.053,4.562,5.083,5.58,6.066,6.556,6.971,7.389
+Qatar,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.379,2.81,3.132,3.526,3.969,4.422,4.855,5.277,5.704,6.065,6.428
+Qatar,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,55.39,56.39,55.52,72.14,79.15,92.76,123.1,121.2,117,122.2,125
+Qatar,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,5.651,6.007,5.838,7.598,7.25,8.383,10.97,10.75,10.34,10.75,10.96
+Qatar,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,4.755,4.856,4.467,5.76,5.856,6.646,8.537,8.172,7.674,7.981,8.106
+Qatar,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,7.646,7.916,7.789,9.923,11.27,13.23,17.6,17.32,16.73,17.49,17.91
+Qatar,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,68.24,68.94,68.41,89.2,99.42,116.9,155.8,153.6,148.7,155.5,159.2
+Qatar,Oils & Fats,Revenue,Total,million USD (US$),Statista,3.438,4.222,4.718,7.02,8.818,11.71,17.34,18.84,19.96,22.44,24.64
+Qatar,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.281,0.36,0.397,0.591,0.646,0.846,1.236,1.337,1.41,1.578,1.727
+Qatar,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.236,0.291,0.304,0.448,0.522,0.671,0.962,1.017,1.047,1.172,1.277
+Qatar,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.38,0.474,0.529,0.772,1.004,1.336,1.983,2.155,2.283,2.569,2.822
+Qatar,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,2.542,3.097,3.488,5.207,6.645,8.854,13.16,14.33,15.22,17.12,18.81
+Qatar,Oils & Fats,Revenue Change,Total,percent,Statista,,22.795,11.731,48.794,25.617,32.768,48.148,8.641,5.941,12.423,9.797
+Qatar,Oils & Fats,Revenue Change,Butter,percent,Statista,,28.2,10.294,49.02,9.258,30.994,46.058,8.161,5.471,11.908,9.405
+Qatar,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,23.154,4.386,47.665,16.404,28.568,43.351,5.699,2.993,11.941,8.962
+Qatar,Oils & Fats,Revenue Change,Margarine,percent,Statista,,24.871,11.647,45.89,30.011,33.043,48.456,8.641,5.941,12.525,9.858
+Qatar,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,21.855,12.601,49.308,27.616,33.228,48.665,8.901,6.194,12.489,9.882
+Qatar,Oils & Fats,Online & Offline Split,Offline,percent,Statista,97.401,97.347,97.138,96.295,95.515,94.028,92.148,92.069,91.989,,
+Qatar,Oils & Fats,Online & Offline Split,Online,percent,Statista,2.599,2.653,2.862,3.705,4.485,5.972,7.852,7.931,8.011,,
+Qatar,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Qatar,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Qatar,Oils & Fats,Users by Segment,Total,million users,Statista,0.062,0.075,0.085,0.097,0.111,0.126,0.141,0.156,0.171,0.184,0.197
+Qatar,Oils & Fats,Users by Segment,Butter,million users,Statista,0.05,0.06,0.068,0.078,0.089,0.101,0.113,0.124,0.136,0.147,0.158
+Qatar,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.05,0.06,0.068,0.078,0.089,0.101,0.113,0.124,0.136,0.147,0.158
+Qatar,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.05,0.06,0.068,0.078,0.089,0.101,0.113,0.124,0.136,0.147,0.158
+Qatar,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.037,0.045,0.051,0.058,0.067,0.076,0.085,0.093,0.102,0.11,0.118
+Qatar,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,1.823,2.153,2.4,2.702,3.041,3.388,3.72,4.044,4.371,4.64,4.912
+Qatar,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,1.823,2.153,2.4,2.702,3.041,3.388,3.72,4.044,4.371,4.64,4.912
+Qatar,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,1.823,2.153,2.4,2.702,3.041,3.388,3.72,4.044,4.371,4.64,4.912
+Qatar,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.279,2.692,3,3.377,3.801,4.235,4.65,5.055,5.464,5.804,6.147
+Qatar,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.367,1.615,1.8,2.026,2.281,2.541,2.79,3.033,3.278,3.48,3.684
+Qatar,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,16.11,16.69,15.97,18.64,17.85,20.43,26.55,31.03,35.96,36.59,37.89
+Qatar,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,14.91,15.56,14.95,17.61,16.39,18.87,24.68,30.9,37.81,38.32,39.89
+Qatar,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,6.968,7.072,6.688,7.587,7.899,8.889,11.33,10.52,9.53,9.895,9.973
+Qatar,Sauces & Spices,Revenue,Total,million USD (US$),Statista,1.76,2.2,2.388,3.192,3.5,4.538,6.581,8.493,10.8,11.84,13.17
+Qatar,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,1.304,1.64,1.788,2.412,2.57,3.353,4.895,6.766,9.08,9.92,11.09
+Qatar,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.457,0.559,0.6,0.78,0.929,1.185,1.686,1.728,1.716,1.921,2.08
+Qatar,Sauces & Spices,Revenue Change,Total,percent,Statista,,24.949,8.574,33.652,9.639,29.669,45.021,29.056,27.112,9.687,11.223
+Qatar,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,25.838,9.003,34.911,6.55,30.452,45.985,38.209,34.201,9.262,11.797
+Qatar,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,22.41,7.315,29.901,19.198,27.502,42.291,2.478,-0.652,11.938,8.257
+Qatar,Sauces & Spices,Online & Offline Split,Online,percent,Statista,2.684,2.855,3.068,3.803,4.085,5.43,7.167,8.84,11.037,,
+Qatar,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Qatar,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Qatar,Sauces & Spices,Users by Segment,Total,million users,Statista,0.109,0.132,0.15,0.171,0.196,0.222,0.248,0.274,0.3,0.324,0.348
+Qatar,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.087,0.105,0.12,0.137,0.157,0.178,0.198,0.219,0.24,0.259,0.278
+Qatar,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.066,0.079,0.09,0.103,0.118,0.133,0.149,0.164,0.18,0.194,0.209
+Qatar,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,4.01,4.738,5.28,5.944,6.691,7.454,8.184,8.896,9.616,10.224,10.838
+Qatar,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.208,3.79,4.224,4.755,5.352,5.964,6.547,7.117,7.693,8.179,8.669
+Qatar,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.406,2.843,3.168,3.566,4.014,4.473,4.91,5.338,5.77,6.134,6.502
+Qatar,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,13.98,14.93,15.37,18.47,18.88,22.59,30.66,36.63,43.6,44.54,46.38
+Qatar,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,10.92,11.57,11.83,13.57,14.34,17.19,23.39,30.84,39.82,40.38,42.32
+Qatar,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,10.93,11.82,12.31,15.85,15.43,18.42,24.88,24.91,24.47,25.51,26.16
+Qatar,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,1.146,1.476,1.724,2.372,2.776,3.764,5.7,7.519,9.816,10.81,12.09
+Qatar,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.716,0.915,1.062,1.395,1.687,2.291,3.48,5.065,7.172,7.841,8.827
+Qatar,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.43,0.561,0.662,0.977,1.089,1.473,2.22,2.454,2.644,2.967,3.264
+Qatar,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,28.792,16.83,37.568,17.04,35.584,51.426,31.924,30.548,10.109,11.865
+Qatar,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,27.822,16.026,31.374,20.958,35.806,51.867,45.56,41.601,9.334,12.572
+Qatar,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,30.408,18.141,47.493,11.448,35.24,50.74,10.553,7.74,12.212,9.996
+Qatar,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,97.308,97.18,96.886,96.209,95.847,94.49,92.75,91.356,89.54,,
+Qatar,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,2.692,2.82,3.114,3.791,4.153,5.51,7.25,8.644,10.46,,
+Qatar,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Qatar,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Qatar,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.082,0.099,0.112,0.128,0.147,0.167,0.186,0.205,0.225,0.243,0.261
+Qatar,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.066,0.079,0.09,0.103,0.118,0.133,0.149,0.164,0.18,0.194,0.209
+Qatar,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.039,0.047,0.054,0.062,0.071,0.08,0.089,0.099,0.108,0.116,0.125
+Qatar,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.406,2.843,3.168,3.566,4.014,4.473,4.91,5.338,5.77,6.134,6.502
+Qatar,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.008,3.553,3.96,4.458,5.018,5.591,6.138,6.672,7.212,7.668,8.128
+Qatar,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.444,1.706,1.901,2.14,2.409,2.684,2.946,3.203,3.462,3.675,3.89
+Qatar,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,162.9,173.2,164.5,227.8,233.2,271.4,357.1,352.2,341.1,355.1,362.8
+Qatar,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,211.6,226.3,214,297.5,301.4,350.7,461.3,455,440.7,458.7,468.6
+Qatar,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,29.46,29.69,29.39,38.96,44.49,51.85,68.33,67.34,65.18,68.11,69.75
+Qatar,Vegetables,Revenue,Total,million USD (US$),Statista,19.82,25.42,27.39,43.43,50.92,67.14,98.57,107.3,114,128,140.4
+Qatar,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,18.02,23.24,24.95,39.72,46.06,60.73,89.14,97.07,103.1,115.7,127
+Qatar,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,1.792,2.179,2.447,3.715,4.857,6.414,9.431,10.26,10.89,12.26,13.47
+Qatar,Vegetables,Revenue Change,Total,percent,Statista,,28.288,7.752,58.557,17.229,31.866,46.806,8.89,6.224,12.241,9.734
+Qatar,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,28.959,7.322,59.22,15.966,31.847,46.781,8.898,6.231,12.214,9.719
+Qatar,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,21.545,12.344,51.803,30.731,32.051,47.04,8.818,6.154,12.499,9.873
+Qatar,Vegetables,Online & Offline Split,Offline,percent,Statista,97.265,97.097,96.993,95.958,95.426,93.956,92.139,92.061,91.981,,
+Qatar,Vegetables,Online & Offline Split,Online,percent,Statista,2.735,2.903,3.007,4.042,4.574,6.044,7.861,7.939,8.019,,
+Qatar,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Qatar,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Qatar,Vegetables,Users by Segment,Total,million users,Statista,0.122,0.147,0.167,0.191,0.218,0.247,0.276,0.305,0.334,0.36,0.387
+Qatar,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.085,0.103,0.117,0.133,0.153,0.173,0.193,0.213,0.234,0.252,0.271
+Qatar,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.061,0.073,0.083,0.095,0.109,0.124,0.138,0.152,0.167,0.18,0.193
+Qatar,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.126,3.693,4.116,4.633,5.216,5.811,6.38,6.935,7.496,7.97,8.448
+Qatar,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.233,2.638,2.94,3.31,3.725,4.151,4.557,4.954,5.354,5.685,6.019
+Qatar,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,4.466,5.276,5.88,6.619,7.451,8.301,9.114,9.907,10.709,11.386,12.069

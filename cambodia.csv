@@ -1,0 +1,687 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Cambodia,eCommerce,Revenue,Total,million USD (US$),Statista,317.3,429,543.6,811.9,969.9,"1,015","1,266","1,490","1,761","1,920","2,102"
+Cambodia,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,88.84,120.9,150.6,200,230.5,241.8,293.9,337.6,390.1,424.1,461.9
+Cambodia,eCommerce,Revenue,Beverages,million USD (US$),Statista,11.95,17.51,23.01,36.54,44.29,46.83,53.33,59.62,67.95,72.23,77.08
+Cambodia,eCommerce,Revenue,Electronics,million USD (US$),Statista,97.98,130.4,162.5,218.8,254.4,269.1,350,418,495.8,542,595.2
+Cambodia,eCommerce,Revenue,Fashion,million USD (US$),Statista,65.14,89.9,117.4,221.4,264.3,266.9,322.4,376.3,443,482.8,527.6
+Cambodia,eCommerce,Revenue,Food,million USD (US$),Statista,12.74,17.8,23.95,38.68,57.19,68.84,94.27,123.1,161.6,178.1,199.4
+Cambodia,eCommerce,Revenue,Furniture,million USD (US$),Statista,17.41,22.31,27.73,38.59,46.29,43.79,58.66,69.11,81.64,89.06,97.61
+Cambodia,eCommerce,Revenue,Media,million USD (US$),Statista,3.088,4.301,5.652,8.857,11.19,12.08,14.2,15.18,16.03,17.33,18.44
+Cambodia,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,20.11,25.95,32.71,49.07,61.68,65.82,79.49,91.11,104.8,114.5,124.8
+Cambodia,eCommerce,Revenue Change,Total,percent,Statista,,35.203,26.713,49.356,19.461,4.65,24.729,17.694,18.188,9.029,9.479
+Cambodia,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,36.087,24.566,32.802,15.25,4.902,21.547,14.869,15.551,8.716,8.913
+Cambodia,eCommerce,Revenue Change,Beverages,percent,Statista,,46.527,31.411,58.801,21.21,5.735,13.88,11.794,13.972,6.299,6.715
+Cambodia,eCommerce,Revenue Change,Electronics,percent,Statista,,33.088,24.617,34.646,16.271,5.778,30.063,19.429,18.612,9.318,9.815
+Cambodia,eCommerce,Revenue Change,Fashion,percent,Statista,,38.01,30.59,88.586,19.377,0.984,20.794,16.718,17.725,8.984,9.279
+Cambodia,eCommerce,Revenue Change,Food,percent,Statista,,39.717,34.551,61.503,47.854,20.371,36.941,30.582,31.275,10.21,11.96
+Cambodia,eCommerce,Revenue Change,Furniture,percent,Statista,,28.145,24.294,39.163,19.953,-5.401,33.958,17.815,18.131,9.089,9.6
+Cambodia,eCommerce,Revenue Change,Media,percent,Statista,,39.281,31.411,56.706,26.341,7.954,17.55,6.901,5.599,8.11,6.405
+Cambodia,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,29.04,26.05,50.015,25.698,6.712,20.769,14.618,15.026,9.256,8.996
+Cambodia,eCommerce,Average Revenue per User,Total,USD (US$),Statista,136.7,143,137,170.5,173.8,159.9,181.5,201.2,224.4,230.4,239.9
+Cambodia,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,116.8,124.2,122.8,131.8,128.5,117.6,127.2,133.7,142.2,142.4,144
+Cambodia,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,31.65,34.76,34.3,43.13,42.38,37.35,36.83,36.98,38.18,36.91,36.17
+Cambodia,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,88.88,90.53,87.09,93.53,89.64,80.76,92.2,100.1,108.7,108.4,109.8
+Cambodia,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,54.39,59.83,62.96,97.8,98.5,85.95,92.27,98.34,106.3,106.4,107.6
+Cambodia,eCommerce,Average Revenue per User,Food,USD (US$),Statista,35.87,37.57,37.97,48.55,58.18,58.39,69.23,81.21,96.56,96.81,99.52
+Cambodia,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,43.09,39.37,34.75,36.33,33.42,25.15,28,28.93,30.35,29.87,29.81
+Cambodia,eCommerce,Average Revenue per User,Media,USD (US$),Statista,4.385,4.371,4.39,5.43,5.524,4.979,5.039,4.818,4.592,4.513,4.406
+Cambodia,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,26.18,24.9,23.09,26.76,26.42,22.92,23.78,24.34,25.24,24.97,24.93
+Cambodia,eCommerce,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,eCommerce,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,eCommerce,Online & Offline Split,Offline,percent,Statista,97.032,96.203,95.447,93.127,92.083,91.716,90.98,89.997,88.797,,
+Cambodia,eCommerce,Online & Offline Split,Online,percent,Statista,2.968,3.797,4.553,6.873,7.917,8.284,9.02,10.003,11.203,,
+Cambodia,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,62.129,61.465,61.528,61.128,61.497,61.329,61.056,60.698,60.33,,
+Cambodia,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,37.871,38.535,38.472,38.872,38.503,38.671,38.944,39.302,39.67,,
+Cambodia,eCommerce,Users,Total,million users,Statista,2.321,3,3.969,4.763,5.58,6.35,6.975,7.406,7.845,8.333,8.762
+Cambodia,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,0.76,0.973,1.227,1.517,1.795,2.056,2.31,2.526,2.743,2.979,3.207
+Cambodia,eCommerce,Users,Beverages,million users,Statista,0.378,0.504,0.671,0.847,1.045,1.254,1.448,1.612,1.78,1.957,2.131
+Cambodia,eCommerce,Users,Electronics,million users,Statista,1.102,1.44,1.866,2.339,2.838,3.332,3.796,4.177,4.563,5,5.423
+Cambodia,eCommerce,Users,Fashion,million users,Statista,1.198,1.503,1.864,2.263,2.683,3.106,3.494,3.827,4.166,4.539,4.901
+Cambodia,eCommerce,Users,Food,million users,Statista,0.355,0.474,0.631,0.797,0.983,1.179,1.362,1.516,1.673,1.84,2.004
+Cambodia,eCommerce,Users,Furniture,million users,Statista,0.404,0.567,0.798,1.062,1.385,1.742,2.095,2.389,2.69,2.982,3.274
+Cambodia,eCommerce,Users,Media,million users,Statista,0.704,0.984,1.287,1.631,2.026,2.426,2.819,3.151,3.49,3.84,4.186
+Cambodia,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,0.768,1.042,1.417,1.834,2.334,2.871,3.343,3.743,4.152,4.583,5.007
+Cambodia,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,4.75,5.99,7.441,9.076,10.59,11.973,13.288,14.352,15.404,16.544,17.613
+Cambodia,eCommerce,Penetration Rate,Beverages,percent,Statista,2.359,3.1,4.069,5.067,6.168,7.304,8.33,9.161,9.995,10.866,11.703
+Cambodia,eCommerce,Penetration Rate,eCommerce,percent,Statista,14.5,18.462,24.072,28.49,32.929,36.985,40.118,42.084,44.062,46.273,48.125
+Cambodia,eCommerce,Penetration Rate,Electronics,percent,Statista,6.886,8.862,11.321,13.992,16.747,19.409,21.835,23.738,25.624,27.765,29.783
+Cambodia,eCommerce,Penetration Rate,Fashion,percent,Statista,7.481,9.246,11.307,13.538,15.835,18.09,20.095,21.746,23.398,25.204,26.92
+Cambodia,eCommerce,Penetration Rate,Food,percent,Statista,2.218,2.915,3.826,4.765,5.8,6.868,7.833,8.614,9.398,10.218,11.004
+Cambodia,eCommerce,Penetration Rate,Furniture,percent,Statista,2.524,3.487,4.84,6.353,8.174,10.144,12.048,13.575,15.107,16.556,17.982
+Cambodia,eCommerce,Penetration Rate,Media,percent,Statista,4.398,6.056,7.808,9.757,11.954,14.128,16.214,17.904,19.599,21.325,22.992
+Cambodia,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,4.798,6.413,8.592,10.967,13.774,16.725,19.229,21.272,23.318,25.45,27.498
+Cambodia,Electronics,Revenue,Total,million USD (US$),Statista,97.98,130.4,162.5,218.8,254.4,269.1,350,418,495.8,542,595.2
+Cambodia,Electronics,Revenue,Consumer Electronics,million USD (US$),Statista,58.21,77.83,95.48,137.3,153.5,143.7,186.2,214.8,246.5,268.2,292.1
+Cambodia,Electronics,Revenue,Household Appliances,million USD (US$),Statista,39.77,52.54,67.06,81.48,100.9,125.4,163.9,203.2,249.2,273.8,303.1
+Cambodia,Electronics,Revenue Change,Total,percent,Statista,,33.088,24.617,34.646,16.271,5.778,30.063,19.429,18.612,9.318,9.815
+Cambodia,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,33.706,22.678,43.8,11.799,-6.384,29.576,15.36,14.758,8.803,8.911
+Cambodia,Electronics,Revenue Change,Household Appliances,percent,Statista,,32.11,27.636,21.503,23.834,24.281,30.702,23.978,22.638,9.872,10.701
+Cambodia,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,88.88,90.53,87.09,93.53,89.64,80.76,92.2,100.1,108.7,108.4,109.8
+Cambodia,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,49.32,53.25,53.57,64.5,62.71,52.49,62.25,67.01,72.01,73.58,75.86
+Cambodia,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,65.67,61.33,55.12,49.76,46.83,46.01,49.55,53.66,58.25,57.66,58.06
+Cambodia,Electronics,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,Electronics,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,Electronics,Online & Offline Split,Offline,percent,Statista,90.671,88.229,86.061,82.463,80.305,77.463,74.985,71.969,68.681,,
+Cambodia,Electronics,Online & Offline Split,Online,percent,Statista,9.329,11.771,13.939,17.537,19.695,22.537,25.015,28.031,31.319,,
+Cambodia,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,51.797,51.782,51.761,51.775,51.752,51.728,51.723,51.722,51.724,,
+Cambodia,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,48.203,48.218,48.239,48.225,48.248,48.272,48.277,48.278,48.276,,
+Cambodia,Electronics,Users by Segment,Total,million users,Statista,1.102,1.44,1.866,2.339,2.838,3.332,3.796,4.177,4.563,5,5.423
+Cambodia,Electronics,Users by Segment,Consumer Electronics,million users,Statista,1.18,1.462,1.782,2.129,2.449,2.738,2.99,3.205,3.424,3.645,3.851
+Cambodia,Electronics,Users by Segment,Household Appliances,million users,Statista,0.606,0.857,1.217,1.638,2.154,2.725,3.307,3.788,4.279,4.748,5.22
+Cambodia,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,7.372,8.995,10.81,12.733,14.448,15.948,17.201,18.212,19.228,20.24,21.15
+Cambodia,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,6.886,8.862,11.321,13.992,16.747,19.409,21.835,23.738,25.624,27.765,29.783
+Cambodia,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,3.783,5.271,7.38,9.794,12.71,15.872,19.022,21.523,24.03,26.364,28.672
+Cambodia,Consumer Electronics,Revenue,Total,million USD (US$),Statista,58.21,77.83,95.48,137.3,153.5,143.7,186.2,214.8,246.5,268.2,292.1
+Cambodia,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,9.633,12.83,15.94,21.28,24.47,22.32,28.86,32.9,37.63,40.86,44.4
+Cambodia,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,21.36,28.62,35.07,50.06,55.28,51.56,66.62,76.76,87.95,95.66,104.2
+Cambodia,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,14.81,19.73,23.46,35.24,36.52,35.32,45.81,53.8,62.13,67.62,73.76
+Cambodia,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,11.56,15.41,19.34,28.07,34.49,32.02,41.81,48.07,55.47,60.62,66.25
+Cambodia,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,0.847,1.235,1.678,2.655,2.779,2.508,3.052,3.219,3.33,3.446,3.537
+Cambodia,Consumer Electronics,Revenue Change,Total,percent,Statista,,33.706,22.678,43.8,11.799,-6.384,29.576,15.36,14.758,8.803,8.911
+Cambodia,Consumer Electronics,Revenue Change,Computing,percent,Statista,,33.188,24.24,33.501,14.991,-8.786,29.301,13.999,14.377,8.584,8.664
+Cambodia,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,33.989,22.537,42.743,10.427,-6.729,29.209,15.221,14.578,8.766,8.927
+Cambodia,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,33.221,18.905,50.213,3.632,-3.286,29.7,17.442,15.483,8.836,9.08
+Cambodia,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,33.304,25.503,45.14,22.871,-7.161,30.575,14.972,15.394,9.284,9.287
+Cambodia,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,45.843,35.87,58.224,4.67,-9.752,21.691,5.472,3.448,3.483,2.641
+Cambodia,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,49.32,53.25,53.57,64.5,62.71,52.49,62.25,67.01,72.01,73.58,75.86
+Cambodia,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,11.66,12.54,12.78,14.28,14.28,11.65,13.79,14.67,15.7,16.01,16.47
+Cambodia,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,22.62,24.48,24.6,29.39,28.22,23.54,27.85,29.94,32.11,32.81,33.81
+Cambodia,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,15.69,16.87,16.45,20.69,18.64,16.13,19.15,20.99,22.69,23.19,23.94
+Cambodia,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,24.48,26.36,27.12,32.97,35.22,29.24,34.96,37.5,40.51,41.58,43.01
+Cambodia,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,2.391,2.817,3.139,4.158,3.784,3.053,3.402,3.348,3.243,3.151,3.062
+Cambodia,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Cambodia,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Cambodia,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,84.702,80.978,78.18,72.033,70.642,67.408,65.451,62.806,60.025,,
+Cambodia,Consumer Electronics,Online & Offline Split,Online,percent,Statista,15.298,19.022,21.82,27.967,29.358,32.592,34.549,37.194,39.975,,
+Cambodia,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,52.436,52.308,52.202,52.105,52.053,52.005,51.972,51.943,51.921,,
+Cambodia,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,47.564,47.692,47.798,47.895,47.947,47.995,48.028,48.057,48.079,,
+Cambodia,Consumer Electronics,Users,Total,million users,Statista,1.18,1.462,1.782,2.129,2.449,2.738,2.99,3.205,3.424,3.645,3.851
+Cambodia,Consumer Electronics,Users,Computing,million users,Statista,0.826,1.023,1.248,1.49,1.714,1.917,2.093,2.243,2.397,2.552,2.696
+Cambodia,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,0.944,1.169,1.426,1.703,1.959,2.19,2.392,2.564,2.739,2.916,3.081
+Cambodia,Consumer Electronics,Users,Telephony,million users,Statista,0.944,1.169,1.426,1.703,1.959,2.19,2.392,2.564,2.739,2.916,3.081
+Cambodia,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.472,0.585,0.713,0.852,0.979,1.095,1.196,1.282,1.369,1.458,1.54
+Cambodia,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.354,0.439,0.535,0.639,0.735,0.821,0.897,0.961,1.027,1.094,1.155
+Cambodia,Consumer Electronics,Penetration Rate,Computing,percent,Statista,5.16,6.297,7.567,8.913,10.114,11.164,12.041,12.748,13.459,14.17,14.808
+Cambodia,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,7.372,8.995,10.81,12.733,14.448,15.948,17.201,18.212,19.228,20.24,21.15
+Cambodia,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,5.898,7.196,8.648,10.186,11.559,12.758,13.761,14.569,15.382,16.192,16.92
+Cambodia,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,5.898,7.196,8.648,10.186,11.559,12.758,13.761,14.569,15.382,16.192,16.92
+Cambodia,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,2.949,3.598,4.324,5.093,5.779,6.379,6.88,7.285,7.691,8.096,8.46
+Cambodia,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,2.212,2.699,3.243,3.82,4.335,4.784,5.16,5.464,5.768,6.072,6.345
+Cambodia,Household Appliances,Revenue,Total,million USD (US$),Statista,39.77,52.54,67.06,81.48,100.9,125.4,163.9,203.2,249.2,273.8,303.1
+Cambodia,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,19.81,26.17,33.42,40.62,49.71,61.04,80.33,100.3,123.1,135.2,149.7
+Cambodia,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,9.575,12.65,16.15,19.62,24.28,30.19,39.46,48.93,60.01,65.92,72.97
+Cambodia,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,10.38,13.71,17.5,21.25,26.86,34.15,44.08,53.98,66.12,72.67,80.42
+Cambodia,Household Appliances,Revenue Change,Total,percent,Statista,,32.11,27.636,21.503,23.834,24.281,30.702,23.978,22.638,9.872,10.701
+Cambodia,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,32.105,27.703,21.544,22.378,22.792,31.602,24.86,22.732,9.829,10.725
+Cambodia,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,32.115,27.668,21.486,23.751,24.341,30.706,23.999,22.645,9.848,10.695
+Cambodia,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,32.081,27.644,21.429,26.4,27.141,29.078,22.459,22.49,9.906,10.665
+Cambodia,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,65.67,61.33,55.12,49.76,46.83,46.01,49.55,53.66,58.25,57.66,58.06
+Cambodia,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,81.78,76.39,68.66,62.01,57.7,56,60.72,66.21,71.93,71.18,71.68
+Cambodia,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,79.06,73.84,66.35,59.91,56.38,55.39,59.65,64.6,70.13,69.42,69.89
+Cambodia,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,21.44,20.01,17.98,16.22,15.59,15.67,16.66,17.82,19.32,19.13,19.26
+Cambodia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Cambodia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Cambodia,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Cambodia,Household Appliances,Online & Offline Split,Offline,percent,Statista,94.063,92.477,90.795,89.23,86.879,83.979,81.218,78.01,74.446,,
+Cambodia,Household Appliances,Online & Offline Split,Online,percent,Statista,5.937,7.523,9.205,10.77,13.121,16.021,18.782,21.99,25.554,,
+Cambodia,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,50.86,51.002,51.134,51.218,51.295,51.363,51.423,51.475,51.519,,
+Cambodia,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,49.14,48.998,48.866,48.782,48.705,48.637,48.577,48.525,48.481,,
+Cambodia,Household Appliances,Users,Total,million users,Statista,0.606,0.857,1.217,1.638,2.154,2.725,3.307,3.788,4.279,4.748,5.22
+Cambodia,Household Appliances,Users,Major Appliances,million users,Statista,0.242,0.343,0.487,0.655,0.862,1.09,1.323,1.515,1.711,1.899,2.088
+Cambodia,Household Appliances,Users,Other Household Appliances,million users,Statista,0.121,0.171,0.243,0.328,0.431,0.545,0.661,0.758,0.856,0.95,1.044
+Cambodia,Household Appliances,Users,Small Appliances,million users,Statista,0.484,0.685,0.973,1.31,1.723,2.18,2.646,3.03,3.423,3.798,4.176
+Cambodia,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,3.783,5.271,7.38,9.794,12.71,15.872,19.022,21.523,24.03,26.364,28.672
+Cambodia,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,1.513,2.109,2.952,3.918,5.084,6.349,7.609,8.609,9.612,10.546,11.469
+Cambodia,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,0.757,1.054,1.476,1.959,2.542,3.174,3.804,4.305,4.806,5.273,5.735
+Cambodia,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,3.026,4.217,5.904,7.836,10.168,12.698,15.218,17.218,19.224,21.092,22.938
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,88.84,120.9,150.6,200,230.5,241.8,293.9,337.6,390.1,424.1,461.9
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,21.8,29.98,37.63,50.88,60.61,62.78,74.4,83.22,95.07,103.4,112.4
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,0.592,0.652,0.684,0.747,0.963,1.469,2.878,4.754,6.394,7.083,8.011
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,4.353,4.757,5.148,5.969,7.484,10.71,19.39,29.63,38.17,42.35,47.67
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,62.1,85.48,107.1,142.5,161.5,166.9,197.2,220,250.5,271.3,293.9
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,36.087,24.566,32.802,15.25,4.902,21.547,14.869,15.551,8.716,8.913
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,37.523,25.517,35.211,19.123,3.58,18.509,11.855,14.239,8.762,8.704
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,10.15,4.845,9.184,29.025,52.497,95.916,65.184,34.497,10.776,13.102
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,9.281,8.219,15.948,25.381,43.105,81.046,52.811,28.822,10.951,12.562
+Cambodia,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,37.649,25.292,33.053,13.333,3.344,18.155,11.562,13.864,8.303,8.33
+Cambodia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,116.8,124.2,122.8,131.8,128.5,117.6,127.2,133.7,142.2,142.4,144
+Cambodia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,40.95,43.99,43.82,47.9,48.25,43.63,46.01,47.07,49.52,49.59,50.06
+Cambodia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,1.217,1.047,0.871,0.769,0.839,1.117,1.947,2.941,3.643,3.715,3.903
+Cambodia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,15.06,12.86,11.04,10.35,10.97,13.71,22.09,30.87,36.63,37.41,39.12
+Cambodia,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,131.7,141.6,140.9,151.4,145.1,130.9,137.7,140.5,147.3,146.9,147.8
+Cambodia,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,91.684,89.272,87.301,83.247,81.797,80.866,79.229,77.231,74.922,,
+Cambodia,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,8.316,10.728,12.699,16.753,18.203,19.134,20.771,22.769,25.078,,
+Cambodia,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,54.788,53.962,53.436,53.141,52.919,52.668,52.371,52.077,51.864,,
+Cambodia,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,45.212,46.038,46.564,46.859,47.081,47.332,47.629,47.923,48.136,,
+Cambodia,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,0.76,0.973,1.227,1.517,1.795,2.056,2.31,2.526,2.743,2.979,3.207
+Cambodia,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.532,0.681,0.859,1.062,1.256,1.439,1.617,1.768,1.92,2.086,2.245
+Cambodia,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.487,0.623,0.785,0.971,1.149,1.316,1.479,1.616,1.755,1.907,2.052
+Cambodia,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.289,0.37,0.466,0.577,0.682,0.781,0.878,0.96,1.042,1.132,1.219
+Cambodia,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.471,0.604,0.761,0.941,1.113,1.274,1.432,1.566,1.7,1.847,1.988
+Cambodia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,4.75,5.99,7.441,9.076,10.59,11.973,13.288,14.352,15.404,16.544,17.613
+Cambodia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,3.325,4.193,5.209,6.353,7.413,8.381,9.301,10.047,10.783,11.581,12.329
+Cambodia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,3.04,3.834,4.762,5.809,6.778,7.663,8.504,9.185,9.858,10.588,11.272
+Cambodia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,1.805,2.276,2.828,3.449,4.024,4.55,5.049,5.454,5.853,6.287,6.693
+Cambodia,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,2.945,3.714,4.614,5.627,6.566,7.423,8.238,8.898,9.55,10.257,10.92
+Cambodia,Personal Care,Revenue,Total,million USD (US$),Statista,62.1,85.48,107.1,142.5,161.5,166.9,197.2,220,250.5,271.3,293.9
+Cambodia,Personal Care,Revenue,Body Care,million USD (US$),Statista,11.06,15.17,18.92,24.32,26.27,27.47,32.77,36.8,42.17,45.67,49.55
+Cambodia,Personal Care,Revenue,Eye Care,million USD (US$),Statista,3.388,4.632,5.912,10.57,11.48,10.55,11.27,11.6,12.1,12.38,12.62
+Cambodia,Personal Care,Revenue,Hair Care,million USD (US$),Statista,9.803,13.56,17.05,22.18,24.81,26,31.09,35.03,40.28,43.74,47.56
+Cambodia,Personal Care,Revenue,Oral Care,million USD (US$),Statista,3.802,5.266,6.628,8.635,9.733,10.19,12.19,13.73,15.79,17.15,18.65
+Cambodia,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,19.55,26.96,33.77,43.72,48.22,50.47,60.3,67.82,77.89,84.49,91.77
+Cambodia,Personal Care,Revenue,Skin Care,million USD (US$),Statista,14.49,19.89,24.87,33.02,40.96,42.17,49.61,55,62.27,67.85,73.71
+Cambodia,Personal Care,Revenue Change,Total,percent,Statista,,37.649,25.292,33.053,13.333,3.344,18.155,11.562,13.864,8.303,8.33
+Cambodia,Personal Care,Revenue Change,Body Care,percent,Statista,,37.161,24.72,28.541,8.018,4.568,19.294,12.298,14.592,8.3,8.496
+Cambodia,Personal Care,Revenue Change,Eye Care,percent,Statista,,36.718,27.634,78.789,8.609,-8.101,6.825,2.928,4.31,2.314,1.939
+Cambodia,Personal Care,Revenue Change,Hair Care,percent,Statista,,38.325,25.737,30.088,11.858,4.796,19.577,12.673,14.987,8.59,8.733
+Cambodia,Personal Care,Revenue Change,Oral Care,percent,Statista,,38.506,25.864,30.281,12.716,4.695,19.627,12.633,15.004,8.613,8.746
+Cambodia,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,37.903,25.26,29.464,10.293,4.666,19.477,12.471,14.848,8.473,8.616
+Cambodia,Personal Care,Revenue Change,Skin Care,percent,Statista,,37.267,25.038,32.77,24.046,2.954,17.643,10.865,13.218,8.961,8.637
+Cambodia,Personal Care,Average Revenue per User,Total,USD (US$),Statista,131.7,141.6,140.9,151.4,145.1,130.9,137.7,140.5,147.3,146.9,147.8
+Cambodia,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,34.5,36.97,36.57,38.02,34.73,31.7,33.65,34.56,36.47,36.36,36.65
+Cambodia,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,14.37,15.35,15.55,22.48,20.63,16.56,15.73,14.81,14.23,13.4,12.69
+Cambodia,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,39.98,43.22,43.11,45.34,42.88,39.22,41.75,43.01,45.56,45.54,46
+Cambodia,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,16.46,17.81,17.78,18.73,17.85,16.32,17.37,17.89,18.95,18.95,19.14
+Cambodia,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,92.17,99.26,98.66,103.3,96.3,88,93.55,96.25,101.8,101.6,102.6
+Cambodia,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,69.86,74.9,74.32,79.78,83.67,75.2,78.71,79.83,83.23,83.48,84.25
+Cambodia,Personal Care,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,Personal Care,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,Personal Care,Online & Offline Split,Offline,percent,Statista,89.515,86.24,83.524,77.795,76.114,75.087,73.651,71.715,69.122,,
+Cambodia,Personal Care,Online & Offline Split,Online,percent,Statista,10.485,13.76,16.476,22.205,23.886,24.913,26.349,28.285,30.878,,
+Cambodia,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,50.794,50.943,51.08,51.169,51.25,51.32,51.382,51.435,51.481,,
+Cambodia,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,49.206,49.057,48.92,48.831,48.75,48.68,48.618,48.565,48.519,,
+Cambodia,Personal Care,Users,Total,million users,Statista,0.471,0.604,0.761,0.941,1.113,1.274,1.432,1.566,1.7,1.847,1.988
+Cambodia,Personal Care,Users,Body Care,million users,Statista,0.321,0.41,0.517,0.64,0.757,0.867,0.974,1.065,1.156,1.256,1.352
+Cambodia,Personal Care,Users,Eye Care,million users,Statista,0.236,0.302,0.38,0.47,0.556,0.637,0.716,0.783,0.85,0.924,0.994
+Cambodia,Personal Care,Users,Hair Care,million users,Statista,0.245,0.314,0.396,0.489,0.579,0.663,0.745,0.814,0.884,0.961,1.034
+Cambodia,Personal Care,Users,Oral Care,million users,Statista,0.231,0.296,0.373,0.461,0.545,0.625,0.702,0.767,0.833,0.905,0.974
+Cambodia,Personal Care,Users,Other Personal Care,million users,Statista,0.212,0.272,0.342,0.423,0.501,0.574,0.645,0.705,0.765,0.831,0.895
+Cambodia,Personal Care,Users,Skin Care,million users,Statista,0.207,0.266,0.335,0.414,0.49,0.561,0.63,0.689,0.748,0.813,0.875
+Cambodia,Personal Care,Penetration Rate,Body Care,percent,Statista,2.003,2.526,3.137,3.826,4.465,5.048,5.602,6.051,6.494,6.975,7.425
+Cambodia,Personal Care,Penetration Rate,Eye Care,percent,Statista,1.472,1.857,2.307,2.814,3.283,3.712,4.119,4.449,4.775,5.129,5.46
+Cambodia,Personal Care,Penetration Rate,Hair Care,percent,Statista,1.531,1.931,2.399,2.926,3.414,3.86,4.284,4.627,4.966,5.334,5.679
+Cambodia,Personal Care,Penetration Rate,Oral Care,percent,Statista,1.443,1.82,2.261,2.757,3.217,3.637,4.037,4.36,4.68,5.026,5.351
+Cambodia,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,1.325,1.671,2.076,2.532,2.955,3.341,3.707,4.004,4.298,4.616,4.914
+Cambodia,Personal Care,Penetration Rate,Personal Care,percent,Statista,2.945,3.714,4.614,5.627,6.566,7.423,8.238,8.898,9.55,10.257,10.92
+Cambodia,Personal Care,Penetration Rate,Skin Care,percent,Statista,1.296,1.634,2.03,2.476,2.889,3.266,3.625,3.915,4.202,4.513,4.805
+Cambodia,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,40.95,43.99,43.82,47.9,48.25,43.63,46.01,47.07,49.52,49.59,50.06
+Cambodia,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,20.15,21.54,21.41,23.42,23.11,20.99,22.23,22.87,24.19,24.23,24.5
+Cambodia,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,2.986,3.079,3.039,5.051,4.635,4.012,4.116,4.177,4.312,4.255,4.224
+Cambodia,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,100.2,108.3,108,113.9,117.2,106.1,111.9,114.2,120,120.3,121.5
+Cambodia,Beauty Care,Revenue,Total,million USD (US$),Statista,21.8,29.98,37.63,50.88,60.61,62.78,74.4,83.22,95.07,103.4,112.4
+Cambodia,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,7.507,10.27,12.87,17.41,20.32,21.14,25.16,28.3,32.51,35.38,38.5
+Cambodia,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.954,1.259,1.566,3.219,3.494,3.464,3.993,4.431,4.967,5.324,5.69
+Cambodia,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,13.34,18.44,23.2,30.24,36.79,38.18,45.25,50.48,57.59,62.71,68.19
+Cambodia,Beauty Care,Revenue Change,Total,percent,Statista,,37.523,25.517,35.211,19.123,3.58,18.509,11.855,14.239,8.762,8.704
+Cambodia,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,36.806,25.316,35.276,16.715,4.035,19.016,12.48,14.876,8.828,8.819
+Cambodia,Beauty Care,Revenue Change,Fragrances,percent,Statista,,31.998,24.384,105.556,8.543,-0.859,15.271,10.969,12.097,7.187,6.875
+Cambodia,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,38.231,25.813,30.345,21.66,3.778,18.518,11.558,14.085,8.89,8.739
+Cambodia,Beauty Care,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,Beauty Care,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,Beauty Care,Online & Offline Split,Offline,percent,Statista,84.745,81.193,78.728,72.491,70.622,69.832,68.622,67.051,64.989,,
+Cambodia,Beauty Care,Online & Offline Split,Online,percent,Statista,15.255,18.807,21.272,27.509,29.378,30.168,31.378,32.949,35.011,,
+Cambodia,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.649,62.333,60.196,58.829,57.662,56.807,56.128,55.644,55.344,,
+Cambodia,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.351,37.667,39.804,41.171,42.338,43.193,43.872,44.356,44.656,,
+Cambodia,Beauty Care,Users by Segment,Total,million users,Statista,0.532,0.681,0.859,1.062,1.256,1.439,1.617,1.768,1.92,2.086,2.245
+Cambodia,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.373,0.477,0.601,0.744,0.879,1.007,1.132,1.238,1.344,1.46,1.571
+Cambodia,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.319,0.409,0.515,0.637,0.754,0.863,0.97,1.061,1.152,1.251,1.347
+Cambodia,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.133,0.17,0.215,0.266,0.314,0.36,0.404,0.442,0.48,0.521,0.561
+Cambodia,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,3.325,4.193,5.209,6.353,7.413,8.381,9.301,10.047,10.783,11.581,12.329
+Cambodia,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,2.327,2.935,3.646,4.447,5.189,5.867,6.511,7.033,7.548,8.106,8.63
+Cambodia,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,1.995,2.516,3.125,3.812,4.448,5.029,5.581,6.028,6.47,6.948,7.397
+Cambodia,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,0.831,1.048,1.302,1.588,1.853,2.095,2.325,2.512,2.696,2.895,3.082
+Cambodia,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,1.217,1.047,0.871,0.769,0.839,1.117,1.947,2.941,3.643,3.715,3.903
+Cambodia,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,0.024,0.147,0.126,0.122,0.187,0.405,1.021,1.835,2.417,2.472,2.622
+Cambodia,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.614,0.503,0.418,0.353,0.358,0.418,0.648,0.921,1.106,1.122,1.17
+Cambodia,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.212,0.191,0.159,0.141,0.167,0.26,0.525,0.861,1.092,1.118,1.181
+Cambodia,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.05,0.067,0.069,0.111,0.169,0.295,0.558,0.843,1.072,1.102,1.166
+Cambodia,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.095,0.082,0.069,0.063,0.07,0.098,0.179,0.281,0.355,0.361,0.379
+Cambodia,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,1.678,1.444,1.201,1.06,1.156,1.537,2.678,4.044,5.006,5.102,5.359
+Cambodia,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,0.844,0.669,0.54,0.444,0.44,0.5,0.746,1.021,1.196,1.21,1.256
+Cambodia,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,0.281,0.232,0.194,0.165,0.169,0.198,0.305,0.431,0.519,0.526,0.549
+Cambodia,Health Care,Revenue,Total,thousand USD (US$),Statista,592.1,652.2,683.8,746.6,963.3,"1,469","2,878","4,754","6,394","7,083","8,011"
+Cambodia,Health Care,Revenue,Analgesics,thousand USD (US$),Statista,2.307,18.31,19.82,23.79,42.95,106.7,301.8,593.2,848.5,945.7,"1,082"
+Cambodia,Health Care,Revenue,Cold & Cough Remedies,thousand USD (US$),Statista,119.5,125.4,131.3,137,164.4,220.1,383.5,595.4,776.6,855.5,960.4
+Cambodia,Health Care,Revenue,Digestives & Intestinal Remedies,thousand USD (US$),Statista,30.9,35.6,37.54,41.08,57.63,102.6,232.9,417.3,575.2,639.4,727.3
+Cambodia,Health Care,Revenue,Hand Sanitizer,thousand USD (US$),Statista,9.686,16.74,21.75,43.17,77.62,155.5,329.8,545.1,752.9,840.5,957.4
+Cambodia,Health Care,Revenue,Incontinence,thousand USD (US$),Statista,9.246,10.16,10.83,12.22,16.12,25.76,53.08,91,124.5,138.1,156.6
+Cambodia,Health Care,Revenue,Other Health Care,thousand USD (US$),Statista,187.9,207,216.9,236.7,305.3,465.2,910.6,"1,503","2,021","2,239","2,532"
+Cambodia,Health Care,Revenue,Skin Treatment,thousand USD (US$),Statista,164.3,166.8,169.5,172.4,202.3,263.1,440.9,660.5,839.7,923,"1,031"
+Cambodia,Health Care,Revenue,Vitamins & Minerals,thousand USD (US$),Statista,68.3,72.22,76.23,80.26,97.02,130,225.3,348.7,455.5,502,563.7
+Cambodia,Health Care,Revenue Change,Total,percent,Statista,,10.15,4.845,9.184,29.025,52.497,95.916,65.184,34.497,10.776,13.102
+Cambodia,Health Care,Revenue Change,Analgesics,percent,Statista,,693.671,8.247,20.03,80.538,148.428,182.849,96.554,43.038,11.456,14.413
+Cambodia,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,4.937,4.705,4.341,20,33.881,74.239,55.254,30.433,10.16,12.262
+Cambodia,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,15.21,5.449,9.43,40.287,78.032,126.998,79.176,37.838,11.161,13.747
+Cambodia,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,72.827,29.928,98.483,79.801,100.335,112.09,65.282,38.121,11.635,13.908
+Cambodia,Health Care,Revenue Change,Incontinence,percent,Statista,,9.885,6.594,12.835,31.915,59.801,106.056,71.439,36.813,10.924,13.396
+Cambodia,Health Care,Revenue Change,Other Health Care,percent,Statista,,10.165,4.783,9.129,28.982,52.375,95.744,65.056,34.464,10.787,13.086
+Cambodia,Health Care,Revenue Change,Skin Treatment,percent,Statista,,1.522,1.619,1.711,17.343,30.054,67.579,49.807,27.131,9.92,11.701
+Cambodia,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,5.739,5.552,5.287,20.882,33.993,73.308,54.771,30.628,10.209,12.291
+Cambodia,Health Care,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,Health Care,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,Health Care,Online & Offline Split,Offline,percent,Statista,99.067,99.007,98.993,98.925,98.665,97.915,96.299,94.16,92.472,,
+Cambodia,Health Care,Online & Offline Split,Online,percent,Statista,0.933,0.993,1.007,1.075,1.335,2.085,3.701,5.84,7.528,,
+Cambodia,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.732,65.711,62.565,59.42,56.72,54.308,52.062,50.222,48.443,,
+Cambodia,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.268,34.289,37.435,40.58,43.28,45.692,47.938,49.778,51.557,,
+Cambodia,Health Care,Users by Segment,Total,million users,Statista,0.487,0.623,0.785,0.971,1.149,1.316,1.479,1.616,1.755,1.907,2.052
+Cambodia,Health Care,Users by Segment,Analgesics,million users,Statista,0.097,0.125,0.157,0.194,0.23,0.263,0.296,0.323,0.351,0.382,0.413
+Cambodia,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.195,0.249,0.314,0.388,0.459,0.526,0.591,0.647,0.702,0.763,0.821
+Cambodia,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.146,0.187,0.236,0.291,0.345,0.395,0.444,0.485,0.527,0.572,0.616
+Cambodia,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.195,0.249,0.314,0.388,0.459,0.526,0.591,0.647,0.702,0.763,0.821
+Cambodia,Health Care,Users by Segment,Incontinence,million users,Statista,0.097,0.125,0.157,0.194,0.23,0.263,0.296,0.323,0.351,0.382,0.413
+Cambodia,Health Care,Users by Segment,Other Health Care,million users,Statista,0.112,0.143,0.181,0.223,0.264,0.303,0.34,0.372,0.404,0.439,0.472
+Cambodia,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.195,0.249,0.314,0.388,0.459,0.526,0.591,0.647,0.702,0.763,0.821
+Cambodia,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.243,0.312,0.393,0.486,0.574,0.658,0.739,0.808,0.878,0.953,1.026
+Cambodia,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,0.608,0.767,0.952,1.162,1.356,1.533,1.701,1.837,1.972,2.124,2.267
+Cambodia,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,1.216,1.534,1.905,2.323,2.711,3.065,3.402,3.674,3.943,4.235,4.509
+Cambodia,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,0.912,1.15,1.429,1.743,2.033,2.299,2.551,2.756,2.958,3.177,3.382
+Cambodia,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,1.216,1.534,1.905,2.323,2.711,3.065,3.402,3.674,3.943,4.235,4.509
+Cambodia,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,3.04,3.834,4.762,5.809,6.778,7.663,8.504,9.185,9.858,10.588,11.272
+Cambodia,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,0.608,0.767,0.952,1.162,1.356,1.533,1.701,1.837,1.972,2.124,2.267
+Cambodia,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,0.699,0.882,1.095,1.336,1.559,1.762,1.956,2.113,2.267,2.437,2.595
+Cambodia,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,1.216,1.534,1.905,2.323,2.711,3.065,3.402,3.674,3.943,4.235,4.509
+Cambodia,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,1.52,1.917,2.381,2.904,3.389,3.831,4.252,4.593,4.929,5.294,5.636
+Cambodia,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,15.06,12.86,11.04,10.35,10.97,13.71,22.09,30.87,36.63,37.41,39.12
+Cambodia,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,2.385,1.956,1.616,1.468,1.555,2,3.327,4.659,5.415,5.545,5.794
+Cambodia,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,2.583,2.136,1.781,1.651,1.803,2.353,3.893,5.42,6.304,6.462,6.757
+Cambodia,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,0.537,0.535,0.46,0.427,0.544,0.95,1.986,3.309,4.274,4.364,4.611
+Cambodia,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,9.515,7.841,6.505,5.758,5.926,7.53,12.66,18,21.08,21.55,22.52
+Cambodia,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,29.69,24.45,20.28,18.15,18.94,24.23,40.58,57.34,66.98,68.37,71.31
+Cambodia,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.402,0.332,0.277,0.219,0.201,0.24,0.405,0.603,0.722,0.731,0.762
+Cambodia,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,2.987,2.45,2.023,1.783,1.818,2.311,3.9,5.547,6.489,6.617,6.898
+Cambodia,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,4.031,4.563,4.854,5.692,6.393,7.084,9.108,11.54,14.82,14.95,15.6
+Cambodia,Household Care,Revenue,Total,million USD (US$),Statista,4.353,4.757,5.148,5.969,7.484,10.71,19.39,29.63,38.17,42.35,47.67
+Cambodia,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.289,0.304,0.316,0.355,0.445,0.656,1.227,1.878,2.37,2.637,2.966
+Cambodia,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.336,0.356,0.374,0.428,0.553,0.827,1.538,2.341,2.957,3.292,3.705
+Cambodia,Household Care,Revenue,Household Paper,million USD (US$),Statista,0.036,0.046,0.049,0.057,0.085,0.171,0.401,0.731,1.025,1.139,1.299
+Cambodia,Household Care,Revenue,Laundry Care,million USD (US$),Statista,1.1,1.16,1.213,1.328,1.617,2.353,4.446,6.909,8.788,9.763,10.99
+Cambodia,Household Care,Revenue,Other Household Care,million USD (US$),Statista,1.888,1.99,2.08,2.303,2.842,4.165,7.838,12.11,15.36,17.07,19.21
+Cambodia,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.037,0.039,0.041,0.04,0.044,0.06,0.114,0.185,0.241,0.266,0.299
+Cambodia,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.259,0.272,0.283,0.308,0.372,0.541,1.027,1.597,2.029,2.254,2.536
+Cambodia,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.408,0.591,0.792,1.149,1.526,1.937,2.798,3.878,5.407,5.928,6.666
+Cambodia,Household Care,Revenue Change,Total,percent,Statista,,9.281,8.219,15.948,25.381,43.105,81.046,52.811,28.822,10.951,12.562
+Cambodia,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,4.94,4.147,12.358,25.288,47.283,87.043,53.056,26.198,11.266,12.476
+Cambodia,Household Care,Revenue Change,Household Cleaners,percent,Statista,,5.865,5.062,14.641,29.162,49.512,85.951,52.211,26.314,11.329,12.546
+Cambodia,Household Care,Revenue Change,Household Paper,percent,Statista,,27.583,8.253,14.923,50.635,99.93,134.856,82.24,40.296,11.122,14.047
+Cambodia,Household Care,Revenue Change,Laundry Care,percent,Statista,,5.455,4.569,9.481,21.762,45.516,88.95,55.398,27.196,11.095,12.568
+Cambodia,Household Care,Revenue Change,Other Household Care,percent,Statista,,5.403,4.523,10.721,23.404,46.552,88.187,54.504,26.837,11.133,12.537
+Cambodia,Household Care,Revenue Change,Paper Tissues,percent,Statista,,5.817,5.294,-2.321,8.34,37.163,89.176,62.852,30.108,10.345,12.425
+Cambodia,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,4.981,4.046,9.014,20.623,45.565,89.658,55.501,27.051,11.089,12.511
+Cambodia,Household Care,Revenue Change,Toilet Paper,percent,Statista,,44.91,34.056,45.076,32.811,26.933,44.45,38.599,39.428,9.636,12.449
+Cambodia,Household Care,Comparable Estimates - eCommerce (Southeast Asia),*Statista,billion USD (US$),,28.85,40.7,56.22,84.2,124.6,126.4,158.5,183.2,212.5,230.3,249.7
+Cambodia,Household Care,Comparable Estimates - eCommerce (Southeast Asia),"Google, Temasek and Bain & Company",billion USD (US$),,,,,74,120,,,,,,
+Cambodia,Household Care,Online & Offline Split,Offline,percent,Statista,98.386,98.303,98.23,97.998,97.601,96.606,94.485,92.013,90.16,,
+Cambodia,Household Care,Online & Offline Split,Online,percent,Statista,1.614,1.697,1.77,2.002,2.399,3.394,5.515,7.987,9.84,,
+Cambodia,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,60.362,53.859,51.849,50.918,50.046,49.173,48.061,47.123,46.279,,
+Cambodia,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,39.638,46.141,48.151,49.082,49.954,50.827,51.939,52.877,53.721,,
+Cambodia,Household Care,Users by Segment,Total,million users,Statista,0.289,0.37,0.466,0.577,0.682,0.781,0.878,0.96,1.042,1.132,1.219
+Cambodia,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.121,0.155,0.196,0.242,0.286,0.328,0.369,0.403,0.438,0.476,0.512
+Cambodia,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.13,0.166,0.21,0.259,0.307,0.352,0.395,0.432,0.469,0.509,0.548
+Cambodia,Household Care,Users by Segment,Household Paper,million users,Statista,0.066,0.085,0.107,0.133,0.157,0.18,0.202,0.221,0.24,0.261,0.282
+Cambodia,Household Care,Users by Segment,Laundry Care,million users,Statista,0.116,0.148,0.186,0.231,0.273,0.312,0.351,0.384,0.417,0.453,0.488
+Cambodia,Household Care,Users by Segment,Other Household Care,million users,Statista,0.064,0.081,0.103,0.127,0.15,0.172,0.193,0.211,0.229,0.25,0.269
+Cambodia,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.092,0.118,0.149,0.185,0.218,0.25,0.281,0.307,0.334,0.363,0.392
+Cambodia,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.087,0.111,0.14,0.173,0.205,0.234,0.263,0.288,0.313,0.341,0.368
+Cambodia,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.101,0.129,0.163,0.202,0.239,0.273,0.307,0.336,0.365,0.397,0.427
+Cambodia,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,0.758,0.956,1.188,1.449,1.69,1.911,2.121,2.291,2.458,2.641,2.812
+Cambodia,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,1.805,2.276,2.828,3.449,4.024,4.55,5.049,5.454,5.853,6.287,6.693
+Cambodia,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,0.812,1.024,1.272,1.552,1.811,2.047,2.272,2.454,2.634,2.829,3.012
+Cambodia,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.415,0.524,0.65,0.793,0.926,1.046,1.161,1.254,1.346,1.45,1.547
+Cambodia,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,0.722,0.911,1.131,1.38,1.61,1.82,2.02,2.182,2.341,2.516,2.679
+Cambodia,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.397,0.501,0.622,0.759,0.885,1.001,1.111,1.2,1.288,1.387,1.48
+Cambodia,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,0.578,0.728,0.905,1.104,1.288,1.456,1.616,1.745,1.873,2.018,2.154
+Cambodia,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,0.541,0.683,0.848,1.035,1.207,1.365,1.515,1.636,1.756,1.892,2.019
+Cambodia,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,0.632,0.797,0.99,1.207,1.408,1.592,1.767,1.909,2.049,2.202,2.346
+Cambodia,Food,Revenue,Total,million USD (US$),Statista,12.74,17.8,23.95,38.68,57.19,68.84,94.27,123.1,161.6,178.1,199.4
+Cambodia,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,1.889,2.641,3.554,6.675,10.62,12.72,17.25,22.25,28.78,31.84,35.65
+Cambodia,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,1.476,2.081,2.826,4.793,7.26,8.843,12.24,16.08,21.19,23.39,26.21
+Cambodia,Food,Revenue,Convenience Food,million USD (US$),Statista,0.818,1.124,1.488,2.276,3.332,4.015,5.492,7.159,9.362,10.31,11.54
+Cambodia,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,0.756,1.067,1.452,2.181,3.105,3.748,5.16,6.79,8.983,9.886,11.07
+Cambodia,Food,Revenue,Fish & Seafood,million USD (US$),Statista,1.637,2.306,3.131,4.917,7.177,8.69,11.99,15.79,20.91,23.03,25.8
+Cambodia,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,1.079,1.514,2.046,3.21,4.664,5.628,7.736,10.15,13.4,14.76,16.52
+Cambodia,Food,Revenue,Meat,million USD (US$),Statista,3.453,4.78,6.372,9.875,14.17,16.91,22.99,29.84,38.94,42.89,47.94
+Cambodia,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.227,0.313,0.417,0.617,0.871,1.049,1.442,1.895,2.508,2.758,3.086
+Cambodia,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.103,0.146,0.199,0.27,0.389,0.477,0.677,0.94,1.368,1.492,1.679
+Cambodia,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.054,0.079,0.113,0.168,0.244,0.298,0.415,0.558,0.758,0.833,0.935
+Cambodia,Food,Revenue,Vegetables,million USD (US$),Statista,1.246,1.745,2.356,3.694,5.362,6.468,8.887,11.66,15.38,16.94,18.97
+Cambodia,Food,Revenue Change,Total,percent,Statista,,39.717,34.551,61.503,47.854,20.371,36.941,30.582,31.275,10.21,11.96
+Cambodia,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,39.809,34.57,87.817,59.101,19.774,35.613,28.986,29.348,10.632,11.966
+Cambodia,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,40.989,35.8,69.604,51.471,21.804,38.415,31.373,31.779,10.382,12.056
+Cambodia,Food,Revenue Change,Convenience Food,percent,Statista,,37.459,32.384,52.957,46.397,20.498,36.787,30.353,30.772,10.126,11.93
+Cambodia,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,41.063,36.082,50.207,42.366,20.709,37.673,31.589,32.297,10.052,11.977
+Cambodia,Food,Revenue Change,Fish & Seafood,percent,Statista,,40.867,35.776,57.042,45.963,21.081,37.975,31.693,32.426,10.139,12.028
+Cambodia,Food,Revenue Change,Fruits & Nuts,percent,Statista,,40.315,35.139,56.891,45.296,20.669,37.456,31.205,32.02,10.149,11.924
+Cambodia,Food,Revenue Change,Meat,percent,Statista,,38.43,33.305,54.975,43.494,19.337,35.955,29.796,30.496,10.144,11.774
+Cambodia,Food,Revenue Change,Oils & Fats,percent,Statista,,37.974,33.238,47.783,41.3,20.381,37.464,31.415,32.348,9.968,11.893
+Cambodia,Food,Revenue Change,Sauces & Spices,percent,Statista,,41.279,36.42,35.797,43.873,22.671,41.955,38.836,45.609,9.064,12.534
+Cambodia,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,47.436,42.911,48.148,45.238,22.172,39.081,34.684,35.673,9.952,12.245
+Cambodia,Food,Revenue Change,Vegetables,percent,Statista,,40.048,35.014,56.791,45.154,20.627,37.4,31.203,31.904,10.143,11.983
+Cambodia,Food,Average Revenue per User,Total,USD (US$),Statista,35.87,37.57,37.97,48.55,58.18,58.39,69.23,81.21,96.56,96.81,99.52
+Cambodia,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,11.32,11.86,11.99,17.83,22.98,22.96,26.95,31.22,36.6,36.82,37.85
+Cambodia,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,8.483,8.967,9.143,12.28,15.07,15.31,18.35,21.64,25.85,25.94,26.7
+Cambodia,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,4.112,4.237,4.213,5.103,6.054,6.08,7.202,8.433,9.99,10.01,10.28
+Cambodia,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,9.261,9.798,10.01,11.9,13.73,13.82,16.47,19.47,23.34,23.36,24.01
+Cambodia,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,24.26,25.62,26.12,32.48,38.43,38.79,46.33,54.82,65.77,65.87,67.76
+Cambodia,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,5.842,6.147,6.239,7.75,9.125,9.178,10.92,12.88,15.4,15.42,15.86
+Cambodia,Food,Average Revenue per User,Meat,USD (US$),Statista,32.41,33.64,33.67,41.32,48.04,47.8,56.26,65.61,77.57,77.69,79.75
+Cambodia,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,2.557,2.645,2.646,3.096,3.546,3.558,4.234,5.001,5.995,5.995,6.16
+Cambodia,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.661,0.7,0.716,0.771,0.899,0.919,1.129,1.408,1.858,1.842,1.905
+Cambodia,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.459,0.508,0.545,0.639,0.752,0.766,0.922,1.116,1.372,1.372,1.414
+Cambodia,Food,Average Revenue per User,Vegetables,USD (US$),Statista,7.159,7.52,7.622,9.464,11.13,11.19,13.32,15.7,18.76,18.79,19.32
+Cambodia,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Food,Online & Offline Split,Offline,percent,Statista,99.56,99.401,99.23,98.852,98.369,98.01,97.56,96.994,96.256,,
+Cambodia,Food,Online & Offline Split,Online,percent,Statista,0.44,0.599,0.77,1.148,1.631,1.99,2.44,3.006,3.744,,
+Cambodia,Food,Mobile/Desktop Split,Desktop,percent,Statista,63.727,61.15,58.826,57.65,56.456,55.346,54.332,53.534,52.917,,
+Cambodia,Food,Mobile/Desktop Split,Mobile,percent,Statista,36.273,38.85,41.174,42.35,43.544,44.654,45.668,46.466,47.083,,
+Cambodia,Food,Users,Total,million users,Statista,0.355,0.474,0.631,0.797,0.983,1.179,1.362,1.516,1.673,1.84,2.004
+Cambodia,Food,Users,Bread & Cereal Products,million users,Statista,0.167,0.223,0.296,0.374,0.462,0.554,0.64,0.712,0.787,0.865,0.942
+Cambodia,Food,Users,Confectionery & Snacks,million users,Statista,0.174,0.232,0.309,0.39,0.482,0.578,0.667,0.743,0.82,0.902,0.982
+Cambodia,Food,Users,Convenience Food,million users,Statista,0.199,0.265,0.353,0.446,0.55,0.66,0.763,0.849,0.937,1.031,1.122
+Cambodia,Food,Users,Dairy Products & Eggs,million users,Statista,0.082,0.109,0.145,0.183,0.226,0.271,0.313,0.349,0.385,0.423,0.461
+Cambodia,Food,Users,Fish & Seafood,million users,Statista,0.067,0.09,0.12,0.151,0.187,0.224,0.259,0.288,0.318,0.35,0.381
+Cambodia,Food,Users,Fruits & Nuts,million users,Statista,0.185,0.246,0.328,0.414,0.511,0.613,0.708,0.788,0.87,0.957,1.042
+Cambodia,Food,Users,Meat,million users,Statista,0.107,0.142,0.189,0.239,0.295,0.354,0.409,0.455,0.502,0.552,0.601
+Cambodia,Food,Users,Oils & Fats,million users,Statista,0.089,0.118,0.158,0.199,0.246,0.295,0.34,0.379,0.418,0.46,0.501
+Cambodia,Food,Users,Sauces & Spices,million users,Statista,0.156,0.208,0.278,0.351,0.432,0.519,0.599,0.667,0.736,0.81,0.882
+Cambodia,Food,Users,Spreads & Sweeteners,million users,Statista,0.117,0.156,0.208,0.263,0.324,0.389,0.449,0.5,0.552,0.607,0.661
+Cambodia,Food,Users,Vegetables,million users,Statista,0.174,0.232,0.309,0.39,0.482,0.578,0.667,0.743,0.82,0.902,0.982
+Cambodia,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.042,1.37,1.798,2.239,2.726,3.228,3.681,4.049,4.417,4.803,5.173
+Cambodia,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.087,1.428,1.875,2.335,2.842,3.365,3.838,4.221,4.605,5.007,5.393
+Cambodia,Food,Penetration Rate,Convenience Food,percent,Statista,1.242,1.632,2.143,2.668,3.248,3.846,4.386,4.824,5.263,5.722,6.163
+Cambodia,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.51,0.67,0.88,1.096,1.334,1.58,1.802,1.981,2.162,2.35,2.531
+Cambodia,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.421,0.554,0.727,0.905,1.102,1.305,1.488,1.637,1.786,1.942,2.091
+Cambodia,Food,Penetration Rate,Food,percent,Statista,2.218,2.915,3.826,4.765,5.8,6.868,7.833,8.614,9.398,10.218,11.004
+Cambodia,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.153,1.516,1.99,2.478,3.016,3.571,4.073,4.479,4.887,5.314,5.723
+Cambodia,Food,Penetration Rate,Meat,percent,Statista,0.665,0.874,1.148,1.429,1.74,2.06,2.35,2.584,2.819,3.066,3.302
+Cambodia,Food,Penetration Rate,Oils & Fats,percent,Statista,0.555,0.729,0.957,1.191,1.45,1.717,1.958,2.154,2.35,2.555,2.751
+Cambodia,Food,Penetration Rate,Sauces & Spices,percent,Statista,0.976,1.282,1.684,2.097,2.552,3.022,3.446,3.79,4.135,4.496,4.842
+Cambodia,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,0.732,0.962,1.263,1.572,1.914,2.266,2.585,2.843,3.101,3.372,3.632
+Cambodia,Food,Penetration Rate,Vegetables,percent,Statista,1.087,1.428,1.875,2.335,2.842,3.365,3.838,4.221,4.605,5.007,5.393
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,11.32,11.86,11.99,17.83,22.98,22.96,26.95,31.22,36.6,36.82,37.85
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,5.798,6.084,6.153,9.212,11.91,11.9,13.96,16.17,18.94,19.05,19.59
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.326,0.342,0.347,0.432,0.509,0.514,0.614,0.726,0.871,0.873,0.898
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,5.705,6.013,6.113,9.124,11.84,11.88,14.02,16.34,19.28,19.39,19.95
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,1.015,1.063,1.075,1.612,2.088,2.092,2.464,2.864,3.368,3.388,3.485
+Cambodia,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,4.4,4.587,4.612,6.863,8.827,8.772,10.24,11.8,13.75,13.84,14.22
+Cambodia,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,1.889,2.641,3.554,6.675,10.62,12.72,17.25,22.25,28.78,31.84,35.65
+Cambodia,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,0.61,0.853,1.149,2.173,3.465,4.153,5.631,7.258,9.382,10.38,11.62
+Cambodia,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.045,0.063,0.085,0.134,0.195,0.236,0.326,0.429,0.569,0.626,0.702
+Cambodia,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.428,0.602,0.816,1.537,2.461,2.963,4.038,5.238,6.822,7.546,8.453
+Cambodia,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.152,0.213,0.287,0.543,0.868,1.043,1.419,1.836,2.384,2.637,2.954
+Cambodia,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.654,0.909,1.217,2.287,3.629,4.327,5.835,7.484,9.627,10.65,11.92
+Cambodia,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,39.809,34.57,87.817,59.101,19.774,35.613,28.986,29.348,10.632,11.966
+Cambodia,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,39.961,34.669,89.121,59.457,19.856,35.589,28.894,29.264,10.637,11.946
+Cambodia,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,40.253,35.104,57.186,45.346,21.107,37.944,31.708,32.433,10.127,12.005
+Cambodia,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,40.593,35.431,88.427,60.117,20.398,36.281,29.718,30.241,10.613,12.02
+Cambodia,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,39.764,34.695,89.299,59.823,20.161,36.05,29.387,29.847,10.612,12.021
+Cambodia,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,39.045,33.913,87.921,58.679,19.234,34.851,28.26,28.634,10.626,11.925
+Cambodia,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Cambodia,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Cambodia,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.452,99.253,99.039,98.343,97.471,96.928,96.274,95.473,94.456,,
+Cambodia,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.548,0.747,0.961,1.657,2.529,3.072,3.726,4.527,5.544,,
+Cambodia,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,82.691,76.123,70.266,66.161,62.841,60.117,57.662,55.489,53.491,,
+Cambodia,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,17.309,23.877,29.734,33.839,37.159,39.883,42.338,44.511,46.509,,
+Cambodia,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.167,0.223,0.296,0.374,0.462,0.554,0.64,0.712,0.787,0.865,0.942
+Cambodia,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.105,0.14,0.187,0.236,0.291,0.349,0.403,0.449,0.495,0.545,0.593
+Cambodia,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.139,0.185,0.246,0.311,0.383,0.46,0.531,0.591,0.653,0.718,0.782
+Cambodia,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.075,0.1,0.133,0.168,0.208,0.249,0.288,0.321,0.354,0.389,0.424
+Cambodia,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.15,0.2,0.267,0.337,0.416,0.499,0.576,0.641,0.708,0.778,0.848
+Cambodia,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.149,0.198,0.264,0.333,0.411,0.493,0.57,0.634,0.7,0.77,0.838
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,0.657,0.863,1.133,1.411,1.717,2.034,2.319,2.551,2.783,3.026,3.259
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.042,1.37,1.798,2.239,2.726,3.228,3.681,4.049,4.417,4.803,5.173
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,0.865,1.137,1.493,1.859,2.263,2.679,3.056,3.36,3.666,3.986,4.293
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.469,0.616,0.809,1.008,1.227,1.453,1.657,1.822,1.988,2.161,2.328
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,0.938,1.233,1.619,2.016,2.453,2.905,3.313,3.644,3.975,4.322,4.655
+Cambodia,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,0.928,1.219,1.601,1.993,2.426,2.873,3.276,3.603,3.931,4.274,4.604
+Cambodia,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,8.483,8.967,9.143,12.28,15.07,15.31,18.35,21.64,25.85,25.94,26.7
+Cambodia,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,7.305,7.739,7.908,10.68,13.18,13.4,16.09,19.05,22.82,22.91,23.58
+Cambodia,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.241,0.255,0.26,0.348,0.428,0.434,0.521,0.614,0.734,0.736,0.758
+Cambodia,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,2.538,2.668,2.705,3.578,4.338,4.389,5.235,6.114,7.233,7.261,7.466
+Cambodia,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,1.476,2.081,2.826,4.793,7.26,8.843,12.24,16.08,21.19,23.39,26.21
+Cambodia,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,1.042,1.473,2.004,3.419,5.204,6.347,8.803,11.6,15.35,16.94,18.99
+Cambodia,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.023,0.032,0.044,0.075,0.113,0.138,0.191,0.251,0.331,0.365,0.409
+Cambodia,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,0.411,0.576,0.777,1.299,1.943,2.358,3.249,4.223,5.515,6.089,6.817
+Cambodia,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,40.989,35.8,69.604,51.471,21.804,38.415,31.373,31.779,10.382,12.056
+Cambodia,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,41.363,36.049,70.609,52.208,21.964,38.695,31.773,32.328,10.358,12.102
+Cambodia,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,40.972,35.807,69.599,51.45,21.801,38.478,31.293,31.845,10.399,12.076
+Cambodia,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,40.2,35.03,67.074,49.577,21.359,37.786,29.978,30.594,10.408,11.956
+Cambodia,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Cambodia,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Cambodia,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.568,99.417,99.254,98.852,98.353,97.994,97.547,97.006,96.31,,
+Cambodia,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.432,0.583,0.746,1.148,1.647,2.006,2.453,2.994,3.69,,
+Cambodia,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,82.776,76.241,70.413,66.328,63.025,60.315,57.872,55.71,53.721,,
+Cambodia,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,17.224,23.759,29.587,33.672,36.975,39.685,42.128,44.29,46.279,,
+Cambodia,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.174,0.232,0.309,0.39,0.482,0.578,0.667,0.743,0.82,0.902,0.982
+Cambodia,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.143,0.19,0.253,0.32,0.395,0.474,0.547,0.609,0.672,0.739,0.805
+Cambodia,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.096,0.128,0.17,0.215,0.265,0.318,0.367,0.409,0.451,0.496,0.54
+Cambodia,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.162,0.216,0.287,0.363,0.448,0.537,0.621,0.691,0.763,0.839,0.913
+Cambodia,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,0.891,1.171,1.537,1.915,2.33,2.76,3.147,3.461,3.776,4.106,4.422
+Cambodia,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.087,1.428,1.875,2.335,2.842,3.365,3.838,4.221,4.605,5.007,5.393
+Cambodia,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,0.598,0.785,1.031,1.284,1.563,1.851,2.111,2.322,2.533,2.754,2.966
+Cambodia,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.011,1.328,1.744,2.171,2.643,3.13,3.569,3.926,4.283,4.656,5.015
+Cambodia,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,4.112,4.237,4.213,5.103,6.054,6.08,7.202,8.433,9.99,10.01,10.28
+Cambodia,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,5.789,5.966,5.934,7.19,8.534,8.577,10.17,11.91,14.12,14.15,14.54
+Cambodia,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.196,0.201,0.198,0.237,0.276,0.269,0.31,0.353,0.407,0.408,0.418
+Cambodia,Convenience Food,Revenue,Total,million USD (US$),Statista,0.818,1.124,1.488,2.276,3.332,4.015,5.492,7.159,9.362,10.31,11.54
+Cambodia,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,0.794,1.092,1.446,2.213,3.241,3.908,5.35,6.979,9.133,10.06,11.25
+Cambodia,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.023,0.032,0.042,0.063,0.091,0.107,0.142,0.18,0.229,0.253,0.281
+Cambodia,Convenience Food,Revenue Change,Total,percent,Statista,,37.459,32.384,52.957,46.397,20.498,36.787,30.353,30.772,10.126,11.93
+Cambodia,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,37.48,32.418,53.043,46.453,20.58,36.899,30.449,30.864,10.15,11.829
+Cambodia,Convenience Food,Revenue Change,Soups,percent,Statista,,36.484,31.307,51.122,43.825,17.163,32.99,26.779,27.349,10.214,11.446
+Cambodia,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.575,99.429,99.276,98.944,98.522,98.197,97.791,97.28,96.619,,
+Cambodia,Convenience Food,Online & Offline Split,Online,percent,Statista,0.425,0.571,0.724,1.056,1.478,1.803,2.209,2.72,3.381,,
+Cambodia,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,50.86,51.002,51.134,51.218,51.295,51.363,51.423,51.475,51.519,,
+Cambodia,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,49.14,48.998,48.866,48.782,48.705,48.637,48.577,48.525,48.481,,
+Cambodia,Convenience Food,Users by Segment,Total,million users,Statista,0.199,0.265,0.353,0.446,0.55,0.66,0.763,0.849,0.937,1.031,1.122
+Cambodia,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.137,0.183,0.244,0.308,0.38,0.456,0.526,0.586,0.647,0.711,0.774
+Cambodia,Convenience Food,Users by Segment,Soups,million users,Statista,0.119,0.159,0.212,0.268,0.33,0.396,0.458,0.509,0.562,0.618,0.673
+Cambodia,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,1.242,1.632,2.143,2.668,3.248,3.846,4.386,4.824,5.263,5.722,6.163
+Cambodia,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,0.857,1.126,1.478,1.841,2.241,2.654,3.027,3.329,3.631,3.948,4.253
+Cambodia,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,0.745,0.979,1.286,1.601,1.949,2.308,2.632,2.894,3.158,3.433,3.698
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,9.261,9.798,10.01,11.9,13.73,13.82,16.47,19.47,23.34,23.36,24.01
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,0.295,0.305,0.305,0.358,0.409,0.408,0.483,0.566,0.673,0.673,0.691
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,4.071,4.251,4.282,5.058,5.809,5.815,6.897,8.11,9.673,9.693,9.97
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,4.84,5.267,5.529,6.71,7.861,8.05,9.753,11.72,14.27,14.29,14.72
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,9.705,10.04,10.01,11.66,13.25,13.07,15.27,17.69,20.78,20.83,21.38
+Cambodia,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,0.212,0.22,0.219,0.258,0.294,0.295,0.35,0.412,0.492,0.492,0.506
+Cambodia,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,0.756,1.067,1.452,2.181,3.105,3.748,5.16,6.79,8.983,9.886,11.07
+Cambodia,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.018,0.025,0.033,0.049,0.069,0.083,0.113,0.148,0.194,0.214,0.239
+Cambodia,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.143,0.199,0.267,0.399,0.565,0.678,0.929,1.216,1.601,1.761,1.97
+Cambodia,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.308,0.448,0.626,0.959,1.386,1.703,2.383,3.188,4.284,4.716,5.291
+Cambodia,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.277,0.383,0.508,0.748,1.048,1.24,1.674,2.159,2.8,3.08,3.438
+Cambodia,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.01,0.013,0.018,0.026,0.037,0.044,0.06,0.079,0.104,0.115,0.128
+Cambodia,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,41.063,36.082,50.207,42.366,20.709,37.673,31.589,32.297,10.052,11.977
+Cambodia,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,37.998,33.106,48.269,40.983,19.634,36.544,30.511,31.216,10.041,11.792
+Cambodia,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,39.231,34.154,49.195,41.681,20.103,36.986,30.908,31.661,9.994,11.868
+Cambodia,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,45.151,39.821,53.268,44.526,22.872,39.93,33.781,34.379,10.084,12.193
+Cambodia,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,37.924,32.802,47.235,40.088,18.321,35,28.973,29.69,10,11.623
+Cambodia,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,37.783,33.08,48.343,41.063,20.071,37.093,31.055,31.899,9.981,11.78
+Cambodia,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Cambodia,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Cambodia,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.575,99.419,99.25,98.961,98.575,98.253,97.843,97.316,96.622,,
+Cambodia,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.425,0.581,0.75,1.039,1.425,1.747,2.157,2.684,3.378,,
+Cambodia,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,50.86,51.002,51.134,51.218,51.295,51.363,51.423,51.475,51.519,,
+Cambodia,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,49.14,48.998,48.866,48.782,48.705,48.637,48.577,48.525,48.481,,
+Cambodia,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.082,0.109,0.145,0.183,0.226,0.271,0.313,0.349,0.385,0.423,0.461
+Cambodia,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.061,0.082,0.109,0.137,0.17,0.203,0.235,0.261,0.289,0.317,0.346
+Cambodia,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.035,0.047,0.062,0.079,0.097,0.117,0.135,0.15,0.166,0.182,0.198
+Cambodia,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.064,0.085,0.113,0.143,0.176,0.212,0.244,0.272,0.3,0.33,0.359
+Cambodia,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.029,0.038,0.051,0.064,0.079,0.095,0.11,0.122,0.135,0.148,0.161
+Cambodia,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.045,0.06,0.08,0.101,0.124,0.149,0.172,0.192,0.212,0.233,0.253
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.383,0.503,0.66,0.822,1,1.185,1.351,1.486,1.621,1.763,1.898
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.51,0.67,0.88,1.096,1.334,1.58,1.802,1.981,2.162,2.35,2.531
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.219,0.288,0.378,0.471,0.574,0.679,0.775,0.852,0.929,1.009,1.085
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.398,0.523,0.686,0.855,1.041,1.232,1.405,1.545,1.686,1.833,1.974
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.179,0.235,0.308,0.384,0.467,0.553,0.631,0.693,0.757,0.821,0.883
+Cambodia,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.281,0.369,0.484,0.603,0.734,0.869,0.991,1.09,1.189,1.293,1.392
+Cambodia,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,24.26,25.62,26.12,32.48,38.43,38.79,46.33,54.82,65.77,65.87,67.76
+Cambodia,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,43.7,46.4,47.5,59.22,70.21,70.53,83.83,98.68,117.8,118.2,121.7
+Cambodia,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,13.03,13.45,13.45,16.44,19.25,19.67,23.8,28.56,34.75,34.83,35.93
+Cambodia,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,4.541,4.779,4.854,6.045,7.142,7.289,8.803,10.53,12.77,12.79,13.17
+Cambodia,Fish & Seafood,Revenue,Total,million USD (US$),Statista,1.637,2.306,3.131,4.917,7.177,8.69,11.99,15.79,20.91,23.03,25.8
+Cambodia,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,1.15,1.628,2.22,3.496,5.113,6.163,8.459,11.08,14.6,16.09,18.02
+Cambodia,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.211,0.29,0.387,0.597,0.863,1.057,1.478,1.974,2.652,2.917,3.271
+Cambodia,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.276,0.387,0.524,0.824,1.2,1.47,2.05,2.73,3.655,4.024,4.512
+Cambodia,Fish & Seafood,Revenue Change,Total,percent,Statista,,40.867,35.776,57.042,45.963,21.081,37.975,31.693,32.426,10.139,12.028
+Cambodia,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,41.565,36.364,57.477,46.253,20.536,37.255,30.985,31.769,10.205,11.995
+Cambodia,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,37.63,33.196,54.369,44.498,22.508,39.83,33.559,34.347,9.992,12.136
+Cambodia,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,40.37,35.297,57.277,45.719,22.5,39.456,33.171,33.883,10.096,12.127
+Cambodia,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.575,99.419,99.248,98.913,98.479,98.137,97.704,97.152,96.427,,
+Cambodia,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.425,0.581,0.752,1.087,1.521,1.863,2.296,2.848,3.573,,
+Cambodia,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,50.86,51.002,51.134,51.218,51.295,51.363,51.423,51.475,51.519,,
+Cambodia,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,49.14,48.998,48.866,48.782,48.705,48.637,48.577,48.525,48.481,,
+Cambodia,Fish & Seafood,Users by Segment,Total,million users,Statista,0.067,0.09,0.12,0.151,0.187,0.224,0.259,0.288,0.318,0.35,0.381
+Cambodia,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.026,0.035,0.047,0.059,0.073,0.087,0.101,0.112,0.124,0.136,0.148
+Cambodia,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.016,0.022,0.029,0.036,0.045,0.054,0.062,0.069,0.076,0.084,0.091
+Cambodia,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.061,0.081,0.108,0.136,0.168,0.202,0.233,0.259,0.286,0.315,0.343
+Cambodia,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.421,0.554,0.727,0.905,1.102,1.305,1.488,1.637,1.786,1.942,2.091
+Cambodia,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.164,0.216,0.284,0.353,0.43,0.509,0.58,0.638,0.696,0.756,0.813
+Cambodia,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.101,0.133,0.174,0.217,0.264,0.313,0.357,0.393,0.429,0.465,0.5
+Cambodia,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.379,0.498,0.654,0.815,0.992,1.174,1.339,1.473,1.607,1.747,1.882
+Cambodia,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,5.842,6.147,6.239,7.75,9.125,9.178,10.92,12.88,15.4,15.42,15.86
+Cambodia,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,7.299,7.704,7.842,9.767,11.53,11.63,13.87,16.39,19.64,19.67,20.23
+Cambodia,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.947,0.976,0.97,1.18,1.357,1.336,1.556,1.794,2.097,2.1,2.153
+Cambodia,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.518,0.533,0.529,0.647,0.747,0.742,0.872,1.015,1.199,1.2,1.232
+Cambodia,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,1.079,1.514,2.046,3.21,4.664,5.628,7.736,10.15,13.4,14.76,16.52
+Cambodia,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,0.944,1.328,1.801,2.832,4.126,4.99,6.876,9.045,11.96,13.18,14.76
+Cambodia,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.087,0.12,0.159,0.244,0.347,0.41,0.551,0.707,0.912,1.005,1.122
+Cambodia,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.048,0.066,0.087,0.134,0.191,0.228,0.309,0.4,0.522,0.574,0.642
+Cambodia,Fruits & Nuts,Revenue Change,Total,percent,Statista,,40.315,35.139,56.891,45.296,20.669,37.456,31.205,32.02,10.149,11.924
+Cambodia,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,40.753,35.617,57.246,45.692,20.94,37.796,31.545,32.228,10.201,11.988
+Cambodia,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,37.414,32.39,53.648,41.957,18.108,34.497,28.372,29.03,10.137,11.642
+Cambodia,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,37.252,32.338,54.192,42.569,19.172,35.736,29.598,30.335,10.104,11.753
+Cambodia,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.575,99.42,99.253,98.92,98.494,98.16,97.738,97.201,96.498,,
+Cambodia,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.425,0.58,0.747,1.08,1.506,1.84,2.262,2.799,3.502,,
+Cambodia,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Cambodia,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Cambodia,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.185,0.246,0.328,0.414,0.511,0.613,0.708,0.788,0.87,0.957,1.042
+Cambodia,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.129,0.172,0.23,0.29,0.358,0.429,0.496,0.552,0.609,0.67,0.729
+Cambodia,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.092,0.123,0.164,0.207,0.256,0.307,0.354,0.394,0.435,0.478,0.521
+Cambodia,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.092,0.123,0.164,0.207,0.256,0.307,0.354,0.394,0.435,0.478,0.521
+Cambodia,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,0.807,1.061,1.393,1.734,2.111,2.5,2.851,3.136,3.421,3.719,4.006
+Cambodia,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.153,1.516,1.99,2.478,3.016,3.571,4.073,4.479,4.887,5.314,5.723
+Cambodia,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.577,0.758,0.995,1.239,1.508,1.786,2.036,2.24,2.444,2.657,2.861
+Cambodia,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.577,0.758,0.995,1.239,1.508,1.786,2.036,2.24,2.444,2.657,2.861
+Cambodia,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,32.41,33.64,33.67,41.32,48.04,47.8,56.26,65.61,77.57,77.69,79.75
+Cambodia,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,40.54,42.06,42.11,51.75,60.19,59.99,70.76,82.67,97.93,98.07,100.7
+Cambodia,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,5.108,5.31,5.305,6.451,7.486,7.359,8.554,9.846,11.5,11.52,11.8
+Cambodia,Meat,Revenue,Total,million USD (US$),Statista,3.453,4.78,6.372,9.875,14.17,16.91,22.99,29.84,38.94,42.89,47.94
+Cambodia,Meat,Revenue,Fresh Meat,million USD (US$),Statista,2.979,4.123,5.498,8.534,12.25,14.64,19.95,25.94,33.92,37.36,41.77
+Cambodia,Meat,Revenue,Processed Meat,million USD (US$),Statista,0.473,0.656,0.873,1.341,1.92,2.265,3.04,3.896,5.021,5.531,6.173
+Cambodia,Meat,Revenue Change,Total,percent,Statista,,38.43,33.305,54.975,43.494,19.337,35.955,29.796,30.496,10.144,11.774
+Cambodia,Meat,Revenue Change,Fresh Meat,percent,Statista,,38.402,33.35,55.22,43.543,19.51,36.27,30.025,30.763,10.142,11.804
+Cambodia,Meat,Revenue Change,Processed Meat,percent,Statista,,38.657,33.059,53.538,43.177,17.969,34.216,28.158,28.876,10.157,11.607
+Cambodia,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Cambodia,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Cambodia,Meat,Online & Offline Split,Offline,percent,Statista,99.575,99.424,99.261,98.937,98.524,98.202,97.795,97.279,96.605,,
+Cambodia,Meat,Online & Offline Split,Online,percent,Statista,0.425,0.576,0.739,1.063,1.476,1.798,2.205,2.721,3.395,,
+Cambodia,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Cambodia,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Cambodia,Meat,Users by Segment,Total,million users,Statista,0.107,0.142,0.189,0.239,0.295,0.354,0.409,0.455,0.502,0.552,0.601
+Cambodia,Meat,Users by Segment,Fresh Meat,million users,Statista,0.074,0.098,0.131,0.165,0.203,0.244,0.282,0.314,0.346,0.381,0.415
+Cambodia,Meat,Users by Segment,Processed Meat,million users,Statista,0.093,0.124,0.165,0.208,0.257,0.308,0.355,0.396,0.437,0.48,0.523
+Cambodia,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.459,0.603,0.792,0.986,1.201,1.422,1.621,1.783,1.945,2.115,2.278
+Cambodia,Meat,Penetration Rate by Segment,Meat,percent,Statista,0.665,0.874,1.148,1.429,1.74,2.06,2.35,2.584,2.819,3.066,3.302
+Cambodia,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.579,0.761,0.999,1.244,1.514,1.793,2.044,2.248,2.453,2.667,2.872
+Cambodia,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,2.557,2.645,2.646,3.096,3.546,3.558,4.234,5.001,5.995,5.995,6.16
+Cambodia,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.238,0.251,0.255,0.302,0.349,0.351,0.417,0.492,0.589,0.59,0.606
+Cambodia,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,0.245,0.254,0.254,0.296,0.336,0.331,0.385,0.444,0.519,0.519,0.532
+Cambodia,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,0.349,0.374,0.386,0.465,0.546,0.555,0.67,0.801,0.972,0.973,1.002
+Cambodia,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,3.152,3.236,3.216,3.743,4.268,4.28,5.095,6.019,7.219,7.216,7.414
+Cambodia,Oils & Fats,Revenue,Total,thousand USD (US$),Statista,227,313.2,417.3,616.7,871.4,"1,049","1,442","1,895","2,508","2,758","3,086"
+Cambodia,Oils & Fats,Revenue,Butter,thousand USD (US$),Statista,16.88,23.75,32.16,48.15,68.7,82.73,113.7,149.3,197.2,217.1,243
+Cambodia,Oils & Fats,Revenue,Edible Oils,thousand USD (US$),Statista,17.4,24.09,32.1,47.2,66.14,77.98,104.8,134.5,173.6,191.1,213.2
+Cambodia,Oils & Fats,Revenue,Margarine,thousand USD (US$),Statista,24.8,35.41,48.72,74.02,107.3,131,182.4,242.8,325.3,358,401.4
+Cambodia,Oils & Fats,Revenue,Other Oils & Fats,thousand USD (US$),Statista,167.9,229.9,304.3,447.3,629.3,757.1,"1,041","1,369","1,812","1,992","2,228"
+Cambodia,Oils & Fats,Revenue Change,Total,percent,Statista,,37.974,33.238,47.783,41.3,20.381,37.464,31.415,32.348,9.968,11.893
+Cambodia,Oils & Fats,Revenue Change,Butter,percent,Statista,,40.699,35.411,49.72,42.679,20.422,37.435,31.31,32.083,10.091,11.93
+Cambodia,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,38.448,33.25,47.04,40.127,17.901,34.393,28.34,29.071,10.081,11.565
+Cambodia,Oils & Fats,Revenue Change,Margarine,percent,Statista,,42.782,37.588,51.929,44.961,22.088,39.237,33.114,33.979,10.052,12.123
+Cambodia,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,36.927,32.362,46.993,40.689,20.308,37.498,31.508,32.359,9.934,11.847
+Cambodia,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.575,99.428,99.27,99.002,98.641,98.336,97.947,97.445,96.78,,
+Cambodia,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.425,0.572,0.73,0.998,1.359,1.664,2.053,2.555,3.22,,
+Cambodia,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Cambodia,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Cambodia,Oils & Fats,Users by Segment,Total,million users,Statista,0.089,0.118,0.158,0.199,0.246,0.295,0.34,0.379,0.418,0.46,0.501
+Cambodia,Oils & Fats,Users by Segment,Butter,million users,Statista,0.071,0.095,0.126,0.159,0.197,0.236,0.272,0.303,0.335,0.368,0.401
+Cambodia,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.071,0.095,0.126,0.159,0.197,0.236,0.272,0.303,0.335,0.368,0.401
+Cambodia,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.071,0.095,0.126,0.159,0.197,0.236,0.272,0.303,0.335,0.368,0.401
+Cambodia,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.053,0.071,0.095,0.119,0.147,0.177,0.204,0.227,0.251,0.276,0.301
+Cambodia,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.444,0.583,0.765,0.953,1.16,1.374,1.567,1.723,1.88,2.044,2.201
+Cambodia,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.444,0.583,0.765,0.953,1.16,1.374,1.567,1.723,1.88,2.044,2.201
+Cambodia,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.444,0.583,0.765,0.953,1.16,1.374,1.567,1.723,1.88,2.044,2.201
+Cambodia,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.555,0.729,0.957,1.191,1.45,1.717,1.958,2.154,2.35,2.555,2.751
+Cambodia,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.333,0.437,0.574,0.715,0.87,1.03,1.175,1.292,1.41,1.533,1.651
+Cambodia,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.661,0.7,0.716,0.771,0.899,0.919,1.129,1.408,1.858,1.842,1.905
+Cambodia,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.435,0.473,0.499,0.543,0.655,0.691,0.883,1.155,1.62,1.601,1.664
+Cambodia,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.521,0.535,0.529,0.56,0.624,0.61,0.706,0.807,0.936,0.935,0.956
+Cambodia,Sauces & Spices,Revenue,Total,thousand USD (US$),Statista,103.2,145.8,198.9,270.1,388.6,476.7,676.7,939.5,"1,368","1,492","1,679"
+Cambodia,Sauces & Spices,Revenue,Spices & Culinary Herbs,thousand USD (US$),Statista,54.36,78.88,110.7,152.3,226.6,286.8,423.1,616.3,954.5,"1,037","1,174"
+Cambodia,Sauces & Spices,Revenue,Tomato Ketchup,thousand USD (US$),Statista,48.86,66.92,88.13,117.9,162,189.9,253.6,323.2,413.5,454.3,505.8
+Cambodia,Sauces & Spices,Revenue Change,Total,percent,Statista,,41.279,36.42,35.797,43.873,22.671,41.955,38.836,45.609,9.064,12.534
+Cambodia,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,45.107,40.34,37.579,48.785,26.567,47.524,45.663,54.876,8.643,13.211
+Cambodia,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,36.963,31.695,33.78,37.405,17.222,33.544,27.445,27.939,9.867,11.336
+Cambodia,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.425,0.606,0.821,1.106,1.579,2.039,2.699,3.693,5.344,,
+Cambodia,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cambodia,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cambodia,Sauces & Spices,Users by Segment,Total,million users,Statista,0.156,0.208,0.278,0.351,0.432,0.519,0.599,0.667,0.736,0.81,0.882
+Cambodia,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.125,0.167,0.222,0.28,0.346,0.415,0.479,0.534,0.589,0.648,0.705
+Cambodia,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.094,0.125,0.167,0.21,0.259,0.311,0.36,0.4,0.442,0.486,0.529
+Cambodia,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,0.976,1.282,1.684,2.097,2.552,3.022,3.446,3.79,4.135,4.496,4.842
+Cambodia,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,0.781,1.026,1.347,1.677,2.042,2.417,2.757,3.032,3.308,3.597,3.874
+Cambodia,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.586,0.769,1.01,1.258,1.531,1.813,2.068,2.274,2.481,2.698,2.905
+Cambodia,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.459,0.508,0.545,0.639,0.752,0.766,0.922,1.116,1.372,1.372,1.414
+Cambodia,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.353,0.386,0.41,0.476,0.555,0.567,0.684,0.83,1.024,1.023,1.054
+Cambodia,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.368,0.414,0.452,0.538,0.641,0.652,0.782,0.942,1.152,1.153,1.188
+Cambodia,Spreads & Sweeteners,Revenue,Total,thousand USD (US$),Statista,53.82,79.35,113.4,168,244,298.1,414.6,558.4,757.6,833,935
+Cambodia,Spreads & Sweeteners,Revenue,Spreads,thousand USD (US$),Statista,33.09,48.28,68.27,100.1,144.1,176.3,245.8,332.2,452.2,496.9,557.8
+Cambodia,Spreads & Sweeteners,Revenue,Sweeteners,thousand USD (US$),Statista,20.73,31.07,45.13,67.89,99.88,121.7,168.7,226.3,305.4,336.1,377.2
+Cambodia,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,47.436,42.911,48.148,45.238,22.172,39.081,34.684,35.673,9.952,12.245
+Cambodia,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,45.905,41.404,46.624,43.956,22.346,39.421,35.151,36.123,9.885,12.256
+Cambodia,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,49.879,45.253,50.432,47.12,21.846,38.62,34.143,34.954,10.052,12.229
+Cambodia,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Cambodia,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Cambodia,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.569,99.379,99.156,98.814,98.368,98.002,97.539,96.891,96.02,,
+Cambodia,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.431,0.621,0.844,1.186,1.632,1.998,2.461,3.109,3.98,,
+Cambodia,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cambodia,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cambodia,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.117,0.156,0.208,0.263,0.324,0.389,0.449,0.5,0.552,0.607,0.661
+Cambodia,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.094,0.125,0.167,0.21,0.259,0.311,0.36,0.4,0.442,0.486,0.529
+Cambodia,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.056,0.075,0.1,0.126,0.156,0.187,0.216,0.24,0.265,0.291,0.317
+Cambodia,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.586,0.769,1.01,1.258,1.531,1.813,2.068,2.274,2.481,2.698,2.905
+Cambodia,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,0.732,0.962,1.263,1.572,1.914,2.266,2.585,2.843,3.101,3.372,3.632
+Cambodia,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.351,0.462,0.606,0.755,0.919,1.088,1.241,1.365,1.489,1.619,1.743
+Cambodia,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,7.159,7.52,7.622,9.464,11.13,11.19,13.32,15.7,18.76,18.79,19.32
+Cambodia,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,9.207,9.67,9.798,12.16,14.31,14.38,17.11,20.16,24.09,24.12,24.8
+Cambodia,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,1.427,1.503,1.527,1.899,2.238,2.254,2.687,3.171,3.796,3.802,3.909
+Cambodia,Vegetables,Revenue,Total,million USD (US$),Statista,1.246,1.745,2.356,3.694,5.362,6.468,8.887,11.66,15.38,16.94,18.97
+Cambodia,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,1.121,1.571,2.12,3.324,4.823,5.817,7.991,10.48,13.82,15.23,17.05
+Cambodia,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.124,0.174,0.236,0.371,0.539,0.651,0.896,1.178,1.556,1.714,1.919
+Cambodia,Vegetables,Revenue Change,Total,percent,Statista,,40.048,35.014,56.791,45.154,20.627,37.4,31.203,31.904,10.143,11.983
+Cambodia,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,40.143,34.946,56.792,45.096,20.61,37.373,31.148,31.87,10.203,11.95
+Cambodia,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,40.419,35.264,57.143,45.401,20.816,37.638,31.429,32.088,10.154,11.96
+Cambodia,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Cambodia,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Cambodia,Vegetables,Online & Offline Split,Offline,percent,Statista,99.575,99.421,99.255,98.925,98.502,98.171,97.753,97.221,96.526,,
+Cambodia,Vegetables,Online & Offline Split,Online,percent,Statista,0.425,0.579,0.745,1.075,1.498,1.829,2.247,2.779,3.474,,
+Cambodia,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Cambodia,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Cambodia,Vegetables,Users by Segment,Total,million users,Statista,0.174,0.232,0.309,0.39,0.482,0.578,0.667,0.743,0.82,0.902,0.982
+Cambodia,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.122,0.162,0.216,0.273,0.337,0.404,0.467,0.52,0.574,0.631,0.687
+Cambodia,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.087,0.116,0.155,0.195,0.241,0.289,0.334,0.371,0.41,0.451,0.491
+Cambodia,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,0.761,1,1.312,1.634,1.989,2.356,2.687,2.955,3.224,3.505,3.775
+Cambodia,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.543,0.714,0.937,1.167,1.421,1.683,1.919,2.11,2.303,2.504,2.696
+Cambodia,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.087,1.428,1.875,2.335,2.842,3.365,3.838,4.221,4.605,5.007,5.393

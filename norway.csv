@@ -1,0 +1,703 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Norway,eCommerce,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15.328,,,,,,
+Norway,eCommerce,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.362,,,,,,
+Norway,eCommerce,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.304,,,,,,
+Norway,eCommerce,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.833,,,,,,
+Norway,eCommerce,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.173,,,,,,
+Norway,eCommerce,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,50.317,,,,,,
+Norway,eCommerce,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,49.683,,,,,,
+Norway,eCommerce,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.216,,,,,,
+Norway,eCommerce,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,30.946,,,,,,
+Norway,eCommerce,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.838,,,,,,
+Norway,eCommerce,Revenue,Total,billion USD (US$),Statista,6.561,7.219,7.891,10.27,10.9,10.34,13.07,14.87,16.94,18.05,19.35
+Norway,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.962,1.055,1.148,1.45,1.517,1.471,1.761,1.961,2.184,2.327,2.488
+Norway,eCommerce,Revenue,Beverages,billion USD (US$),Statista,0.229,0.267,0.31,0.469,0.525,0.528,0.659,0.769,0.9,0.969,1.05
+Norway,eCommerce,Revenue,Electronics,billion USD (US$),Statista,1.583,1.712,1.831,2.163,2.243,1.846,2.3,2.426,2.549,2.617,2.69
+Norway,eCommerce,Revenue,Fashion,billion USD (US$),Statista,1.767,1.939,2.115,2.807,2.948,2.951,3.635,4.151,4.724,5.056,5.438
+Norway,eCommerce,Revenue,Food,billion USD (US$),Statista,0.199,0.231,0.264,0.428,0.469,0.545,0.779,1.033,1.366,1.493,1.665
+Norway,eCommerce,Revenue,Furniture,billion USD (US$),Statista,0.817,0.925,1.038,1.36,1.467,1.334,1.954,2.335,2.769,2.998,3.275
+Norway,eCommerce,Revenue,Media,billion USD (US$),Statista,0.253,0.253,0.252,0.313,0.324,0.278,0.295,0.292,0.29,0.291,0.291
+Norway,eCommerce,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.752,0.838,0.932,1.279,1.405,1.389,1.689,1.907,2.156,2.297,2.459
+Norway,eCommerce,Revenue Change,Total,percent,Statista,,10.031,9.308,30.129,6.131,-5.108,26.397,13.782,13.887,6.548,7.246
+Norway,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,9.73,8.806,26.324,4.609,-3.072,19.722,11.382,11.382,6.538,6.916
+Norway,eCommerce,Revenue Change,Beverages,percent,Statista,,16.685,16.061,51.407,11.988,0.651,24.8,16.588,17.093,7.618,8.346
+Norway,eCommerce,Revenue Change,Electronics,percent,Statista,,8.12,6.98,18.12,3.695,-17.714,24.617,5.458,5.081,2.672,2.775
+Norway,eCommerce,Revenue Change,Fashion,percent,Statista,,9.78,9.055,32.74,5.001,0.11,23.175,14.197,13.803,7.02,7.561
+Norway,eCommerce,Revenue Change,Food,percent,Statista,,15.776,14.492,61.875,9.73,16.12,42.938,32.6,32.321,9.244,11.51
+Norway,eCommerce,Revenue Change,Furniture,percent,Statista,,13.238,12.277,30.979,7.89,-9.09,46.497,19.494,18.604,8.276,9.245
+Norway,eCommerce,Revenue Change,Media,percent,Statista,,-0.08,-0.302,23.927,3.509,-14.08,6.095,-1.037,-0.741,0.328,0.054
+Norway,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,11.408,11.334,37.15,9.876,-1.142,21.563,12.932,13.033,6.569,7.046
+Norway,eCommerce,Average Revenue per User,Total,thousand USD (US$),Statista,1.837,1.91,2.002,2.507,2.517,2.299,2.869,3.274,3.74,3.944,4.208
+Norway,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",thousand USD (US$),Statista,0.744,0.746,0.745,0.857,0.816,0.732,0.828,0.88,0.938,0.953,0.977
+Norway,eCommerce,Average Revenue per User,Beverages,thousand USD (US$),Statista,0.367,0.372,0.375,0.496,0.493,0.447,0.512,0.558,0.614,0.619,0.632
+Norway,eCommerce,Average Revenue per User,Electronics,thousand USD (US$),Statista,0.86,0.827,0.789,0.829,0.769,0.576,0.668,0.664,0.659,0.638,0.622
+Norway,eCommerce,Average Revenue per User,Fashion,thousand USD (US$),Statista,0.921,0.926,0.923,1.112,1.054,0.965,1.109,1.198,1.294,1.306,1.332
+Norway,eCommerce,Average Revenue per User,Food,thousand USD (US$),Statista,0.34,0.342,0.341,0.481,0.469,0.49,0.643,0.797,0.99,1.014,1.066
+Norway,eCommerce,Average Revenue per User,Furniture,thousand USD (US$),Statista,1.085,1.043,0.995,1.147,1.1,0.899,1.209,1.339,1.479,1.498,1.539
+Norway,eCommerce,Average Revenue per User,Media,thousand USD (US$),Statista,0.196,0.176,0.156,0.172,0.158,0.123,0.122,0.113,0.105,0.099,0.094
+Norway,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",thousand USD (US$),Statista,0.575,0.552,0.524,0.625,0.603,0.533,0.594,0.625,0.662,0.659,0.664
+Norway,eCommerce,Revenue Share Payment Types,Bank transfer,percent,Statista,21.312,21.056,20.794,20.524,21.995,23.292,24.191,24.885,25.578,,
+Norway,eCommerce,Revenue Share Payment Types,Cards,percent,Statista,48.537,49.154,48.918,48.691,43.45,38.805,34.743,31.136,27.529,,
+Norway,eCommerce,Revenue Share Payment Types,Cash on delivery,percent,Statista,3.723,3.679,3.399,3.141,3.152,3.148,3.134,3.103,3.071,,
+Norway,eCommerce,Revenue Share Payment Types,Direct debits,percent,Statista,4.893,4.834,4.774,4.712,5.05,5.348,5.554,5.713,5.873,,
+Norway,eCommerce,Revenue Share Payment Types,E-Invoice,percent,Statista,9.056,8.948,9.152,9.319,10.222,11.075,11.87,12.564,13.258,,
+Norway,eCommerce,Revenue Share Payment Types,E-wallet,percent,Statista,9.163,9.053,9.783,10.471,12.764,14.767,16.805,18.79,20.775,,
+Norway,eCommerce,Revenue Share Payment Types,Other,percent,Statista,3.316,3.276,3.18,3.141,3.367,3.565,3.703,3.809,3.915,,
+Norway,eCommerce,Revenue Share Cross-border,Cross-border,percent,Statista|ecommercedb.com,4.898,4.978,5.06,5.138,5.213,5.274,5.274,5.274,5.274,,
+Norway,eCommerce,Revenue Share Cross-border,Domestic,percent,Statista|ecommercedb.com,95.102,95.022,94.94,94.862,94.787,94.726,94.726,94.726,94.726,,
+Norway,eCommerce,Online & Offline Split,Offline,percent,Statista,89.488,88.742,88.014,84.714,84.446,83.107,81.595,79.872,78.003,,
+Norway,eCommerce,Online & Offline Split,Online,percent,Statista,10.512,11.258,11.986,15.286,15.554,16.893,18.405,20.128,21.997,,
+Norway,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,68.659,67.022,65.385,63.895,62.476,61.885,61.526,61.265,61.005,,
+Norway,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,31.341,32.978,34.615,36.105,37.524,38.115,38.474,38.735,38.995,,
+Norway,eCommerce,Users,Total,million users,Statista,3.571,3.78,3.941,4.097,4.33,4.499,4.556,4.543,4.529,4.576,4.6
+Norway,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,1.293,1.415,1.541,1.693,1.859,2.008,2.127,2.228,2.328,2.442,2.547
+Norway,eCommerce,Users,Beverages,million users,Statista,0.623,0.717,0.825,0.945,1.064,1.183,1.288,1.377,1.467,1.566,1.66
+Norway,eCommerce,Users,Electronics,million users,Statista,1.841,2.069,2.32,2.61,2.916,3.202,3.444,3.655,3.869,4.104,4.327
+Norway,eCommerce,Users,Fashion,million users,Statista,1.917,2.095,2.291,2.526,2.797,3.059,3.277,3.464,3.651,3.871,4.082
+Norway,eCommerce,Users,Food,million users,Statista,0.585,0.674,0.775,0.889,1,1.112,1.211,1.295,1.38,1.473,1.561
+Norway,eCommerce,Users,Furniture,million users,Statista,0.753,0.886,1.043,1.185,1.334,1.483,1.615,1.743,1.872,2.002,2.128
+Norway,eCommerce,Users,Media,million users,Statista,1.29,1.437,1.617,1.82,2.048,2.257,2.412,2.579,2.747,2.925,3.099
+Norway,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,1.307,1.517,1.779,2.046,2.332,2.607,2.843,3.049,3.257,3.484,3.701
+Norway,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,24.408,26.504,28.65,31.232,34.014,36.43,38.271,39.754,41.196,42.86,44.357
+Norway,eCommerce,Penetration Rate,Beverages,percent,Statista,11.754,13.43,15.333,17.438,19.464,21.464,23.181,24.572,25.965,27.492,28.916
+Norway,eCommerce,Penetration Rate,eCommerce,percent,Statista,67.425,70.809,73.263,75.567,79.23,81.627,81.978,81.059,80.147,80.321,80.105
+Norway,eCommerce,Penetration Rate,Electronics,percent,Statista,34.756,38.764,43.13,48.149,53.359,58.098,61.956,65.216,68.473,72.043,75.36
+Norway,eCommerce,Penetration Rate,Fashion,percent,Statista,36.195,39.244,42.6,46.587,51.17,55.506,58.964,61.801,64.603,67.945,71.078
+Norway,eCommerce,Penetration Rate,Food,percent,Statista,11.052,12.628,14.417,16.397,18.302,20.182,21.797,23.105,24.415,25.851,27.191
+Norway,eCommerce,Penetration Rate,Furniture,percent,Statista,14.208,16.607,19.396,21.862,24.403,26.91,29.062,31.097,33.134,35.138,37.057
+Norway,eCommerce,Penetration Rate,Media,percent,Statista,24.354,26.919,30.058,33.574,37.475,40.946,43.403,46.007,48.616,51.348,53.96
+Norway,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,24.67,28.421,33.076,37.738,42.662,47.305,51.152,54.396,57.636,61.161,64.451
+Norway,Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.667,,,,,,
+Norway,Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.714,,,,,,
+Norway,Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.286,,,,,,
+Norway,Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.381,,,,,,
+Norway,Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,16.952,,,,,,
+Norway,Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.952,,,,,,
+Norway,Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.048,,,,,,
+Norway,Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.339,,,,,,
+Norway,Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,26.559,,,,,,
+Norway,Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.102,,,,,,
+Norway,Electronics,Revenue,Total,billion USD (US$),Statista,1.583,1.712,1.831,2.163,2.243,1.846,2.3,2.426,2.549,2.617,2.69
+Norway,Electronics,Revenue,Consumer Electronics,billion USD (US$),Statista,1.251,1.346,1.433,1.644,1.698,1.333,1.704,1.783,1.857,1.885,1.916
+Norway,Electronics,Revenue,Household Appliances,billion USD (US$),Statista,0.332,0.365,0.399,0.519,0.545,0.513,0.596,0.643,0.692,0.732,0.774
+Norway,Electronics,Revenue Change,Total,percent,Statista,,8.12,6.98,18.12,3.695,-17.714,24.617,5.458,5.081,2.672,2.775
+Norway,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,7.634,6.398,14.774,3.295,-21.536,27.874,4.615,4.153,1.5,1.649
+Norway,Electronics,Revenue Change,Household Appliances,percent,Statista,,9.947,9.123,30.139,4.962,-5.799,16.158,7.867,7.653,5.815,5.672
+Norway,Electronics,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.86,0.827,0.789,0.829,0.769,0.576,0.668,0.664,0.659,0.638,0.622
+Norway,Electronics,Average Revenue per User by Segment,Consumer Electronics,thousand USD (US$),Statista,0.705,0.689,0.673,0.692,0.641,0.461,0.551,0.545,0.537,0.514,0.495
+Norway,Electronics,Average Revenue per User by Segment,Household Appliances,thousand USD (US$),Statista,0.286,0.27,0.25,0.284,0.265,0.224,0.239,0.241,0.244,0.242,0.242
+Norway,Electronics,Online & Offline Split,Offline,percent,Statista,51.339,49.083,46.546,39.734,42.29,38.352,36.657,34.296,32.888,,
+Norway,Electronics,Online & Offline Split,Online,percent,Statista,48.661,50.917,53.454,60.266,57.71,61.648,63.343,65.704,67.112,,
+Norway,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Electronics,Users by Segment,Total,million users,Statista,1.841,2.069,2.32,2.61,2.916,3.202,3.444,3.655,3.869,4.104,4.327
+Norway,Electronics,Users by Segment,Consumer Electronics,million users,Statista,1.774,1.955,2.129,2.375,2.649,2.891,3.091,3.273,3.457,3.666,3.866
+Norway,Electronics,Users by Segment,Household Appliances,million users,Statista,1.163,1.354,1.594,1.827,2.056,2.286,2.49,2.662,2.836,3.021,3.195
+Norway,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,33.493,36.621,39.587,43.816,48.462,52.461,55.608,58.389,61.174,64.345,67.327
+Norway,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,34.756,38.764,43.13,48.149,53.359,58.098,61.956,65.216,68.473,72.043,75.36
+Norway,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,21.959,25.374,29.636,33.704,37.621,41.486,44.805,47.493,50.185,53.022,55.646
+Norway,Consumer Electronics,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.326,,,,,,
+Norway,Consumer Electronics,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.438,,,,,,
+Norway,Consumer Electronics,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,22.191,,,,,,
+Norway,Consumer Electronics,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.315,,,,,,
+Norway,Consumer Electronics,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,15.73,,,,,,
+Norway,Consumer Electronics,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,35.112,,,,,,
+Norway,Consumer Electronics,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,64.888,,,,,,
+Norway,Consumer Electronics,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.667,,,,,,
+Norway,Consumer Electronics,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,23.667,,,,,,
+Norway,Consumer Electronics,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.667,,,,,,
+Norway,Consumer Electronics,Revenue,Total,million USD (US$),Statista,"1,251","1,346","1,433","1,644","1,698","1,333","1,704","1,783","1,857","1,885","1,916"
+Norway,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,326.4,344.3,357.4,389.3,395.3,312.1,399,416.7,432.7,438.2,444.6
+Norway,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,385.8,415.3,441.9,507.1,523.8,411,525.6,549.9,572.7,581.3,590.9
+Norway,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,318,348.2,376.8,445.1,461.7,365.2,466.3,486.5,504.7,513.2,521.9
+Norway,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,206.7,224.2,241.7,287.3,302,231.9,297.5,313.2,329.5,334.6,340.7
+Norway,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,14.02,14.5,14.76,15.38,15.51,12.28,15.63,16.36,17.12,17.28,17.53
+Norway,Consumer Electronics,Revenue Change,Total,percent,Statista,,7.634,6.398,14.774,3.295,-21.536,27.874,4.615,4.153,1.5,1.649
+Norway,Consumer Electronics,Revenue Change,Computing,percent,Statista,,5.467,3.814,8.915,1.562,-21.045,27.827,4.44,3.837,1.256,1.478
+Norway,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,7.634,6.398,14.774,3.295,-21.536,27.874,4.615,4.153,1.5,1.649
+Norway,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,9.498,8.223,18.121,3.736,-20.895,27.689,4.33,3.73,1.695,1.689
+Norway,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,8.48,7.829,18.863,5.095,-23.195,28.258,5.295,5.202,1.55,1.825
+Norway,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,3.374,1.812,4.245,0.804,-20.838,27.346,4.637,4.668,0.951,1.427
+Norway,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,705.2,688.8,672.8,692.2,641.2,460.9,551.3,544.7,537.1,514.1,495.5
+Norway,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,262.9,251.6,239.8,234.1,213.2,154.2,184.4,181.9,178.8,170.8,164.3
+Norway,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,271.9,265.6,259.4,266.9,247.2,177.7,212.6,210,207.1,198.2,191
+Norway,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,224.1,222.6,221.2,234.2,217.9,157.9,188.6,185.8,182.5,175,168.7
+Norway,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,291.2,286.7,283.8,302.4,285,200.5,240.6,239.3,238.3,228.1,220.2
+Norway,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,26.35,24.72,23.1,21.59,19.52,14.15,16.86,16.66,16.51,15.71,15.11
+Norway,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,47.698,45.692,43.198,36.242,39,36.595,35.21,32.996,31.808,,
+Norway,Consumer Electronics,Online & Offline Split,Online,percent,Statista,52.302,54.308,56.802,63.758,61,63.405,64.79,67.004,68.192,,
+Norway,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Consumer Electronics,Users,Total,million users,Statista,1.774,1.955,2.129,2.375,2.649,2.891,3.091,3.273,3.457,3.666,3.866
+Norway,Consumer Electronics,Users,Computing,million users,Statista,1.242,1.368,1.491,1.663,1.854,2.024,2.164,2.291,2.42,2.566,2.706
+Norway,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,1.419,1.564,1.703,1.9,2.119,2.313,2.473,2.618,2.766,2.933,3.093
+Norway,Consumer Electronics,Users,Telephony,million users,Statista,1.419,1.564,1.703,1.9,2.119,2.313,2.473,2.618,2.766,2.933,3.093
+Norway,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.71,0.782,0.852,0.95,1.06,1.157,1.236,1.309,1.383,1.467,1.547
+Norway,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.532,0.586,0.639,0.713,0.795,0.867,0.927,0.982,1.037,1.1,1.16
+Norway,Consumer Electronics,Penetration Rate,Computing,percent,Statista,23.445,25.635,27.711,30.671,33.924,36.722,38.926,40.872,42.822,45.041,47.129
+Norway,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,33.493,36.621,39.587,43.816,48.462,52.461,55.608,58.389,61.174,64.345,67.327
+Norway,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,26.794,29.297,31.67,35.053,38.77,41.968,44.487,46.711,48.939,51.476,53.862
+Norway,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,26.794,29.297,31.67,35.053,38.77,41.968,44.487,46.711,48.939,51.476,53.862
+Norway,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,13.397,14.648,15.835,17.526,19.385,20.984,22.243,23.355,24.47,25.745,26.945
+Norway,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,10.048,10.986,11.876,13.145,14.539,15.738,16.682,17.517,18.352,19.309,20.209
+Norway,Household Appliances,Revenue,Total,million USD (US$),Statista,332.4,365.4,398.8,519,544.7,513.1,596.1,642.9,692.2,732.4,773.9
+Norway,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,150.5,165.5,180.6,234.9,246.6,232.2,269.6,290.7,312.8,330.8,349.4
+Norway,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,60.61,66.64,72.71,94.63,99.33,93.57,108.7,117.2,126.2,133.5,141.1
+Norway,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,121.2,133.3,145.5,189.4,198.8,187.4,217.8,235,253.1,268,283.4
+Norway,Household Appliances,Revenue Change,Total,percent,Statista,,9.947,9.123,30.139,4.962,-5.799,16.158,7.867,7.653,5.815,5.672
+Norway,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,9.947,9.123,30.087,4.962,-5.838,16.108,7.82,7.605,5.762,5.618
+Norway,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,9.947,9.123,30.139,4.962,-5.799,16.158,7.867,7.653,5.814,5.672
+Norway,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,9.947,9.123,30.205,4.962,-5.75,16.219,7.926,7.712,5.88,5.739
+Norway,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,285.8,269.8,250.2,284,264.9,224.4,239.4,241.5,244.1,242.5,242.2
+Norway,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,323.6,305.5,283.3,321.5,299.8,253.9,270.7,273,275.7,273.8,273.4
+Norway,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,260.6,246,228.1,259,241.5,204.6,218.2,220.2,222.5,221,220.7
+Norway,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,130.3,123,114.1,129.6,120.9,102.4,109.3,110.4,111.6,110.9,110.9
+Norway,Household Appliances,Online & Offline Split,Offline,percent,Statista,61.443,58.604,55.886,48.646,50.596,43.065,40.491,37.661,35.625,,
+Norway,Household Appliances,Online & Offline Split,Online,percent,Statista,38.557,41.396,44.114,51.354,49.404,56.935,59.509,62.339,64.375,,
+Norway,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Household Appliances,Users,Total,million users,Statista,1.163,1.354,1.594,1.827,2.056,2.286,2.49,2.662,2.836,3.021,3.195
+Norway,Household Appliances,Users,Major Appliances,million users,Statista,0.465,0.542,0.638,0.731,0.822,0.915,0.996,1.065,1.134,1.208,1.278
+Norway,Household Appliances,Users,Other Household Appliances,million users,Statista,0.233,0.271,0.319,0.365,0.411,0.457,0.498,0.532,0.567,0.604,0.639
+Norway,Household Appliances,Users,Small Appliances,million users,Statista,0.93,1.084,1.275,1.462,1.645,1.829,1.992,2.13,2.269,2.416,2.556
+Norway,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,21.959,25.374,29.636,33.704,37.621,41.486,44.805,47.493,50.185,53.022,55.646
+Norway,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,8.783,10.149,11.854,13.482,15.048,16.594,17.922,18.997,20.074,21.21,22.26
+Norway,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,4.392,5.075,5.927,6.741,7.524,8.297,8.961,9.499,10.037,10.606,11.133
+Norway,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,17.567,20.299,23.709,26.963,30.097,33.189,35.844,37.994,40.148,42.418,44.516
+Norway,"Beauty, Health, Personal & Household Care",Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,14.981,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.401,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.93,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.903,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.786,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,63.424,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,36.576,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,33.824,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.108,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.069,,,,,,
+Norway,"Beauty, Health, Personal & Household Care",Revenue,Total,billion USD (US$),Statista,0.962,1.055,1.148,1.45,1.517,1.471,1.761,1.961,2.184,2.327,2.488
+Norway,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,billion USD (US$),Statista,0.129,0.141,0.153,0.193,0.201,0.192,0.227,0.248,0.272,0.288,0.307
+Norway,"Beauty, Health, Personal & Household Care",Revenue,Health Care,billion USD (US$),Statista,0.064,0.073,0.082,0.114,0.123,0.123,0.153,0.176,0.202,0.218,0.237
+Norway,"Beauty, Health, Personal & Household Care",Revenue,Household Care,billion USD (US$),Statista,0.111,0.122,0.133,0.172,0.181,0.191,0.248,0.3,0.364,0.393,0.429
+Norway,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,billion USD (US$),Statista,0.657,0.718,0.779,0.971,1.012,0.964,1.133,1.236,1.346,1.428,1.516
+Norway,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,9.73,8.806,26.324,4.609,-3.072,19.722,11.382,11.382,6.538,6.916
+Norway,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,9.421,8.461,25.769,4.224,-4.341,17.946,9.512,9.269,6.2,6.33
+Norway,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,13.664,12.584,37.769,8.096,0.463,23.925,15.128,14.953,7.925,8.378
+Norway,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,10.048,9.137,29.382,4.873,5.351,30.182,21.148,21.165,7.829,9.262
+Norway,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,9.352,8.433,24.699,4.231,-4.754,17.472,9.112,8.919,6.049,6.165
+Norway,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,743.9,745.8,745,856.6,816.1,732.4,827.7,880.1,938.2,953,976.7
+Norway,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,142.9,142.8,142.2,162.8,154.5,136.9,152.4,159.3,166.6,168.7,172
+Norway,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,77.9,80.9,83.62,104.9,103.2,96.02,112.3,123.5,135.8,139.8,145.2
+Norway,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,225.9,227.2,227.6,268,256,249.7,306.9,354.9,411.6,423.1,443
+Norway,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,819.6,818.9,815.2,925.2,878.3,774.6,858.9,894.6,932.6,943,959.6
+Norway,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,70.885,69.149,67.646,59.939,60.182,59.007,57.664,56.041,54.359,,
+Norway,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,29.115,30.851,32.354,40.061,39.818,40.993,42.336,43.959,45.641,,
+Norway,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,1.293,1.415,1.541,1.693,1.859,2.008,2.127,2.228,2.328,2.442,2.547
+Norway,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,0.905,0.99,1.079,1.185,1.301,1.405,1.489,1.56,1.63,1.709,1.783
+Norway,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.827,0.905,0.986,1.084,1.19,1.285,1.361,1.426,1.49,1.563,1.63
+Norway,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.491,0.538,0.586,0.643,0.706,0.763,0.808,0.847,0.885,0.928,0.968
+Norway,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.801,0.877,0.955,1.05,1.153,1.245,1.319,1.381,1.443,1.514,1.579
+Norway,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,24.408,26.504,28.65,31.232,34.014,36.43,38.271,39.754,41.196,42.86,44.357
+Norway,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,17.086,18.553,20.055,21.862,23.81,25.501,26.789,27.828,28.838,30.002,31.05
+Norway,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,15.621,16.963,18.336,19.988,21.769,23.315,24.493,25.443,26.366,27.431,28.391
+Norway,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,9.275,10.072,10.887,11.868,12.925,13.844,14.543,15.107,15.655,16.29,16.861
+Norway,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,15.133,16.433,17.763,19.364,21.089,22.587,23.728,24.647,25.542,26.574,27.504
+Norway,Personal Care,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,15,,,,,,
+Norway,Personal Care,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,21.562,,,,,,
+Norway,Personal Care,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.375,,,,,,
+Norway,Personal Care,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.375,,,,,,
+Norway,Personal Care,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.688,,,,,,
+Norway,Personal Care,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,75.938,,,,,,
+Norway,Personal Care,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,24.062,,,,,,
+Norway,Personal Care,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,34.156,,,,,,
+Norway,Personal Care,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,32.922,,,,,,
+Norway,Personal Care,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.922,,,,,,
+Norway,Personal Care,Revenue,Total,million USD (US$),Statista,656.9,718.3,778.9,971.3,"1,012",964.2,"1,133","1,236","1,346","1,428","1,516"
+Norway,Personal Care,Revenue,Body Care,million USD (US$),Statista,78.98,85.99,92.83,114.2,118.5,111.6,129.7,139.9,150.7,159.1,168.1
+Norway,Personal Care,Revenue,Eye Care,million USD (US$),Statista,40.63,45.91,51.4,67.62,72.68,71.46,86.63,97.51,109.5,117.6,126.6
+Norway,Personal Care,Revenue,Hair Care,million USD (US$),Statista,106.7,116.2,125.4,155,160.8,152,177.2,191.8,207.2,219.1,231.8
+Norway,Personal Care,Revenue,Oral Care,million USD (US$),Statista,63.69,69.34,74.87,92.58,96.06,90.61,105.4,113.8,122.7,129.7,137.1
+Norway,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,235.1,257.1,278.8,347.7,362.4,345.1,405.4,442.4,481.8,511,542.5
+Norway,Personal Care,Revenue,Skin Care,million USD (US$),Statista,131.8,143.8,155.6,194.2,202,193.4,228.3,250.4,274.2,291,309.4
+Norway,Personal Care,Revenue Change,Total,percent,Statista,,9.352,8.433,24.699,4.231,-4.754,17.472,9.112,8.919,6.049,6.165
+Norway,Personal Care,Revenue Change,Body Care,percent,Statista,,8.876,7.965,23.005,3.758,-5.781,16.179,7.887,7.673,5.625,5.654
+Norway,Personal Care,Revenue Change,Eye Care,percent,Statista,,13.01,11.954,31.553,7.487,-1.675,21.224,12.554,12.314,7.419,7.643
+Norway,Personal Care,Revenue Change,Hair Care,percent,Statista,,8.876,7.965,23.573,3.758,-5.459,16.572,8.249,8.031,5.739,5.797
+Norway,Personal Care,Revenue Change,Oral Care,percent,Statista,,8.876,7.965,23.659,3.758,-5.672,16.31,8.006,7.788,5.69,5.719
+Norway,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,9.352,8.433,24.699,4.231,-4.754,17.472,9.112,8.919,6.049,6.165
+Norway,Personal Care,Revenue Change,Skin Care,percent,Statista,,9.124,8.192,24.853,3.977,-4.261,18.082,9.68,9.487,6.129,6.323
+Norway,Personal Care,Average Revenue per User,Total,USD (US$),Statista,819.6,818.9,815.2,925.2,878.3,774.6,858.9,894.6,932.6,943,959.6
+Norway,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,144.9,144.2,142.9,160,151.2,131.9,144.6,149,153.5,154.6,156.5
+Norway,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,101.4,104.7,107.6,128.8,126.1,114.8,131.4,141.2,151.7,155.4,160.3
+Norway,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,256,254.7,252.4,283.9,268.3,234.8,258.4,267.1,276.1,278.3,282.2
+Norway,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,162.2,161.3,159.9,180,170.1,148.5,163.1,168.2,173.5,174.8,177.1
+Norway,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,651.9,651.4,648.4,736,698.6,616.1,683.2,711.6,741.8,750.1,763.3
+Norway,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,373.7,372.6,370.1,420.5,398.2,353,393.5,412,431.7,436.8,445.2
+Norway,Personal Care,Online & Offline Split,Offline,percent,Statista,66.004,64.174,62.652,54.041,54.642,54.098,53.498,52.54,51.553,,
+Norway,Personal Care,Online & Offline Split,Online,percent,Statista,33.996,35.826,37.348,45.959,45.358,45.902,46.502,47.46,48.447,,
+Norway,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Personal Care,Users,Total,million users,Statista,0.801,0.877,0.955,1.05,1.153,1.245,1.319,1.381,1.443,1.514,1.579
+Norway,Personal Care,Users,Body Care,million users,Statista,0.545,0.596,0.65,0.714,0.784,0.846,0.897,0.939,0.982,1.03,1.074
+Norway,Personal Care,Users,Eye Care,million users,Statista,0.401,0.439,0.478,0.525,0.576,0.622,0.659,0.691,0.722,0.757,0.79
+Norway,Personal Care,Users,Hair Care,million users,Statista,0.417,0.456,0.497,0.546,0.599,0.647,0.686,0.718,0.751,0.787,0.822
+Norway,Personal Care,Users,Oral Care,million users,Statista,0.393,0.43,0.468,0.514,0.565,0.61,0.646,0.677,0.707,0.742,0.774
+Norway,Personal Care,Users,Other Personal Care,million users,Statista,0.361,0.395,0.43,0.472,0.519,0.56,0.593,0.622,0.65,0.681,0.711
+Norway,Personal Care,Users,Skin Care,million users,Statista,0.353,0.386,0.42,0.462,0.507,0.548,0.58,0.608,0.635,0.666,0.695
+Norway,Personal Care,Penetration Rate,Body Care,percent,Statista,10.29,11.174,12.079,13.167,14.34,15.359,16.135,16.76,17.368,18.072,18.707
+Norway,Personal Care,Penetration Rate,Eye Care,percent,Statista,7.566,8.216,8.882,9.682,10.544,11.293,11.864,12.324,12.771,13.289,13.756
+Norway,Personal Care,Penetration Rate,Hair Care,percent,Statista,7.869,8.545,9.237,10.069,10.966,11.745,12.338,12.817,13.282,13.821,14.306
+Norway,Personal Care,Penetration Rate,Oral Care,percent,Statista,7.415,8.052,8.704,9.488,10.334,11.068,11.627,12.077,12.515,13.023,13.481
+Norway,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,6.81,7.395,7.993,8.714,9.49,10.164,10.677,11.091,11.494,11.958,12.376
+Norway,Personal Care,Penetration Rate,Personal Care,percent,Statista,15.133,16.433,17.763,19.364,21.089,22.587,23.728,24.647,25.542,26.574,27.504
+Norway,Personal Care,Penetration Rate,Skin Care,percent,Statista,6.658,7.23,7.816,8.52,9.279,9.938,10.44,10.845,11.238,11.693,12.101
+Norway,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,142.9,142.8,142.2,162.8,154.5,136.9,152.4,159.3,166.6,168.7,172
+Norway,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,144.8,144.6,143.8,163.9,155.4,137.3,152.5,159.1,166,167.9,171
+Norway,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,9.442,9.659,9.816,12.14,11.73,10.78,12.42,13.39,14.4,14.77,15.26
+Norway,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,143.2,143.2,142.6,163.2,155,137.2,152.8,159.7,167.1,169.1,172.4
+Norway,Beauty Care,Revenue,Total,million USD (US$),Statista,129.3,141.5,153.4,193,201.1,192.4,226.9,248.5,271.5,288.4,306.6
+Norway,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,91.75,100.3,108.6,136,141.5,135.1,158.9,173.7,189.4,200.9,213.4
+Norway,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,5.127,5.739,6.353,8.63,9.156,9.09,11.09,12.53,14.08,15.15,16.33
+Norway,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,32.41,35.46,38.46,48.37,50.41,48.22,56.88,62.29,68.06,72.28,76.86
+Norway,Beauty Care,Revenue Change,Total,percent,Statista,,9.421,8.461,25.769,4.224,-4.341,17.946,9.512,9.269,6.2,6.33
+Norway,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,9.28,8.333,25.18,4.106,-4.575,17.671,9.27,9.044,6.098,6.221
+Norway,Beauty Care,Revenue Change,Fragrances,percent,Statista,,11.949,10.699,35.841,6.088,-0.719,22.036,12.968,12.386,7.579,7.77
+Norway,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,9.421,8.461,25.769,4.224,-4.341,17.946,9.512,9.269,6.2,6.33
+Norway,Beauty Care,Online & Offline Split,Offline,percent,Statista,68.073,66.414,65.058,55.046,56.152,55.366,54.417,52.973,51.41,,
+Norway,Beauty Care,Online & Offline Split,Online,percent,Statista,31.927,33.586,34.942,44.954,43.848,44.634,45.583,47.027,48.59,,
+Norway,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Beauty Care,Users by Segment,Total,million users,Statista,0.905,0.99,1.079,1.185,1.301,1.405,1.489,1.56,1.63,1.709,1.783
+Norway,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.633,0.693,0.755,0.83,0.911,0.984,1.042,1.092,1.141,1.197,1.248
+Norway,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.543,0.594,0.647,0.711,0.781,0.843,0.893,0.936,0.978,1.026,1.07
+Norway,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.226,0.248,0.27,0.296,0.325,0.351,0.372,0.39,0.407,0.427,0.446
+Norway,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,17.086,18.553,20.055,21.862,23.81,25.501,26.789,27.828,28.838,30.002,31.05
+Norway,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,11.96,12.987,14.039,15.304,16.667,17.851,18.753,19.479,20.186,21.004,21.74
+Norway,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,10.251,11.132,12.033,13.117,14.286,15.301,16.074,16.697,17.303,18.004,18.636
+Norway,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,4.271,4.638,5.014,5.466,5.952,6.375,6.697,6.957,7.209,7.501,7.764
+Norway,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,77.9,80.9,83.62,104.9,103.2,96.02,112.3,123.5,135.8,139.8,145.2
+Norway,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,127.6,132.9,137.6,169.9,167.6,155.3,180.9,197.9,216.6,221.5,228.6
+Norway,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,16.09,16.75,17.35,21.42,21.13,19.58,22.8,24.94,27.3,28.08,29.14
+Norway,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,33.91,35.3,36.57,45.13,44.51,41.12,47.74,52.04,56.77,58.37,60.53
+Norway,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,2.428,2.528,2.619,7.748,7.642,6.868,7.757,8.227,8.73,9.017,9.291
+Norway,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,27.97,28.37,28.66,32.54,31.34,31.02,38.63,45.24,53.07,54.28,56.67
+Norway,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,84.89,88.17,91.13,114.3,112.5,104.6,122.4,134.5,148,152.4,158.3
+Norway,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,18.09,18.84,19.51,24.09,23.76,21.97,25.52,27.85,30.4,31.27,32.43
+Norway,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,4.885,5.086,5.269,6.502,6.414,5.982,7.011,7.717,8.498,8.747,9.09
+Norway,Health Care,Revenue,Total,million USD (US$),Statista,64.45,73.25,82.47,113.6,122.8,123.4,152.9,176,202.4,218.4,236.7
+Norway,Health Care,Revenue,Analgesics,million USD (US$),Statista,21.11,24.06,27.15,36.82,39.87,39.91,49.25,56.44,64.53,69.63,75.39
+Norway,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,5.324,6.066,6.846,9.283,10.05,10.06,12.42,14.23,16.27,17.55,19
+Norway,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,8.416,9.589,10.82,14.67,15.89,15.85,19.5,22.26,25.37,27.37,29.61
+Norway,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.804,0.916,1.033,3.358,3.637,3.53,4.224,4.693,5.203,5.637,6.059
+Norway,Health Care,Revenue,Incontinence,million USD (US$),Statista,4.628,5.137,5.654,7.051,7.458,7.972,10.52,12.9,15.81,17.07,18.69
+Norway,Health Care,Revenue,Other Health Care,million USD (US$),Statista,16.15,18.36,20.67,28.48,30.79,30.93,38.33,44.13,50.72,54.77,59.38
+Norway,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,5.987,6.822,7.698,10.44,11.31,11.29,13.9,15.89,18.12,19.55,21.15
+Norway,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,2.021,2.303,2.598,3.523,3.816,3.843,4.772,5.502,6.331,6.835,7.412
+Norway,Health Care,Revenue Change,Total,percent,Statista,,13.664,12.584,37.769,8.096,0.463,23.925,15.128,14.953,7.925,8.378
+Norway,Health Care,Revenue Change,Analgesics,percent,Statista,,13.946,12.845,35.602,8.307,0.095,23.407,14.584,14.34,7.899,8.278
+Norway,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,13.946,12.845,35.606,8.307,0.089,23.4,14.577,14.334,7.898,8.276
+Norway,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,13.946,12.845,35.566,8.307,-0.238,22.998,14.204,13.961,7.857,8.19
+Norway,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,13.946,12.845,225.006,8.307,-2.948,19.658,11.103,10.868,8.339,7.494
+Norway,Health Care,Revenue Change,Incontinence,percent,Statista,,11.001,10.063,24.718,5.766,6.888,31.949,22.67,22.565,7.911,9.512
+Norway,Health Care,Revenue Change,Other Health Care,percent,Statista,,13.664,12.584,37.769,8.096,0.463,23.925,15.128,14.953,7.978,8.423
+Norway,Health Care,Revenue Change,Skin Treatment,percent,Statista,,13.946,12.845,35.615,8.307,-0.151,23.105,14.303,14.06,7.87,8.214
+Norway,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,13.946,12.845,35.591,8.307,0.72,24.178,15.299,15.054,7.97,8.437
+Norway,Health Care,Online & Offline Split,Offline,percent,Statista,76.665,74.43,72.273,63.547,62.41,59.6,56.554,53.408,50.219,,
+Norway,Health Care,Online & Offline Split,Online,percent,Statista,23.335,25.57,27.727,36.453,37.59,40.4,43.446,46.592,49.781,,
+Norway,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Health Care,Users by Segment,Total,million users,Statista,0.827,0.905,0.986,1.084,1.19,1.285,1.361,1.426,1.49,1.563,1.63
+Norway,Health Care,Users by Segment,Analgesics,million users,Statista,0.165,0.181,0.197,0.217,0.238,0.257,0.272,0.285,0.298,0.314,0.33
+Norway,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.331,0.362,0.395,0.433,0.476,0.514,0.545,0.57,0.596,0.625,0.652
+Norway,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.248,0.272,0.296,0.325,0.357,0.385,0.408,0.428,0.447,0.469,0.489
+Norway,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.331,0.362,0.395,0.433,0.476,0.514,0.545,0.57,0.596,0.625,0.652
+Norway,Health Care,Users by Segment,Incontinence,million users,Statista,0.165,0.181,0.197,0.217,0.238,0.257,0.272,0.285,0.298,0.314,0.33
+Norway,Health Care,Users by Segment,Other Health Care,million users,Statista,0.19,0.208,0.227,0.249,0.274,0.296,0.313,0.328,0.343,0.359,0.375
+Norway,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.331,0.362,0.395,0.433,0.476,0.514,0.545,0.57,0.596,0.625,0.652
+Norway,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.414,0.453,0.493,0.542,0.595,0.642,0.681,0.713,0.745,0.781,0.815
+Norway,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,3.124,3.393,3.667,3.998,4.354,4.663,4.899,5.089,5.273,5.519,5.743
+Norway,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,6.248,6.785,7.334,7.995,8.708,9.326,9.797,10.177,10.546,10.973,11.357
+Norway,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,4.686,5.089,5.501,5.997,6.531,6.995,7.348,7.633,7.91,8.23,8.518
+Norway,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,6.248,6.785,7.334,7.995,8.708,9.326,9.797,10.177,10.546,10.973,11.357
+Norway,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,15.621,16.963,18.336,19.988,21.769,23.315,24.493,25.443,26.366,27.431,28.391
+Norway,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,3.124,3.393,3.667,3.998,4.354,4.663,4.899,5.089,5.273,5.519,5.743
+Norway,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,3.593,3.901,4.217,4.597,5.007,5.363,5.633,5.852,6.064,6.31,6.531
+Norway,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,6.248,6.785,7.334,7.995,8.708,9.326,9.797,10.177,10.546,10.973,11.357
+Norway,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,7.811,8.481,9.168,9.994,10.885,11.658,12.247,12.721,13.183,13.718,14.199
+Norway,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,225.9,227.2,227.6,268,256,249.7,306.9,354.9,411.6,423.1,443
+Norway,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,28.89,28.69,28.4,35.64,33.64,32.31,39.15,44.7,51.24,52.66,55.03
+Norway,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,28.65,28.46,28.17,36.23,34.19,32.88,39.87,45.57,52.29,53.79,56.26
+Norway,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,129.4,131.3,132.6,150.2,144.7,142.5,176.6,205.8,240.3,245.6,256.2
+Norway,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,64.88,64.45,63.8,73.75,69.6,67.21,81.87,93.99,108.3,111,115.9
+Norway,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,411.6,413.9,414.7,488.4,466.5,455,559.1,646.7,749.9,766.5,798.5
+Norway,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,21.1,21.4,21.62,25.17,24.25,23.9,29.64,34.56,40.36,41.31,43.12
+Norway,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,18.36,18.24,18.05,20.78,19.61,18.87,22.91,26.21,30.11,30.66,31.82
+Norway,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,121,122.8,124,145.7,140.3,138,170.7,198.6,231.4,236.9,247.2
+Norway,Household Care,Revenue,Total,million USD (US$),Statista,111,122.1,133.3,172.5,180.9,190.5,248,300.5,364.1,392.6,429
+Norway,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,5.96,6.479,6.986,9.632,9.981,10.35,13.29,15.9,19.04,20.52,22.38
+Norway,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,6.334,6.886,7.424,10.49,10.87,11.29,14.5,17.36,20.82,22.46,24.51
+Norway,Household Care,Revenue,Household Paper,million USD (US$),Statista,14.62,16.23,17.86,22.23,23.51,25,32.83,40.08,48.89,52.73,57.68
+Norway,Household Care,Revenue,Laundry Care,million USD (US$),Statista,12.75,13.86,14.94,18.98,19.67,20.51,26.47,31.83,38.34,41.21,44.9
+Norway,Household Care,Revenue,Other Household Care,million USD (US$),Statista,44.49,48.96,53.43,69.13,72.5,76.38,99.43,120.5,145.9,157.4,171.9
+Norway,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,3.316,3.681,4.052,5.183,5.482,5.834,7.665,9.363,11.43,12.34,13.51
+Norway,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,2.706,2.942,3.172,4.01,4.156,4.32,5.556,6.658,7.991,8.585,9.346
+Norway,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,20.81,23.1,25.42,32.81,34.7,36.85,48.3,58.86,71.66,77.38,84.69
+Norway,Household Care,Revenue Change,Total,percent,Statista,,10.048,9.137,29.382,4.873,5.351,30.182,21.148,21.165,7.829,9.262
+Norway,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,8.717,7.817,37.876,3.625,3.748,28.355,19.598,19.772,7.794,9.035
+Norway,Household Care,Revenue Change,Household Cleaners,percent,Statista,,8.717,7.817,41.285,3.625,3.848,28.481,19.717,19.894,7.902,9.118
+Norway,Household Care,Revenue Change,Household Paper,percent,Statista,,11.001,10.063,24.424,5.766,6.372,31.31,22.073,21.966,7.862,9.399
+Norway,Household Care,Revenue Change,Laundry Care,percent,Statista,,8.717,7.817,27.006,3.625,4.297,29.046,20.254,20.442,7.498,8.953
+Norway,Household Care,Revenue Change,Other Household Care,percent,Statista,,10.048,9.137,29.382,4.873,5.351,30.182,21.148,21.165,7.829,9.262
+Norway,Household Care,Revenue Change,Paper Tissues,percent,Statista,,11.001,10.063,27.918,5.766,6.433,31.386,22.144,22.037,7.975,9.477
+Norway,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,8.717,7.817,26.445,3.625,3.951,28.61,19.84,20.019,7.442,8.858
+Norway,Household Care,Revenue Change,Toilet Paper,percent,Statista,,11.001,10.063,29.051,5.766,6.184,31.078,21.858,21.751,7.99,9.447
+Norway,Household Care,Online & Offline Split,Offline,percent,Statista,83.902,82.738,81.651,77.485,77.189,74.601,71.586,68.384,65.044,,
+Norway,Household Care,Online & Offline Split,Online,percent,Statista,16.098,17.262,18.349,22.515,22.811,25.399,28.414,31.616,34.956,,
+Norway,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Household Care,Users by Segment,Total,million users,Statista,0.491,0.538,0.586,0.643,0.706,0.763,0.808,0.847,0.885,0.928,0.968
+Norway,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.206,0.226,0.246,0.27,0.297,0.32,0.339,0.356,0.372,0.39,0.407
+Norway,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.221,0.242,0.264,0.29,0.318,0.343,0.364,0.381,0.398,0.418,0.436
+Norway,Household Care,Users by Segment,Household Paper,million users,Statista,0.113,0.124,0.135,0.148,0.162,0.175,0.186,0.195,0.203,0.215,0.225
+Norway,Household Care,Users by Segment,Laundry Care,million users,Statista,0.196,0.215,0.234,0.257,0.283,0.305,0.323,0.339,0.354,0.371,0.387
+Norway,Household Care,Users by Segment,Other Household Care,million users,Statista,0.108,0.118,0.129,0.142,0.155,0.168,0.178,0.186,0.195,0.205,0.215
+Norway,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.157,0.172,0.187,0.206,0.226,0.244,0.259,0.271,0.283,0.299,0.313
+Norway,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.147,0.161,0.176,0.193,0.212,0.229,0.242,0.254,0.265,0.28,0.294
+Norway,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.172,0.188,0.205,0.225,0.247,0.267,0.283,0.296,0.31,0.327,0.343
+Norway,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,3.895,4.23,4.573,4.985,5.429,5.814,6.108,6.345,6.575,6.841,7.081
+Norway,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,9.275,10.072,10.887,11.868,12.925,13.844,14.543,15.107,15.655,16.29,16.861
+Norway,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,4.174,4.532,4.899,5.341,5.816,6.23,6.544,6.798,7.045,7.33,7.587
+Norway,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,2.133,2.316,2.504,2.73,2.973,3.184,3.345,3.475,3.601,3.768,3.921
+Norway,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,3.71,4.029,4.355,4.747,5.17,5.537,5.817,6.043,6.262,6.516,6.744
+Norway,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,2.04,2.216,2.395,2.611,2.844,3.046,3.199,3.323,3.444,3.604,3.75
+Norway,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,2.968,3.223,3.484,3.798,4.136,4.43,4.654,4.834,5.009,5.243,5.455
+Norway,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,2.782,3.021,3.266,3.56,3.878,4.153,4.363,4.532,4.696,4.915,5.114
+Norway,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,3.246,3.525,3.81,4.154,4.524,4.845,5.09,5.287,5.479,5.735,5.967
+Norway,Food,Revenue,Total,million USD (US$),Statista,199.3,230.7,264.1,427.6,469.2,544.8,778.8,"1,033","1,366","1,493","1,665"
+Norway,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,22.14,25.64,29.35,53.86,59.1,67.98,96.25,126.4,165.7,181.4,202.3
+Norway,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,25.15,29.12,33.34,55.75,61.18,70.7,100.6,132.7,174.7,191,212.9
+Norway,Food,Revenue,Convenience Food,million USD (US$),Statista,8.719,10.09,11.56,20.27,22.24,25.71,36.59,48.3,63.62,69.6,77.63
+Norway,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,36.51,42.27,48.39,74.68,81.95,95.66,137.4,183.2,243.7,266,296.7
+Norway,Food,Revenue,Fish & Seafood,million USD (US$),Statista,14.41,16.69,19.1,30.27,33.21,38.69,55.48,73.81,98,107,119.4
+Norway,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,17,19.69,22.54,35.75,39.23,45.62,65.3,86.72,114.9,125.5,139.9
+Norway,Food,Revenue,Meat,million USD (US$),Statista,43.58,50.45,57.77,91.63,100.5,116.9,167.4,222.3,294.6,321.7,358.7
+Norway,Food,Revenue,Oils & Fats,million USD (US$),Statista,4.765,5.516,6.316,9.743,10.69,12.47,17.91,23.85,31.71,34.61,38.6
+Norway,Food,Revenue,Sauces & Spices,million USD (US$),Statista,2.196,2.543,2.911,4.045,4.438,5.166,7.4,9.835,13.04,14.21,15.82
+Norway,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,2.004,2.32,2.657,3.649,4.004,4.652,6.656,8.837,11.71,12.75,14.19
+Norway,Food,Revenue,Vegetables,million USD (US$),Statista,22.8,26.39,30.22,47.96,52.62,61.25,87.76,116.6,154.7,168.9,188.4
+Norway,Food,Revenue Change,Total,percent,Statista,,15.776,14.492,61.875,9.73,16.12,42.938,32.6,32.321,9.244,11.51
+Norway,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,15.776,14.492,83.494,9.73,15.031,41.589,31.338,31.047,9.496,11.511
+Norway,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,15.776,14.492,67.236,9.73,15.566,42.248,31.951,31.662,9.315,11.477
+Norway,Food,Revenue Change,Convenience Food,percent,Statista,,15.776,14.492,75.365,9.73,15.614,42.307,32.007,31.718,9.405,11.535
+Norway,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,15.776,14.492,54.321,9.73,16.732,43.69,33.299,33.022,9.143,11.53
+Norway,Food,Revenue Change,Fish & Seafood,percent,Statista,,15.776,14.492,58.431,9.73,16.493,43.404,33.04,32.769,9.197,11.533
+Norway,Food,Revenue Change,Fruits & Nuts,percent,Statista,,15.776,14.492,58.611,9.73,16.296,43.151,32.796,32.514,9.203,11.508
+Norway,Food,Revenue Change,Meat,percent,Statista,,15.776,14.492,58.623,9.73,16.302,43.158,32.802,32.52,9.199,11.507
+Norway,Food,Revenue Change,Oils & Fats,percent,Statista,,15.776,14.492,54.267,9.73,16.652,43.592,33.207,32.93,9.143,11.52
+Norway,Food,Revenue Change,Sauces & Spices,percent,Statista,,15.776,14.492,38.928,9.73,16.385,43.262,32.9,32.621,8.917,11.356
+Norway,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,15.776,14.492,37.34,9.73,16.207,43.074,32.753,32.502,8.885,11.323
+Norway,Food,Revenue Change,Vegetables,percent,Statista,,15.776,14.492,58.69,9.73,16.396,43.274,32.91,32.63,9.203,11.521
+Norway,Food,Average Revenue per User,Total,USD (US$),Statista,340.4,342.3,340.6,481,469,489.8,642.8,797.4,990.4,"1,014","1,066"
+Norway,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,80.48,80.92,80.53,128.9,125.7,130,169,207.7,255.5,262.1,275.6
+Norway,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,87.68,88.16,87.73,128,124.8,129.7,169.4,209.1,258.4,264.7,278.3
+Norway,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,26.6,26.74,26.61,40.71,39.7,41.28,53.93,66.6,82.34,84.39,88.78
+Norway,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,271.2,272.6,271.3,365.3,356.2,373.9,493.3,615.2,768,782.5,820.6
+Norway,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,129.6,130.3,129.7,179.2,174.7,183.1,241,300,373.8,381.1,399.7
+Norway,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,55.86,56.16,55.89,77.34,75.41,78.87,103.7,128.8,160.2,163.9,172.3
+Norway,Food,Average Revenue per User,Meat,USD (US$),Statista,248.2,249.5,248.3,343.6,335,350.4,460.6,572.3,711.8,728.1,765.8
+Norway,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,32.56,32.73,32.58,43.84,42.75,44.85,59.13,73.68,91.93,93.66,98.19
+Norway,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,8.528,8.574,8.532,10.34,10.08,10.55,13.88,17.26,21.49,21.92,23.02
+Norway,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,10.37,10.43,10.38,12.44,12.13,12.67,16.65,20.68,25.72,26.23,27.54
+Norway,Food,Average Revenue per User,Vegetables,USD (US$),Statista,79.48,79.91,79.53,110.1,107.4,112.4,147.8,183.8,228.8,234.1,246.2
+Norway,Food,Online & Offline Split,Offline,percent,Statista,98.883,98.713,98.553,97.884,97.626,96.831,95.817,94.552,92.963,,
+Norway,Food,Online & Offline Split,Online,percent,Statista,1.117,1.287,1.447,2.116,2.374,3.169,4.183,5.448,7.037,,
+Norway,Food,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Food,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Food,Users,Total,million users,Statista,0.585,0.674,0.775,0.889,1,1.112,1.211,1.295,1.38,1.473,1.561
+Norway,Food,Users,Bread & Cereal Products,million users,Statista,0.275,0.317,0.364,0.418,0.47,0.523,0.569,0.609,0.648,0.692,0.734
+Norway,Food,Users,Confectionery & Snacks,million users,Statista,0.287,0.33,0.38,0.436,0.49,0.545,0.594,0.635,0.676,0.722,0.765
+Norway,Food,Users,Convenience Food,million users,Statista,0.328,0.377,0.434,0.498,0.56,0.623,0.678,0.725,0.773,0.825,0.874
+Norway,Food,Users,Dairy Products & Eggs,million users,Statista,0.135,0.155,0.178,0.204,0.23,0.256,0.279,0.298,0.317,0.34,0.362
+Norway,Food,Users,Fish & Seafood,million users,Statista,0.111,0.128,0.147,0.169,0.19,0.211,0.23,0.246,0.262,0.281,0.299
+Norway,Food,Users,Fruits & Nuts,million users,Statista,0.304,0.351,0.403,0.462,0.52,0.578,0.63,0.673,0.717,0.766,0.812
+Norway,Food,Users,Meat,million users,Statista,0.176,0.202,0.233,0.267,0.3,0.334,0.363,0.388,0.414,0.442,0.468
+Norway,Food,Users,Oils & Fats,million users,Statista,0.146,0.169,0.194,0.222,0.25,0.278,0.303,0.324,0.345,0.37,0.393
+Norway,Food,Users,Sauces & Spices,million users,Statista,0.258,0.297,0.341,0.391,0.44,0.489,0.533,0.57,0.607,0.648,0.687
+Norway,Food,Users,Spreads & Sweeteners,million users,Statista,0.193,0.222,0.256,0.293,0.33,0.367,0.4,0.427,0.455,0.486,0.515
+Norway,Food,Users,Vegetables,million users,Statista,0.287,0.33,0.38,0.436,0.49,0.545,0.594,0.635,0.676,0.722,0.765
+Norway,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,5.195,5.935,6.776,7.706,8.602,9.486,10.245,10.859,11.475,12.151,12.781
+Norway,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,5.416,6.188,7.065,8.034,8.968,9.889,10.68,11.321,11.963,12.668,13.325
+Norway,Food,Penetration Rate,Convenience Food,percent,Statista,6.189,7.072,8.074,9.182,10.249,11.302,12.206,12.939,13.672,14.477,15.229
+Norway,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,2.542,2.904,3.316,3.771,4.209,4.642,5.013,5.314,5.615,5.967,6.296
+Norway,Food,Penetration Rate,Fish & Seafood,percent,Statista,2.1,2.399,2.739,3.115,3.477,3.835,4.141,4.39,4.639,4.928,5.199
+Norway,Food,Penetration Rate,Food,percent,Statista,11.052,12.628,14.417,16.397,18.302,20.182,21.797,23.105,24.415,25.851,27.191
+Norway,Food,Penetration Rate,Fruits & Nuts,percent,Statista,5.747,6.566,7.497,8.526,9.517,10.495,11.334,12.014,12.696,13.443,14.141
+Norway,Food,Penetration Rate,Meat,percent,Statista,3.316,3.788,4.325,4.919,5.491,6.055,6.539,6.931,7.324,7.756,8.158
+Norway,Food,Penetration Rate,Oils & Fats,percent,Statista,2.763,3.157,3.604,4.099,4.575,5.046,5.449,5.776,6.104,6.486,6.845
+Norway,Food,Penetration Rate,Sauces & Spices,percent,Statista,4.863,5.556,6.344,7.215,8.053,8.88,9.591,10.166,10.742,11.375,11.966
+Norway,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,3.647,4.167,4.758,5.411,6.04,6.66,7.193,7.625,8.057,8.531,8.973
+Norway,Food,Penetration Rate,Vegetables,percent,Statista,5.416,6.188,7.065,8.034,8.968,9.889,10.68,11.321,11.963,12.668,13.325
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,80.48,80.92,80.53,128.9,125.7,130,169,207.7,255.5,262.1,275.6
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,90.55,91.04,90.6,146.2,142.6,147.3,191.3,234.8,288.5,296,311.3
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,4.82,4.846,4.823,6.693,6.526,6.893,9.151,11.48,14.43,14.76,15.54
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,25.63,25.77,25.64,41.05,40.02,41.4,53.83,66.14,81.35,83.16,87.19
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,6.546,6.581,6.549,10.57,10.31,10.65,13.82,16.96,20.83,21.37,22.47
+Norway,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,2.26,2.272,2.261,3.647,3.556,3.672,4.765,5.844,7.174,7.36,7.739
+Norway,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,22.14,25.64,29.35,53.86,59.1,67.98,96.25,126.4,165.7,181.4,202.3
+Norway,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,15.69,18.17,20.8,38.49,42.23,48.53,68.64,90.05,117.9,129.1,143.9
+Norway,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,1.101,1.274,1.459,2.321,2.547,2.991,4.325,5.801,7.766,8.48,9.468
+Norway,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,3.173,3.673,4.206,7.717,8.468,9.741,13.79,18.11,23.74,25.99,28.98
+Norway,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,1.621,1.876,2.148,3.974,4.36,5.009,7.083,9.289,12.16,13.31,14.84
+Norway,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.553,0.641,0.733,1.356,1.488,1.708,2.415,3.165,4.14,4.534,5.055
+Norway,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,15.776,14.492,83.494,9.73,15.031,41.589,31.338,31.047,9.496,11.511
+Norway,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,15.776,14.492,85.006,9.73,14.908,41.433,31.189,30.894,9.514,11.503
+Norway,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,15.776,14.492,59.062,9.73,17.455,44.584,34.135,33.865,9.196,11.653
+Norway,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,15.776,14.492,83.494,9.73,15.031,41.589,31.338,31.047,9.496,11.511
+Norway,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,15.776,14.492,84.965,9.73,14.877,41.396,31.155,30.859,9.514,11.499
+Norway,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,15.776,14.492,84.891,9.73,14.825,41.331,31.094,30.798,9.514,11.492
+Norway,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,98.724,98.533,98.354,97.424,97.048,96.059,94.823,93.336,91.547,,
+Norway,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,1.276,1.467,1.646,2.576,2.952,3.941,5.177,6.664,8.453,,
+Norway,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.275,0.317,0.364,0.418,0.47,0.523,0.569,0.609,0.648,0.692,0.734
+Norway,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.173,0.2,0.23,0.263,0.296,0.329,0.359,0.383,0.409,0.436,0.462
+Norway,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.228,0.263,0.303,0.347,0.39,0.434,0.473,0.505,0.538,0.575,0.609
+Norway,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.124,0.143,0.164,0.188,0.212,0.235,0.256,0.274,0.292,0.313,0.332
+Norway,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.248,0.285,0.328,0.376,0.423,0.471,0.512,0.548,0.584,0.623,0.661
+Norway,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.245,0.282,0.324,0.372,0.418,0.465,0.507,0.542,0.577,0.616,0.653
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,3.273,3.739,4.269,4.855,5.419,5.976,6.454,6.841,7.229,7.655,8.052
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,5.195,5.935,6.776,7.706,8.602,9.486,10.245,10.859,11.475,12.151,12.781
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,4.312,4.926,5.624,6.396,7.14,7.873,8.503,9.013,9.524,10.087,10.612
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,2.338,2.671,3.049,3.468,3.871,4.269,4.61,4.887,5.164,5.486,5.789
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,4.675,5.342,6.099,6.936,7.742,8.537,9.22,9.773,10.327,10.936,11.503
+Norway,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,4.623,5.282,6.031,6.859,7.656,8.442,9.118,9.665,10.213,10.814,11.375
+Norway,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,87.68,88.16,87.73,128,124.8,129.7,169.4,209.1,258.4,264.7,278.3
+Norway,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,89.88,90.37,89.93,131.2,128,133,173.6,214.3,264.8,271.1,285.1
+Norway,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.758,1.768,1.759,2.566,2.502,2.601,3.397,4.193,5.182,5.306,5.579
+Norway,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,13.99,14.07,14,20.41,19.9,20.7,27.07,33.44,41.37,42.36,44.54
+Norway,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,25.15,29.12,33.34,55.75,61.18,70.7,100.6,132.7,174.7,191,212.9
+Norway,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,21.14,24.48,28.02,46.87,51.43,59.43,84.52,111.5,146.8,160.5,178.9
+Norway,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.277,0.321,0.368,0.615,0.675,0.78,1.109,1.463,1.927,2.106,2.348
+Norway,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,3.732,4.321,4.948,8.267,9.072,10.49,14.94,19.73,26.01,28.43,31.7
+Norway,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,15.776,14.492,67.236,9.73,15.566,42.248,31.951,31.662,9.315,11.477
+Norway,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,15.776,14.492,67.26,9.73,15.547,42.224,31.928,31.639,9.315,11.475
+Norway,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,15.776,14.492,67.236,9.73,15.566,42.248,31.951,31.662,9.315,11.477
+Norway,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,15.776,14.492,67.103,9.73,15.676,42.384,32.078,31.79,9.312,11.49
+Norway,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,98.89,98.715,98.547,97.825,97.53,96.686,95.607,94.28,92.625,,
+Norway,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,1.11,1.285,1.453,2.175,2.47,3.314,4.393,5.72,7.375,,
+Norway,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.287,0.33,0.38,0.436,0.49,0.545,0.594,0.635,0.676,0.722,0.765
+Norway,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.235,0.271,0.312,0.357,0.402,0.447,0.487,0.52,0.554,0.592,0.627
+Norway,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.158,0.182,0.209,0.24,0.27,0.3,0.326,0.349,0.372,0.397,0.421
+Norway,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.267,0.307,0.353,0.405,0.456,0.507,0.552,0.59,0.629,0.671,0.712
+Norway,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,4.441,5.074,5.793,6.588,7.354,8.109,8.758,9.283,9.81,10.388,10.927
+Norway,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,5.416,6.188,7.065,8.034,8.968,9.889,10.68,11.321,11.963,12.668,13.325
+Norway,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,2.979,3.403,3.886,4.419,4.932,5.439,5.874,6.227,6.58,6.967,7.329
+Norway,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,5.037,5.754,6.57,7.472,8.34,9.197,9.933,10.529,11.126,11.781,12.392
+Norway,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,26.6,26.74,26.61,40.71,39.7,41.28,53.93,66.6,82.34,84.39,88.78
+Norway,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,34.35,34.54,34.37,52.6,51.29,53.3,69.61,85.93,106.2,108.8,114.4
+Norway,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,4.824,4.85,4.826,7.371,7.188,7.499,9.833,12.19,15.12,15.49,16.31
+Norway,Convenience Food,Revenue,Total,million USD (US$),Statista,8.719,10.09,11.56,20.27,22.24,25.71,36.59,48.3,63.62,69.6,77.63
+Norway,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,7.77,8.996,10.3,18.07,19.82,22.91,32.59,43,56.61,61.94,69.08
+Norway,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.949,1.098,1.258,2.202,2.416,2.803,4.002,5.302,7.009,7.667,8.555
+Norway,Convenience Food,Revenue Change,Total,percent,Statista,,15.776,14.492,75.365,9.73,15.614,42.307,32.007,31.718,9.405,11.535
+Norway,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,15.776,14.492,75.402,9.73,15.565,42.247,31.95,31.661,9.406,11.529
+Norway,Convenience Food,Revenue Change,Soups,percent,Statista,,15.776,14.492,75.066,9.73,16.016,42.804,32.471,32.186,9.396,11.582
+Norway,Convenience Food,Online & Offline Split,Offline,percent,Statista,98.902,98.741,98.591,97.853,97.566,96.749,95.717,94.451,92.89,,
+Norway,Convenience Food,Online & Offline Split,Online,percent,Statista,1.098,1.259,1.409,2.147,2.434,3.251,4.283,5.549,7.11,,
+Norway,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Convenience Food,Users by Segment,Total,million users,Statista,0.328,0.377,0.434,0.498,0.56,0.623,0.678,0.725,0.773,0.825,0.874
+Norway,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.226,0.26,0.3,0.343,0.387,0.43,0.468,0.5,0.533,0.569,0.604
+Norway,Convenience Food,Users by Segment,Soups,million users,Statista,0.197,0.226,0.261,0.299,0.336,0.374,0.407,0.435,0.464,0.495,0.525
+Norway,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,6.189,7.072,8.074,9.182,10.249,11.302,12.206,12.939,13.672,14.477,15.229
+Norway,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,4.271,4.879,5.571,6.336,7.072,7.798,8.422,8.928,9.434,9.992,10.512
+Norway,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,3.714,4.243,4.844,5.509,6.149,6.781,7.324,7.763,8.203,8.686,9.137
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,271.2,272.6,271.3,365.3,356.2,373.9,493.3,615.2,768,782.5,820.6
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,134.9,135.6,134.9,181.7,177.2,186,245.5,306.1,382.3,389.6,408.6
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,65.09,65.44,65.13,87.63,85.45,89.6,118.1,147.1,183.4,186.9,196.1
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,92.74,93.24,92.79,124.8,121.7,127.6,168,209.2,260.7,265.7,278.6
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,180.1,181.1,180.2,242.8,236.8,249,329.2,411.3,514.5,524.5,550.4
+Norway,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,12.08,12.14,12.09,16.29,15.88,16.72,22.11,27.64,34.61,35.27,37.01
+Norway,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,36.51,42.27,48.39,74.68,81.95,95.66,137.4,183.2,243.7,266,296.7
+Norway,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,13.62,15.77,18.05,27.86,30.57,35.69,51.3,68.39,90.98,99.3,110.8
+Norway,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,3.768,4.363,4.995,7.704,8.454,9.857,14.15,18.83,25.02,27.31,30.46
+Norway,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,9.739,11.28,12.91,19.91,21.84,25.46,36.52,48.59,64.53,70.43,78.53
+Norway,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,8.487,9.826,11.25,17.38,19.07,22.3,32.1,42.88,57.15,62.37,69.58
+Norway,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.894,1.036,1.186,1.832,2.01,2.352,3.388,4.528,6.04,6.592,7.354
+Norway,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,15.776,14.492,54.321,9.73,16.732,43.69,33.299,33.022,9.143,11.53
+Norway,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,15.776,14.492,54.34,9.73,16.749,43.711,33.318,33.041,9.144,11.533
+Norway,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,15.776,14.492,54.24,9.73,16.595,43.521,33.141,32.862,9.144,11.513
+Norway,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,15.776,14.492,54.198,9.73,16.538,43.45,33.075,32.796,9.143,11.505
+Norway,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,15.776,14.492,54.449,9.73,16.954,43.965,33.556,33.281,9.143,11.559
+Norway,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,15.776,14.492,54.483,9.73,17.032,44.061,33.645,33.371,9.143,11.569
+Norway,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,98.902,98.739,98.586,97.996,97.777,97.039,96.095,94.904,93.393,,
+Norway,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,1.098,1.261,1.414,2.004,2.223,2.961,3.905,5.096,6.607,,
+Norway,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.135,0.155,0.178,0.204,0.23,0.256,0.279,0.298,0.317,0.34,0.362
+Norway,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.101,0.116,0.134,0.153,0.173,0.192,0.209,0.223,0.238,0.255,0.271
+Norway,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.058,0.067,0.077,0.088,0.099,0.11,0.12,0.128,0.136,0.146,0.155
+Norway,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.105,0.121,0.139,0.159,0.179,0.2,0.217,0.232,0.248,0.265,0.282
+Norway,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.047,0.054,0.062,0.072,0.081,0.09,0.098,0.104,0.111,0.119,0.126
+Norway,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.074,0.085,0.098,0.112,0.127,0.141,0.153,0.164,0.175,0.187,0.199
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,1.907,2.178,2.487,2.828,3.157,3.481,3.76,3.986,4.212,4.474,4.72
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,2.542,2.904,3.316,3.771,4.209,4.642,5.013,5.314,5.615,5.967,6.296
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,1.093,1.249,1.426,1.622,1.81,1.996,2.156,2.285,2.415,2.565,2.705
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,1.983,2.265,2.586,2.942,3.283,3.621,3.91,4.145,4.38,4.653,4.909
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.89,1.017,1.161,1.32,1.473,1.625,1.755,1.86,1.965,2.087,2.202
+Norway,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,1.398,1.597,1.824,2.074,2.315,2.553,2.757,2.923,3.088,3.28,3.46
+Norway,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,129.6,130.3,129.7,179.2,174.7,183.1,241,300,373.8,381.1,399.7
+Norway,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,159.1,160,159.2,221.4,215.9,227.8,302.2,378.9,475.6,485.1,509.4
+Norway,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,53.63,53.92,53.66,72.57,70.76,72.85,94.24,115.2,141,143.8,150.5
+Norway,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,60.73,61.06,60.76,83.81,81.72,85.24,111.7,138.4,171.7,175.1,183.5
+Norway,Fish & Seafood,Revenue,Total,million USD (US$),Statista,14.41,16.69,19.1,30.27,33.21,38.69,55.48,73.81,98,107,119.4
+Norway,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,6.902,7.99,9.148,14.58,16,18.78,27.13,36.35,48.62,53.09,59.28
+Norway,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,1.431,1.657,1.897,2.941,3.228,3.695,5.206,6.804,8.871,9.684,10.77
+Norway,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,6.079,7.038,8.057,12.74,13.98,16.21,23.15,30.65,40.51,44.23,49.3
+Norway,Fish & Seafood,Revenue Change,Total,percent,Statista,,15.776,14.492,58.431,9.73,16.493,43.404,33.04,32.769,9.197,11.533
+Norway,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,15.776,14.492,59.424,9.73,17.347,44.451,34.01,33.739,9.202,11.643
+Norway,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,15.776,14.492,55.019,9.73,14.476,40.899,30.69,30.39,9.163,11.244
+Norway,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,15.776,14.492,58.108,9.73,15.981,42.762,32.431,32.146,9.199,11.465
+Norway,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,98.902,98.74,98.588,97.971,97.739,96.988,96.03,94.828,93.313,,
+Norway,Fish & Seafood,Online & Offline Split,Online,percent,Statista,1.098,1.26,1.412,2.029,2.261,3.012,3.97,5.172,6.687,,
+Norway,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Fish & Seafood,Users by Segment,Total,million users,Statista,0.111,0.128,0.147,0.169,0.19,0.211,0.23,0.246,0.262,0.281,0.299
+Norway,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.043,0.05,0.057,0.066,0.074,0.082,0.09,0.096,0.102,0.109,0.116
+Norway,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.027,0.031,0.035,0.041,0.046,0.051,0.055,0.059,0.063,0.067,0.072
+Norway,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.1,0.115,0.133,0.152,0.171,0.19,0.207,0.221,0.236,0.253,0.269
+Norway,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,2.1,2.399,2.739,3.115,3.477,3.835,4.141,4.39,4.639,4.928,5.199
+Norway,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.819,0.936,1.068,1.215,1.356,1.496,1.615,1.712,1.809,1.921,2.026
+Norway,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.504,0.576,0.657,0.748,0.835,0.92,0.994,1.054,1.113,1.182,1.247
+Norway,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,1.89,2.159,2.465,2.804,3.13,3.451,3.727,3.951,4.175,4.435,4.679
+Norway,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,55.86,56.16,55.89,77.34,75.41,78.87,103.7,128.8,160.2,163.9,172.3
+Norway,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,56.27,56.58,56.3,77.88,75.94,79.35,104.2,129.3,160.7,164.3,172.7
+Norway,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,9.598,9.651,9.604,13.3,12.97,13.58,17.88,22.24,27.7,28.24,29.62
+Norway,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,23.34,23.47,23.35,32.35,31.54,33.07,43.57,54.25,67.64,68.97,72.34
+Norway,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,17,19.69,22.54,35.75,39.23,45.62,65.3,86.72,114.9,125.5,139.9
+Norway,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,11.99,13.88,15.89,25.2,27.65,32.13,45.95,60.96,80.71,88.14,98.27
+Norway,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,1.461,1.691,1.936,3.074,3.373,3.928,5.631,7.488,9.937,10.85,12.1
+Norway,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,3.552,4.113,4.709,7.477,8.204,9.564,13.72,18.27,24.27,26.5,29.56
+Norway,Fruits & Nuts,Revenue Change,Total,percent,Statista,,15.776,14.492,58.611,9.73,16.296,43.151,32.796,32.514,9.203,11.508
+Norway,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,15.776,14.492,58.544,9.73,16.195,43.025,32.677,32.395,9.203,11.495
+Norway,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,15.776,14.492,58.727,9.73,16.46,43.354,32.985,32.705,9.203,11.529
+Norway,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,15.776,14.492,58.789,9.73,16.572,43.492,33.114,32.835,9.203,11.544
+Norway,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,98.902,98.734,98.576,97.942,97.697,96.924,95.935,94.692,93.121,,
+Norway,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,1.098,1.266,1.424,2.058,2.303,3.076,4.065,5.308,6.879,,
+Norway,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.304,0.351,0.403,0.462,0.52,0.578,0.63,0.673,0.717,0.766,0.812
+Norway,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.213,0.245,0.282,0.324,0.364,0.405,0.441,0.471,0.502,0.536,0.569
+Norway,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.152,0.175,0.202,0.231,0.26,0.289,0.315,0.337,0.359,0.384,0.409
+Norway,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.152,0.175,0.202,0.231,0.26,0.289,0.315,0.337,0.359,0.384,0.409
+Norway,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,4.023,4.596,5.248,5.968,6.662,7.346,7.934,8.41,8.887,9.415,9.909
+Norway,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,5.747,6.566,7.497,8.526,9.517,10.495,11.334,12.014,12.696,13.443,14.141
+Norway,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,2.874,3.283,3.749,4.263,4.759,5.247,5.667,6.007,6.348,6.744,7.115
+Norway,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,2.874,3.283,3.749,4.263,4.759,5.247,5.667,6.007,6.348,6.744,7.115
+Norway,Meat,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.248,0.249,0.248,0.344,0.335,0.35,0.461,0.572,0.712,0.728,0.766
+Norway,Meat,Average Revenue per User by Segment,Fresh Meat,thousand USD (US$),Statista,0.175,0.176,0.175,0.242,0.236,0.247,0.325,0.404,0.502,0.512,0.537
+Norway,Meat,Average Revenue per User by Segment,Processed Meat,thousand USD (US$),Statista,0.147,0.147,0.147,0.203,0.198,0.207,0.272,0.338,0.42,0.429,0.451
+Norway,Meat,Revenue,Total,million USD (US$),Statista,43.58,50.45,57.77,91.63,100.5,116.9,167.4,222.3,294.6,321.7,358.7
+Norway,Meat,Revenue,Fresh Meat,million USD (US$),Statista,21.18,24.52,28.07,44.54,48.88,56.87,81.46,108.2,143.5,156.7,174.7
+Norway,Meat,Revenue,Processed Meat,million USD (US$),Statista,22.4,25.93,29.69,47.09,51.67,60.06,85.95,114.1,151.1,165,184
+Norway,Meat,Revenue Change,Total,percent,Statista,,15.776,14.492,58.623,9.73,16.302,43.158,32.802,32.52,9.199,11.507
+Norway,Meat,Revenue Change,Fresh Meat,percent,Statista,,15.776,14.492,58.664,9.73,16.36,43.23,32.869,32.588,9.199,11.514
+Norway,Meat,Revenue Change,Processed Meat,percent,Statista,,15.776,14.492,58.584,9.73,16.247,43.09,32.738,32.456,9.199,11.5
+Norway,Meat,Online & Offline Split,Offline,percent,Statista,98.902,98.735,98.576,97.943,97.698,96.926,95.938,94.696,93.126,,
+Norway,Meat,Online & Offline Split,Online,percent,Statista,1.098,1.265,1.424,2.057,2.302,3.074,4.062,5.304,6.874,,
+Norway,Meat,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Meat,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Meat,Users by Segment,Total,million users,Statista,0.176,0.202,0.233,0.267,0.3,0.334,0.363,0.388,0.414,0.442,0.468
+Norway,Meat,Users by Segment,Fresh Meat,million users,Statista,0.121,0.14,0.161,0.184,0.207,0.23,0.251,0.268,0.286,0.306,0.325
+Norway,Meat,Users by Segment,Processed Meat,million users,Statista,0.153,0.176,0.202,0.232,0.261,0.29,0.316,0.338,0.36,0.384,0.408
+Norway,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,2.288,2.614,2.984,3.394,3.789,4.178,4.512,4.783,5.054,5.37,5.665
+Norway,Meat,Penetration Rate by Segment,Meat,percent,Statista,3.316,3.788,4.325,4.919,5.491,6.055,6.539,6.931,7.324,7.756,8.158
+Norway,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,2.885,3.296,3.763,4.28,4.777,5.268,5.689,6.03,6.372,6.747,7.097
+Norway,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,32.56,32.73,32.58,43.84,42.75,44.85,59.13,73.68,91.93,93.66,98.19
+Norway,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,12.14,12.2,12.14,16.36,15.96,16.79,22.2,27.75,34.73,35.39,37.12
+Norway,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,6.2,6.233,6.203,8.346,8.138,8.529,11.23,13.99,17.44,17.77,18.63
+Norway,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,19.6,19.7,19.61,26.37,25.72,26.94,35.47,44.14,55,56.05,58.76
+Norway,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,3.687,3.707,3.689,4.961,4.837,5.066,6.668,8.296,10.33,10.53,11.04
+Norway,Oils & Fats,Revenue,Total,million USD (US$),Statista,4.765,5.516,6.316,9.743,10.69,12.47,17.91,23.85,31.71,34.61,38.6
+Norway,Oils & Fats,Revenue,Butter,million USD (US$),Statista,1.421,1.645,1.883,2.909,3.192,3.735,5.379,7.187,9.583,10.46,11.67
+Norway,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.726,0.84,0.962,1.484,1.628,1.897,2.722,3.623,4.811,5.251,5.855
+Norway,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,2.294,2.656,3.041,4.689,5.145,5.993,8.595,11.43,15.18,16.56,18.47
+Norway,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.324,0.375,0.429,0.661,0.726,0.845,1.212,1.611,2.138,2.334,2.602
+Norway,Oils & Fats,Revenue Change,Total,percent,Statista,,15.776,14.492,54.267,9.73,16.652,43.592,33.207,32.93,9.143,11.52
+Norway,Oils & Fats,Revenue Change,Butter,percent,Statista,,15.776,14.492,54.457,9.73,17,44.022,33.609,33.335,9.143,11.565
+Norway,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,15.776,14.492,54.216,9.73,16.545,43.459,33.083,32.804,9.144,11.506
+Norway,Oils & Fats,Revenue Change,Margarine,percent,Statista,,15.776,14.492,54.182,9.73,16.497,43.399,33.027,32.747,9.144,11.5
+Norway,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,15.776,14.492,54.153,9.73,16.458,43.351,32.982,32.702,9.143,11.495
+Norway,Oils & Fats,Online & Offline Split,Offline,percent,Statista,98.902,98.737,98.581,97.987,97.762,97.017,96.062,94.856,93.325,,
+Norway,Oils & Fats,Online & Offline Split,Online,percent,Statista,1.098,1.263,1.419,2.013,2.238,2.983,3.938,5.144,6.675,,
+Norway,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Oils & Fats,Users by Segment,Total,million users,Statista,0.146,0.169,0.194,0.222,0.25,0.278,0.303,0.324,0.345,0.37,0.393
+Norway,Oils & Fats,Users by Segment,Butter,million users,Statista,0.117,0.135,0.155,0.178,0.2,0.222,0.242,0.259,0.276,0.296,0.314
+Norway,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.117,0.135,0.155,0.178,0.2,0.222,0.242,0.259,0.276,0.296,0.314
+Norway,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.117,0.135,0.155,0.178,0.2,0.222,0.242,0.259,0.276,0.296,0.314
+Norway,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.088,0.101,0.116,0.133,0.15,0.167,0.182,0.194,0.207,0.222,0.236
+Norway,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,2.21,2.526,2.883,3.279,3.66,4.036,4.359,4.621,4.883,5.188,5.473
+Norway,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,2.21,2.526,2.883,3.279,3.66,4.036,4.359,4.621,4.883,5.188,5.473
+Norway,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,2.21,2.526,2.883,3.279,3.66,4.036,4.359,4.621,4.883,5.188,5.473
+Norway,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,2.763,3.157,3.604,4.099,4.575,5.046,5.449,5.776,6.104,6.486,6.845
+Norway,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,1.658,1.894,2.163,2.46,2.745,3.027,3.27,3.466,3.662,3.89,4.104
+Norway,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,8.528,8.574,8.532,10.34,10.08,10.55,13.88,17.26,21.49,21.92,23.02
+Norway,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,6.215,6.249,6.218,7.556,7.368,7.729,10.19,12.7,15.84,16.16,16.96
+Norway,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,5.926,5.958,5.929,7.161,6.983,7.285,9.551,11.84,14.68,14.98,15.73
+Norway,Sauces & Spices,Revenue,Total,million USD (US$),Statista,2.196,2.543,2.911,4.045,4.438,5.166,7.4,9.835,13.04,14.21,15.82
+Norway,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,1.281,1.483,1.697,2.364,2.594,3.026,4.346,5.789,7.695,8.382,9.336
+Norway,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.916,1.06,1.214,1.681,1.844,2.139,3.055,4.046,5.348,5.825,6.483
+Norway,Sauces & Spices,Revenue Change,Total,percent,Statista,,15.776,14.492,38.928,9.73,16.385,43.262,32.9,32.621,8.917,11.356
+Norway,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,15.776,14.492,39.275,9.73,16.654,43.594,33.209,32.931,8.923,11.394
+Norway,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,15.776,14.492,38.442,9.73,16.007,42.793,32.461,32.176,8.909,11.301
+Norway,Sauces & Spices,Online & Offline Split,Online,percent,Statista,1.098,1.295,1.493,2.034,2.286,3.099,4.177,5.601,7.495,,
+Norway,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Sauces & Spices,Users by Segment,Total,million users,Statista,0.258,0.297,0.341,0.391,0.44,0.489,0.533,0.57,0.607,0.648,0.687
+Norway,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.206,0.237,0.273,0.313,0.352,0.392,0.426,0.456,0.486,0.519,0.55
+Norway,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.155,0.178,0.205,0.235,0.264,0.294,0.32,0.342,0.364,0.389,0.412
+Norway,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,4.863,5.556,6.344,7.215,8.053,8.88,9.591,10.166,10.742,11.375,11.966
+Norway,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,3.89,4.445,5.075,5.772,6.442,7.104,7.672,8.133,8.594,9.106,9.585
+Norway,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,2.918,3.334,3.806,4.329,4.832,5.328,5.754,6.1,6.445,6.825,7.179
+Norway,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,10.37,10.43,10.38,12.44,12.13,12.67,16.65,20.68,25.72,26.23,27.54
+Norway,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,6.819,6.856,6.823,8.155,7.951,8.428,11.23,14.14,17.83,18.19,19.13
+Norway,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,10.25,10.3,10.25,12.32,12.01,12.36,15.97,19.51,23.86,24.26,25.34
+Norway,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,2.004,2.32,2.657,3.649,4.004,4.652,6.656,8.837,11.71,12.75,14.19
+Norway,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,1.054,1.22,1.397,1.914,2.1,2.475,3.591,4.834,6.494,7.071,7.886
+Norway,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.95,1.1,1.26,1.735,1.904,2.177,3.065,4.003,5.214,5.678,6.306
+Norway,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,15.776,14.492,37.34,9.73,16.207,43.074,32.753,32.502,8.885,11.323
+Norway,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,15.776,14.492,36.995,9.73,17.866,45.093,34.611,34.345,8.884,11.526
+Norway,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,15.776,14.492,37.723,9.73,14.378,40.778,30.577,30.276,8.887,11.071
+Norway,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,98.89,98.688,98.48,97.944,97.676,96.863,95.783,94.336,92.422,,
+Norway,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,1.11,1.312,1.52,2.056,2.324,3.137,4.217,5.664,7.578,,
+Norway,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.193,0.222,0.256,0.293,0.33,0.367,0.4,0.427,0.455,0.486,0.515
+Norway,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.155,0.178,0.205,0.235,0.264,0.294,0.32,0.342,0.364,0.389,0.412
+Norway,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.093,0.107,0.123,0.141,0.158,0.176,0.192,0.205,0.219,0.234,0.249
+Norway,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,2.918,3.334,3.806,4.329,4.832,5.328,5.754,6.1,6.445,6.825,7.179
+Norway,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,3.647,4.167,4.758,5.411,6.04,6.66,7.193,7.625,8.057,8.531,8.973
+Norway,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,1.751,2,2.284,2.597,2.899,3.197,3.453,3.66,3.867,4.108,4.334
+Norway,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,79.48,79.91,79.53,110.1,107.4,112.4,147.8,183.8,228.8,234.1,246.2
+Norway,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,85.58,86.04,85.62,118.6,115.6,121,159.2,198,246.6,252.2,265.3
+Norway,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,39.16,39.37,39.18,54.23,52.88,55.32,72.73,90.39,112.5,114.6,120.2
+Norway,Vegetables,Revenue,Total,million USD (US$),Statista,22.8,26.39,30.22,47.96,52.62,61.25,87.76,116.6,154.7,168.9,188.4
+Norway,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,17.18,19.89,22.78,36.15,39.66,46.17,66.17,87.96,116.7,127.4,142.1
+Norway,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,5.616,6.502,7.444,11.81,12.96,15.08,21.59,28.68,38.01,41.51,46.29
+Norway,Vegetables,Revenue Change,Total,percent,Statista,,15.776,14.492,58.69,9.73,16.396,43.274,32.91,32.63,9.203,11.521
+Norway,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,15.776,14.492,58.705,9.73,16.417,43.3,32.934,32.654,9.203,11.524
+Norway,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,15.776,14.492,58.644,9.73,16.333,43.196,32.837,32.556,9.203,11.513
+Norway,Vegetables,Online & Offline Split,Offline,percent,Statista,98.902,98.737,98.582,97.954,97.715,96.953,95.978,94.755,93.211,,
+Norway,Vegetables,Online & Offline Split,Online,percent,Statista,1.098,1.263,1.418,2.046,2.285,3.047,4.022,5.245,6.789,,
+Norway,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,67.005,65.193,63.385,61.58,60.002,59.322,58.895,58.574,58.253,,
+Norway,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,32.995,34.807,36.615,38.42,39.998,40.678,41.105,41.426,41.747,,
+Norway,Vegetables,Users by Segment,Total,million users,Statista,0.287,0.33,0.38,0.436,0.49,0.545,0.594,0.635,0.676,0.722,0.765
+Norway,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.201,0.231,0.266,0.305,0.343,0.382,0.416,0.444,0.473,0.505,0.536
+Norway,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.143,0.165,0.19,0.218,0.245,0.273,0.297,0.317,0.338,0.362,0.385
+Norway,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,3.791,4.331,4.945,5.624,6.278,6.923,7.476,7.925,8.374,8.867,9.327
+Norway,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,2.708,3.094,3.532,4.017,4.484,4.945,5.34,5.661,5.982,6.357,6.708
+Norway,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,5.416,6.188,7.065,8.034,8.968,9.889,10.68,11.321,11.963,12.668,13.325

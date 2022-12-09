@@ -1,0 +1,694 @@
+﻿Region,Market,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Ghana,eCommerce,Revenue,Total,million USD (US$),Statista,194.5,250.8,313.7,478.3,637.9,696.6,898.8,"1,087","1,323","1,453","1,606"
+Ghana,eCommerce,Revenue,"Beauty, Health, Personal & Household Care",million USD (US$),Statista,47.27,57.41,67.32,87.14,106.3,117.3,145.5,168.3,195.4,213,232.6
+Ghana,eCommerce,Revenue,Beverages,million USD (US$),Statista,2.241,3.153,4.223,7.873,12.34,13.38,16.76,20.31,24.92,27.39,30.27
+Ghana,eCommerce,Revenue,Electronics,million USD (US$),Statista,49.87,62.41,76.03,109.7,137,146.5,195.8,239.4,291.9,320,353.4
+Ghana,eCommerce,Revenue,Fashion,million USD (US$),Statista,38.77,53.53,68.76,112.9,157,166.2,208.2,251.1,304.1,334.2,369
+Ghana,eCommerce,Revenue,Food,million USD (US$),Statista,12.66,17.19,23.34,47.24,73.53,90.12,125.6,166.8,223.3,246.6,276.9
+Ghana,eCommerce,Revenue,Furniture,million USD (US$),Statista,14.22,17.71,22.04,30.29,39.6,39.49,55,66.56,80.21,88,97.09
+Ghana,eCommerce,Revenue,Media,million USD (US$),Statista,8.259,11.06,14.33,22.19,28.2,30.5,36.58,40.32,44.9,49.46,53.96
+Ghana,eCommerce,Revenue,"Toys, Hobby & DIY",million USD (US$),Statista,21.26,28.39,37.71,60.91,84.03,93.06,115.4,134.6,158.2,174.5,192.3
+Ghana,eCommerce,Revenue Change,Total,percent,Statista,,28.946,25.08,52.471,33.368,9.202,29.027,20.939,21.711,9.826,10.53
+Ghana,eCommerce,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,21.451,17.262,29.441,21.988,10.348,24.041,15.67,16.102,9.007,9.202
+Ghana,eCommerce,Revenue Change,Beverages,percent,Statista,,40.696,33.936,86.431,56.738,8.428,25.262,21.181,22.698,9.912,10.515
+Ghana,eCommerce,Revenue Change,Electronics,percent,Statista,,25.145,21.823,44.285,24.886,6.934,33.652,22.268,21.93,9.627,10.437
+Ghana,eCommerce,Revenue Change,Fashion,percent,Statista,,38.071,28.451,64.194,39.061,5.86,25.271,20.605,21.107,9.898,10.413
+Ghana,eCommerce,Revenue Change,Food,percent,Statista,,35.782,35.777,102.399,55.652,22.562,39.37,32.803,33.873,10.434,12.287
+Ghana,eCommerce,Revenue Change,Furniture,percent,Statista,,24.543,24.449,37.432,30.736,-0.278,39.276,21.018,20.508,9.712,10.33
+Ghana,eCommerce,Revenue Change,Media,percent,Statista,,33.915,29.566,54.85,27.084,8.156,19.934,10.224,11.359,10.156,9.098
+Ghana,eCommerce,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,33.537,32.828,61.522,37.958,10.746,24.006,16.638,17.533,10.303,10.201
+Ghana,eCommerce,Average Revenue per User,Total,USD (US$),Statista,57.9,59.31,56.49,72.21,82.04,78.45,91.29,102,115.1,117.6,121.8
+Ghana,eCommerce,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,31.56,30.53,29.09,30.75,32.13,31.23,34.71,36.58,38.94,39.08,39.6
+Ghana,eCommerce,Average Revenue per User,Beverages,USD (US$),Statista,2.945,3.218,3.323,4.976,6.354,5.766,6.227,6.705,7.381,7.395,7.503
+Ghana,eCommerce,Average Revenue per User,Electronics,USD (US$),Statista,22.82,22.57,21.61,25.11,25.84,23.51,27.35,29.97,33.01,33.07,33.63
+Ghana,eCommerce,Average Revenue per User,Fashion,USD (US$),Statista,16.63,18.73,19.63,26.71,31.27,28.48,31.41,34.14,37.52,37.86,38.64
+Ghana,eCommerce,Average Revenue per User,Food,USD (US$),Statista,17.69,18.66,19.53,31.75,40.27,41.31,49.6,58.57,70.33,70.78,72.99
+Ghana,eCommerce,Average Revenue per User,Furniture,USD (US$),Statista,17.1,15.89,14.49,15.27,15.49,12.34,14.27,15.02,15.96,15.84,15.92
+Ghana,eCommerce,Average Revenue per User,Media,USD (US$),Statista,5.62,5.655,5.807,7.284,7.596,6.974,7.24,7.115,7.124,7.164,7.187
+Ghana,eCommerce,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,13.58,13.92,13.99,17.79,19.45,17.64,18.79,19.42,20.42,20.47,20.66
+Ghana,eCommerce,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,eCommerce,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,eCommerce,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,eCommerce,Online & Offline Split,Offline,percent,Statista,99.339,99.219,99.109,98.838,98.544,98.389,98.196,97.962,97.678,,
+Ghana,eCommerce,Online & Offline Split,Online,percent,Statista,0.661,0.781,0.891,1.162,1.456,1.611,1.804,2.038,2.322,,
+Ghana,eCommerce,Mobile/Desktop Split,Desktop,percent,Statista,77.756,76.3,75.711,75.078,74.148,73.453,72.569,71.623,70.673,,
+Ghana,eCommerce,Mobile/Desktop Split,Mobile,percent,Statista,22.244,23.7,24.289,24.922,25.852,26.547,27.431,28.377,29.327,,
+Ghana,eCommerce,Users,Total,million users,Statista,3.36,4.23,5.554,6.623,7.776,8.879,9.846,10.657,11.492,12.359,13.176
+Ghana,eCommerce,Users,"Beauty, Health, Personal & Household Care",million users,Statista,1.498,1.88,2.314,2.834,3.309,3.755,4.194,4.602,5.018,5.449,5.873
+Ghana,eCommerce,Users,Beverages,million users,Statista,0.761,0.98,1.271,1.582,1.942,2.32,2.692,3.029,3.377,3.704,4.035
+Ghana,eCommerce,Users,Electronics,million users,Statista,2.186,2.765,3.518,4.369,5.301,6.233,7.157,7.988,8.842,9.675,10.509
+Ghana,eCommerce,Users,Fashion,million users,Statista,2.331,2.857,3.503,4.227,5.02,5.835,6.628,7.356,8.105,8.826,9.549
+Ghana,eCommerce,Users,Food,million users,Statista,0.716,0.921,1.195,1.488,1.826,2.182,2.532,2.848,3.175,3.483,3.794
+Ghana,eCommerce,Users,Furniture,million users,Statista,0.832,1.114,1.521,1.984,2.557,3.2,3.855,4.431,5.026,5.557,6.1
+Ghana,eCommerce,Users,Media,million users,Statista,1.47,1.955,2.467,3.047,3.713,4.374,5.052,5.667,6.302,6.903,7.509
+Ghana,eCommerce,Users,"Toys, Hobby & DIY",million users,Statista,1.565,2.04,2.696,3.424,4.32,5.277,6.142,6.931,7.745,8.525,9.308
+Ghana,eCommerce,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,5.143,6.317,7.608,9.12,10.427,11.59,12.684,13.642,14.583,15.531,16.42
+Ghana,eCommerce,Penetration Rate,Beverages,percent,Statista,2.613,3.291,4.177,5.092,6.119,7.162,8.143,8.979,9.814,10.558,11.281
+Ghana,eCommerce,Penetration Rate,eCommerce,percent,Statista,11.537,14.209,18.259,21.316,24.506,27.409,29.779,31.59,33.399,35.224,36.837
+Ghana,eCommerce,Penetration Rate,Electronics,percent,Statista,7.506,9.29,11.566,14.061,16.706,19.241,21.646,23.68,25.696,27.576,29.38
+Ghana,eCommerce,Penetration Rate,Fashion,percent,Statista,8.005,9.599,11.516,13.605,15.821,18.013,20.048,21.805,23.555,25.154,26.695
+Ghana,eCommerce,Penetration Rate,Food,percent,Statista,2.457,3.095,3.928,4.788,5.753,6.734,7.657,8.443,9.228,9.928,10.607
+Ghana,eCommerce,Penetration Rate,Furniture,percent,Statista,2.856,3.744,5,6.384,8.059,9.879,11.66,13.134,14.606,15.836,17.054
+Ghana,eCommerce,Penetration Rate,Media,percent,Statista,5.047,6.569,8.112,9.804,11.701,13.502,15.279,16.799,18.316,19.675,20.992
+Ghana,eCommerce,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,5.375,6.852,8.862,11.02,13.615,16.289,18.576,20.545,22.508,24.297,26.024
+Ghana,Electronics,Revenue,Total,million USD (US$),Statista,49.87,62.41,76.03,109.7,137,146.5,195.8,239.4,291.9,320,353.4
+Ghana,Electronics,Revenue,Consumer Electronics,million USD (US$),Statista,27.44,34.87,41.93,63.45,75.67,73.39,98.49,116.9,137.7,150.7,165.4
+Ghana,Electronics,Revenue,Household Appliances,million USD (US$),Statista,22.42,27.54,34.1,46.28,61.31,73.16,97.27,122.5,154.1,169.2,187.9
+Ghana,Electronics,Revenue Change,Total,percent,Statista,,25.145,21.823,44.285,24.886,6.934,33.652,22.268,21.93,9.627,10.437
+Ghana,Electronics,Revenue Change,Consumer Electronics,percent,Statista,,27.077,20.247,51.324,19.259,-3.013,34.201,18.692,17.793,9.441,9.754
+Ghana,Electronics,Revenue Change,Household Appliances,percent,Statista,,22.837,23.82,35.718,32.476,19.328,32.955,25.938,25.796,9.799,11.052
+Ghana,Electronics,Average Revenue per User by Segment,Total,USD (US$),Statista,22.82,22.57,21.61,25.11,25.84,23.51,27.35,29.97,33.01,33.07,33.63
+Ghana,Electronics,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,12.09,12.67,12.58,15.96,16.39,14.09,17.07,18.53,20.06,20.27,20.7
+Ghana,Electronics,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,17.91,16.34,14.72,15.13,15.39,14.6,15.95,17.4,19.23,19.07,19.26
+Ghana,Electronics,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,Electronics,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,Electronics,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,Electronics,Online & Offline Split,Offline,percent,Statista,98.504,98.259,98.017,97.428,96.978,96.406,95.907,95.289,94.588,,
+Ghana,Electronics,Online & Offline Split,Online,percent,Statista,1.496,1.741,1.983,2.572,3.022,3.594,4.093,4.711,5.412,,
+Ghana,Electronics,Mobile/Desktop Split,Desktop,percent,Statista,51.638,51.666,51.674,51.696,51.682,51.677,51.678,51.68,51.681,,
+Ghana,Electronics,Mobile/Desktop Split,Mobile,percent,Statista,48.362,48.334,48.326,48.304,48.318,48.323,48.322,48.32,48.319,,
+Ghana,Electronics,Users by Segment,Total,million users,Statista,2.186,2.765,3.518,4.369,5.301,6.233,7.157,7.988,8.842,9.675,10.509
+Ghana,Electronics,Users by Segment,Consumer Electronics,million users,Statista,2.27,2.753,3.334,3.976,4.618,5.208,5.77,6.31,6.866,7.434,7.994
+Ghana,Electronics,Users by Segment,Household Appliances,million users,Statista,1.252,1.686,2.316,3.058,3.983,5.011,6.097,7.041,8.018,8.875,9.756
+Ghana,Electronics,Penetration Rate by Segment,Consumer Electronics,percent,Statista,7.794,9.247,10.961,12.795,14.554,16.078,17.451,18.704,19.956,21.187,22.35
+Ghana,Electronics,Penetration Rate by Segment,Electronics,percent,Statista,7.506,9.29,11.566,14.061,16.706,19.241,21.646,23.68,25.696,27.576,29.38
+Ghana,Electronics,Penetration Rate by Segment,Household Appliances,percent,Statista,4.3,5.663,7.615,9.842,12.552,15.469,18.439,20.872,23.301,25.294,27.276
+Ghana,Consumer Electronics,Revenue,Total,million USD (US$),Statista,27.44,34.87,41.93,63.45,75.67,73.39,98.49,116.9,137.7,150.7,165.4
+Ghana,Consumer Electronics,Revenue,Computing,million USD (US$),Statista,4.79,6.066,7.328,10.49,12.12,11.01,14.43,16.61,19.15,20.82,22.67
+Ghana,Consumer Electronics,Revenue,Other Consumer Electronics,million USD (US$),Statista,9.445,12.01,14.37,21.27,24.95,23.92,31.93,37.8,44.34,48.44,53.09
+Ghana,Consumer Electronics,Revenue,Telephony,million USD (US$),Statista,6.182,7.874,9.259,14.05,16.05,16.56,22.54,27.58,32.9,36.07,39.73
+Ghana,Consumer Electronics,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,6.854,8.697,10.7,17.23,22.16,21.56,29.2,34.56,40.94,44.99,49.55
+Ghana,Consumer Electronics,Revenue,TV Peripheral Devices,million USD (US$),Statista,0.173,0.219,0.266,0.396,0.399,0.337,0.389,0.391,0.393,0.401,0.406
+Ghana,Consumer Electronics,Revenue Change,Total,percent,Statista,,27.077,20.247,51.324,19.259,-3.013,34.201,18.692,17.793,9.441,9.754
+Ghana,Consumer Electronics,Revenue Change,Computing,percent,Statista,,26.639,20.804,43.15,15.539,-9.158,31.063,15.107,15.292,8.721,8.886
+Ghana,Consumer Electronics,Revenue Change,Other Consumer Electronics,percent,Statista,,27.157,19.65,48.017,17.301,-4.128,33.487,18.384,17.302,9.247,9.6
+Ghana,Consumer Electronics,Revenue Change,Telephony,percent,Statista,,27.37,17.59,51.744,14.235,3.178,36.111,22.36,19.289,9.635,10.147
+Ghana,Consumer Electronics,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,26.889,23.031,61.028,28.613,-2.708,35.436,18.356,18.461,9.893,10.136
+Ghana,Consumer Electronics,Revenue Change,TV Peripheral Devices,percent,Statista,,26.37,21.507,48.628,0.784,-15.554,15.597,0.514,0.46,2.036,1.272
+Ghana,Consumer Electronics,Average Revenue per User,Total,USD (US$),Statista,12.09,12.67,12.58,15.96,16.39,14.09,17.07,18.53,20.06,20.27,20.7
+Ghana,Consumer Electronics,Average Revenue per User,Computing,USD (US$),Statista,3.015,3.148,3.14,3.77,3.748,3.02,3.573,3.761,3.984,4,4.052
+Ghana,Consumer Electronics,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,5.201,5.456,5.389,6.688,6.754,5.74,6.917,7.488,8.072,8.145,8.301
+Ghana,Consumer Electronics,Average Revenue per User,Telephony,USD (US$),Statista,3.404,3.576,3.471,4.419,4.343,3.975,4.883,5.464,5.989,6.065,6.213
+Ghana,Consumer Electronics,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,7.549,7.899,8.026,10.84,11.99,10.35,12.65,13.69,14.9,15.13,15.49
+Ghana,Consumer Electronics,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,0.255,0.265,0.266,0.332,0.288,0.215,0.225,0.207,0.191,0.18,0.169
+Ghana,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Ghana,Consumer Electronics,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Ghana,Consumer Electronics,Online & Offline Split,Offline,percent,Statista,98.386,98.095,97.86,97.014,96.663,96.192,95.845,95.38,94.867,,
+Ghana,Consumer Electronics,Online & Offline Split,Online,percent,Statista,1.614,1.905,2.14,2.986,3.337,3.808,4.155,4.62,5.133,,
+Ghana,Consumer Electronics,Mobile/Desktop Split,Desktop,percent,Statista,52.204,52.153,52.106,52.038,51.991,51.95,51.926,51.908,51.894,,
+Ghana,Consumer Electronics,Mobile/Desktop Split,Mobile,percent,Statista,47.796,47.847,47.894,47.962,48.009,48.05,48.074,48.092,48.106,,
+Ghana,Consumer Electronics,Users,Total,million users,Statista,2.27,2.753,3.334,3.976,4.618,5.208,5.77,6.31,6.866,7.434,7.994
+Ghana,Consumer Electronics,Users,Computing,million users,Statista,1.589,1.927,2.334,2.783,3.233,3.646,4.039,4.417,4.807,5.204,5.596
+Ghana,Consumer Electronics,Users,Other Consumer Electronics,million users,Statista,1.816,2.202,2.667,3.181,3.695,4.167,4.616,5.048,5.493,5.947,6.395
+Ghana,Consumer Electronics,Users,Telephony,million users,Statista,1.816,2.202,2.667,3.181,3.695,4.167,4.616,5.048,5.493,5.947,6.395
+Ghana,Consumer Electronics,Users,"TV, Radio & Multimedia",million users,Statista,0.908,1.101,1.334,1.59,1.847,2.083,2.308,2.524,2.747,2.974,3.198
+Ghana,Consumer Electronics,Users,TV Peripheral Devices,million users,Statista,0.681,0.826,1,1.193,1.385,1.563,1.731,1.893,2.06,2.23,2.398
+Ghana,Consumer Electronics,Penetration Rate,Computing,percent,Statista,5.456,6.473,7.673,8.957,10.188,11.254,12.216,13.093,13.969,14.831,15.645
+Ghana,Consumer Electronics,Penetration Rate,Consumer Electronics,percent,Statista,7.794,9.247,10.961,12.795,14.554,16.078,17.451,18.704,19.956,21.187,22.35
+Ghana,Consumer Electronics,Penetration Rate,Other Consumer Electronics,percent,Statista,6.235,7.398,8.769,10.236,11.643,12.862,13.961,14.964,15.964,16.95,17.88
+Ghana,Consumer Electronics,Penetration Rate,Telephony,percent,Statista,6.235,7.398,8.769,10.236,11.643,12.862,13.961,14.964,15.964,16.95,17.88
+Ghana,Consumer Electronics,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,3.118,3.699,4.384,5.118,5.822,6.431,6.98,7.482,7.982,8.475,8.94
+Ghana,Consumer Electronics,Penetration Rate,TV Peripheral Devices,percent,Statista,2.338,2.774,3.288,3.839,4.366,4.823,5.235,5.611,5.987,6.356,6.705
+Ghana,Household Appliances,Revenue,Total,million USD (US$),Statista,22.42,27.54,34.1,46.28,61.31,73.16,97.27,122.5,154.1,169.2,187.9
+Ghana,Household Appliances,Revenue,Major Appliances,million USD (US$),Statista,11.31,13.89,17.2,23.35,30.62,36.45,48.54,61.26,77.23,84.77,94.14
+Ghana,Household Appliances,Revenue,Other Household Appliances,million USD (US$),Statista,5.181,6.363,7.878,10.69,14.17,16.9,22.47,28.3,35.62,39.1,43.42
+Ghana,Household Appliances,Revenue,Small Appliances,million USD (US$),Statista,5.934,7.287,9.019,12.23,16.53,19.81,26.26,32.92,41.3,45.37,50.38
+Ghana,Household Appliances,Revenue Change,Total,percent,Statista,,22.837,23.82,35.718,32.476,19.328,32.955,25.938,25.796,9.799,11.052
+Ghana,Household Appliances,Revenue Change,Major Appliances,percent,Statista,,22.812,23.83,35.756,31.135,19.04,33.169,26.205,26.069,9.763,11.053
+Ghana,Household Appliances,Revenue Change,Other Household Appliances,percent,Statista,,22.814,23.81,35.694,32.554,19.266,32.959,25.946,25.866,9.77,11.049
+Ghana,Household Appliances,Revenue Change,Small Appliances,percent,Statista,,22.801,23.768,35.603,35.159,19.843,32.559,25.362,25.456,9.855,11.043
+Ghana,Household Appliances,Average Revenue per User,Total,USD (US$),Statista,17.91,16.34,14.72,15.13,15.39,14.6,15.95,17.4,19.23,19.07,19.26
+Ghana,Household Appliances,Average Revenue per User,Major Appliances,USD (US$),Statista,22.58,20.6,18.56,19.09,19.22,18.18,19.9,21.75,24.08,23.88,24.12
+Ghana,Household Appliances,Average Revenue per User,Other Household Appliances,USD (US$),Statista,20.69,18.87,17.01,17.48,17.78,16.86,18.43,20.1,22.21,22.03,22.25
+Ghana,Household Appliances,Average Revenue per User,Small Appliances,USD (US$),Statista,5.923,5.403,4.867,5,5.187,4.94,5.384,5.845,6.439,6.391,6.455
+Ghana,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Ghana,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Ghana,Household Appliances,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Ghana,Household Appliances,Online & Offline Split,Offline,percent,Statista,98.627,98.429,98.182,97.839,97.293,96.625,95.971,95.194,94.296,,
+Ghana,Household Appliances,Online & Offline Split,Online,percent,Statista,1.373,1.571,1.818,2.161,2.707,3.375,4.029,4.806,5.704,,
+Ghana,Household Appliances,Mobile/Desktop Split,Desktop,percent,Statista,50.946,51.048,51.144,51.229,51.301,51.362,51.411,51.451,51.481,,
+Ghana,Household Appliances,Mobile/Desktop Split,Mobile,percent,Statista,49.054,48.952,48.856,48.771,48.699,48.638,48.589,48.549,48.519,,
+Ghana,Household Appliances,Users,Total,million users,Statista,1.252,1.686,2.316,3.058,3.983,5.011,6.097,7.041,8.018,8.875,9.756
+Ghana,Household Appliances,Users,Major Appliances,million users,Statista,0.501,0.674,0.926,1.223,1.593,2.005,2.439,2.816,3.207,3.55,3.903
+Ghana,Household Appliances,Users,Other Household Appliances,million users,Statista,0.25,0.337,0.463,0.612,0.797,1.002,1.219,1.408,1.604,1.775,1.951
+Ghana,Household Appliances,Users,Small Appliances,million users,Statista,1.002,1.349,1.853,2.447,3.187,4.009,4.877,5.633,6.414,7.1,7.805
+Ghana,Household Appliances,Penetration Rate,Household Appliances,percent,Statista,4.3,5.663,7.615,9.842,12.552,15.469,18.439,20.872,23.301,25.294,27.276
+Ghana,Household Appliances,Penetration Rate,Major Appliances,percent,Statista,1.72,2.265,3.046,3.937,5.021,6.188,7.376,8.349,9.321,10.117,10.91
+Ghana,Household Appliances,Penetration Rate,Other Household Appliances,percent,Statista,0.86,1.133,1.523,1.968,2.51,3.094,3.688,4.174,4.66,5.059,5.455
+Ghana,Household Appliances,Penetration Rate,Small Appliances,percent,Statista,3.44,4.531,6.092,7.874,10.042,12.375,14.751,16.697,18.641,20.235,21.821
+Ghana,"Beauty, Health, Personal & Household Care",Revenue,Total,million USD (US$),Statista,47.27,57.41,67.32,87.14,106.3,117.3,145.5,168.3,195.4,213,232.6
+Ghana,"Beauty, Health, Personal & Household Care",Revenue,Beauty Care,million USD (US$),Statista,8.659,11.04,13.25,17.82,22.44,24.1,29.29,33.38,38.7,42.25,46.15
+Ghana,"Beauty, Health, Personal & Household Care",Revenue,Health Care,million USD (US$),Statista,4.744,4.951,5.283,5.759,7,8.382,11,12.72,13.88,15.18,16.48
+Ghana,"Beauty, Health, Personal & Household Care",Revenue,Household Care,million USD (US$),Statista,12.33,13.88,15.59,18.56,22.9,27.05,35.33,42.76,50.97,55.67,61.17
+Ghana,"Beauty, Health, Personal & Household Care",Revenue,Personal Care,million USD (US$),Statista,21.53,27.54,33.2,45,53.96,57.72,69.92,79.47,91.83,99.89,108.8
+Ghana,"Beauty, Health, Personal & Household Care",Revenue Change,Total,percent,Statista,,21.451,17.262,29.441,21.988,10.348,24.041,15.67,16.102,9.007,9.202
+Ghana,"Beauty, Health, Personal & Household Care",Revenue Change,Beauty Care,percent,Statista,,27.497,20.018,34.491,25.926,7.398,21.535,13.964,15.938,9.173,9.231
+Ghana,"Beauty, Health, Personal & Household Care",Revenue Change,Health Care,percent,Statista,,4.363,6.706,9.01,21.549,19.743,31.234,15.636,9.119,9.366,8.564
+Ghana,"Beauty, Health, Personal & Household Care",Revenue Change,Household Care,percent,Statista,,12.571,12.32,19.051,23.384,18.122,30.61,21.03,19.2,9.221,9.88
+Ghana,"Beauty, Health, Personal & Household Care",Revenue Change,Personal Care,percent,Statista,,27.915,20.552,35.542,19.911,6.968,21.137,13.658,15.553,8.777,8.92
+Ghana,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Total,USD (US$),Statista,31.56,30.53,29.09,30.75,32.13,31.23,34.71,36.58,38.94,39.08,39.6
+Ghana,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,8.259,8.385,8.178,8.981,9.688,9.171,9.979,10.36,11.02,11.08,11.22
+Ghana,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Health Care,USD (US$),Statista,4.949,4.114,3.567,3.175,3.306,3.488,4.099,4.318,4.321,4.352,4.384
+Ghana,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Household Care,USD (US$),Statista,21.67,19.42,17.73,17.24,18.21,18.96,22.17,24.45,26.73,26.88,27.41
+Ghana,"Beauty, Health, Personal & Household Care",Average Revenue per User by Segment,Personal Care,USD (US$),Statista,23.19,23.62,23.14,25.61,26.3,24.8,26.89,27.85,29.52,29.57,29.88
+Ghana,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,"Beauty, Health, Personal & Household Care",Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,"Beauty, Health, Personal & Household Care",Online & Offline Split,Offline,percent,Statista,97.577,97.179,96.825,95.772,95.16,94.676,94.093,93.437,92.676,,
+Ghana,"Beauty, Health, Personal & Household Care",Online & Offline Split,Online,percent,Statista,2.423,2.821,3.175,4.228,4.84,5.324,5.907,6.563,7.324,,
+Ghana,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Desktop,percent,Statista,58.287,56.672,55.76,54.862,54.306,53.88,53.441,53.106,52.797,,
+Ghana,"Beauty, Health, Personal & Household Care",Mobile/Desktop Split,Mobile,percent,Statista,41.713,43.328,44.24,45.138,45.694,46.12,46.559,46.894,47.203,,
+Ghana,"Beauty, Health, Personal & Household Care",Users by Segment,Total,million users,Statista,1.498,1.88,2.314,2.834,3.309,3.755,4.194,4.602,5.018,5.449,5.873
+Ghana,"Beauty, Health, Personal & Household Care",Users by Segment,Beauty Care,million users,Statista,1.048,1.316,1.62,1.984,2.316,2.628,2.936,3.221,3.512,3.815,4.111
+Ghana,"Beauty, Health, Personal & Household Care",Users by Segment,Health Care,million users,Statista,0.959,1.203,1.481,1.814,2.117,2.403,2.684,2.945,3.211,3.488,3.759
+Ghana,"Beauty, Health, Personal & Household Care",Users by Segment,Household Care,million users,Statista,0.569,0.715,0.879,1.077,1.257,1.427,1.594,1.749,1.907,2.071,2.232
+Ghana,"Beauty, Health, Personal & Household Care",Users by Segment,Personal Care,million users,Statista,0.929,1.166,1.435,1.757,2.051,2.328,2.6,2.853,3.111,3.379,3.642
+Ghana,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,5.143,6.317,7.608,9.12,10.427,11.59,12.684,13.642,14.583,15.531,16.42
+Ghana,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Beauty Care,percent,Statista,3.6,4.422,5.326,6.384,7.299,8.113,8.879,9.549,10.208,10.872,11.494
+Ghana,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Health Care,percent,Statista,3.292,4.043,4.869,5.837,6.673,7.418,8.118,8.731,9.333,9.94,10.509
+Ghana,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Household Care,percent,Statista,1.954,2.401,2.891,3.466,3.962,4.404,4.82,5.184,5.541,5.902,6.24
+Ghana,"Beauty, Health, Personal & Household Care",Penetration Rate by Segment,Personal Care,percent,Statista,3.189,3.917,4.717,5.655,6.465,7.186,7.864,8.458,9.041,9.63,10.181
+Ghana,Personal Care,Revenue,Total,million USD (US$),Statista,21.53,27.54,33.2,45,53.96,57.72,69.92,79.47,91.83,99.89,108.8
+Ghana,Personal Care,Revenue,Body Care,million USD (US$),Statista,3.876,4.944,5.925,7.842,8.967,9.682,11.81,13.5,15.67,17.04,18.58
+Ghana,Personal Care,Revenue,Eye Care,million USD (US$),Statista,1.163,1.465,1.811,3.099,3.609,3.483,3.852,4.079,4.362,4.564,4.748
+Ghana,Personal Care,Revenue,Hair Care,million USD (US$),Statista,3.447,4.445,5.386,7.227,8.561,9.278,11.37,13.05,15.23,16.6,18.14
+Ghana,Personal Care,Revenue,Oral Care,million USD (US$),Statista,1.375,1.778,2.159,2.904,3.469,3.762,4.615,5.301,6.194,6.757,7.386
+Ghana,Personal Care,Revenue,Other Personal Care,million USD (US$),Statista,6.534,8.389,10.12,13.5,15.77,17.07,20.88,23.92,27.86,30.35,33.13
+Ghana,Personal Care,Revenue,Skin Care,million USD (US$),Statista,5.139,6.522,7.797,10.43,13.58,14.45,17.39,19.62,22.51,24.59,26.82
+Ghana,Personal Care,Revenue Change,Total,percent,Statista,,27.915,20.552,35.542,19.911,6.968,21.137,13.658,15.553,8.777,8.92
+Ghana,Personal Care,Revenue Change,Body Care,percent,Statista,,27.554,19.842,32.354,14.346,7.974,21.979,14.31,16.074,8.743,9.038
+Ghana,Personal Care,Revenue Change,Eye Care,percent,Statista,,25.967,23.618,71.121,16.457,-3.491,10.594,5.893,6.938,4.631,4.032
+Ghana,Personal Care,Revenue Change,Hair Care,percent,Statista,,28.953,21.17,34.181,18.459,8.375,22.548,14.776,16.705,8.995,9.277
+Ghana,Personal Care,Revenue Change,Oral Care,percent,Statista,,29.309,21.429,34.507,19.456,8.446,22.674,14.865,16.846,9.089,9.309
+Ghana,Personal Care,Revenue Change,Other Personal Care,percent,Statista,,28.39,20.634,33.399,16.815,8.244,22.32,14.559,16.472,8.938,9.16
+Ghana,Personal Care,Revenue Change,Skin Care,percent,Statista,,26.912,19.549,33.769,30.201,6.406,20.346,12.823,14.73,9.24,9.069
+Ghana,Personal Care,Average Revenue per User,Total,USD (US$),Statista,23.19,23.62,23.14,25.61,26.3,24.8,26.89,27.85,29.52,29.57,29.88
+Ghana,Personal Care,Average Revenue per User,Body Care,USD (US$),Statista,6.138,6.236,6.073,6.563,6.429,6.116,6.682,6.956,7.408,7.418,7.502
+Ghana,Personal Care,Average Revenue per User,Eye Care,USD (US$),Statista,2.504,2.513,2.525,3.528,3.519,2.992,2.963,2.859,2.804,2.702,2.608
+Ghana,Personal Care,Average Revenue per User,Hair Care,USD (US$),Statista,7.138,7.332,7.219,7.91,8.026,7.665,8.409,8.795,9.412,9.448,9.578
+Ghana,Personal Care,Average Revenue per User,Oral Care,USD (US$),Statista,3.022,3.113,3.071,3.373,3.451,3.298,3.622,3.792,4.063,4.081,4.139
+Ghana,Personal Care,Average Revenue per User,Other Personal Care,USD (US$),Statista,15.64,15.99,15.67,17.08,17.09,16.29,17.85,18.63,19.9,19.96,20.22
+Ghana,Personal Care,Average Revenue per User,Skin Care,USD (US$),Statista,12.58,12.71,12.35,13.49,15.04,14.11,15.2,15.63,16.45,16.54,16.74
+Ghana,Personal Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,Personal Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,Personal Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,Personal Care,Online & Offline Split,Offline,percent,Statista,97.966,97.497,97.097,95.831,95.315,94.987,94.598,94.079,93.395,,
+Ghana,Personal Care,Online & Offline Split,Online,percent,Statista,2.034,2.503,2.903,4.169,4.685,5.013,5.402,5.921,6.605,,
+Ghana,Personal Care,Mobile/Desktop Split,Desktop,percent,Statista,50.886,50.992,51.09,51.179,51.255,51.318,51.368,51.409,51.44,,
+Ghana,Personal Care,Mobile/Desktop Split,Mobile,percent,Statista,49.114,49.008,48.91,48.821,48.745,48.682,48.632,48.591,48.56,,
+Ghana,Personal Care,Users,Total,million users,Statista,0.929,1.166,1.435,1.757,2.051,2.328,2.6,2.853,3.111,3.379,3.642
+Ghana,Personal Care,Users,Body Care,million users,Statista,0.631,0.793,0.976,1.195,1.395,1.583,1.768,1.94,2.115,2.298,2.476
+Ghana,Personal Care,Users,Eye Care,million users,Statista,0.464,0.583,0.717,0.879,1.026,1.164,1.3,1.427,1.556,1.689,1.821
+Ghana,Personal Care,Users,Hair Care,million users,Statista,0.483,0.606,0.746,0.914,1.067,1.21,1.352,1.484,1.618,1.757,1.894
+Ghana,Personal Care,Users,Oral Care,million users,Statista,0.455,0.571,0.703,0.861,1.005,1.141,1.274,1.398,1.524,1.656,1.784
+Ghana,Personal Care,Users,Other Personal Care,million users,Statista,0.418,0.525,0.646,0.791,0.923,1.048,1.17,1.284,1.4,1.52,1.638
+Ghana,Personal Care,Users,Skin Care,million users,Statista,0.409,0.513,0.631,0.773,0.903,1.024,1.144,1.255,1.369,1.486,1.602
+Ghana,Personal Care,Penetration Rate,Body Care,percent,Statista,2.168,2.663,3.208,3.845,4.396,4.886,5.348,5.751,6.148,6.548,6.923
+Ghana,Personal Care,Penetration Rate,Eye Care,percent,Statista,1.594,1.958,2.359,2.827,3.232,3.593,3.932,4.229,4.521,4.815,5.09
+Ghana,Personal Care,Penetration Rate,Hair Care,percent,Statista,1.658,2.037,2.453,2.94,3.362,3.737,4.089,4.398,4.701,5.007,5.294
+Ghana,Personal Care,Penetration Rate,Oral Care,percent,Statista,1.562,1.919,2.311,2.771,3.168,3.521,3.853,4.144,4.43,4.719,4.989
+Ghana,Personal Care,Penetration Rate,Other Personal Care,percent,Statista,1.435,1.763,2.123,2.545,2.909,3.234,3.539,3.806,4.069,4.332,4.58
+Ghana,Personal Care,Penetration Rate,Personal Care,percent,Statista,3.189,3.917,4.717,5.655,6.465,7.186,7.864,8.458,9.041,9.63,10.181
+Ghana,Personal Care,Penetration Rate,Skin Care,percent,Statista,1.403,1.723,2.076,2.488,2.844,3.162,3.46,3.721,3.978,4.236,4.478
+Ghana,Beauty Care,Average Revenue per User by Segment,Total,USD (US$),Statista,8.259,8.385,8.178,8.981,9.688,9.171,9.979,10.36,11.02,11.08,11.22
+Ghana,Beauty Care,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,3.727,3.741,3.611,3.953,4.176,3.955,4.307,4.484,4.779,4.797,4.859
+Ghana,Beauty Care,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,0.455,0.415,0.366,0.418,0.434,0.402,0.429,0.444,0.465,0.464,0.468
+Ghana,Beauty Care,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,21.51,22.07,21.72,23.85,26.02,24.64,26.82,27.83,29.58,29.76,30.18
+Ghana,Beauty Care,Revenue,Total,million USD (US$),Statista,8.659,11.04,13.25,17.82,22.44,24.1,29.29,33.38,38.7,42.25,46.15
+Ghana,Beauty Care,Revenue,Cosmetics,million USD (US$),Statista,2.735,3.447,4.095,5.49,6.771,7.277,8.851,10.11,11.75,12.81,13.98
+Ghana,Beauty Care,Revenue,Fragrances,million USD (US$),Statista,0.286,0.328,0.356,0.498,0.603,0.634,0.756,0.859,0.98,1.063,1.154
+Ghana,Beauty Care,Revenue,Other Beauty Care,million USD (US$),Statista,5.638,7.263,8.797,11.83,15.06,16.19,19.68,22.41,25.97,28.38,31.01
+Ghana,Beauty Care,Revenue Change,Total,percent,Statista,,27.497,20.018,34.491,25.926,7.398,21.535,13.964,15.938,9.173,9.231
+Ghana,Beauty Care,Revenue Change,Cosmetics,percent,Statista,,26.033,18.799,34.066,23.333,7.473,21.63,14.224,16.222,9.021,9.133
+Ghana,Beauty Care,Revenue Change,Fragrances,percent,Statista,,14.351,8.702,39.803,21.218,5.138,19.234,13.54,14.079,8.514,8.561
+Ghana,Beauty Care,Revenue Change,Other Beauty Care,percent,Statista,,28.822,21.121,34.478,27.303,7.503,21.557,13.872,15.886,9.28,9.267
+Ghana,Beauty Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,Beauty Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,Beauty Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,Beauty Care,Online & Offline Split,Offline,percent,Statista,96.252,95.478,94.84,92.458,91.407,90.906,90.292,89.498,88.452,,
+Ghana,Beauty Care,Online & Offline Split,Online,percent,Statista,3.748,4.522,5.16,7.542,8.593,9.094,9.708,10.502,11.548,,
+Ghana,Beauty Care,Mobile/Desktop Split,Desktop,percent,Statista,64.773,62.42,60.281,58.939,57.758,56.91,56.258,55.774,55.442,,
+Ghana,Beauty Care,Mobile/Desktop Split,Mobile,percent,Statista,35.227,37.58,39.719,41.061,42.242,43.09,43.742,44.226,44.558,,
+Ghana,Beauty Care,Users by Segment,Total,million users,Statista,1.048,1.316,1.62,1.984,2.316,2.628,2.936,3.221,3.512,3.815,4.111
+Ghana,Beauty Care,Users by Segment,Cosmetics,million users,Statista,0.734,0.921,1.134,1.389,1.621,1.84,2.055,2.255,2.459,2.67,2.878
+Ghana,Beauty Care,Users by Segment,Fragrances,million users,Statista,0.629,0.79,0.972,1.19,1.39,1.577,1.761,1.933,2.107,2.289,2.467
+Ghana,Beauty Care,Users by Segment,Other Beauty Care,million users,Statista,0.262,0.329,0.405,0.496,0.579,0.657,0.734,0.805,0.878,0.953,1.027
+Ghana,Beauty Care,Penetration Rate by Segment,Beauty Care,percent,Statista,3.6,4.422,5.326,6.384,7.299,8.113,8.879,9.549,10.208,10.872,11.494
+Ghana,Beauty Care,Penetration Rate by Segment,Cosmetics,percent,Statista,2.52,3.095,3.728,4.469,5.109,5.679,6.215,6.684,7.146,7.61,8.046
+Ghana,Beauty Care,Penetration Rate by Segment,Fragrances,percent,Statista,2.16,2.653,3.195,3.831,4.379,4.868,5.327,5.729,6.125,6.523,6.897
+Ghana,Beauty Care,Penetration Rate by Segment,Other Beauty Care,percent,Statista,0.9,1.106,1.331,1.596,1.825,2.028,2.22,2.387,2.552,2.717,2.873
+Ghana,Health Care,Average Revenue per User by Segment,Total,USD (US$),Statista,4.949,4.114,3.567,3.175,3.306,3.488,4.099,4.318,4.321,4.352,4.384
+Ghana,Health Care,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,1.146,0.987,0.917,0.892,1.12,1.382,1.774,1.936,1.957,2.019,2.07
+Ghana,Health Care,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,0.403,0.347,0.321,0.311,0.388,0.478,0.614,0.671,0.679,0.701,0.718
+Ghana,Health Care,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,0.464,0.396,0.364,0.35,0.433,0.526,0.666,0.72,0.723,0.744,0.761
+Ghana,Health Care,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.762,0.679,0.625,0.74,0.673,0.652,0.758,0.84,0.901,0.906,0.921
+Ghana,Health Care,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,0.127,0.126,0.152,0.215,0.367,0.591,0.857,0.999,1.046,1.098,1.143
+Ghana,Health Care,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,6.651,5.523,4.777,4.231,4.366,4.552,5.305,5.563,5.554,5.583,5.615
+Ghana,Health Care,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,4.42,3.567,2.974,2.413,2.362,2.301,2.53,2.545,2.463,2.425,2.393
+Ghana,Health Care,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,1.583,1.33,1.155,0.98,1.009,1.033,1.183,1.227,1.217,1.218,1.22
+Ghana,Health Care,Revenue,Total,million USD (US$),Statista,4.744,4.951,5.283,5.759,7,8.382,11,12.72,13.88,15.18,16.48
+Ghana,Health Care,Revenue,Analgesics,million USD (US$),Statista,0.22,0.238,0.272,0.324,0.474,0.664,0.952,1.141,1.257,1.408,1.556
+Ghana,Health Care,Revenue,Cold & Cough Remedies,million USD (US$),Statista,0.155,0.167,0.19,0.226,0.329,0.46,0.659,0.791,0.873,0.977,1.079
+Ghana,Health Care,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,0.133,0.143,0.162,0.191,0.275,0.379,0.536,0.636,0.696,0.779,0.858
+Ghana,Health Care,Revenue,Hand Sanitizer,million USD (US$),Statista,0.292,0.327,0.37,0.537,0.57,0.626,0.814,0.99,1.158,1.263,1.384
+Ghana,Health Care,Revenue,Incontinence,million USD (US$),Statista,0.024,0.03,0.045,0.078,0.156,0.284,0.46,0.589,0.672,0.765,0.859
+Ghana,Health Care,Revenue,Other Health Care,million USD (US$),Statista,1.466,1.529,1.627,1.765,2.126,2.516,3.275,3.769,4.102,4.478,4.853
+Ghana,Health Care,Revenue,Skin Treatment,million USD (US$),Statista,1.695,1.717,1.762,1.751,2.001,2.212,2.716,2.998,3.164,3.383,3.597
+Ghana,Health Care,Revenue,Vitamins & Minerals,million USD (US$),Statista,0.759,0.8,0.855,0.889,1.068,1.241,1.588,1.806,1.954,2.124,2.294
+Ghana,Health Care,Revenue Change,Total,percent,Statista,,4.363,6.706,9.01,21.549,19.743,31.234,15.636,9.119,9.366,8.564
+Ghana,Health Care,Revenue Change,Analgesics,percent,Statista,,8.242,14.262,19.146,46.601,40.008,43.391,19.803,10.167,12.013,10.511
+Ghana,Health Care,Revenue Change,Cold & Cough Remedies,percent,Statista,,7.951,13.892,18.559,45.898,39.726,43.463,19.939,10.329,11.986,10.406
+Ghana,Health Care,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,7.277,13.217,17.665,44.409,37.841,41.429,18.59,9.465,11.864,10.221
+Ghana,Health Care,Revenue Change,Hand Sanitizer,percent,Statista,,11.871,13.242,44.91,6.224,9.912,29.944,21.57,17.005,9.067,9.58
+Ghana,Health Care,Revenue Change,Incontinence,percent,Statista,,24.138,48.611,73.854,99.155,82.519,61.937,27.963,14.189,13.914,12.253
+Ghana,Health Care,Revenue Change,Other Health Care,percent,Statista,,4.297,6.409,8.482,20.453,18.344,30.167,15.084,8.835,9.166,8.374
+Ghana,Health Care,Revenue Change,Skin Treatment,percent,Statista,,1.298,2.621,-0.624,14.278,10.545,22.785,10.383,5.537,6.922,6.326
+Ghana,Health Care,Revenue Change,Vitamins & Minerals,percent,Statista,,5.443,6.887,3.941,20.148,16.199,27.961,13.728,8.195,8.7,8.004
+Ghana,Health Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,Health Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,Health Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,Health Care,Online & Offline Split,Offline,percent,Statista,96.053,96.025,95.905,95.496,94.831,93.775,92.604,91.76,91.3,,
+Ghana,Health Care,Online & Offline Split,Online,percent,Statista,3.947,3.975,4.095,4.504,5.169,6.225,7.396,8.24,8.7,,
+Ghana,Health Care,Mobile/Desktop Split,Desktop,percent,Statista,69.18,65.367,62.166,59.254,56.928,54.996,53.199,51.715,50.254,,
+Ghana,Health Care,Mobile/Desktop Split,Mobile,percent,Statista,30.82,34.633,37.834,40.746,43.072,45.004,46.801,48.285,49.746,,
+Ghana,Health Care,Users by Segment,Total,million users,Statista,0.959,1.203,1.481,1.814,2.117,2.403,2.684,2.945,3.211,3.488,3.759
+Ghana,Health Care,Users by Segment,Analgesics,million users,Statista,0.192,0.241,0.296,0.363,0.423,0.481,0.537,0.589,0.642,0.697,0.752
+Ghana,Health Care,Users by Segment,Cold & Cough Remedies,million users,Statista,0.383,0.481,0.592,0.725,0.847,0.961,1.074,1.178,1.285,1.395,1.503
+Ghana,Health Care,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.288,0.361,0.444,0.544,0.635,0.721,0.805,0.884,0.963,1.046,1.127
+Ghana,Health Care,Users by Segment,Hand Sanitizer,million users,Statista,0.383,0.481,0.592,0.725,0.847,0.961,1.074,1.178,1.285,1.395,1.503
+Ghana,Health Care,Users by Segment,Incontinence,million users,Statista,0.192,0.241,0.296,0.363,0.423,0.481,0.537,0.589,0.642,0.697,0.752
+Ghana,Health Care,Users by Segment,Other Health Care,million users,Statista,0.22,0.277,0.341,0.417,0.487,0.553,0.617,0.677,0.739,0.802,0.864
+Ghana,Health Care,Users by Segment,Skin Treatment,million users,Statista,0.383,0.481,0.592,0.725,0.847,0.961,1.074,1.178,1.285,1.395,1.503
+Ghana,Health Care,Users by Segment,Vitamins & Minerals,million users,Statista,0.479,0.602,0.741,0.907,1.059,1.201,1.342,1.473,1.606,1.744,1.88
+Ghana,Health Care,Penetration Rate by Segment,Analgesics,percent,Statista,0.658,0.809,0.974,1.167,1.335,1.484,1.624,1.746,1.867,1.988,2.101
+Ghana,Health Care,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,1.317,1.617,1.948,2.335,2.669,2.967,3.247,3.492,3.733,3.975,4.202
+Ghana,Health Care,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,0.987,1.213,1.461,1.751,2.002,2.225,2.435,2.619,2.8,2.981,3.152
+Ghana,Health Care,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,1.317,1.617,1.948,2.335,2.669,2.967,3.247,3.492,3.733,3.975,4.202
+Ghana,Health Care,Penetration Rate by Segment,Health Care,percent,Statista,3.292,4.043,4.869,5.837,6.673,7.418,8.118,8.731,9.333,9.94,10.509
+Ghana,Health Care,Penetration Rate by Segment,Incontinence,percent,Statista,0.658,0.809,0.974,1.167,1.335,1.484,1.624,1.746,1.867,1.988,2.101
+Ghana,Health Care,Penetration Rate by Segment,Other Health Care,percent,Statista,0.757,0.93,1.12,1.343,1.535,1.706,1.867,2.008,2.147,2.286,2.416
+Ghana,Health Care,Penetration Rate by Segment,Skin Treatment,percent,Statista,1.317,1.617,1.948,2.335,2.669,2.967,3.247,3.492,3.733,3.975,4.202
+Ghana,Health Care,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,1.646,2.022,2.435,2.919,3.337,3.709,4.059,4.365,4.666,4.97,5.255
+Ghana,Household Care,Average Revenue per User by Segment,Total,USD (US$),Statista,21.67,19.42,17.73,17.24,18.21,18.96,22.17,24.45,26.73,26.88,27.41
+Ghana,Household Care,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,0.941,1.003,1.018,1.25,1.476,1.54,1.847,2.147,2.526,2.559,2.646
+Ghana,Household Care,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,0.978,1.05,1.074,1.372,1.637,1.71,2.053,2.389,2.814,2.853,2.952
+Ghana,Household Care,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,71.56,60.15,52.16,45.4,44.47,45.35,51.05,52.85,52.66,52.52,52.52
+Ghana,Household Care,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,3.471,3.739,3.835,4.404,5.089,5.374,6.52,7.663,9.114,9.219,9.541
+Ghana,Household Care,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,10.43,11.22,11.48,13.55,15.8,16.62,20.08,23.51,27.86,28.2,29.18
+Ghana,Household Care,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,0.225,0.216,0.245,0.314,0.505,0.817,1.174,1.37,1.442,1.51,1.572
+Ghana,Household Care,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,1.076,1.16,1.189,1.345,1.549,1.634,1.978,2.322,2.757,2.788,2.885
+Ghana,Household Care,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,0.84,0.888,0.922,1.156,1.4,1.596,2.104,2.699,3.501,3.536,3.696
+Ghana,Household Care,Revenue,Total,million USD (US$),Statista,12.33,13.88,15.59,18.56,22.9,27.05,35.33,42.76,50.97,55.67,61.17
+Ghana,Household Care,Revenue,Dishwashing Detergents,million USD (US$),Statista,0.225,0.301,0.376,0.565,0.779,0.923,1.236,1.577,2.023,2.225,2.479
+Ghana,Household Care,Revenue,Household Cleaners,million USD (US$),Statista,0.25,0.338,0.425,0.665,0.926,1.098,1.472,1.88,2.414,2.658,2.964
+Ghana,Household Care,Revenue,Household Paper,million USD (US$),Statista,9.367,9.887,10.55,11.24,12.86,14.88,18.71,21.26,23.1,25.01,26.95
+Ghana,Household Care,Revenue,Laundry Care,million USD (US$),Statista,0.79,1.069,1.349,1.897,2.559,3.067,4.156,5.36,6.951,7.635,8.515
+Ghana,Household Care,Revenue,Other Household Care,million USD (US$),Statista,1.306,1.763,2.221,3.211,4.371,5.216,7.04,9.045,11.69,12.84,14.32
+Ghana,Household Care,Revenue,Paper Tissues,million USD (US$),Statista,0.041,0.049,0.069,0.108,0.203,0.373,0.599,0.767,0.88,1,1.122
+Ghana,Household Care,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,0.184,0.249,0.314,0.435,0.584,0.699,0.946,1.218,1.577,1.732,1.931
+Ghana,Household Care,Revenue,Toilet Paper,million USD (US$),Statista,0.167,0.222,0.284,0.436,0.616,0.797,1.174,1.652,2.337,2.562,2.886
+Ghana,Household Care,Revenue Change,Total,percent,Statista,,12.571,12.32,19.051,23.384,18.122,30.61,21.03,19.2,9.221,9.88
+Ghana,Household Care,Revenue Change,Dishwashing Detergents,percent,Statista,,33.793,24.992,50.332,37.814,18.416,33.955,27.589,28.282,9.985,11.416
+Ghana,Household Care,Revenue Change,Household Cleaners,percent,Statista,,34.864,25.792,56.521,39.254,18.587,34.062,27.717,28.404,10.108,11.512
+Ghana,Household Care,Revenue Change,Household Paper,percent,Statista,,5.551,6.706,6.54,14.413,15.708,25.739,13.629,8.655,8.268,7.757
+Ghana,Household Care,Revenue Change,Laundry Care,percent,Statista,,35.299,26.193,40.623,34.897,19.852,35.507,28.97,29.683,9.84,11.526
+Ghana,Household Care,Revenue Change,Other Household Care,percent,Statista,,34.992,25.978,44.575,36.126,19.332,34.969,28.48,29.243,9.837,11.526
+Ghana,Household Care,Revenue Change,Paper Tissues,percent,Statista,,20.674,39.712,56.689,88.067,83.473,60.563,28.051,14.761,13.623,12.2
+Ghana,Household Care,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,35.329,26.227,38.496,34.468,19.644,35.269,28.78,29.475,9.829,11.49
+Ghana,Household Care,Revenue Change,Toilet Paper,percent,Statista,,32.835,27.825,53.47,41.382,29.367,47.321,40.716,41.465,9.628,12.646
+Ghana,Household Care,Comparable Estimates - eCommerce (Worldwide),*Statista,trillion USD (US$),,2.249,2.429,2.642,3.282,3.86,3.609,4.505,5.037,5.675,6.021,6.429
+Ghana,Household Care,Comparable Estimates - eCommerce (Worldwide),The BRC,trillion USD (US$),,,,,,2.634,3.048,,,,4.798,
+Ghana,Household Care,Comparable Estimates - eCommerce (Worldwide),UNCTAD,trillion USD (US$),,,,4.87,,,,,,,,
+Ghana,Household Care,Online & Offline Split,Offline,percent,Statista,97.721,97.548,97.364,96.994,96.466,95.847,95.088,94.303,93.487,,
+Ghana,Household Care,Online & Offline Split,Online,percent,Statista,2.279,2.452,2.636,3.006,3.534,4.153,4.912,5.697,6.513,,
+Ghana,Household Care,Mobile/Desktop Split,Desktop,percent,Statista,62.466,60.273,59.691,58.513,57.311,56.303,55.284,54.591,53.925,,
+Ghana,Household Care,Mobile/Desktop Split,Mobile,percent,Statista,37.534,39.727,40.309,41.487,42.689,43.697,44.716,45.409,46.075,,
+Ghana,Household Care,Users by Segment,Total,million users,Statista,0.569,0.715,0.879,1.077,1.257,1.427,1.594,1.749,1.907,2.071,2.232
+Ghana,Household Care,Users by Segment,Dishwashing Detergents,million users,Statista,0.239,0.3,0.369,0.452,0.528,0.599,0.669,0.734,0.801,0.87,0.937
+Ghana,Household Care,Users by Segment,Household Cleaners,million users,Statista,0.256,0.322,0.396,0.485,0.566,0.642,0.717,0.787,0.858,0.932,1.004
+Ghana,Household Care,Users by Segment,Household Paper,million users,Statista,0.131,0.164,0.202,0.248,0.289,0.328,0.367,0.402,0.439,0.476,0.513
+Ghana,Household Care,Users by Segment,Laundry Care,million users,Statista,0.228,0.286,0.352,0.431,0.503,0.571,0.637,0.699,0.763,0.828,0.892
+Ghana,Household Care,Users by Segment,Other Household Care,million users,Statista,0.125,0.157,0.193,0.237,0.277,0.314,0.351,0.385,0.419,0.455,0.491
+Ghana,Household Care,Users by Segment,Paper Tissues,million users,Statista,0.182,0.229,0.281,0.345,0.402,0.457,0.51,0.56,0.61,0.663,0.714
+Ghana,Household Care,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.171,0.214,0.264,0.323,0.377,0.428,0.478,0.525,0.572,0.621,0.669
+Ghana,Household Care,Users by Segment,Toilet Paper,million users,Statista,0.199,0.25,0.308,0.377,0.44,0.499,0.558,0.612,0.667,0.725,0.781
+Ghana,Household Care,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,0.821,1.008,1.214,1.456,1.664,1.85,2.024,2.177,2.327,2.478,2.62
+Ghana,Household Care,Penetration Rate by Segment,Household Care,percent,Statista,1.954,2.401,2.891,3.466,3.962,4.404,4.82,5.184,5.541,5.902,6.24
+Ghana,Household Care,Penetration Rate by Segment,Household Cleaners,percent,Statista,0.879,1.08,1.301,1.56,1.783,1.982,2.169,2.333,2.494,2.655,2.807
+Ghana,Household Care,Penetration Rate by Segment,Household Paper,percent,Statista,0.45,0.552,0.665,0.797,0.911,1.013,1.109,1.192,1.275,1.357,1.435
+Ghana,Household Care,Penetration Rate by Segment,Laundry Care,percent,Statista,0.782,0.96,1.156,1.386,1.585,1.762,1.928,2.074,2.217,2.36,2.495
+Ghana,Household Care,Penetration Rate by Segment,Other Household Care,percent,Statista,0.43,0.528,0.636,0.762,0.872,0.969,1.06,1.14,1.219,1.298,1.372
+Ghana,Household Care,Penetration Rate by Segment,Paper Tissues,percent,Statista,0.625,0.768,0.925,1.109,1.268,1.409,1.542,1.659,1.773,1.888,1.996
+Ghana,Household Care,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,0.586,0.72,0.867,1.04,1.189,1.321,1.446,1.555,1.662,1.77,1.871
+Ghana,Household Care,Penetration Rate by Segment,Toilet Paper,percent,Statista,0.684,0.84,1.012,1.213,1.387,1.541,1.687,1.814,1.94,2.065,2.183
+Ghana,Food,Revenue,Total,million USD (US$),Statista,12.66,17.19,23.34,47.24,73.53,90.12,125.6,166.8,223.3,246.6,276.9
+Ghana,Food,Revenue,Bread & Cereal Products,million USD (US$),Statista,1.203,1.631,2.213,5.876,9.648,11.5,15.56,20.1,26.15,28.99,32.51
+Ghana,Food,Revenue,Confectionery & Snacks,million USD (US$),Statista,3.173,4.275,5.759,12.33,19.31,23.47,32.43,42.49,56.03,61.96,69.52
+Ghana,Food,Revenue,Convenience Food,million USD (US$),Statista,0.645,0.864,1.158,2.679,3.992,4.786,6.546,8.556,11.26,12.45,13.96
+Ghana,Food,Revenue,Dairy Products & Eggs,million USD (US$),Statista,0.829,1.148,1.59,2.847,4.424,5.605,8.069,11.08,15.32,16.87,19
+Ghana,Food,Revenue,Fish & Seafood,million USD (US$),Statista,0.906,1.227,1.662,3.124,4.794,5.907,8.268,11.04,14.84,16.37,18.39
+Ghana,Food,Revenue,Fruits & Nuts,million USD (US$),Statista,1.143,1.557,2.119,4.02,6.204,7.678,10.79,14.47,19.53,21.55,24.21
+Ghana,Food,Revenue,Meat,million USD (US$),Statista,2.177,2.962,4.026,7.623,11.75,14.53,20.4,27.33,36.85,40.64,45.67
+Ghana,Food,Revenue,Oils & Fats,million USD (US$),Statista,0.856,1.154,1.555,2.706,4.086,5.037,7.052,9.416,12.66,13.95,15.66
+Ghana,Food,Revenue,Sauces & Spices,million USD (US$),Statista,0.127,0.181,0.257,0.428,0.683,0.901,1.367,2.021,3.123,3.406,3.862
+Ghana,Food,Revenue,Spreads & Sweeteners,million USD (US$),Statista,0.211,0.303,0.432,0.738,1.136,1.43,2.038,2.84,3.985,4.38,4.936
+Ghana,Food,Revenue,Vegetables,million USD (US$),Statista,1.387,1.886,2.566,4.865,7.504,9.282,13.04,17.47,23.57,26,29.21
+Ghana,Food,Revenue Change,Total,percent,Statista,,35.782,35.777,102.399,55.652,22.562,39.37,32.803,33.873,10.434,12.287
+Ghana,Food,Revenue Change,Bread & Cereal Products,percent,Statista,,35.578,35.684,165.522,64.193,19.196,35.304,29.177,30.1,10.86,12.142
+Ghana,Food,Revenue Change,Confectionery & Snacks,percent,Statista,,34.731,34.713,114.1,56.61,21.543,38.176,31.021,31.866,10.584,12.201
+Ghana,Food,Revenue Change,Convenience Food,percent,Statista,,33.865,34.012,131.347,49.011,19.89,36.774,30.706,31.604,10.568,12.129
+Ghana,Food,Revenue Change,Dairy Products & Eggs,percent,Statista,,38.514,38.502,79.057,55.392,26.695,43.961,37.316,38.267,10.117,12.626
+Ghana,Food,Revenue Change,Fish & Seafood,percent,Statista,,35.475,35.452,87.966,53.457,23.217,39.97,33.527,34.42,10.31,12.34
+Ghana,Food,Revenue Change,Fruits & Nuts,percent,Statista,,36.22,36.095,89.712,54.328,23.759,40.531,34.106,34.969,10.343,12.343
+Ghana,Food,Revenue Change,Meat,percent,Statista,,36.059,35.922,89.344,54.139,23.66,40.399,33.971,34.834,10.285,12.377
+Ghana,Food,Revenue Change,Oils & Fats,percent,Statista,,34.86,34.749,74.019,50.998,23.275,40.004,33.522,34.452,10.19,12.258
+Ghana,Food,Revenue Change,Sauces & Spices,percent,Statista,,42.172,42.446,66.162,59.785,31.855,51.703,47.842,54.527,9.062,13.388
+Ghana,Food,Revenue Change,Spreads & Sweeteners,percent,Statista,,43.168,42.701,70.794,53.93,25.88,42.517,39.352,40.317,9.912,12.694
+Ghana,Food,Revenue Change,Vegetables,percent,Statista,,35.977,36.055,89.595,54.245,23.694,40.487,33.972,34.917,10.31,12.346
+Ghana,Food,Average Revenue per User,Total,USD (US$),Statista,17.69,18.66,19.53,31.75,40.27,41.31,49.6,58.57,70.33,70.78,72.99
+Ghana,Food,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,3.576,3.767,3.941,8.403,11.24,11.21,13.08,15.02,17.52,17.71,18.23
+Ghana,Food,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,9.049,9.471,9.837,16.92,21.58,21.96,26.14,30.45,36.01,36.3,37.39
+Ghana,Food,Average Revenue per User,Convenience Food,USD (US$),Statista,1.611,1.675,1.731,3.216,3.905,3.917,4.617,5.365,6.334,6.382,6.571
+Ghana,Food,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,5.036,5.419,5.786,8.321,10.53,11.17,13.86,16.91,20.97,21.05,21.77
+Ghana,Food,Average Revenue per User,Fish & Seafood,USD (US$),Statista,6.662,7.012,7.321,11.05,13.82,14.25,17.19,20.4,24.6,24.74,25.51
+Ghana,Food,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,3.072,3.249,3.411,5.196,6.535,6.768,8.2,9.772,11.83,11.89,12.27
+Ghana,Food,Average Revenue per User,Meat,USD (US$),Statista,10.14,10.72,11.23,17.08,21.45,22.2,26.87,31.98,38.68,38.89,40.12
+Ghana,Food,Average Revenue per User,Oils & Fats,USD (US$),Statista,4.784,5.01,5.207,7.274,8.953,9.235,11.14,13.22,15.95,16.02,16.51
+Ghana,Food,Average Revenue per User,Sauces & Spices,USD (US$),Statista,0.404,0.446,0.49,0.653,0.851,0.939,1.228,1.613,2.235,2.222,2.313
+Ghana,Food,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,0.896,0.996,1.096,1.503,1.886,1.987,2.439,3.021,3.803,3.81,3.942
+Ghana,Food,Average Revenue per User,Vegetables,USD (US$),Statista,3.957,4.179,4.383,6.673,8.388,8.683,10.51,12.52,15.15,15.23,15.71
+Ghana,Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Food,Online & Offline Split,Offline,percent,Statista,99.917,99.894,99.868,99.792,99.686,99.608,99.511,99.39,99.231,,
+Ghana,Food,Online & Offline Split,Online,percent,Statista,0.083,0.106,0.132,0.208,0.314,0.392,0.489,0.61,0.769,,
+Ghana,Food,Mobile/Desktop Split,Desktop,percent,Statista,63.937,61.519,59.416,58.236,56.906,55.749,54.741,53.976,53.409,,
+Ghana,Food,Mobile/Desktop Split,Mobile,percent,Statista,36.063,38.481,40.584,41.764,43.094,44.251,45.259,46.024,46.591,,
+Ghana,Food,Users,Total,million users,Statista,0.716,0.921,1.195,1.488,1.826,2.182,2.532,2.848,3.175,3.483,3.794
+Ghana,Food,Users,Bread & Cereal Products,million users,Statista,0.336,0.433,0.562,0.699,0.858,1.025,1.19,1.339,1.492,1.637,1.783
+Ghana,Food,Users,Confectionery & Snacks,million users,Statista,0.351,0.451,0.585,0.729,0.895,1.069,1.24,1.396,1.556,1.707,1.859
+Ghana,Food,Users,Convenience Food,million users,Statista,0.401,0.516,0.669,0.833,1.022,1.222,1.418,1.595,1.778,1.951,2.125
+Ghana,Food,Users,Dairy Products & Eggs,million users,Statista,0.165,0.212,0.275,0.342,0.42,0.502,0.582,0.655,0.73,0.801,0.873
+Ghana,Food,Users,Fish & Seafood,million users,Statista,0.136,0.175,0.227,0.283,0.347,0.415,0.481,0.541,0.603,0.662,0.721
+Ghana,Food,Users,Fruits & Nuts,million users,Statista,0.372,0.479,0.621,0.774,0.949,1.134,1.316,1.481,1.651,1.811,1.973
+Ghana,Food,Users,Meat,million users,Statista,0.215,0.276,0.358,0.446,0.548,0.654,0.759,0.854,0.953,1.045,1.138
+Ghana,Food,Users,Oils & Fats,million users,Statista,0.179,0.23,0.299,0.372,0.456,0.545,0.633,0.712,0.794,0.871,0.949
+Ghana,Food,Users,Sauces & Spices,million users,Statista,0.315,0.405,0.526,0.655,0.803,0.96,1.114,1.253,1.397,1.533,1.669
+Ghana,Food,Users,Spreads & Sweeteners,million users,Statista,0.236,0.304,0.394,0.491,0.602,0.72,0.835,0.94,1.048,1.15,1.252
+Ghana,Food,Users,Vegetables,million users,Statista,0.351,0.451,0.585,0.729,0.895,1.069,1.24,1.396,1.556,1.707,1.859
+Ghana,Food,Penetration Rate,Bread & Cereal Products,percent,Statista,1.155,1.455,1.846,2.25,2.704,3.165,3.599,3.968,4.337,4.666,4.985
+Ghana,Food,Penetration Rate,Confectionery & Snacks,percent,Statista,1.204,1.517,1.925,2.346,2.819,3.3,3.752,4.137,4.522,4.865,5.198
+Ghana,Food,Penetration Rate,Convenience Food,percent,Statista,1.376,1.733,2.2,2.681,3.222,3.771,4.288,4.728,5.167,5.559,5.94
+Ghana,Food,Penetration Rate,Dairy Products & Eggs,percent,Statista,0.565,0.712,0.903,1.101,1.323,1.549,1.761,1.942,2.122,2.284,2.44
+Ghana,Food,Penetration Rate,Fish & Seafood,percent,Statista,0.467,0.588,0.746,0.91,1.093,1.28,1.455,1.604,1.753,1.886,2.016
+Ghana,Food,Penetration Rate,Food,percent,Statista,2.457,3.095,3.928,4.788,5.753,6.734,7.657,8.443,9.228,9.928,10.607
+Ghana,Food,Penetration Rate,Fruits & Nuts,percent,Statista,1.278,1.609,2.042,2.49,2.992,3.502,3.982,4.39,4.798,5.162,5.516
+Ghana,Food,Penetration Rate,Meat,percent,Statista,0.737,0.928,1.178,1.436,1.726,2.02,2.297,2.533,2.768,2.978,3.182
+Ghana,Food,Penetration Rate,Oils & Fats,percent,Statista,0.614,0.774,0.982,1.197,1.438,1.684,1.914,2.111,2.307,2.482,2.652
+Ghana,Food,Penetration Rate,Sauces & Spices,percent,Statista,1.081,1.362,1.728,2.107,2.531,2.963,3.369,3.715,4.06,4.368,4.667
+Ghana,Food,Penetration Rate,Spreads & Sweeteners,percent,Statista,0.811,1.021,1.296,1.58,1.899,2.222,2.527,2.786,3.045,3.276,3.501
+Ghana,Food,Penetration Rate,Vegetables,percent,Statista,1.204,1.517,1.925,2.346,2.819,3.3,3.752,4.137,4.522,4.865,5.198
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Total,USD (US$),Statista,3.576,3.767,3.941,8.403,11.24,11.21,13.08,15.02,17.52,17.71,18.23
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Bread,USD (US$),Statista,2.551,2.694,2.822,6.118,8.218,8.207,9.584,11.01,12.84,12.98,13.37
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,0.14,0.149,0.157,0.24,0.303,0.316,0.385,0.461,0.561,0.564,0.582
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,2.704,2.87,3.023,6.488,8.735,8.74,10.24,11.8,13.85,13.99,14.42
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Pasta,USD (US$),Statista,0.485,0.493,0.499,1.044,1.354,1.306,1.472,1.632,1.836,1.858,1.905
+Ghana,Bread & Cereal Products,Average Revenue per User by Segment,Rice,USD (US$),Statista,0.223,0.238,0.252,0.55,0.748,0.754,0.889,1.031,1.215,1.228,1.265
+Ghana,Bread & Cereal Products,Revenue,Total,million USD (US$),Statista,1.203,1.631,2.213,5.876,9.648,11.5,15.56,20.1,26.15,28.99,32.51
+Ghana,Bread & Cereal Products,Revenue,Bread,million USD (US$),Statista,0.541,0.735,0.998,2.695,4.442,5.302,7.184,9.282,12.07,13.39,15.02
+Ghana,Bread & Cereal Products,Revenue,Breakfast Cereals,million USD (US$),Statista,0.039,0.053,0.073,0.139,0.216,0.269,0.38,0.512,0.695,0.766,0.862
+Ghana,Bread & Cereal Products,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,0.409,0.559,0.764,2.042,3.373,4.033,5.481,7.111,9.302,10.31,11.57
+Ghana,Bread & Cereal Products,Revenue,Pasta,million USD (US$),Statista,0.147,0.192,0.252,0.657,1.046,1.205,1.576,1.966,2.466,2.737,3.057
+Ghana,Bread & Cereal Products,Revenue,Rice,million USD (US$),Statista,0.067,0.092,0.126,0.343,0.571,0.688,0.942,1.228,1.614,1.789,2.008
+Ghana,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,35.578,35.684,165.522,64.193,19.196,35.304,29.177,30.1,10.86,12.142
+Ghana,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,35.923,35.846,169.986,64.824,19.361,35.496,29.204,30.037,10.936,12.173
+Ghana,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,36.701,36.67,90.691,54.917,24.513,41.422,34.816,35.643,10.304,12.433
+Ghana,Bread & Cereal Products,Revenue Change,Other Bread & Cereal Products,percent,Statista,,36.599,36.648,167.277,65.181,19.567,35.904,29.739,30.811,10.836,12.221
+Ghana,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,30.905,31.097,160.571,59.233,15.201,30.788,24.746,25.432,10.989,11.692
+Ghana,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,37.13,37.182,172.554,66.637,20.511,36.86,30.416,31.433,10.843,12.241
+Ghana,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Ghana,Bread & Cereal Products,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Ghana,Bread & Cereal Products,Online & Offline Split,Offline,percent,Statista,99.879,99.845,99.806,99.651,99.425,99.284,99.118,98.913,98.65,,
+Ghana,Bread & Cereal Products,Online & Offline Split,Online,percent,Statista,0.121,0.155,0.194,0.349,0.575,0.716,0.882,1.087,1.35,,
+Ghana,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,76.882,72.452,68.555,64.989,62.126,59.844,57.848,56.165,54.685,,
+Ghana,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,23.118,27.548,31.445,35.011,37.874,40.156,42.152,43.835,45.315,,
+Ghana,Bread & Cereal Products,Users by Segment,Total,million users,Statista,0.336,0.433,0.562,0.699,0.858,1.025,1.19,1.339,1.492,1.637,1.783
+Ghana,Bread & Cereal Products,Users by Segment,Bread,million users,Statista,0.212,0.273,0.354,0.441,0.541,0.646,0.75,0.843,0.94,1.031,1.124
+Ghana,Bread & Cereal Products,Users by Segment,Breakfast Cereals,million users,Statista,0.279,0.359,0.466,0.58,0.712,0.851,0.988,1.111,1.239,1.359,1.48
+Ghana,Bread & Cereal Products,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.151,0.195,0.253,0.315,0.386,0.461,0.535,0.602,0.672,0.737,0.803
+Ghana,Bread & Cereal Products,Users by Segment,Pasta,million users,Statista,0.303,0.39,0.505,0.629,0.772,0.923,1.071,1.205,1.343,1.473,1.605
+Ghana,Bread & Cereal Products,Users by Segment,Rice,million users,Statista,0.299,0.385,0.5,0.622,0.764,0.913,1.059,1.191,1.328,1.457,1.587
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Bread,percent,Statista,0.728,0.916,1.163,1.418,1.704,1.994,2.267,2.5,2.732,2.94,3.141
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,1.155,1.455,1.846,2.25,2.704,3.165,3.599,3.968,4.337,4.666,4.985
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,0.959,1.207,1.532,1.868,2.244,2.627,2.987,3.294,3.6,3.873,4.138
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,0.52,0.655,0.831,1.013,1.217,1.424,1.619,1.786,1.952,2.1,2.244
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Pasta,percent,Statista,1.039,1.309,1.661,2.025,2.434,2.849,3.239,3.571,3.903,4.199,4.487
+Ghana,Bread & Cereal Products,Penetration Rate by Segment,Rice,percent,Statista,1.028,1.295,1.643,2.003,2.407,2.817,3.203,3.532,3.86,4.153,4.437
+Ghana,Confectionery & Snacks,Average Revenue per User by Segment,Total,USD (US$),Statista,9.049,9.471,9.837,16.92,21.58,21.96,26.14,30.45,36.01,36.3,37.39
+Ghana,Confectionery & Snacks,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,8.181,8.578,8.935,15.46,19.79,20.14,24,28.01,33.2,33.46,34.48
+Ghana,Confectionery & Snacks,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,0.243,0.255,0.265,0.455,0.581,0.591,0.704,0.819,0.969,0.977,1.006
+Ghana,Confectionery & Snacks,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,2.373,2.469,2.543,4.288,5.409,5.497,6.538,7.556,8.876,8.95,9.212
+Ghana,Confectionery & Snacks,Revenue,Total,million USD (US$),Statista,3.173,4.275,5.759,12.33,19.31,23.47,32.43,42.49,56.03,61.96,69.52
+Ghana,Confectionery & Snacks,Revenue,Confectionery,million USD (US$),Statista,2.352,3.175,4.289,9.243,14.52,17.66,24.41,32.05,42.36,46.84,52.56
+Ghana,Confectionery & Snacks,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.047,0.063,0.085,0.182,0.286,0.347,0.48,0.629,0.829,0.917,1.029
+Ghana,Confectionery & Snacks,Revenue,Snack Food,million USD (US$),Statista,0.774,1.037,1.385,2.907,4.5,5.465,7.543,9.807,12.84,14.21,15.93
+Ghana,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,34.731,34.713,114.1,56.61,21.543,38.176,31.021,31.866,10.584,12.201
+Ghana,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,34.991,35.087,115.505,57.092,21.625,38.222,31.299,32.168,10.576,12.212
+Ghana,Confectionery & Snacks,Revenue Change,Other Confectionery & Snacks,percent,Statista,,34.753,34.703,114.101,56.603,21.554,38.169,31.021,31.865,10.587,12.202
+Ghana,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,34.014,33.558,109.892,54.799,21.444,38.024,30.015,30.927,10.67,12.104
+Ghana,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Ghana,Confectionery & Snacks,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Ghana,Confectionery & Snacks,Online & Offline Split,Offline,percent,Statista,99.919,99.897,99.873,99.794,99.686,99.609,99.516,99.402,99.257,,
+Ghana,Confectionery & Snacks,Online & Offline Split,Online,percent,Statista,0.081,0.103,0.127,0.206,0.314,0.391,0.484,0.598,0.743,,
+Ghana,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,77.034,72.633,68.762,65.221,62.378,60.111,58.128,56.457,54.987,,
+Ghana,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,22.966,27.367,31.238,34.779,37.622,39.889,41.872,43.543,45.013,,
+Ghana,Confectionery & Snacks,Users by Segment,Total,million users,Statista,0.351,0.451,0.585,0.729,0.895,1.069,1.24,1.396,1.556,1.707,1.859
+Ghana,Confectionery & Snacks,Users by Segment,Confectionery,million users,Statista,0.288,0.37,0.48,0.598,0.734,0.877,1.017,1.144,1.276,1.4,1.524
+Ghana,Confectionery & Snacks,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.193,0.248,0.322,0.401,0.492,0.588,0.682,0.768,0.856,0.939,1.023
+Ghana,Confectionery & Snacks,Users by Segment,Snack Food,million users,Statista,0.326,0.42,0.544,0.678,0.832,0.994,1.154,1.298,1.447,1.587,1.729
+Ghana,Confectionery & Snacks,Penetration Rate by Segment,Confectionery,percent,Statista,0.987,1.244,1.578,1.924,2.312,2.706,3.077,3.392,3.708,3.989,4.262
+Ghana,Confectionery & Snacks,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,1.204,1.517,1.925,2.346,2.819,3.3,3.752,4.137,4.522,4.865,5.198
+Ghana,Confectionery & Snacks,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,0.662,0.834,1.059,1.29,1.55,1.815,2.064,2.275,2.487,2.676,2.859
+Ghana,Confectionery & Snacks,Penetration Rate by Segment,Snack Food,percent,Statista,1.12,1.41,1.79,2.182,2.622,3.069,3.489,3.847,4.205,4.524,4.834
+Ghana,Convenience Food,Average Revenue per User by Segment,Total,USD (US$),Statista,1.611,1.675,1.731,3.216,3.905,3.917,4.617,5.365,6.334,6.382,6.571
+Ghana,Convenience Food,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,2.242,2.333,2.413,4.489,5.459,5.485,6.474,7.531,8.903,8.97,9.237
+Ghana,Convenience Food,Average Revenue per User by Segment,Soups,USD (US$),Statista,0.107,0.109,0.11,0.197,0.23,0.221,0.251,0.28,0.319,0.321,0.329
+Ghana,Convenience Food,Revenue,Total,million USD (US$),Statista,0.645,0.864,1.158,2.679,3.992,4.786,6.546,8.556,11.26,12.45,13.96
+Ghana,Convenience Food,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,0.62,0.83,1.114,2.581,3.851,4.623,6.333,8.288,10.92,12.07,13.54
+Ghana,Convenience Food,Revenue,Soups,million USD (US$),Statista,0.026,0.034,0.044,0.099,0.141,0.162,0.213,0.268,0.34,0.376,0.42
+Ghana,Convenience Food,Revenue Change,Total,percent,Statista,,33.865,34.012,131.347,49.011,19.89,36.774,30.706,31.604,10.568,12.129
+Ghana,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,33.979,34.152,131.688,49.206,20.047,36.989,30.87,31.757,10.531,12.179
+Ghana,Convenience Food,Revenue Change,Soups,percent,Statista,,30.808,30.591,124.176,43.147,15.025,31.362,25.75,26.818,10.618,11.593
+Ghana,Convenience Food,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Convenience Food,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Convenience Food,Online & Offline Split,Offline,percent,Statista,99.92,99.899,99.875,99.805,99.707,99.632,99.541,99.426,99.276,,
+Ghana,Convenience Food,Online & Offline Split,Online,percent,Statista,0.08,0.101,0.125,0.195,0.293,0.368,0.459,0.574,0.724,,
+Ghana,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,50.946,51.048,51.144,51.229,51.301,51.362,51.411,51.451,51.481,,
+Ghana,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,49.054,48.952,48.856,48.771,48.699,48.638,48.589,48.549,48.519,,
+Ghana,Convenience Food,Users by Segment,Total,million users,Statista,0.401,0.516,0.669,0.833,1.022,1.222,1.418,1.595,1.778,1.951,2.125
+Ghana,Convenience Food,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.276,0.356,0.462,0.575,0.705,0.843,0.978,1.101,1.227,1.346,1.466
+Ghana,Convenience Food,Users by Segment,Soups,million users,Statista,0.24,0.31,0.401,0.5,0.613,0.733,0.851,0.957,1.067,1.17,1.275
+Ghana,Convenience Food,Penetration Rate by Segment,Convenience Food,percent,Statista,1.376,1.733,2.2,2.681,3.222,3.771,4.288,4.728,5.167,5.559,5.94
+Ghana,Convenience Food,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,0.949,1.196,1.518,1.85,2.223,2.602,2.959,3.262,3.566,3.836,4.099
+Ghana,Convenience Food,Penetration Rate by Segment,Soups,percent,Statista,0.826,1.04,1.32,1.609,1.933,2.263,2.573,2.837,3.1,3.336,3.564
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Total,USD (US$),Statista,5.036,5.419,5.786,8.321,10.53,11.17,13.86,16.91,20.97,21.05,21.77
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Cheese,USD (US$),Statista,0.292,0.317,0.342,0.499,0.639,0.688,0.864,1.068,1.341,1.346,1.393
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Eggs,USD (US$),Statista,1.424,1.512,1.594,2.266,2.827,2.961,3.626,4.366,5.338,5.361,5.534
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Milk,USD (US$),Statista,0.42,0.451,0.479,0.687,0.863,0.911,1.126,1.368,1.687,1.694,1.75
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,10.69,11.52,12.32,17.74,22.5,23.88,29.65,36.22,44.98,45.15,46.68
+Ghana,Dairy Products & Eggs,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,0.246,0.266,0.286,0.416,0.531,0.571,0.718,0.888,1.115,1.119,1.158
+Ghana,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,0.829,1.148,1.59,2.847,4.424,5.605,8.069,11.08,15.32,16.87,19
+Ghana,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,0.036,0.05,0.071,0.128,0.201,0.259,0.377,0.525,0.735,0.809,0.912
+Ghana,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,0.101,0.138,0.188,0.333,0.51,0.639,0.908,1.23,1.676,1.847,2.077
+Ghana,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,0.054,0.074,0.103,0.183,0.283,0.357,0.511,0.699,0.961,1.059,1.192
+Ghana,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,0.616,0.855,1.185,2.124,3.306,4.194,6.042,8.305,11.5,12.66,14.26
+Ghana,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,0.022,0.031,0.043,0.078,0.123,0.158,0.23,0.32,0.448,0.493,0.556
+Ghana,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,38.514,38.502,79.057,55.392,26.695,43.961,37.316,38.267,10.117,12.626
+Ghana,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,39.806,39.98,81.432,57.344,28.451,45.883,39.083,39.95,10.087,12.761
+Ghana,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,36.706,36.647,77.058,53.119,25.132,42.11,35.492,36.26,10.203,12.453
+Ghana,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,37.996,38.005,78.405,54.144,26.176,43.342,36.671,37.536,10.186,12.559
+Ghana,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,38.785,38.678,79.241,55.65,26.86,44.063,37.454,38.471,10.087,12.638
+Ghana,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,39.218,39.497,81.101,56.725,28.443,45.939,39.13,39.969,10.069,12.759
+Ghana,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Ghana,Dairy Products & Eggs,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Ghana,Dairy Products & Eggs,Online & Offline Split,Offline,percent,Statista,99.92,99.897,99.871,99.811,99.724,99.652,99.562,99.445,99.29,,
+Ghana,Dairy Products & Eggs,Online & Offline Split,Online,percent,Statista,0.08,0.103,0.129,0.189,0.276,0.348,0.438,0.555,0.71,,
+Ghana,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,50.946,51.048,51.144,51.229,51.301,51.362,51.411,51.451,51.481,,
+Ghana,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,49.054,48.952,48.856,48.771,48.699,48.638,48.589,48.549,48.519,,
+Ghana,Dairy Products & Eggs,Users by Segment,Total,million users,Statista,0.165,0.212,0.275,0.342,0.42,0.502,0.582,0.655,0.73,0.801,0.873
+Ghana,Dairy Products & Eggs,Users by Segment,Cheese,million users,Statista,0.123,0.159,0.206,0.257,0.315,0.376,0.437,0.491,0.548,0.601,0.655
+Ghana,Dairy Products & Eggs,Users by Segment,Eggs,million users,Statista,0.071,0.091,0.118,0.147,0.181,0.216,0.25,0.282,0.314,0.345,0.375
+Ghana,Dairy Products & Eggs,Users by Segment,Milk,million users,Statista,0.128,0.165,0.214,0.267,0.328,0.391,0.454,0.511,0.57,0.625,0.681
+Ghana,Dairy Products & Eggs,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.058,0.074,0.096,0.12,0.147,0.176,0.204,0.229,0.256,0.28,0.305
+Ghana,Dairy Products & Eggs,Users by Segment,Yogurt,million users,Statista,0.091,0.117,0.151,0.188,0.231,0.276,0.32,0.36,0.402,0.441,0.48
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Cheese,percent,Statista,0.424,0.534,0.678,0.826,0.992,1.162,1.321,1.456,1.592,1.713,1.83
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,0.565,0.712,0.903,1.101,1.323,1.549,1.761,1.942,2.122,2.284,2.44
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Eggs,percent,Statista,0.243,0.306,0.388,0.474,0.569,0.666,0.757,0.835,0.913,0.982,1.049
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Milk,percent,Statista,0.441,0.555,0.705,0.859,1.032,1.208,1.374,1.515,1.655,1.781,1.903
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.198,0.249,0.316,0.385,0.463,0.542,0.616,0.68,0.743,0.799,0.854
+Ghana,Dairy Products & Eggs,Penetration Rate by Segment,Yogurt,percent,Statista,0.311,0.392,0.497,0.606,0.728,0.852,0.969,1.068,1.167,1.256,1.342
+Ghana,Fish & Seafood,Average Revenue per User by Segment,Total,USD (US$),Statista,6.662,7.012,7.321,11.05,13.82,14.25,17.19,20.4,24.6,24.74,25.51
+Ghana,Fish & Seafood,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,9.725,9.987,10.19,15.02,18.36,18.38,21.55,24.89,29.25,29.41,30.23
+Ghana,Fish & Seafood,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,4.446,4.87,5.267,8.192,10.57,11.34,14.17,17.37,21.55,21.66,22.42
+Ghana,Fish & Seafood,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,2.002,2.165,2.316,3.584,4.579,4.845,5.983,7.252,8.915,8.962,9.263
+Ghana,Fish & Seafood,Revenue,Total,million USD (US$),Statista,0.906,1.227,1.662,3.124,4.794,5.907,8.268,11.04,14.84,16.37,18.39
+Ghana,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,0.516,0.682,0.902,1.656,2.484,2.971,4.042,5.252,6.881,7.592,8.499
+Ghana,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,0.145,0.205,0.287,0.556,0.88,1.128,1.636,2.255,3.121,3.441,3.878
+Ghana,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,0.245,0.341,0.473,0.912,1.429,1.807,2.59,3.532,4.84,5.338,6.01
+Ghana,Fish & Seafood,Revenue Change,Total,percent,Statista,,35.475,35.452,87.966,53.457,23.217,39.97,33.527,34.42,10.31,12.34
+Ghana,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,32.209,32.282,83.612,50,19.605,36.048,29.936,31.017,10.333,11.947
+Ghana,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,41.006,40.225,93.726,58.366,28.153,45.035,37.836,38.404,10.253,12.7
+Ghana,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,39.224,38.698,92.729,56.723,26.452,43.331,36.371,37.033,10.289,12.589
+Ghana,Fish & Seafood,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Fish & Seafood,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Fish & Seafood,Online & Offline Split,Offline,percent,Statista,99.92,99.898,99.873,99.809,99.718,99.648,99.561,99.451,99.306,,
+Ghana,Fish & Seafood,Online & Offline Split,Online,percent,Statista,0.08,0.102,0.127,0.191,0.282,0.352,0.439,0.549,0.694,,
+Ghana,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,50.946,51.048,51.144,51.229,51.301,51.362,51.411,51.451,51.481,,
+Ghana,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,49.054,48.952,48.856,48.771,48.699,48.638,48.589,48.549,48.519,,
+Ghana,Fish & Seafood,Users by Segment,Total,million users,Statista,0.136,0.175,0.227,0.283,0.347,0.415,0.481,0.541,0.603,0.662,0.721
+Ghana,Fish & Seafood,Users by Segment,Fresh Fish,million users,Statista,0.053,0.068,0.089,0.11,0.135,0.162,0.188,0.211,0.235,0.258,0.281
+Ghana,Fish & Seafood,Users by Segment,Fresh Seafood,million users,Statista,0.033,0.042,0.054,0.068,0.083,0.099,0.115,0.13,0.145,0.159,0.173
+Ghana,Fish & Seafood,Users by Segment,Processed Fish & Seafood,million users,Statista,0.122,0.158,0.204,0.254,0.312,0.373,0.433,0.487,0.543,0.596,0.649
+Ghana,Fish & Seafood,Penetration Rate by Segment,Fish & Seafood,percent,Statista,0.467,0.588,0.746,0.91,1.093,1.28,1.455,1.604,1.753,1.886,2.016
+Ghana,Fish & Seafood,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.182,0.229,0.291,0.355,0.426,0.499,0.567,0.626,0.684,0.736,0.786
+Ghana,Fish & Seafood,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.112,0.141,0.179,0.218,0.262,0.307,0.349,0.385,0.421,0.453,0.484
+Ghana,Fish & Seafood,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.42,0.529,0.672,0.819,0.984,1.152,1.309,1.444,1.578,1.698,1.814
+Ghana,Fruits & Nuts,Average Revenue per User by Segment,Total,USD (US$),Statista,3.072,3.249,3.411,5.196,6.535,6.768,8.2,9.772,11.83,11.89,12.27
+Ghana,Fruits & Nuts,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,3.887,4.116,4.326,6.596,8.305,8.608,10.43,12.44,15.07,15.15,15.64
+Ghana,Fruits & Nuts,Average Revenue per User by Segment,Nuts,USD (US$),Statista,0.283,0.3,0.316,0.482,0.605,0.628,0.764,0.913,1.11,1.115,1.151
+Ghana,Fruits & Nuts,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,0.42,0.436,0.45,0.676,0.838,0.858,1.028,1.211,1.45,1.458,1.502
+Ghana,Fruits & Nuts,Revenue,Total,million USD (US$),Statista,1.143,1.557,2.119,4.02,6.204,7.678,10.79,14.47,19.53,21.55,24.21
+Ghana,Fruits & Nuts,Revenue,Fresh Fruits,million USD (US$),Statista,1.012,1.38,1.881,3.572,5.519,6.835,9.616,12.9,17.42,19.21,21.59
+Ghana,Fruits & Nuts,Revenue,Nuts,million USD (US$),Statista,0.053,0.072,0.098,0.186,0.287,0.356,0.503,0.676,0.916,1.01,1.136
+Ghana,Fruits & Nuts,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,0.078,0.104,0.14,0.262,0.398,0.487,0.676,0.897,1.197,1.321,1.482
+Ghana,Fruits & Nuts,Revenue Change,Total,percent,Statista,,36.22,36.095,89.712,54.328,23.759,40.531,34.106,34.969,10.343,12.343
+Ghana,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,36.364,36.304,89.899,54.507,23.845,40.688,34.151,35.039,10.276,12.389
+Ghana,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,36.396,36.428,90.083,54.053,24.146,41.061,34.56,35.443,10.262,12.475
+Ghana,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,33.717,33.876,86.919,52.046,22.384,39.026,32.609,33.43,10.359,12.188
+Ghana,Fruits & Nuts,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Fruits & Nuts,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Fruits & Nuts,Online & Offline Split,Offline,percent,Statista,99.92,99.898,99.872,99.806,99.713,99.639,99.549,99.434,99.284,,
+Ghana,Fruits & Nuts,Online & Offline Split,Online,percent,Statista,0.08,0.102,0.128,0.194,0.287,0.361,0.451,0.566,0.716,,
+Ghana,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,56.224,54.08,52.878,52.214,51.89,51.742,51.682,51.666,51.666,,
+Ghana,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,43.776,45.92,47.122,47.786,48.11,48.258,48.318,48.334,48.334,,
+Ghana,Fruits & Nuts,Users by Segment,Total,million users,Statista,0.372,0.479,0.621,0.774,0.949,1.134,1.316,1.481,1.651,1.811,1.973
+Ghana,Fruits & Nuts,Users by Segment,Fresh Fruits,million users,Statista,0.26,0.335,0.435,0.542,0.665,0.794,0.922,1.037,1.156,1.268,1.381
+Ghana,Fruits & Nuts,Users by Segment,Nuts,million users,Statista,0.186,0.24,0.311,0.387,0.475,0.567,0.658,0.741,0.826,0.906,0.987
+Ghana,Fruits & Nuts,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.186,0.24,0.311,0.387,0.475,0.567,0.658,0.741,0.826,0.906,0.987
+Ghana,Fruits & Nuts,Penetration Rate by Segment,Fresh Fruits,percent,Statista,0.894,1.127,1.43,1.743,2.094,2.451,2.787,3.073,3.359,3.614,3.861
+Ghana,Fruits & Nuts,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,1.278,1.609,2.042,2.49,2.992,3.502,3.982,4.39,4.798,5.162,5.516
+Ghana,Fruits & Nuts,Penetration Rate by Segment,Nuts,percent,Statista,0.639,0.805,1.021,1.245,1.496,1.751,1.991,2.195,2.399,2.581,2.758
+Ghana,Fruits & Nuts,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,0.639,0.805,1.021,1.245,1.496,1.751,1.991,2.195,2.399,2.581,2.758
+Ghana,Meat,Average Revenue per User by Segment,Total,USD (US$),Statista,10.14,10.72,11.23,17.08,21.45,22.2,26.87,31.98,38.68,38.89,40.12
+Ghana,Meat,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,10.51,11.09,11.63,17.73,22.29,23.15,28.11,33.59,40.76,40.97,42.28
+Ghana,Meat,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,3.317,3.52,3.689,5.572,6.976,7.162,8.586,10.13,12.14,12.21,12.58
+Ghana,Meat,Revenue,Total,million USD (US$),Statista,2.177,2.962,4.026,7.623,11.75,14.53,20.4,27.33,36.85,40.64,45.67
+Ghana,Meat,Revenue,Fresh Meat,million USD (US$),Statista,1.557,2.115,2.875,5.459,8.425,10.45,14.73,19.8,26.79,29.54,33.21
+Ghana,Meat,Revenue,Processed Meat,million USD (US$),Statista,0.62,0.846,1.15,2.164,3.324,4.078,5.673,7.527,10.06,11.1,12.46
+Ghana,Meat,Revenue Change,Total,percent,Statista,,36.059,35.922,89.344,54.139,23.66,40.399,33.971,34.834,10.285,12.377
+Ghana,Meat,Revenue Change,Fresh Meat,percent,Statista,,35.838,35.934,89.878,54.332,24.036,40.957,34.42,35.303,10.265,12.424
+Ghana,Meat,Revenue Change,Processed Meat,percent,Statista,,36.626,35.87,88.174,53.604,22.684,39.112,32.681,33.652,10.338,12.252
+Ghana,Meat,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Ghana,Meat,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Ghana,Meat,Online & Offline Split,Offline,percent,Statista,99.92,99.898,99.872,99.806,99.712,99.638,99.548,99.432,99.279,,
+Ghana,Meat,Online & Offline Split,Online,percent,Statista,0.08,0.102,0.128,0.194,0.288,0.362,0.452,0.568,0.721,,
+Ghana,Meat,Mobile/Desktop Split,Desktop,percent,Statista,62.706,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Ghana,Meat,Mobile/Desktop Split,Mobile,percent,Statista,37.294,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Ghana,Meat,Users by Segment,Total,million users,Statista,0.215,0.276,0.358,0.446,0.548,0.654,0.759,0.854,0.953,1.045,1.138
+Ghana,Meat,Users by Segment,Fresh Meat,million users,Statista,0.148,0.191,0.247,0.308,0.378,0.452,0.524,0.59,0.657,0.721,0.785
+Ghana,Meat,Users by Segment,Processed Meat,million users,Statista,0.187,0.24,0.312,0.388,0.476,0.569,0.661,0.743,0.829,0.909,0.99
+Ghana,Meat,Penetration Rate by Segment,Fresh Meat,percent,Statista,0.509,0.641,0.813,0.991,1.191,1.394,1.585,1.748,1.91,2.055,2.196
+Ghana,Meat,Penetration Rate by Segment,Meat,percent,Statista,0.737,0.928,1.178,1.436,1.726,2.02,2.297,2.533,2.768,2.978,3.182
+Ghana,Meat,Penetration Rate by Segment,Processed Meat,percent,Statista,0.641,0.808,1.025,1.25,1.502,1.758,1.998,2.204,2.408,2.591,2.769
+Ghana,Oils & Fats,Average Revenue per User by Segment,Total,USD (US$),Statista,4.784,5.01,5.207,7.274,8.953,9.235,11.14,13.22,15.95,16.02,16.51
+Ghana,Oils & Fats,Average Revenue per User by Segment,Butter,USD (US$),Statista,0.372,0.381,0.385,0.523,0.626,0.625,0.729,0.836,0.972,0.977,1.003
+Ghana,Oils & Fats,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,2.6,2.742,2.864,4.016,4.953,5.107,6.157,7.3,8.793,8.835,9.105
+Ghana,Oils & Fats,Average Revenue per User by Segment,Margarine,USD (US$),Statista,1.183,1.244,1.298,1.816,2.236,2.3,2.767,3.273,3.934,3.952,4.072
+Ghana,Oils & Fats,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,2.432,2.527,2.615,3.649,4.502,4.683,5.701,6.829,8.31,8.343,8.606
+Ghana,Oils & Fats,Revenue,Total,million USD (US$),Statista,0.856,1.154,1.555,2.706,4.086,5.037,7.052,9.416,12.66,13.95,15.66
+Ghana,Oils & Fats,Revenue,Butter,million USD (US$),Statista,0.053,0.07,0.092,0.156,0.228,0.273,0.369,0.476,0.617,0.681,0.761
+Ghana,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,0.372,0.505,0.684,1.195,1.808,2.228,3.117,4.158,5.584,6.155,6.91
+Ghana,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,0.169,0.229,0.31,0.54,0.817,1.004,1.401,1.864,2.498,2.754,3.09
+Ghana,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,0.261,0.349,0.469,0.814,1.233,1.532,2.165,2.918,3.958,4.36,4.898
+Ghana,Oils & Fats,Revenue Change,Total,percent,Statista,,34.86,34.749,74.019,50.998,23.275,40.004,33.522,34.452,10.19,12.258
+Ghana,Oils & Fats,Revenue Change,Butter,percent,Statista,,31.724,31.299,69.201,46.598,19.396,35.387,28.927,29.685,10.287,11.766
+Ghana,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,35.77,35.471,74.605,51.297,23.23,39.901,33.397,34.295,10.226,12.266
+Ghana,Oils & Fats,Revenue Change,Margarine,percent,Statista,,35.44,35.281,74.21,51.11,22.949,39.542,33.048,34.013,10.248,12.2
+Ghana,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,33.742,34.192,73.794,51.4,24.25,41.319,34.781,35.641,10.157,12.339
+Ghana,Oils & Fats,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Oils & Fats,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Oils & Fats,Online & Offline Split,Offline,percent,Statista,99.92,99.897,99.871,99.811,99.725,99.653,99.563,99.447,99.293,,
+Ghana,Oils & Fats,Online & Offline Split,Online,percent,Statista,0.08,0.103,0.129,0.189,0.275,0.347,0.437,0.553,0.707,,
+Ghana,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,62.707,61.091,59.094,57.891,56.751,55.816,54.888,54.428,54.428,,
+Ghana,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,37.293,38.909,40.906,42.109,43.249,44.184,45.112,45.572,45.572,,
+Ghana,Oils & Fats,Users by Segment,Total,million users,Statista,0.179,0.23,0.299,0.372,0.456,0.545,0.633,0.712,0.794,0.871,0.949
+Ghana,Oils & Fats,Users by Segment,Butter,million users,Statista,0.143,0.184,0.239,0.298,0.365,0.436,0.506,0.57,0.635,0.697,0.759
+Ghana,Oils & Fats,Users by Segment,Edible Oils,million users,Statista,0.143,0.184,0.239,0.298,0.365,0.436,0.506,0.57,0.635,0.697,0.759
+Ghana,Oils & Fats,Users by Segment,Margarine,million users,Statista,0.143,0.184,0.239,0.298,0.365,0.436,0.506,0.57,0.635,0.697,0.759
+Ghana,Oils & Fats,Users by Segment,Other Oils & Fats,million users,Statista,0.107,0.138,0.179,0.223,0.274,0.327,0.38,0.427,0.476,0.523,0.569
+Ghana,Oils & Fats,Penetration Rate by Segment,Butter,percent,Statista,0.491,0.619,0.786,0.958,1.151,1.347,1.531,1.689,1.846,1.986,2.122
+Ghana,Oils & Fats,Penetration Rate by Segment,Edible Oils,percent,Statista,0.491,0.619,0.786,0.958,1.151,1.347,1.531,1.689,1.846,1.986,2.122
+Ghana,Oils & Fats,Penetration Rate by Segment,Margarine,percent,Statista,0.491,0.619,0.786,0.958,1.151,1.347,1.531,1.689,1.846,1.986,2.122
+Ghana,Oils & Fats,Penetration Rate by Segment,Oils & Fats,percent,Statista,0.614,0.774,0.982,1.197,1.438,1.684,1.914,2.111,2.307,2.482,2.652
+Ghana,Oils & Fats,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.369,0.464,0.589,0.718,0.863,1.01,1.149,1.266,1.384,1.489,1.591
+Ghana,Sauces & Spices,Average Revenue per User by Segment,Total,USD (US$),Statista,0.404,0.446,0.49,0.653,0.851,0.939,1.228,1.613,2.235,2.222,2.313
+Ghana,Sauces & Spices,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,0.35,0.392,0.437,0.586,0.775,0.868,1.155,1.553,2.219,2.201,2.295
+Ghana,Sauces & Spices,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.205,0.22,0.234,0.308,0.384,0.408,0.506,0.618,0.767,0.769,0.795
+Ghana,Sauces & Spices,Revenue,Total,million USD (US$),Statista,0.127,0.181,0.257,0.428,0.683,0.901,1.367,2.021,3.123,3.406,3.862
+Ghana,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,0.088,0.127,0.184,0.307,0.498,0.666,1.029,1.557,2.48,2.699,3.065
+Ghana,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,0.039,0.054,0.074,0.121,0.185,0.235,0.338,0.465,0.643,0.707,0.796
+Ghana,Sauces & Spices,Revenue Change,Total,percent,Statista,,42.172,42.446,66.162,59.785,31.855,51.703,47.842,54.527,9.062,13.388
+Ghana,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,44.136,44.34,67.157,62.333,33.741,54.435,51.312,59.281,8.831,13.561
+Ghana,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,38.041,37.789,63.686,53.394,26.713,43.952,37.426,38.428,10.016,12.567
+Ghana,Sauces & Spices,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Sauces & Spices,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Sauces & Spices,Online & Offline Split,Online,percent,Statista,0.08,0.107,0.139,0.199,0.298,0.394,0.527,0.723,1.042,,
+Ghana,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ghana,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ghana,Sauces & Spices,Users by Segment,Total,million users,Statista,0.315,0.405,0.526,0.655,0.803,0.96,1.114,1.253,1.397,1.533,1.669
+Ghana,Sauces & Spices,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.252,0.324,0.421,0.524,0.643,0.768,0.891,1.003,1.118,1.226,1.336
+Ghana,Sauces & Spices,Users by Segment,Tomato Ketchup,million users,Statista,0.189,0.243,0.315,0.393,0.482,0.576,0.668,0.752,0.838,0.92,1.002
+Ghana,Sauces & Spices,Penetration Rate by Segment,Sauces & Spices,percent,Statista,1.081,1.362,1.728,2.107,2.531,2.963,3.369,3.715,4.06,4.368,4.667
+Ghana,Sauces & Spices,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,0.865,1.089,1.383,1.685,2.025,2.371,2.695,2.972,3.248,3.495,3.734
+Ghana,Sauces & Spices,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,0.649,0.817,1.037,1.264,1.519,1.778,2.021,2.229,2.436,2.621,2.801
+Ghana,Spreads & Sweeteners,Average Revenue per User by Segment,Total,USD (US$),Statista,0.896,0.996,1.096,1.503,1.886,1.987,2.439,3.021,3.803,3.81,3.942
+Ghana,Spreads & Sweeteners,Average Revenue per User by Segment,Spreads,USD (US$),Statista,0.631,0.695,0.758,1.029,1.281,1.355,1.671,2.078,2.627,2.63,2.722
+Ghana,Spreads & Sweeteners,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,0.814,0.916,1.021,1.416,1.794,1.881,2.297,2.831,3.545,3.554,3.675
+Ghana,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,0.211,0.303,0.432,0.738,1.136,1.43,2.038,2.84,3.985,4.38,4.936
+Ghana,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,0.119,0.169,0.239,0.404,0.618,0.78,1.117,1.562,2.202,2.419,2.727
+Ghana,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,0.092,0.134,0.193,0.334,0.519,0.65,0.921,1.277,1.783,1.961,2.209
+Ghana,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,43.168,42.701,70.794,53.93,25.88,42.517,39.352,40.317,9.912,12.694
+Ghana,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,41.862,41.336,69.163,52.758,26.344,43.15,39.839,40.973,9.855,12.733
+Ghana,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,44.885,44.503,72.723,55.469,25.289,41.708,38.639,39.624,9.983,12.647
+Ghana,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),*Statista,billion USD (US$),,73.5,91.13,111.4,168.8,229.6,245.3,328,410.2,518.3,560.2,616
+Ghana,Spreads & Sweeteners,Comparable Estimates - Food (Worldwide),Common Thread Collective,billion USD (US$),,,90.4,110.6,167.7,228.4,274.1,333.6,411.2,513.3,,
+Ghana,Spreads & Sweeteners,Online & Offline Split,Offline,percent,Statista,99.919,99.891,99.858,99.791,99.697,99.617,99.517,99.379,99.193,,
+Ghana,Spreads & Sweeteners,Online & Offline Split,Online,percent,Statista,0.081,0.109,0.142,0.209,0.303,0.383,0.483,0.621,0.807,,
+Ghana,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ghana,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ghana,Spreads & Sweeteners,Users by Segment,Total,million users,Statista,0.236,0.304,0.394,0.491,0.602,0.72,0.835,0.94,1.048,1.15,1.252
+Ghana,Spreads & Sweeteners,Users by Segment,Spreads,million users,Statista,0.189,0.243,0.315,0.393,0.482,0.576,0.668,0.752,0.838,0.92,1.002
+Ghana,Spreads & Sweeteners,Users by Segment,Sweeteners,million users,Statista,0.113,0.146,0.189,0.236,0.289,0.346,0.401,0.451,0.503,0.552,0.601
+Ghana,Spreads & Sweeteners,Penetration Rate by Segment,Spreads,percent,Statista,0.649,0.817,1.037,1.264,1.519,1.778,2.021,2.229,2.436,2.621,2.801
+Ghana,Spreads & Sweeteners,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,0.811,1.021,1.296,1.58,1.899,2.222,2.527,2.786,3.045,3.276,3.501
+Ghana,Spreads & Sweeteners,Penetration Rate by Segment,Sweeteners,percent,Statista,0.389,0.49,0.622,0.758,0.911,1.067,1.213,1.337,1.462,1.573,1.68
+Ghana,Vegetables,Average Revenue per User by Segment,Total,USD (US$),Statista,3.957,4.179,4.383,6.673,8.388,8.683,10.51,12.52,15.15,15.23,15.71
+Ghana,Vegetables,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,5.269,5.562,5.832,8.874,11.15,11.54,13.97,16.63,20.11,20.22,20.86
+Ghana,Vegetables,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,0.537,0.571,0.602,0.921,1.164,1.211,1.473,1.763,2.144,2.155,2.225
+Ghana,Vegetables,Revenue,Total,million USD (US$),Statista,1.387,1.886,2.566,4.865,7.504,9.282,13.04,17.47,23.57,26,29.21
+Ghana,Vegetables,Revenue,Fresh Vegetables,million USD (US$),Statista,1.293,1.758,2.39,4.529,6.983,8.635,12.13,16.24,21.9,24.16,27.15
+Ghana,Vegetables,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,0.094,0.129,0.176,0.336,0.52,0.647,0.914,1.23,1.668,1.839,2.068
+Ghana,Vegetables,Revenue Change,Total,percent,Statista,,35.977,36.055,89.595,54.245,23.694,40.487,33.972,34.917,10.31,12.346
+Ghana,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,35.963,35.95,89.498,54.184,23.657,40.475,33.883,34.852,10.32,12.376
+Ghana,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,36.788,36.801,90.579,55.003,24.323,41.215,34.603,35.61,10.252,12.452
+Ghana,Vegetables,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Ghana,Vegetables,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Ghana,Vegetables,Online & Offline Split,Offline,percent,Statista,99.92,99.898,99.872,99.806,99.713,99.639,99.549,99.434,99.283,,
+Ghana,Vegetables,Online & Offline Split,Online,percent,Statista,0.08,0.102,0.128,0.194,0.287,0.361,0.451,0.566,0.717,,
+Ghana,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,56.043,53.898,52.701,52.041,51.723,51.579,51.525,51.513,51.513,,
+Ghana,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,43.957,46.102,47.299,47.959,48.277,48.421,48.475,48.487,48.487,,
+Ghana,Vegetables,Users by Segment,Total,million users,Statista,0.351,0.451,0.585,0.729,0.895,1.069,1.24,1.396,1.556,1.707,1.859
+Ghana,Vegetables,Users by Segment,Fresh Vegetables,million users,Statista,0.245,0.316,0.41,0.51,0.626,0.748,0.868,0.977,1.089,1.195,1.302
+Ghana,Vegetables,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.175,0.226,0.293,0.365,0.447,0.535,0.62,0.698,0.778,0.853,0.93
+Ghana,Vegetables,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,0.843,1.062,1.347,1.642,1.973,2.31,2.626,2.896,3.165,3.405,3.639
+Ghana,Vegetables,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,0.602,0.758,0.962,1.173,1.41,1.65,1.876,2.068,2.261,2.432,2.599
+Ghana,Vegetables,Penetration Rate by Segment,Vegetables,percent,Statista,1.204,1.517,1.925,2.346,2.819,3.3,3.752,4.137,4.522,4.865,5.198
